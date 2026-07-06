@@ -18,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="vi" className="scroll-smooth">
-      <body className={\`\${inter.variable} font-sans flex flex-col min-h-screen bg-slate-50 text-slate-900 antialiased\`}>
+      <body className={`${inter.variable} font-sans flex flex-col min-h-screen bg-slate-50 text-slate-900 antialiased`}>
         <Header />
         <main className="flex-grow pt-20">
           {children}

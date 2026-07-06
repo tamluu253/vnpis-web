@@ -80,9 +80,9 @@ export default function Header() {
               {/* Dropdown Menu */}
               {item.dropdown && (
                 <div
-                  className={\`absolute top-20 left-0 w-64 bg-white border border-slate-100 shadow-xl rounded-b-xl py-4 transition-all duration-200 origin-top \${
+                  className={`absolute top-20 left-0 w-64 bg-white border border-slate-100 shadow-xl rounded-b-xl py-4 transition-all duration-200 origin-top ${
                     activeMenu === item.name ? 'opacity-100 scale-y-100' : 'opacity-0 scale-y-0 pointer-events-none'
-                  }\`}
+                  }`}
                 >
                   {item.dropdown.map((subItem) => (
                     <Link
