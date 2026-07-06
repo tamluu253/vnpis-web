@@ -97,8 +97,16 @@ export default function CIJInkPage() {
             </div>
             <div className="lg:w-1/2 relative">
               <div className="aspect-square rounded-2xl overflow-hidden bg-slate-800 border border-slate-700 shadow-2xl relative">
-                 <div className="absolute inset-0 flex items-center justify-center text-slate-500">
-                    [Khu vực chèn Video/Hình ảnh thực tế test mực CIJ]
+                 <video 
+                   src="/media/cij-glass-test.mp4" 
+                   autoPlay 
+                   loop 
+                   muted 
+                   playsInline
+                   className="absolute inset-0 w-full h-full object-cover"
+                 />
+                 <div className="absolute bottom-4 left-4 right-4 bg-slate-900/80 backdrop-blur-md px-4 py-3 rounded-xl border border-slate-700">
+                    <p className="text-sm text-slate-200 font-medium">Video test mực bám dính siêu việt trên vỏ chai thủy tinh ướt lạnh.</p>
                  </div>
               </div>
             </div>

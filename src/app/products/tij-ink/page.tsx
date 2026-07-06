@@ -90,9 +90,20 @@ export default function TIJInkPage() {
                 Nhận Báo Giá Mực TIJ <ArrowRight className="w-4 h-4 ml-2" />
               </Link>
             </div>
-            <div className="md:w-1/2 bg-slate-200 relative min-h-[300px]">
-              <div className="absolute inset-0 flex items-center justify-center text-slate-500 text-center p-6">
-                [Khu vực chèn Hình ảnh / Video Hộp Mực TIJ in QR nét căng]
+            <div className="md:w-1/2 bg-slate-900 relative min-h-[300px]">
+              <video 
+                src="/media/tij-chips-bag-test.mp4" 
+                autoPlay 
+                loop 
+                muted 
+                playsInline
+                className="absolute inset-0 w-full h-full object-cover opacity-80"
+              />
+              <div className="absolute inset-0 flex items-center justify-center p-6">
+                 <div className="bg-black/60 backdrop-blur-sm px-6 py-4 rounded-2xl border border-slate-700 max-w-sm text-center">
+                    <p className="text-white font-bold text-lg mb-1">In trực tiếp trên bao bì PE</p>
+                    <p className="text-slate-300 text-sm">Test thực tế: Mực TIJ khô ngay, cào không tróc.</p>
+                 </div>
               </div>
             </div>
           </div>
