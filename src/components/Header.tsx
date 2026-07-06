@@ -120,8 +120,8 @@ export default function Header() {
           </button>
           <div className="flex flex-col items-end">
             <span className="text-xs text-slate-500 font-medium">Hotline 24/7</span>
-            <a href="tel:0903082535" className="text-blue-600 font-bold text-lg hover:text-blue-700 transition-colors">
-              0903 08 25 35
+            <a href="tel:0987453866" className="text-blue-600 font-bold text-lg hover:text-blue-700 transition-colors">
+              0987 453 866
             </a>
           </div>
           <Link
