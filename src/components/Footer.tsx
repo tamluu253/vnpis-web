@@ -58,7 +58,12 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin className="w-5 h-5 text-orange-500 mr-3 mt-1 flex-shrink-0" />
-                <span className="text-sm leading-relaxed">Trụ sở chính: Tòa nhà VNPIS, TP.HCM, Việt Nam</span>
+                <span className="text-sm leading-relaxed">
+                  <strong>CÔNG TY TNHH VNPIS</strong><br/>
+                  Mã số thuế: 0318266611<br/>
+                  Địa chỉ Thuế: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP Hồ Chí Minh, Việt Nam<br/>
+                  Demo center: 62 Trần Thị Nơi, Phường Chánh Hưng, TP Hồ Chí Minh, Việt Nam.
+                </span>
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 text-orange-500 mr-3 flex-shrink-0" />

@@ -85,7 +85,7 @@ export default function Home() {
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Tại sao các nhà máy lớn chọn VNPIS?</h2>
               <div className="w-20 h-1 bg-orange-500 mb-8" />
               <p className="text-lg text-slate-300 mb-10 leading-relaxed">
-                Kinh nghiệm hơn 10 năm trong lĩnh vực công nghiệp, chúng tôi thấu hiểu áp lực vận hành và tiêu chuẩn khắt khe của các nhà máy sản xuất.
+                Hơn 2 năm hoạt động với đội ngũ kỹ sư thực chiến, chúng tôi thấu hiểu áp lực vận hành và tiêu chuẩn khắt khe của các nhà máy sản xuất.
               </p>
               <div className="space-y-6">
                 {[
@@ -104,12 +104,12 @@ export default function Home() {
             <div className="lg:w-1/2">
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 text-center">
-                  <div className="text-5xl font-bold text-blue-400 mb-2">500+</div>
+                  <div className="text-5xl font-bold text-blue-400 mb-2">50+</div>
                   <div className="text-slate-400">Khách Hàng B2B</div>
                 </div>
                 <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 text-center">
-                  <div className="text-5xl font-bold text-orange-400 mb-2">10+</div>
-                  <div className="text-slate-400">Năm Kinh Nghiệm</div>
+                  <div className="text-5xl font-bold text-orange-400 mb-2">2+</div>
+                  <div className="text-slate-400">Năm Hoạt Động</div>
                 </div>
                 <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 text-center">
                   <div className="text-5xl font-bold text-green-400 mb-2">24/7</div>

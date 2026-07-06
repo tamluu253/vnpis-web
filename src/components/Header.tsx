@@ -24,11 +24,13 @@ export default function Header() {
       name: 'Sản Phẩm',
       href: '/products',
       dropdown: [
-        { name: 'Máy In Phun Công Nghiệp', href: '/products/uv-printers' },
-        { name: 'Đầu In Công Nghiệp', href: '/products/printheads/ricoh-gen5' },
-        { name: 'Mực In CIJ / TIJ', href: '/products/cij-inks/domino' },
-        { name: 'Máy In Pad (Tampon)', href: '/products/pad-printing/machines' },
-      ],
+        { name: 'Máy In Phun CIJ', href: '/products/cij-printers' },
+        { name: 'Máy In Nhiệt TIJ', href: '/products/tij-printers' },
+        { name: 'Mực In CIJ Tương Thích', href: '/products/cij-inks' },
+        { name: 'Mực In TIJ Tương Thích', href: '/products/tij-inks' },
+        { name: 'Máy In Laser Công Nghiệp', href: '/products/laser-printers' },
+        { name: 'Giải Pháp Đọc Mã Vạch', href: '/products/barcode-readers' },
+      ]
     },
     {
       name: 'Dịch Vụ',
@@ -54,10 +56,10 @@ export default function Header() {
 
   return (
     <header className="fixed w-full top-0 z-50 bg-white border-b border-slate-200 shadow-sm transition-all">
-      <div className="container mx-auto px-4 h-20 flex items-center justify-between">
+      <div className="container mx-auto px-4 h-20 lg:h-24 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex-shrink-0">
-          <img src="/images/vnpis-logo.png" alt="VNPIS Logo" className="h-12 w-auto" />
+          <img src="/images/vnpis-logo.png" alt="VNPIS Logo" className="h-14 lg:h-16 w-auto transition-all" />
         </Link>
 
         {/* Desktop Navigation */}
