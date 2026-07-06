@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { ArrowRight, BarChart3, ShieldCheck, Settings, CheckCircle2, Factory } from 'lucide-react';
+import { ArrowRight, BarChart3, ShieldCheck, Settings, CheckCircle2, Factory, Phone } from 'lucide-react';
 
 export default function Home() {
   return (
