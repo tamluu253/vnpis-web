@@ -95,6 +95,8 @@ export default function LandingPage({ title, subtitle, category }: LandingPagePr
         <div className="container mx-auto px-4">
           <div className="text-center mb-16 max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-4">Ngành Nghề Ứng Dụng</h2>
+            <div className="w-20 h-1 bg-orange-500 mx-auto rounded-full" />
+          </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
             {['Thực Phẩm', 'Dược Phẩm', 'Bao Bì', 'Mỹ Phẩm'].map((ind, idx) => (
               <div key={idx} className="p-6 text-center border border-slate-200 rounded-xl hover:border-blue-500 hover:shadow-lg transition-all cursor-pointer">
