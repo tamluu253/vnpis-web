@@ -35,11 +35,11 @@ export default function Footer() {
             </li>
             <li className="flex items-start">
               <span className="text-orange-500 mr-2">📞</span>
-              <span>Hotline: 0909718296</span>
+              <span>Hotline: 0987453866</span>
             </li>
             <li className="flex items-start">
               <span className="text-orange-500 mr-2">✉️</span>
-              <span>Email: support@vnpis.com</span>
+              <span>Email: info@vnpis.com</span>
             </li>
           </ul>
         </div>
