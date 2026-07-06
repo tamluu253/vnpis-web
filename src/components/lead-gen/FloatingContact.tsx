@@ -21,10 +21,10 @@ export default function FloatingContact() {
         href="https://zalo.me/0987453866"
         target="_blank"
         rel="noopener noreferrer"
-        className="w-14 h-14 bg-blue-500 text-white rounded-full flex items-center justify-center shadow-lg hover:bg-blue-600 hover:scale-110 transition-all duration-300 relative group"
+        className="w-14 h-14 bg-white rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition-all duration-300 relative group overflow-hidden border border-slate-100"
         aria-label="Nhắn tin Zalo"
       >
-        <MessageCircle className="w-6 h-6" />
+        <img src="/images/zalo-icon.svg" alt="Zalo" className="w-9 h-9 object-contain" />
         <span className="absolute right-16 bg-slate-900 text-white px-3 py-1.5 rounded text-sm font-medium opacity-0 group-hover:opacity-100 transition-opacity whitespace-nowrap pointer-events-none">
           Chat Zalo
         </span>
