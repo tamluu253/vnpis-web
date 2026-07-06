@@ -4,7 +4,11 @@ import { notFound } from 'next/navigation'
 import Link from 'next/link'
 import { ArrowLeft } from 'lucide-react'
 
-export async function generateMetadata({ params }) {
+type Props = {
+  params: Promise<{ slug: string }>
+}
+
+export async function generateMetadata({ params }: Props) {
   const { slug } = await params
   const post = getPostBySlug(slug, ['title', 'description'])
 
@@ -20,7 +24,7 @@ export async function generateMetadata({ params }) {
   }
 }
 
-export default async function Post({ params }) {
+export default async function Post({ params }: Props) {
   const { slug } = await params
   const post = getPostBySlug(slug, [
     'title',
