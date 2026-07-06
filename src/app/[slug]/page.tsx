@@ -68,7 +68,7 @@ export default async function Post({ params }: Props) {
 export async function generateStaticParams() {
   const posts = getAllPosts(['slug'])
 
-  return posts.map((post) => ({
+  return posts.map((post: any) => ({
     slug: post.slug,
   }))
 }
