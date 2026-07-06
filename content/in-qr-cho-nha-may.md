@@ -6,6 +6,8 @@ slug: "in-qr-cho-nha-may"
 
 # In QR cho nhà máy
 
+![Gia công in QR Code trên băng chuyền](/images/products/VNPIS-QRcode.jpg)
+
 # Gia công in QR số lượng lớn cho nhà máy – Không cần đầu tư máy móc
 
 ## Khi nhà máy cần in hàng trăm nghìn đến hàng triệu QR code
