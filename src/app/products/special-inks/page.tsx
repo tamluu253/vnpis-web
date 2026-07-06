@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight, ShieldCheck, Microscope, Thermometer, Droplets, Droplet } from 'lucide-react';
 import Link from 'next/link';
-import ContactForm from '@/components/lead-gen/ContactForm';
+
 
 export const metadata = {
   title: 'Mực In CIJ, TIJ Đặc Biệt | VNPIS - Giải Pháp In Phun Công Nghiệp',
@@ -208,9 +208,25 @@ export default function SpecialInksPage() {
               Hãy mô tả chất liệu và yêu cầu của bạn, đội ngũ kỹ sư hóa chất VNPIS sẽ gửi mẫu mực test thử hoàn toàn miễn phí.
             </p>
           </div>
-          <div className="bg-white rounded-3xl p-8 md:p-12 shadow-2xl text-slate-900">
-            <ContactForm />
-          </div>
+            <form className="space-y-6">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                  <label className="block text-sm font-medium text-slate-700 mb-2">Họ và Tên *</label>
+                  <input type="text" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder="Nhập tên của bạn" required />
+                </div>
+                <div>
+                  <label className="block text-sm font-medium text-slate-700 mb-2">Số Điện Thoại *</label>
+                  <input type="tel" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder="Nhập số điện thoại" required />
+                </div>
+              </div>
+              <div>
+                <label className="block text-sm font-medium text-slate-700 mb-2">Vật liệu cần in & Yêu cầu đặc biệt</label>
+                <textarea rows={4} className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none" placeholder="Ví dụ: Cần in lên túi nilon, chịu nhiệt luộc sôi 100 độ..."></textarea>
+              </div>
+              <button type="submit" className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 rounded-lg transition-colors text-lg">
+                Gửi Yêu Cầu Tư Vấn Ngay
+              </button>
+            </form>
         </div>
       </section>
     </main>
