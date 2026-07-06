@@ -59,42 +59,42 @@ export default function LandingPage({ title, subtitle, category }: LandingPagePr
       </section>
 
       {/* 3. SOLUTION & BENEFITS */}
-      <section id="solutions" className="py-20 bg-slate-50">
+      <section id="solutions" className="py-20 bg-slate-900 text-white">
         <div className="container mx-auto px-4">
-          <div className="flex flex-col lg:flex-row gap-16 items-center">
+          <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="lg:w-1/2">
-              <div className="aspect-video bg-slate-200 rounded-2xl overflow-hidden relative shadow-2xl">
-                {/* Placeholder for Solution Image/Video */}
-                <div className="absolute inset-0 flex items-center justify-center text-slate-400">Hình ảnh minh họa giải pháp</div>
-              </div>
-            </div>
-            <div className="lg:w-1/2">
-              <h2 className="text-3xl font-bold text-slate-900 mb-6">Giải Pháp Tối Ưu Từ VNPIS</h2>
-              <p className="text-lg text-slate-600 mb-8">Chúng tôi mang đến công nghệ hàng đầu giúp giải quyết triệt để các vấn đề của bạn, đảm bảo tính ổn định lâu dài và khả năng mở rộng.</p>
-              
-              <div className="space-y-4">
-                {['Tăng năng suất 30%', 'Giảm chi phí vận hành', 'Đạt tiêu chuẩn chất lượng', 'Hỗ trợ kỹ thuật 24/7'].map((benefit, idx) => (
-                  <div key={idx} className="flex items-start">
-                    <CheckCircle2 className="w-6 h-6 text-green-500 mr-3 flex-shrink-0 mt-1" />
-                    <div>
-                      <h4 className="font-bold text-slate-900 text-lg">{benefit}</h4>
-                      <p className="text-slate-600">Lợi ích chi tiết của giải pháp mang lại cho doanh nghiệp.</p>
-                    </div>
-                  </div>
+              <h2 className="text-3xl font-bold mb-6">Giải Pháp Vượt Trội</h2>
+              <p className="text-lg text-slate-300 mb-8 leading-relaxed">
+                Chúng tôi cung cấp công nghệ tiên tiến nhất giúp giải quyết triệt để các bài toán sản xuất khó khăn.
+              </p>
+              <ul className="space-y-4">
+                {[
+                  "Hiệu suất hoạt động ổn định 24/7",
+                  "Tiết kiệm 30% chi phí vận hành",
+                  "Tương thích với mọi dây chuyền hiện có",
+                  "Đội ngũ hỗ trợ kỹ thuật tận nơi"
+                ].map((item, idx) => (
+                  <li key={idx} className="flex items-start">
+                    <CheckCircle2 className="w-6 h-6 text-green-400 mr-3 flex-shrink-0" />
+                    <span>{item}</span>
+                  </li>
                 ))}
+              </ul>
+            </div>
+            <div className="lg:w-1/2 w-full">
+              <div className="aspect-video bg-slate-800 rounded-2xl flex items-center justify-center border border-slate-700 shadow-2xl relative overflow-hidden">
+                <span className="text-slate-500">[Khu vực chèn Hình Ảnh / Video]</span>
               </div>
             </div>
           </div>
         </div>
       </section>
 
-      {/* 4. INDUSTRIES */}
-      <section className="py-20 bg-white">
+      {/* 4. APPLICATIONS & INDUSTRIES */}
+      <section className="py-20 bg-slate-50">
         <div className="container mx-auto px-4">
-          <div className="text-center mb-16">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-4">Ngành Nghề Ứng Dụng</h2>
-            <div className="w-20 h-1 bg-blue-600 mx-auto rounded-full" />
-          </div>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto">
             {['Thực Phẩm', 'Dược Phẩm', 'Bao Bì', 'Mỹ Phẩm'].map((ind, idx) => (
               <div key={idx} className="p-6 text-center border border-slate-200 rounded-xl hover:border-blue-500 hover:shadow-lg transition-all cursor-pointer">

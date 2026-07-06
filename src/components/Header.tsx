@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { Menu, X, ChevronDown, PhoneCall, MessageCircle } from 'lucide-react';
+import { Menu, X, ChevronDown, PhoneCall, Globe } from 'lucide-react';
 
 export default function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -16,37 +16,49 @@ export default function Header() {
         { name: 'In QR Code', href: '/solutions/qr-code-printing' },
         { name: 'In Dữ Liệu Biến Đổi', href: '/solutions/variable-data-printing' },
         { name: 'Giải Pháp RFID', href: '/solutions/rfid' },
+        { name: 'RFID Kho Bãi', href: '/solutions/warehouse-rfid' },
+        { name: 'RFID May Mặc', href: '/solutions/garment-rfid' },
         { name: 'Chống Hàng Giả', href: '/solutions/anti-counterfeit' },
-        { name: 'Truy Xuất Nguồn Gốc', href: '/solutions/production-traceability' },
+        { name: 'Truy Xuất Nguồn Gốc', href: '/solutions/traceability' },
       ],
     },
     {
       name: 'Sản Phẩm',
       href: '/products',
       dropdown: [
-        { name: 'Máy In Phun CIJ', href: '/products/cij-printers' },
-        { name: 'Máy In Nhiệt TIJ', href: '/products/tij-printers' },
-        { name: 'Mực In CIJ Tương Thích', href: '/products/cij-inks' },
-        { name: 'Mực In TIJ Tương Thích', href: '/products/tij-inks' },
-        { name: 'Máy In Laser Công Nghiệp', href: '/products/laser-printers' },
-        { name: 'Giải Pháp Đọc Mã Vạch', href: '/products/barcode-readers' },
+        { name: 'Máy In UV', href: '/products/uv-printers' },
+        { name: 'Mực In CIJ', href: '/products/cij-ink' },
+        { name: 'Mực In TIJ', href: '/products/tij-ink' },
+        { name: 'Đầu In Ricoh', href: '/products/ricoh-printheads' },
+        { name: 'Đầu In Epson', href: '/products/epson-printheads' },
+        { name: 'Máy In Pad', href: '/products/pad-printing-machines' },
+        { name: 'Mực In Pad', href: '/products/pad-printing-ink' },
+        { name: 'In Lụa', href: '/products/screen-printing' },
       ]
     },
     {
       name: 'Dịch Vụ',
       href: '/services',
       dropdown: [
-        { name: 'In Gia Công QR', href: '/services/qr-printing-service' },
+        { name: 'In Công Nghiệp', href: '/services/industrial-printing' },
+        { name: 'In Gia Công QR', href: '/services/qr-printing' },
+        { name: 'In Dữ Liệu Biến Đổi', href: '/services/variable-data-printing' },
+        { name: 'Dịch Vụ In Pad', href: '/services/pad-printing-service' },
+        { name: 'Dịch Vụ In UV', href: '/services/uv-printing-service' },
         { name: 'Tư Vấn Giải Pháp', href: '/services/consulting' },
       ],
     },
     {
-      name: 'Ứng Dụng',
+      name: 'Ngành',
       href: '/industries',
     },
     {
-      name: 'Tin Tức',
+      name: 'Blog',
       href: '/blog',
+    },
+    {
+      name: 'Tài Liệu',
+      href: '/resources',
     },
     {
       name: 'Về Chúng Tôi',
@@ -101,12 +113,21 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* CTA Buttons */}
-        <div className="hidden lg:flex items-center space-x-4">
-          <a href="tel:0987453866" className="flex items-center text-slate-700 hover:text-blue-600 font-bold text-sm">
-            <PhoneCall className="w-4 h-4 mr-2" /> 0987 453 866
-          </a>
-          <Link href="/contact" className="px-5 py-2.5 bg-orange-600 text-white text-sm font-bold rounded-md hover:bg-orange-700 transition-colors shadow-md shadow-orange-600/20">
+        {/* Desktop Actions */}
+        <div className="hidden lg:flex items-center space-x-6">
+          <button className="flex items-center text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">
+            <Globe className="w-4 h-4 mr-1" /> VN
+          </button>
+          <div className="flex flex-col items-end">
+            <span className="text-xs text-slate-500 font-medium">Hotline 24/7</span>
+            <a href="tel:0903082535" className="text-blue-600 font-bold text-lg hover:text-blue-700 transition-colors">
+              0903 08 25 35
+            </a>
+          </div>
+          <Link
+            href="/contact"
+            className="bg-orange-500 hover:bg-orange-600 text-white px-6 py-2.5 rounded-full font-medium transition-colors shadow-sm shadow-orange-500/20"
+          >
             Nhận Báo Giá
           </Link>
         </div>
