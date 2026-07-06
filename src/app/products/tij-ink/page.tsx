@@ -110,7 +110,46 @@ export default function TIJInkPage() {
         </div>
       </section>
 
-      {/* LEAD FORM SECTION */}
+      {/* 4. COMPATIBILITY TABLE */}
+      <section className="py-24 bg-white border-t border-slate-200">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Bảng Phân Loại Mực TIJ</h2>
+            <div className="w-20 h-1 bg-orange-500 mx-auto rounded-full mb-8" />
+            <p className="text-lg text-slate-600">Chọn đúng loại mực theo bề mặt vật liệu để đảm bảo độ bám và mã vạch đạt chuẩn.</p>
+          </div>
+          <div className="max-w-5xl mx-auto overflow-x-auto shadow-xl rounded-2xl border border-slate-200 bg-slate-50">
+            <table className="w-full text-left border-collapse">
+              <thead>
+                <tr className="bg-slate-900 text-white">
+                  <th className="p-4 md:p-5 font-semibold border-b border-slate-700 whitespace-nowrap">Loại Bề Mặt In</th>
+                  <th className="p-4 md:p-5 font-semibold border-b border-slate-700 whitespace-nowrap">Dung Tích Hộp Mực</th>
+                  <th className="p-4 md:p-5 font-semibold border-b border-slate-700">Đặc Tính Kỹ Thuật</th>
+                </tr>
+              </thead>
+              <tbody className="text-slate-800">
+                <tr className="border-b border-slate-200 hover:bg-white transition-colors bg-white">
+                  <td className="p-4 md:p-5 font-bold">Vật Liệu Thấm Hút<br/><span className="text-sm text-slate-500 font-normal">(Carton, Giấy Kraft, Gỗ)</span></td>
+                  <td className="p-4 md:p-5 whitespace-nowrap text-slate-700">42ml (12.7mm)<br/>72ml (25.4mm)</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">Gốc nước (Water-based). Thấm sâu vào sớ giấy, độ tương phản cực cao để quét QR code/Barcode 100% pass. Thân thiện môi trường.</td>
+                </tr>
+                <tr className="border-b border-slate-200 hover:bg-white transition-colors bg-slate-50">
+                  <td className="p-4 md:p-5 font-bold">Vật Liệu Không Thấm Hút<br/><span className="text-sm text-slate-500 font-normal">(Nilon, Màng PE/PP, Kim loại, Thủy tinh)</span></td>
+                  <td className="p-4 md:p-5 whitespace-nowrap text-slate-700">42ml (12.7mm)<br/>72ml (25.4mm)</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">Gốc dung môi (Solvent-based). Khô nhanh từ 1-3 giây. Chống trầy xước và bong tróc cực tốt khi ma sát vật lý.</td>
+                </tr>
+                <tr className="hover:bg-white transition-colors bg-white">
+                  <td className="p-4 md:p-5 font-bold">Bề Mặt Đặc Biệt<br/><span className="text-sm text-slate-500 font-normal">(Chịu nhiệt, In tàng hình, Cáp điện)</span></td>
+                  <td className="p-4 md:p-5 whitespace-nowrap text-slate-700">42ml (12.7mm)</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">Mực UV tàng hình (chỉ thấy dưới đèn UV), Mực chịu nhiệt độ cao (200-300°C), Mực trắng in cáp. Vui lòng liên hệ đặt hàng riêng.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      {/* 5. LEAD FORM SECTION */}
       <section id="contact" className="py-24 bg-slate-900 text-white">
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="text-center mb-12">

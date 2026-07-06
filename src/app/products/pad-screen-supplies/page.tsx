@@ -1,14 +1,14 @@
 import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
-  title: 'Pad Printing Ink | VNPIS Industrial Solutions',
-  description: 'Enterprise solutions for Pad Printing Ink by VNPIS.',
+  title: 'Pad Screen Supplies | VNPIS Industrial Solutions',
+  description: 'Enterprise solutions for Pad Screen Supplies by VNPIS.',
 };
 
 export default function Page() {
   return (
     <LandingPage 
-      title="Pad Printing Ink" 
+      title="Pad Screen Supplies" 
       category="VNPIS Solutions"
     />
   );

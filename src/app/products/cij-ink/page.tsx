@@ -114,7 +114,57 @@ export default function CIJInkPage() {
         </div>
       </section>
 
-      {/* 4. APPLICATIONS */}
+      {/* 4. COMPATIBILITY TABLE */}
+      <section className="py-24 bg-slate-50 border-t border-slate-200">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Bảng Phân Loại & Máy Tương Thích</h2>
+            <div className="w-20 h-1 bg-blue-500 mx-auto rounded-full mb-8" />
+            <p className="text-lg text-slate-600">Lựa chọn mã mực phù hợp nhất cho dòng máy in và dây chuyền sản xuất của bạn.</p>
+          </div>
+          <div className="max-w-5xl mx-auto overflow-x-auto shadow-xl rounded-2xl border border-slate-200 bg-white">
+            <table className="w-full text-left border-collapse">
+              <thead>
+                <tr className="bg-slate-900 text-white">
+                  <th className="p-4 md:p-5 font-semibold border-b border-slate-700 whitespace-nowrap">Thương Hiệu Máy In</th>
+                  <th className="p-4 md:p-5 font-semibold border-b border-slate-700 whitespace-nowrap">Mã Mực Tham Khảo</th>
+                  <th className="p-4 md:p-5 font-semibold border-b border-slate-700">Đặc Tính Kỹ Thuật Nổi Bật</th>
+                </tr>
+              </thead>
+              <tbody className="text-slate-800">
+                <tr className="border-b border-slate-100 hover:bg-slate-50 transition-colors">
+                  <td className="p-4 md:p-5 font-bold whitespace-nowrap">Videojet®</td>
+                  <td className="p-4 md:p-5 whitespace-nowrap">V410-D, V411-D, V421-D</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">Khô siêu nhanh. Bám cực tốt trên nhựa PP/PE, chai thủy tinh đọng sương lạnh.</td>
+                </tr>
+                <tr className="border-b border-slate-100 hover:bg-slate-50 transition-colors">
+                  <td className="p-4 md:p-5 font-bold whitespace-nowrap">Domino®</td>
+                  <td className="p-4 md:p-5 whitespace-nowrap">IR-270BK, IR-252BK</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">Chống lem tuyệt đối, chuyên dùng cho thùng carton phủ bóng và bao bì kim loại.</td>
+                </tr>
+                <tr className="border-b border-slate-100 hover:bg-slate-50 transition-colors">
+                  <td className="p-4 md:p-5 font-bold whitespace-nowrap">Markem-Imaje®</td>
+                  <td className="p-4 md:p-5 whitespace-nowrap">5157, 5100, 8188</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">Chịu được nhiệt độ cao (thanh trùng, luộc sôi). Kháng dung môi cồn mạnh.</td>
+                </tr>
+                <tr className="border-b border-slate-100 hover:bg-slate-50 transition-colors">
+                  <td className="p-4 md:p-5 font-bold whitespace-nowrap">Linx®</td>
+                  <td className="p-4 md:p-5 whitespace-nowrap">1240, 1014, 3103</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">Độ ổn định cao, giảm thiểu tối đa hiện tượng nghẹt đầu in kim. Mực trắng chuyên dây cáp.</td>
+                </tr>
+                <tr className="hover:bg-slate-50 transition-colors">
+                  <td className="p-4 md:p-5 font-bold whitespace-nowrap">Hitachi®</td>
+                  <td className="p-4 md:p-5 whitespace-nowrap">JP-K67, JP-K72</td>
+                  <td className="p-4 md:p-5 text-sm text-slate-600">In barcode sắc nét, không răng cưa trên linh kiện điện tử, mạ kẽm.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <p className="text-center text-sm text-slate-500 mt-6">* Tất cả thương hiệu nêu trên là tài sản của chủ sở hữu hợp pháp. VNPIS cung cấp mực in tương thích không thuộc các hãng sản xuất trên.</p>
+        </div>
+      </section>
+
+      {/* 5. APPLICATIONS */}
       <section className="py-24 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16 max-w-3xl mx-auto">
