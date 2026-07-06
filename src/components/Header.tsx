@@ -29,6 +29,7 @@ export default function Header() {
         { name: 'Máy In UV Single Pass', href: '/products/uv-printers' },
         { name: 'Mực In CIJ', href: '/products/cij-ink' },
         { name: 'Mực In TIJ', href: '/products/tij-ink' },
+        { name: 'Mực In CIJ, TIJ Đặc Biệt', href: '/products/special-inks' },
         { name: 'Đầu In Ricoh', href: '/products/ricoh-printheads' },
         { name: 'Đầu In Epson', href: '/products/epson-printheads' },
         { name: 'Máy In Pad / In Lụa', href: '/products/pad-screen-machines' },
