@@ -28,10 +28,10 @@ const padPrinters = [
     features: ['Tự động hóa 100%', 'PLC Touch Screen', 'Tự động lau pad']
   },
   {
-    id: 'dl-tiffany',
+    id: 'dl-series',
     brand: 'DL',
-    name: 'DL-Tiffany (Series Cao Cấp)',
-    desc: 'Máy in pad để bàn cao cấp, đạt tiêu chuẩn Châu Âu. Thiết kế nhỏ gọn, độ bền linh kiện cao.',
+    name: 'DL (Series Phổ Thông)',
+    desc: 'Máy in pad để bàn phổ thông. Thiết kế nhỏ gọn, độ bền linh kiện cao.',
     video: '',
     imgPlaceholder: 'DL Pad Printer',
     features: ['Đạt chuẩn CE', 'Giao diện cảm ứng', 'Linh kiện SMC/Festo']
