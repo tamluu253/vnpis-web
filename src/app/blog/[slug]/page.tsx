@@ -110,6 +110,36 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </form>
         </div>
       </article>
+
+      {/* SCHEMA MARKUP */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": post.title,
+            "description": post.desc,
+            "image": post.mediaExt === 'jpg' ? `https://vnpis.com/media/blog/${post.slug}.jpg` : "https://vnpis.com/images/blog-placeholder.jpg",
+            "author": {
+              "@type": "Organization",
+              "name": "VNPIS"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "VNPIS",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://vnpis.com/images/vnpis-logo.png"
+              }
+            },
+            "mainEntityOfPage": {
+              "@type": "WebPage",
+              "@id": `https://vnpis.com/blog/${post.slug}`
+            }
+          })
+        }}
+      />
     </main>
   );
 }

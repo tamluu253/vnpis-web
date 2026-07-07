@@ -187,6 +187,30 @@ export default function CIJInkPage() {
         </div>
       </section>
 
+      {/* FAQ SECTION */}
+      <section className="py-24 bg-white border-t border-slate-100">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Câu Hỏi Thường Gặp (FAQ) Về Mực In CIJ</h2>
+            <div className="w-20 h-1 bg-blue-500 mx-auto rounded-full" />
+          </div>
+          <div className="space-y-6">
+            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+              <h3 className="text-xl font-bold text-slate-900 mb-3">Mực in CIJ của VNPIS có dùng thay thế cho máy in Videojet, Domino, Linx được không?</h3>
+              <p className="text-slate-600 leading-relaxed">Có. Mực in CIJ VNPIS được tổng hợp theo tiêu chuẩn tương thích 100% (Drop-in replacement) với các dòng máy in phun liên tục phổ biến như Videojet, Domino, Linx, Markem-Imaje. Bạn không cần súc rửa lại hệ thống, chỉ việc đổ mực vào và chạy, giúp tiết kiệm đến 40% chi phí vật tư hàng năm.</p>
+            </div>
+            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+              <h3 className="text-xl font-bold text-slate-900 mb-3">Mực in CIJ chịu nhiệt độ cao thanh trùng được bao nhiêu độ?</h3>
+              <p className="text-slate-600 leading-relaxed">Chúng tôi có các mã mực CIJ chuyên dụng chịu nhiệt độ cao lên tới 121°C. Rất phù hợp cho ngành đồ hộp, thực phẩm đóng gói cần luộc sôi hoặc hấp thanh trùng kéo dài mà không bị bong tróc hay bay màu mã vạch, NSX/HSD.</p>
+            </div>
+            <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100">
+              <h3 className="text-xl font-bold text-slate-900 mb-3">Mực có bám dính tốt trên bề mặt nhựa PP, PE và kính đọng sương không?</h3>
+              <p className="text-slate-600 leading-relaxed">Độ bám dính là điểm mạnh nhất của mực CIJ VNPIS. Các dòng mực dung môi MEK đặc biệt của chúng tôi có thể bám dính vĩnh viễn trên bề mặt nhựa trơn bóng (PE, PP, PVC) và vỏ chai thủy tinh ướt lạnh trong ngành đồ uống, hoàn toàn kháng cồn và chống trầy xước.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* LEAD FORM SECTION */}
       <section id="contact" className="py-24 bg-blue-50">
         <div className="container mx-auto px-4 max-w-4xl">
@@ -223,6 +247,65 @@ export default function CIJInkPage() {
           </div>
         </div>
       </section>
+
+      {/* SCHEMA MARKUP */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Product",
+                "name": "Mực In Phun Công Nghiệp CIJ VNPIS",
+                "description": "Giải pháp mực in CIJ tương thích hoàn hảo cho Videojet, Domino, Linx, Markem-Imaje. Khô nhanh, bám dính siêu việt, chống chịu nhiệt độ cao 121 độ C.",
+                "brand": {
+                  "@type": "Brand",
+                  "name": "VNPIS"
+                },
+                "category": "Industrial Printing Ink",
+                "offers": {
+                  "@type": "Offer",
+                  "url": "https://vnpis.com/products/cij-ink",
+                  "priceCurrency": "VND",
+                  "price": "0",
+                  "availability": "https://schema.org/InStock",
+                  "itemCondition": "https://schema.org/NewCondition"
+                }
+              },
+              {
+                "@type": "FAQPage",
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "name": "Mực in CIJ của VNPIS có dùng thay thế cho máy in Videojet, Domino, Linx được không?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Có. Mực in CIJ VNPIS được tổng hợp theo tiêu chuẩn tương thích 100% (Drop-in replacement) với các dòng máy in phun liên tục phổ biến như Videojet, Domino, Linx, Markem-Imaje. Giúp tiết kiệm đến 40% chi phí vật tư hàng năm."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Mực in CIJ chịu nhiệt độ cao thanh trùng được bao nhiêu độ?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Chúng tôi có các mã mực CIJ chuyên dụng chịu nhiệt độ cao lên tới 121°C. Rất phù hợp cho ngành đồ hộp, thực phẩm đóng gói cần luộc sôi hoặc hấp thanh trùng kéo dài."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Mực có bám dính tốt trên bề mặt nhựa PP, PE và kính đọng sương không?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Độ bám dính là điểm mạnh nhất của mực CIJ VNPIS. Các dòng mực dung môi MEK đặc biệt có thể bám dính vĩnh viễn trên bề mặt nhựa trơn bóng (PE, PP) và vỏ chai thủy tinh ướt lạnh, kháng cồn tuyệt đối."
+                    }
+                  }
+                ]
+              }
+            ]
+          })
+        }}
+      />
     </div>
   );
 }

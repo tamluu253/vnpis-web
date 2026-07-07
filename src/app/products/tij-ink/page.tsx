@@ -149,6 +149,30 @@ export default function TIJInkPage() {
         </div>
       </section>
 
+      {/* FAQ SECTION */}
+      <section className="py-24 bg-slate-50 border-t border-slate-200">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Câu Hỏi Thường Gặp Về Hộp Mực In TIJ</h2>
+            <div className="w-20 h-1 bg-orange-500 mx-auto rounded-full" />
+          </div>
+          <div className="space-y-6">
+            <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+              <h3 className="text-xl font-bold text-slate-900 mb-3">Hộp mực TIJ có bám dính tốt trên bề mặt nhựa trơn bóng (PP, PE, PET) không?</h3>
+              <p className="text-slate-600 leading-relaxed">Có. VNPIS cung cấp hộp mực TIJ gốc dung môi (Solvent-based) chuyên dụng. Dòng mực này khô cực nhanh chỉ từ 1-3 giây, bám dính vĩnh viễn trên các bề mặt khó in như nhựa PP/PE, màng nhôm, màng co BOPP, chống trầy xước và không bị nhòe khi ma sát.</p>
+            </div>
+            <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+              <h3 className="text-xl font-bold text-slate-900 mb-3">Mực in TIJ VNPIS có in được mã vạch QR Code để quét ứng dụng không?</h3>
+              <p className="text-slate-600 leading-relaxed">Chắc chắn. Hộp mực TIJ (công nghệ HP 45A) của chúng tôi cho độ phân giải cực cao lên đến 600 DPI. Cực kỳ hoàn hảo để in mã vạch (Barcode), mã QR Code truy xuất nguồn gốc, hoặc chữ siêu nhỏ mà các thiết bị quét mã có thể đọc được chính xác 100%.</p>
+            </div>
+            <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+              <h3 className="text-xl font-bold text-slate-900 mb-3">Làm sao để tránh nghẹt đầu in TIJ khi không sử dụng thường xuyên?</h3>
+              <p className="text-slate-600 leading-relaxed">Để kéo dài tuổi thọ hộp mực và tránh nghẹt mực, bạn nên đậy nắp bảo vệ (clip) ngay sau khi ngưng dây chuyền sản xuất trên 15 phút. Nếu bị khô nhẹ ở bề mặt kim phun, bạn chỉ cần dùng vải mềm không xơ lau nhẹ một chiều với dung dịch vệ sinh là có thể dùng lại bình thường.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* 5. LEAD FORM SECTION */}
       <section id="contact" className="py-24 bg-slate-900 text-white">
         <div className="container mx-auto px-4 max-w-4xl">
@@ -184,6 +208,65 @@ export default function TIJInkPage() {
           </div>
         </div>
       </section>
+
+      {/* SCHEMA MARKUP */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@graph": [
+              {
+                "@type": "Product",
+                "name": "Hộp Mực In Phun Cầm Tay TIJ VNPIS",
+                "description": "Giải pháp hộp mực in TIJ (Thermal Inkjet) tương thích công nghệ HP 45A. In mã vạch QR code sắc nét 600dpi, bám dính vĩnh viễn trên nhựa PP, PE, kim loại.",
+                "brand": {
+                  "@type": "Brand",
+                  "name": "VNPIS"
+                },
+                "category": "Industrial Printing Ink",
+                "offers": {
+                  "@type": "Offer",
+                  "url": "https://vnpis.com/products/tij-ink",
+                  "priceCurrency": "VND",
+                  "price": "0",
+                  "availability": "https://schema.org/InStock",
+                  "itemCondition": "https://schema.org/NewCondition"
+                }
+              },
+              {
+                "@type": "FAQPage",
+                "mainEntity": [
+                  {
+                    "@type": "Question",
+                    "name": "Hộp mực TIJ có bám dính tốt trên bề mặt nhựa trơn bóng (PP, PE, PET) không?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Có. VNPIS cung cấp hộp mực TIJ gốc dung môi (Solvent-based) chuyên dụng. Dòng mực này khô cực nhanh chỉ từ 1-3 giây, bám dính vĩnh viễn trên các bề mặt khó in như nhựa PP/PE, màng nhôm, màng co BOPP."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Mực in TIJ VNPIS có in được mã vạch QR Code để quét ứng dụng không?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Chắc chắn. Hộp mực TIJ của chúng tôi cho độ phân giải cực cao lên đến 600 DPI. Hoàn hảo để in mã vạch (Barcode), mã QR Code truy xuất nguồn gốc."
+                    }
+                  },
+                  {
+                    "@type": "Question",
+                    "name": "Làm sao để tránh nghẹt đầu in TIJ khi không sử dụng thường xuyên?",
+                    "acceptedAnswer": {
+                      "@type": "Answer",
+                      "text": "Để kéo dài tuổi thọ hộp mực và tránh nghẹt mực, bạn nên đậy nắp bảo vệ (clip) ngay sau khi ngưng dây chuyền sản xuất trên 15 phút. Nếu bị khô nhẹ, chỉ cần dùng vải mềm lau với dung dịch vệ sinh chuyên dụng."
+                    }
+                  }
+                ]
+              }
+            ]
+          })
+        }}
+      />
     </div>
   );
 }
