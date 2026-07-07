@@ -27,6 +27,8 @@ export default function Header() {
       href: '/products',
       dropdown: [
         { name: 'Máy In UV Single Pass', href: '/products/uv-printers' },
+        { name: 'Máy In Pad', href: '/products/pad-printers' },
+        { name: 'Máy In Lụa', href: '/products/screen-printers' },
         { name: 'Mực In CIJ', href: '/products/cij-ink' },
         { name: 'Mực In TIJ', href: '/products/tij-ink' },
         { name: 'Mực In CIJ, TIJ Đặc Biệt', href: '/products/special-inks' },
@@ -58,7 +60,7 @@ export default function Header() {
     },
     {
       name: 'Tài Liệu',
-      href: '/resources',
+      href: '/documents',
     },
     {
       name: 'Về Chúng Tôi',
