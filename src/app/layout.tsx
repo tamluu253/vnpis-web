@@ -11,6 +11,9 @@ const fontMain = Outfit({ subsets: ['latin'], variable: '--font-sans' });
 export const metadata = {
   title: 'VNPIS | Industrial Printing Solutions',
   description: 'Enterprise B2B provider of QR Code Printing, Variable Data Printing, RFID, and Industrial Ink Solutions.',
+  verification: {
+    google: 'xQz99KRkCepH0j7LgeoQ2hHqRA4YqEMOw4rP1nHBHH0',
+  },
 };
 
 export default function RootLayout({
