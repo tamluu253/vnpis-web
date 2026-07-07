@@ -5,34 +5,34 @@ import { Layers, CheckCircle2, ArrowRight } from 'lucide-react';
 const screenPrinters = [
   {
     id: 'mc-screen-1',
-    brand: 'Meichao',
-    name: 'Máy In Lụa Bán Tự Động Meichao',
+    brand: 'MC',
+    name: 'MC-1215 Bán Tự Động',
     desc: 'Thiết kế tối ưu cho in lụa trên các bề mặt phẳng như vỏ hộp nhựa, tấm kim loại, kính. Cơ chế kéo dao gạt mực tự động, đảm bảo độ phủ mực đồng đều.',
     video: '/media/machines/mc-screen-printer.mp4',
     features: ['Bàn in hút chân không', 'Dao gạt hợp kim nhôm', 'Độ phân giải bản in cao']
   },
   {
     id: 'hj-screen-1',
-    brand: 'Hengjing',
-    name: 'Máy In Lụa Khổ Lớn Hengjing',
+    brand: 'HJ',
+    name: 'HJ Khổ Lớn Công Nghiệp',
     desc: 'Hệ thống in lụa công nghiệp cho các chi tiết kích thước lớn. Khung máy chắc chắn chống rung lắc, độ chính xác chồng màu hoàn hảo.',
     video: '/media/machines/hj-screen-printer.mp4',
     features: ['Khổ in lớn tùy chỉnh', 'Hệ thống Servo chính xác', 'Điều khiển PLC thông minh']
   },
   {
-    id: 'deliou-screen',
-    brand: 'Deliou',
-    name: 'Máy In Lụa Xoay Deliou (In Chai Tròn)',
+    id: 'dl-screen',
+    brand: 'DL',
+    name: 'DL Rotary (In Chai Tròn)',
     desc: 'Giải pháp chuyên dụng in lụa 360 độ lên thân chai lọ mỹ phẩm, chai thủy tinh, cốc nhựa. Phù hợp cho ngành đóng gói đồ uống và hóa mỹ phẩm.',
     video: '',
-    imgPlaceholder: 'Deliou Rotary Screen Printer',
+    imgPlaceholder: 'DL Rotary Screen Printer',
     features: ['In 360 độ chai lọ', 'Sấy UV tích hợp (Option)', 'Tốc độ cao']
   }
 ];
 
 export const metadata = {
-  title: 'Máy In Lụa (Screen Printing) Công Nghiệp | Meichao, Hengjing, Deliou',
-  description: 'Tổng hợp các dòng máy in lụa phẳng và in chai tròn bán tự động từ các nhà cung cấp uy tín: Meichao, Hengjing, Deliou.',
+  title: 'Máy In Lụa (Screen Printing) Công Nghiệp | MC, HJ, DL',
+  description: 'Tổng hợp các dòng máy in lụa phẳng và in chai tròn bán tự động từ các nhà cung cấp uy tín: MC, HJ, DL.',
 };
 
 export default function ScreenPrintersPage() {
@@ -47,7 +47,7 @@ export default function ScreenPrintersPage() {
           </div>
           <h1 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6">Hệ Thống Máy In Lụa Công Nghiệp</h1>
           <p className="text-lg text-slate-600 max-w-3xl mx-auto">
-            Giải pháp in lụa (in lưới) hoàn hảo cho các bề mặt phẳng khổ lớn và in 360 độ trên chai lọ. VNPIS phân phối chính hãng các dòng máy in lụa từ Meichao, Hengjing và Deliou.
+            Giải pháp in lụa (in lưới) hoàn hảo cho các bề mặt phẳng khổ lớn và in 360 độ trên chai lọ. Phân phối chính hãng các dòng máy in lụa từ MC, HJ và DL.
           </p>
         </div>
 

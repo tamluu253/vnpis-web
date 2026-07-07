@@ -5,42 +5,42 @@ import { Settings, CheckCircle2, ArrowRight } from 'lucide-react';
 const padPrinters = [
   {
     id: 'sanjin-150x400',
-    brand: 'Sanjin',
-    name: 'Máy In Pad 1 Màu (Khổ 150x400)',
-    desc: 'Chuyên dùng in logo, thông số lên vật thể cong như bút bi, thân ống, linh kiện điện tử. Máy hoạt động ổn định, độ nét cao.',
+    brand: 'SJ',
+    name: 'SJ-150x400 (1 Màu)',
+    desc: 'Máy in pad 1 màu khổ 150x400, chuyên in logo lên vật thể cong như bút bi, thân ống. Hoạt động ổn định, độ nét cao.',
     video: '/media/machines/sanjin-150x400-pen.mp4',
     features: ['Cốc mực kín 90mm', 'Tốc độ: 1200 nhịp/giờ', 'Bàn làm việc X-Y-R']
   },
   {
     id: 'mc-150x150-2c',
-    brand: 'Meichao',
-    name: 'Máy In Pad 2 Màu Bàn Chuyển (150x150)',
-    desc: 'Giải pháp in 2 màu đồng thời với độ lệch màu gần như bằng không. Phù hợp in nắp chai, nắp hũ mỹ phẩm, đồ chơi.',
+    brand: 'MC',
+    name: 'MC-150x150 (2 Màu Bàn Trượt)',
+    desc: 'Máy in 2 màu đồng thời, độ lệch màu cực thấp. Phù hợp in nắp chai, nắp hũ mỹ phẩm, đồ chơi.',
     video: '/media/machines/mc-150x150-2color.mp4',
     features: ['In 2 màu tự động', 'Bàn trượt Shuttle', 'Bơm mực tự động']
   },
   {
     id: 'hj-4color',
-    brand: 'Hengjing',
-    name: 'Máy In Pad 4 Màu Tự Động Toàn Diện',
-    desc: 'Dòng máy công nghiệp tự động cấp phôi, in 4 màu và gắp thành phẩm. Thay thế hoàn toàn sức người trong sản xuất hàng loạt.',
+    brand: 'HJ',
+    name: 'HJ-4Color (4 Màu Tự Động)',
+    desc: 'Hệ thống tự động cấp phôi, in 4 màu độc lập và gắp thành phẩm. Tối ưu sản xuất hàng loạt.',
     video: '/media/machines/hj-4color.mp4',
-    features: ['Tự động hóa 100%', 'PLC Touch Screen', 'In 4 màu độc lập']
+    features: ['Tự động hóa 100%', 'PLC Touch Screen', 'Tự động lau pad']
   },
   {
-    id: 'deliou-tiffany',
-    brand: 'Deliou',
-    name: 'Máy In Pad Deliou (Tiffany Series)',
-    desc: 'Dòng máy in Pad cao cấp đạt chứng nhận châu Âu, thiết kế nhỏ gọn để bàn, lý tưởng cho xưởng gia công quy mô vừa.',
+    id: 'dl-tiffany',
+    brand: 'DL',
+    name: 'DL-Tiffany (Series Cao Cấp)',
+    desc: 'Máy in pad để bàn cao cấp, đạt tiêu chuẩn Châu Âu. Thiết kế nhỏ gọn, độ bền linh kiện cao.',
     video: '',
-    imgPlaceholder: 'Deliou Pad Printer',
-    features: ['Đạt chuẩn CE', 'Giao diện thân thiện', 'Linh kiện SMC/Festo']
+    imgPlaceholder: 'DL Pad Printer',
+    features: ['Đạt chuẩn CE', 'Giao diện cảm ứng', 'Linh kiện SMC/Festo']
   }
 ];
 
 export const metadata = {
-  title: 'Máy In Pad (Tampography) Công Nghiệp | Sanjin, Meichao, Hengjing, Deliou',
-  description: 'Tổng hợp các dòng máy in Pad 1 màu, 2 màu, 4 màu tự động từ các nhà cung cấp uy tín: Sanjin, Meichao, Hengjing, Deliou.',
+  title: 'Máy In Pad (Tampography) Công Nghiệp | SJ, MC, HJ, DL',
+  description: 'Tổng hợp các model máy in Pad 1 màu, 2 màu, 4 màu tự động từ các nhà cung cấp uy tín: SJ, MC, HJ, DL.',
 };
 
 export default function PadPrintersPage() {
@@ -55,7 +55,7 @@ export default function PadPrintersPage() {
           </div>
           <h1 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6">Hệ Thống Máy In Pad Công Nghiệp</h1>
           <p className="text-lg text-slate-600 max-w-3xl mx-auto">
-            Giải pháp in ấn hoàn hảo trên các bề mặt cong, lồi lõm hoặc không bằng phẳng. VNPIS phân phối chính hãng các dòng máy in Pad từ Sanjin, Meichao, Hengjing và Deliou.
+            Giải pháp in ấn hoàn hảo trên các bề mặt cong, lồi lõm hoặc không bằng phẳng. Phân phối chính hãng các dòng máy in Pad từ các thương hiệu: SJ, MC, HJ và DL.
           </p>
         </div>
 
