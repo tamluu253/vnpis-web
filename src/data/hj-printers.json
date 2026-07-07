@@ -1,0 +1,162 @@
+[
+  {
+    "model": "HP160A-CCD",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu với hệ thống canh chỉnh CCD tự động chính xác cao",
+    "plateSize": "100x150mm",
+    "printArea": "75x125mm",
+    "speed": "600 nhịp/giờ"
+  },
+  {
+    "model": "HP-300HZ",
+    "colors": 8,
+    "desc": "Hệ thống mâm xoay 8 màu, 22 trạm gắp thả sản phẩm chuyên dụng cho chai lọ",
+    "plateSize": "100x2500mm",
+    "printArea": "75x225mm",
+    "speed": "500 nhịp/giờ"
+  },
+  {
+    "model": "HP250AYM",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu với hệ thống động cơ Servo kép",
+    "plateSize": "200x400mm",
+    "printArea": "Ф160mm",
+    "speed": "1450 nhịp/giờ"
+  },
+  {
+    "model": "HP-300FAC",
+    "colors": 6,
+    "desc": "Máy in pad 6 màu có hệ thống độc lập nâng hạ pad",
+    "plateSize": "150x300mm",
+    "printArea": "Ф125mm",
+    "speed": "800 nhịp/giờ"
+  },
+  {
+    "model": "HP-125A",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu dạng cơ bản, khay mực hở",
+    "plateSize": "100x100mm",
+    "printArea": "75x75mm",
+    "speed": "2100 nhịp/giờ"
+  },
+  {
+    "model": "HP-125AY",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu dùng cốc mực kín",
+    "plateSize": "100x200mm",
+    "printArea": "Ф45mm",
+    "speed": "1500 nhịp/giờ"
+  },
+  {
+    "model": "HP-125B",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu hệ thống Shuttle trượt",
+    "plateSize": "100x100mm",
+    "printArea": "75x75mm",
+    "speed": "1500 nhịp/giờ"
+  },
+  {
+    "model": "HP-160",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu khay mực hở đứng",
+    "plateSize": "100x150mm",
+    "printArea": "75x125mm",
+    "speed": "1800 nhịp/giờ"
+  },
+  {
+    "model": "HP-160Y",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu dùng cốc mực kín đứng",
+    "plateSize": "100x250mm",
+    "printArea": "70x70mm",
+    "speed": "1800 nhịp/giờ"
+  },
+  {
+    "model": "HP-160BZ",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu băng tải (Conveyor)",
+    "plateSize": "100x150mm",
+    "printArea": "75x125mm",
+    "speed": "1800 nhịp/giờ"
+  },
+  {
+    "model": "HP-160C",
+    "colors": 3,
+    "desc": "Máy in pad 3 màu hệ thống trượt Shuttle",
+    "plateSize": "100x250mm",
+    "printArea": "70x70mm",
+    "speed": "900 nhịp/giờ"
+  },
+  {
+    "model": "HP-160D",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu hệ thống trượt Shuttle",
+    "plateSize": "100x250mm",
+    "printArea": "70x70mm",
+    "speed": "680 nhịp/giờ"
+  },
+  {
+    "model": "HP-160CZ",
+    "colors": 3,
+    "desc": "Máy in pad 3 màu hệ thống mâm xoay (Turntable)",
+    "plateSize": "100x150mm",
+    "printArea": "75x125mm",
+    "speed": "1200 nhịp/giờ"
+  },
+  {
+    "model": "HP-160DZ",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu hệ thống băng chuyền",
+    "plateSize": "100x150mm",
+    "printArea": "75x125mm",
+    "speed": "1200 nhịp/giờ"
+  },
+  {
+    "model": "HP-200DZY",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu hệ cốc mực kín, băng chuyền",
+    "plateSize": "100x150mm",
+    "printArea": "75x120mm",
+    "speed": "1200 nhịp/giờ"
+  },
+  {
+    "model": "HP-200Y",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu khay mực đứng (cỡ trung)",
+    "plateSize": "150x300mm",
+    "printArea": "100x120mm",
+    "speed": "1600 nhịp/giờ"
+  },
+  {
+    "model": "HP-200B",
+    "colors": 2,
+    "desc": "Máy in pad 2 màu trượt Shuttle",
+    "plateSize": "150x150mm",
+    "printArea": "120x125mm",
+    "speed": "1600 nhịp/giờ"
+  },
+  {
+    "model": "HP-200FZ",
+    "colors": 6,
+    "desc": "Máy in pad 6 màu hệ thống băng chuyền (Conveyor)",
+    "plateSize": "100x150mm",
+    "printArea": "75x120mm",
+    "speed": "1600 nhịp/giờ"
+  },
+  {
+    "model": "HP-300D",
+    "colors": 4,
+    "desc": "Máy in pad 4 màu khổ lớn trượt Shuttle",
+    "plateSize": "150x350mm",
+    "printArea": "120x200mm",
+    "speed": "400 nhịp/giờ"
+  },
+  {
+    "model": "HP-300K",
+    "colors": 1,
+    "desc": "Máy in pad 1 màu khổ siêu lớn (chuyên in bàn phím máy tính)",
+    "plateSize": "250x600mm",
+    "printArea": "200x500mm",
+    "speed": "1200 nhịp/giờ"
+  }
+]

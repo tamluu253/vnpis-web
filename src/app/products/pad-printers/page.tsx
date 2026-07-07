@@ -54,9 +54,14 @@ export default function PadPrintersPage() {
             <span>Tampography System</span>
           </div>
           <h1 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6">Hệ Thống Máy In Pad Công Nghiệp</h1>
-          <p className="text-lg text-slate-600 max-w-3xl mx-auto">
+          <p className="text-lg text-slate-600 max-w-3xl mx-auto mb-8">
             Giải pháp in ấn hoàn hảo trên các bề mặt cong, lồi lõm hoặc không bằng phẳng. Phân phối chính hãng các dòng máy in Pad từ các thương hiệu: SJ, MC, HJ và DL.
           </p>
+          <div className="flex justify-center">
+            <Link href="/products/pad-printers/hj" className="inline-flex items-center bg-blue-50 text-blue-700 hover:bg-blue-100 font-semibold px-6 py-3 rounded-full transition-colors border border-blue-200">
+              Xem Toàn Bộ Catalog Máy HJ (30+ Models) <ArrowRight className="w-4 h-4 ml-2" />
+            </Link>
+          </div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-20">
