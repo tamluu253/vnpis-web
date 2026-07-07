@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Settings, PhoneCall, ArrowLeft, Filter } from 'lucide-react';
+import Image from 'next/image';
 import hjPrinters from '@/data/hj-printers.json';
 
 export const metadata = {
@@ -46,12 +47,14 @@ export default function HJPrintersCatalog() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {hjPrinters.map((machine) => (
             <div key={machine.model} className="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 flex flex-col overflow-hidden group">
-              <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center p-6 border-b border-slate-50">
-                {/* Since we don't have individual images for all 20 models, we use a neat placeholder design */}
-                <div className="text-slate-300 group-hover:scale-110 transition-transform duration-500">
-                  <Settings className="w-20 h-20 opacity-50" />
-                </div>
-                <div className="absolute top-3 left-3 bg-white px-2 py-1 rounded-md text-xs font-bold text-slate-800 shadow-sm border border-slate-200">
+              <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center border-b border-slate-50 overflow-hidden">
+                <Image 
+                  src="/images/products/hj/HP-125AY.png"
+                  alt={machine.model}
+                  fill
+                  className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
+                />
+                <div className="absolute top-3 left-3 bg-white px-2 py-1 rounded-md text-xs font-bold text-slate-800 shadow-sm border border-slate-200 z-10">
                   {machine.colors} Màu
                 </div>
               </div>
