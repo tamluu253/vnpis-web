@@ -120,30 +120,30 @@ export default function Header() {
               <Globe className="w-4 h-4 mr-1.5" /> Select Language <ChevronDown className="ml-1 w-3 h-3" />
             </button>
             <div className="absolute top-[60px] right-0 w-48 bg-white border border-slate-100 shadow-xl rounded-lg py-2 opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto transition-all duration-200">
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              <button onClick={() => { document.cookie = `googtrans=/vi/vi; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 Tiếng Việt
-              </Link>
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              </button>
+              <button onClick={() => { document.cookie = `googtrans=/vi/zh-CN; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 Chinese (Simplified)
-              </Link>
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              </button>
+              <button onClick={() => { document.cookie = `googtrans=/vi/en; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 English
-              </Link>
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              </button>
+              <button onClick={() => { document.cookie = `googtrans=/vi/ja; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 Japanese
-              </Link>
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              </button>
+              <button onClick={() => { document.cookie = `googtrans=/vi/km; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 Khmer
-              </Link>
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              </button>
+              <button onClick={() => { document.cookie = `googtrans=/vi/ko; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 Korean
-              </Link>
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              </button>
+              <button onClick={() => { document.cookie = `googtrans=/vi/lo; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 Lao
-              </Link>
-              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+              </button>
+              <button onClick={() => { document.cookie = `googtrans=/vi/th; path=/;`; window.location.reload(); }} className="w-full text-left px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
                 Thai
-              </Link>
+              </button>
             </div>
           </div>
           <div className="flex flex-col items-end">
