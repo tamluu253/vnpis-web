@@ -11,8 +11,9 @@ export function generateStaticParams() {
   }));
 }
 
-export function generateMetadata({ params }: { params: { slug: string } }) {
-  const post = blogData.find((p) => p.slug === params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const resolvedParams = await params;
+  const post = blogData.find((p) => p.slug === resolvedParams.slug);
   if (!post) return { title: 'Not Found' };
   
   return {
@@ -21,8 +22,9 @@ export function generateMetadata({ params }: { params: { slug: string } }) {
   };
 }
 
-export default function BlogPost({ params }: { params: { slug: string } }) {
-  const post = blogData.find((p) => p.slug === params.slug);
+export default async function BlogPost({ params }: { params: Promise<{ slug: string }> }) {
+  const resolvedParams = await params;
+  const post = blogData.find((p) => p.slug === resolvedParams.slug);
   
   if (!post) {
     notFound();
@@ -53,15 +55,18 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
             {post.desc}
           </p>
 
-          <div className="w-full aspect-video bg-slate-100 rounded-2xl overflow-hidden mb-12 shadow-lg">
+          <div className="w-full aspect-video bg-slate-900 rounded-2xl overflow-hidden mb-12 shadow-lg relative flex items-center justify-center">
             {post.mediaExt === 'mp4' && post.slug !== 'giai-phap-in-truc-tiep-len-vo-trung-ga-muc-he01' && post.slug !== 'muc-in-day-cap-trang-linx-videojet' ? (
               <video src={`/media/blog/${post.slug}.mp4`} autoPlay loop muted playsInline className="w-full h-full object-cover" />
-            ) : post.mediaExt === 'jpg' ? (
-              <img src={`/media/blog/${post.slug}.jpg`} alt={post.title} className="w-full h-full object-cover" />
             ) : (
-               <div className="w-full h-full flex items-center justify-center bg-slate-200 text-slate-400">
-                  Ảnh / Video minh họa
-               </div>
+              <>
+                <img 
+                  src={post.mediaExt === 'jpg' ? `/media/blog/${post.slug}.jpg` : "/images/blog-placeholder.jpg"} 
+                  alt={post.title} 
+                  className="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-overlay" 
+                />
+                <span className="text-5xl md:text-7xl font-black text-white z-10 drop-shadow-2xl opacity-90">{post.code}</span>
+              </>
             )}
           </div>
         </div>

@@ -31,9 +31,13 @@ export default function BlogIndex() {
                 {article.mediaExt === 'mp4' && article.slug !== 'giai-phap-in-truc-tiep-len-vo-trung-ga-muc-he01' && article.slug !== 'muc-in-day-cap-trang-linx-videojet' ? (
                   <video src={`/media/blog/${article.slug}.mp4`} muted loop playsInline className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                 ) : (
-                  <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-blue-900 to-slate-900 group-hover:scale-105 transition-transform duration-500">
-                     <span className="text-4xl font-bold text-white opacity-20">{article.code}</span>
-                     {article.mediaExt === 'jpg' && <img src={`/media/blog/${article.slug}.jpg`} alt={article.title} className="absolute inset-0 w-full h-full object-cover opacity-80" />}
+                  <div className="w-full h-full flex items-center justify-center bg-slate-900 group-hover:scale-105 transition-transform duration-500 relative">
+                     <img 
+                       src={article.mediaExt === 'jpg' ? `/media/blog/${article.slug}.jpg` : "/images/blog-placeholder.jpg"} 
+                       alt={article.title} 
+                       className="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-overlay" 
+                     />
+                     <span className="text-4xl md:text-5xl font-black text-white z-10 drop-shadow-lg opacity-90">{article.code}</span>
                   </div>
                 )}
                 <div className="absolute top-4 left-4 flex gap-2">
