@@ -2,7 +2,6 @@ import React from 'react';
 import { ArrowLeft, CheckCircle2 } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import ContactForm from '@/components/lead-gen/ContactForm';
 import blogData from '@/data/blog-posts.json';
 
 // Generate static params for all 70 posts at build time
@@ -92,7 +91,18 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
             <h2 className="text-3xl font-bold text-slate-900 mb-4">Nhận Mẫu Thử Miễn Phí</h2>
             <p className="text-slate-600">Điền form dưới đây để yêu cầu kỹ sư VNPIS mang mực in đến chạy thử trực tiếp tại nhà máy của bạn.</p>
           </div>
-          <ContactForm />
+          
+          <form className="max-w-2xl mx-auto space-y-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <input type="text" placeholder="Họ và tên *" required className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none" />
+              <input type="tel" placeholder="Số điện thoại *" required className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none" />
+            </div>
+            <input type="text" placeholder="Tên công ty / Ngành nghề *" required className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none" />
+            <textarea placeholder="Yêu cầu mẫu in thử (vd: In date lên túi PE)..." rows={4} className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none"></textarea>
+            <button type="submit" className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-xl transition-colors">
+              Gửi Yêu Cầu Test Mẫu
+            </button>
+          </form>
         </div>
       </article>
     </main>
