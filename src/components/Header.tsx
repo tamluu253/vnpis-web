@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { Menu, X, ChevronDown, PhoneCall, Globe } from 'lucide-react';
+import { Menu, X, ChevronDown, PhoneCall, Globe, ExternalLink } from 'lucide-react';
 
 export default function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -42,11 +42,11 @@ export default function Header() {
       name: 'Dịch Vụ',
       href: '/services',
       dropdown: [
-        { name: 'In Công Nghiệp', href: '/services/industrial-printing' },
+        { name: 'In Công Nghiệp (Kỹ Thuật Số/Lụa)', href: 'https://inanvnpis.com', external: true },
         { name: 'In Gia Công QR', href: '/services/qr-printing' },
         { name: 'In Dữ Liệu Biến Đổi', href: '/services/variable-data-printing' },
-        { name: 'Dịch Vụ In Pad', href: '/services/pad-printing-service' },
-        { name: 'Dịch Vụ In UV', href: '/services/uv-printing-service' },
+        { name: 'Dịch Vụ In Pad', href: 'https://inanvnpis.com', external: true },
+        { name: 'Dịch Vụ In UV', href: 'https://inanvnpis.com', external: true },
         { name: 'Tư Vấn Giải Pháp', href: '/services/consulting' },
       ],
     },
@@ -104,9 +104,14 @@ export default function Header() {
                     <Link
                       key={subItem.name}
                       href={subItem.href}
+                      target={subItem.external ? "_blank" : undefined}
+                      rel={subItem.external ? "noopener noreferrer" : undefined}
                       className="block px-6 py-2.5 text-sm text-slate-600 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors"
                     >
-                      {subItem.name}
+                      <span className="flex items-center">
+                        {subItem.name}
+                        {subItem.external && <ExternalLink className="w-3 h-3 ml-1.5 opacity-70" />}
+                      </span>
                     </Link>
                   ))}
                 </div>
@@ -183,8 +188,15 @@ export default function Header() {
                 {item.dropdown && (
                   <div className="pl-4 flex flex-col space-y-3 pt-2">
                     {item.dropdown.map((subItem) => (
-                      <Link key={subItem.name} href={subItem.href} className="text-slate-600 text-sm font-medium">
+                      <Link 
+                        key={subItem.name} 
+                        href={subItem.href}
+                        target={subItem.external ? "_blank" : undefined}
+                        rel={subItem.external ? "noopener noreferrer" : undefined} 
+                        className="text-slate-600 text-sm font-medium flex items-center"
+                      >
                         {subItem.name}
+                        {subItem.external && <ExternalLink className="w-3 h-3 ml-1.5 opacity-70" />}
                       </Link>
                     ))}
                   </div>

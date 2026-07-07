@@ -3,6 +3,7 @@
 import React, { useState, useMemo } from 'react';
 import { Search, Filter, Droplet } from 'lucide-react';
 import specialInks from '@/data/special-inks.json';
+// Force HMR reload
 
 export default function SpecialInksCatalog() {
   const [searchTerm, setSearchTerm] = useState('');

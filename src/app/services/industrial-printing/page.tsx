@@ -8,8 +8,10 @@ export const metadata = {
 export default function Page() {
   return (
     <LandingPage 
-      title="Industrial Printing" 
+      title="Dịch Vụ In Công Nghiệp" 
       category="VNPIS Solutions"
+      externalCtaUrl="https://inanvnpis.com"
+      externalCtaText="Xem bảng giá & Đặt in tại inanvnpis.com"
     />
   );
 }

@@ -6,9 +6,11 @@ interface LandingPageProps {
   title: string;
   subtitle?: string;
   category?: string;
+  externalCtaUrl?: string;
+  externalCtaText?: string;
 }
 
-export default function LandingPage({ title, subtitle, category }: LandingPageProps) {
+export default function LandingPage({ title, subtitle, category, externalCtaUrl, externalCtaText }: LandingPageProps) {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans">
       {/* 1. HERO SECTION */}
@@ -28,9 +30,15 @@ export default function LandingPage({ title, subtitle, category }: LandingPagePr
               {subtitle || "Giải pháp công nghiệp toàn diện từ VNPIS. Tối ưu hóa quy trình, tăng năng suất và giảm thiểu rủi ro cho doanh nghiệp của bạn."}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="#contact" className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white bg-orange-600 rounded-lg hover:bg-orange-700 transition-colors shadow-lg shadow-orange-600/30">
-                Nhận Báo Giá Ngay <ArrowRight className="ml-2 w-5 h-5" />
-              </Link>
+              {externalCtaUrl ? (
+                <a href={externalCtaUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white bg-orange-600 rounded-lg hover:bg-orange-700 transition-colors shadow-lg shadow-orange-600/30">
+                  {externalCtaText || "Xem Chi Tiết"} <ArrowRight className="ml-2 w-5 h-5" />
+                </a>
+              ) : (
+                <Link href="#contact" className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white bg-orange-600 rounded-lg hover:bg-orange-700 transition-colors shadow-lg shadow-orange-600/30">
+                  Nhận Báo Giá Ngay <ArrowRight className="ml-2 w-5 h-5" />
+                </Link>
+              )}
               <Link href="#solutions" className="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-slate-900 bg-white rounded-lg hover:bg-slate-100 transition-colors">
                 Khám Phá Chi Tiết
               </Link>

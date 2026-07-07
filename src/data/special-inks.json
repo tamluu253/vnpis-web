@@ -1,650 +1,650 @@
 [
   {
     "code": "BLUEA",
-    "name": "染料蓝A",
-    "desc": "浅色底材",
+    "name": "Thuốc nhuộm màu xanh A",
+    "desc": "chất nền màu sáng",
     "category": "Khác"
   },
   {
     "code": "BLUEB",
-    "name": "染料深蓝墨",
-    "desc": "各种浅色表面",
+    "name": "Nhuộm mực xanh đậm",
+    "desc": "Các bề mặt sáng màu khác nhau",
     "category": "Khác"
   },
   {
     "code": "BLUEC",
-    "name": "深蓝墨（偏光膜）",
-    "desc": "偏光板蓝墨，也用在各种浅色场合",
+    "name": "Mực xanh đậm (phim phân cực)",
+    "desc": "Mực xanh phân cực cũng được sử dụng trong các tình huống có màu sáng khác nhau",
     "category": "Khác"
   },
   {
     "code": "C-MAGENTA",
-    "name": "品红墨",
-    "desc": "常规浅色场合，彩色系列",
+    "name": "mực đỏ tươi",
+    "desc": "Các dịp màu sáng thường xuyên, loạt màu",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "DZW",
-    "name": "大字白墨",
-    "desc": "DOD大字符机白墨",
+    "name": "Ký tự lớn bằng mực trắng",
+    "desc": "Máy ký tự lớn DOD mực trắng",
     "category": "Khác"
   },
   {
     "code": "DZWAV",
-    "name": "大字抗硫化白",
-    "desc": "轮胎，橡胶产品，仅大字机使用",
+    "name": "Chữ lớn màu trắng chống sunfua",
+    "desc": "Lốp xe, sản phẩm cao su, chỉ dùng cho máy in khổ lớn",
     "category": "Khác"
   },
   {
     "code": "GREEN",
-    "name": "染料绿墨",
-    "desc": "绿色，各种材质",
+    "name": "Nhuộm mực xanh",
+    "desc": "Màu xanh lá cây, vật liệu đa dạng",
     "category": "Khác"
   },
   {
     "code": "HE01",
-    "name": "热发泡鸡蛋红墨",
-    "desc": "鸡蛋表面喷墨，食用色素原料制备，偏慢干",
+    "name": "Mực đỏ trứng tạo bọt nhiệt",
+    "desc": "Phun mực lên bề mặt trứng, chuẩn bị nguyên liệu màu thực phẩm, sấy chậm",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "HF200",
-    "name": "热发泡快干黑墨",
-    "desc": "高分辨率打印，快干，均衡附着力和表面流平，优越的打印开盖性能。",
+    "name": "Mực đen tạo bọt nhiệt nhanh khô",
+    "desc": "In có độ phân giải cao, khô nhanh, độ bám dính và độ phẳng bề mặt cân bằng, hiệu suất in và giải mã vượt trội.",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "HF300",
-    "name": "热快干品红墨",
-    "desc": "品红色（Magenta)溶剂型热发泡油墨，适合各种材质使用",
+    "name": "Mực màu đỏ tươi khô nhanh bằng nhiệt",
+    "desc": "Mực tạo bọt nhiệt gốc dung môi màu đỏ tươi, thích hợp cho nhiều loại vật liệu",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "HF310",
-    "name": "热发泡快干红墨",
-    "desc": "红色溶剂型热发泡油墨，适合各种材质使用",
+    "name": "Mực đỏ khô nhanh tạo bọt nhiệt",
+    "desc": "Mực tạo bọt nhiệt gốc dung môi màu đỏ, thích hợp cho nhiều loại vật liệu",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "HF500",
-    "name": "热发泡快干青墨",
-    "desc": "高分辨率打印，快干，均衡附着力和表面流平，优越的打印开盖性能。",
+    "name": "Mực xanh khô nhanh tạo bọt nhiệt",
+    "desc": "In có độ phân giải cao, khô nhanh, độ bám dính và độ phẳng bề mặt cân bằng, hiệu suất in và giải mã vượt trội.",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "HF510",
-    "name": "热发泡快干蓝墨",
-    "desc": "热发泡蓝色，乙醇基快干",
+    "name": "Mực xanh nhanh khô tạo bọt nhiệt",
+    "desc": "Bọt nhiệt màu xanh, khô nhanh gốc ethanol",
     "category": "Khác"
   },
   {
     "code": "HF901",
-    "name": "热发泡快干隐形墨",
-    "desc": "隐形蓝，热发泡机器使用",
+    "name": "Mực vô hình tạo bọt nhiệt nhanh khô",
+    "desc": "Màu xanh vô hình, dùng trong máy tạo bọt nhiệt",
     "category": "Tàng hình (UV)"
   },
   {
     "code": "HW",
-    "name": "热发泡水性墨",
-    "desc": "吸收性表面打印，高黒度",
+    "name": "Mực gốc nước tạo bọt nhiệt",
+    "desc": "Bề mặt in thấm hút, độ đen cao",
     "category": "Khác"
   },
   {
     "code": "K09",
-    "name": "高附着墨水",
-    "desc": "大多数塑料上附着力优异，也适用于金属",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính tuyệt vời trên hầu hết các loại nhựa, cũng thích hợp cho kim loại",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "K12",
-    "name": "高温墨",
-    "desc": "高温蒸煮油墨，耐121℃高温，通常用于食品包装袋，罐头蒸煮",
+    "name": "mực nhiệt độ cao",
+    "desc": "Mực nấu ăn nhiệt độ cao, chịu được nhiệt độ cao 121oC, thường dùng làm túi đóng gói thực phẩm, nấu ăn đóng hộp",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "K15",
-    "name": "高附着油墨",
-    "desc": "无卤高附着油墨，塑料金属上适用，也适用部分抗冷冻场合",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Mực có độ bám dính cao không chứa halogen, thích hợp cho nhựa và kim loại, đồng thời cũng thích hợp cho một số ứng dụng chống đóng băng",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "K17B",
-    "name": "高附着油墨",
-    "desc": "塑料，金属材质高附着；具有较好的抗冷冻效果",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao với vật liệu nhựa và kim loại; tác dụng chống đông tốt",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "KE01",
-    "name": "食品接触红墨",
-    "desc": "鸡蛋外壳墨，无铬，新国标（非色素/丁酮基）",
+    "name": "Mực đỏ tiếp xúc với thực phẩm",
+    "desc": "Mực vỏ trứng, không chứa crom, tiêu chuẩn quốc gia mới (không chứa sắc tố/butanone)",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "LT02",
-    "name": "高温烘烤墨",
-    "desc": "耐高温烘烤",
+    "name": "Mực nướng nhiệt độ cao",
+    "desc": "Khả năng chịu nướng ở nhiệt độ cao",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "LT1A",
-    "name": "LT1A油墨",
-    "desc": "耐烘烤低迁移",
+    "name": "mực LT1A",
+    "desc": "Khả năng chống nướng và di chuyển thấp",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "PURPLE",
-    "name": "紫色墨",
-    "desc": "紫色通用",
+    "name": "mực tím",
+    "desc": "màu tím phổ quát",
     "category": "Khác"
   },
   {
     "code": "REDA",
-    "name": "染料大红墨",
-    "desc": "大红色，浅色表面用",
+    "name": "nhuộm mực đỏ",
+    "desc": "Màu đỏ tươi, dành cho bề mặt sáng màu",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "T03",
-    "name": "隐形蓝",
-    "desc": "日常不易见，紫外灯下显示清晰蓝光",
+    "name": "màu xanh vô hình",
+    "desc": "Khó nhìn thấy trong cuộc sống hàng ngày, hiển thị ánh sáng xanh rõ ràng dưới tia UV",
     "category": "Tàng hình (UV)"
   },
   {
     "code": "T05",
-    "name": "铝扣板墨",
-    "desc": "金属表面附着力好，层压不易迁移",
+    "name": "Mực tấm khóa nhôm",
+    "desc": "Độ bám dính tốt với bề mặt kim loại, cán màng không dễ di chuyển",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T06",
-    "name": "T06增附墨",
-    "desc": "塑料墨水，附着力强于普墨，性能十分稳定",
+    "name": "Mực bổ sung T06",
+    "desc": "Mực nhựa có độ bám dính mạnh hơn mực thường và hoạt động rất ổn định",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T09",
-    "name": "耐油墨",
-    "desc": "耐油（打印前无油），可低温水煮",
+    "name": "Chống mực",
+    "desc": "Chịu dầu (không có dầu trước khi in), có thể đun sôi ở nhiệt độ thấp",
     "category": "Khác"
   },
   {
     "code": "T10",
-    "name": "手套墨",
-    "desc": "PVC手套等，抗迁移",
+    "name": "mực găng tay",
+    "desc": "Găng tay PVC, v.v., chống di cư",
     "category": "Khác"
   },
   {
     "code": "T113",
-    "name": "无卤耐酒精高温墨",
-    "desc": "无卤抗酒精油墨，耐高温；电子行业特别适合,金属表面高附着；",
+    "name": "Mực chịu nhiệt độ cao không chứa halogen",
+    "desc": "Mực không chứa halogen và kháng cồn, chịu được nhiệt độ cao; đặc biệt thích hợp cho ngành công nghiệp điện tử, có độ bám dính cao trên bề mặt kim loại;",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T13",
-    "name": "无卤耐酒精高温墨",
-    "desc": "无卤抗酒精油墨，耐高温；电子行业特别适合",
+    "name": "Mực chịu nhiệt độ cao không chứa halogen",
+    "desc": "Mực chịu cồn không chứa halogen, chịu nhiệt độ cao; đặc biệt thích hợp cho ngành công nghiệp điện tử",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T14",
-    "name": "渗透紫红（黑墨）",
-    "desc": "较快渗透速度，PE材质渗透，不可篡改油墨",
+    "name": "Thâm nhập màu đỏ tím (mực đen)",
+    "desc": "Tốc độ xuyên nhanh, xuyên vật liệu PE, mực không thể giả mạo",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "T15",
-    "name": "抗酒精墨",
-    "desc": "塑料金属上抗酒精",
+    "name": "mực chịu cồn",
+    "desc": "Chống cồn trên kim loại nhựa",
     "category": "Kháng cồn / Hóa chất"
   },
   {
     "code": "T16",
-    "name": "高温墨",
-    "desc": "耐烘烤常用于电子产品，有无卤版",
+    "name": "mực nhiệt độ cao",
+    "desc": "Chống nướng thường được sử dụng trong các sản phẩm điện tử và có những phiên bản không chứa halogen.",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T16P",
-    "name": "高温墨增强款",
-    "desc": "可满足常规的100℃蒸煮，也能126℃下高压蒸煮；适合罐头，食品的高温处理；不抗迁移",
+    "name": "Phiên bản nâng cao mực nhiệt độ cao",
+    "desc": "Có thể đáp ứng nấu ăn thông thường ở 100oC và cũng có thể được sử dụng để nấu ở áp suất cao ở 126oC; thích hợp cho việc đóng hộp và chế biến thực phẩm ở nhiệt độ cao; không chống lại sự di cư",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T17",
-    "name": "高附着油墨",
-    "desc": "塑料，金属表面高附着",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao trên bề mặt nhựa và kim loại",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T18",
-    "name": "高附着墨",
-    "desc": "通用性塑料高附着，在其它材质也优于常规墨水",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao với nhựa thông dụng và tốt hơn so với mực thông thường trên các vật liệu khác",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T19",
-    "name": "环保墨,低气味混合基",
-    "desc": "气味小，快干，环保型混合基油墨",
+    "name": "Mực thân thiện với môi trường, nền hỗn hợp ít mùi",
+    "desc": "Ít mùi, nhanh khô, mực gốc hỗn hợp thân thiện với môi trường",
     "category": "Khác"
   },
   {
     "code": "T22",
-    "name": "无卤抗酒精",
-    "desc": "无卤抗酒精，电子产品常用",
+    "name": "Không chứa halogen và kháng cồn",
+    "desc": "Không chứa halogen và kháng cồn, thường được sử dụng trong các sản phẩm điện tử",
     "category": "Kháng cồn / Hóa chất"
   },
   {
     "code": "T23",
-    "name": "高附着墨",
-    "desc": "PE高附着为主，多种材质附着俱佳；有一定抗冷冻性能",
+    "name": "Mực có độ bám dính cao",
+    "desc": "PE chủ yếu có độ bám dính cao và có độ bám dính tốt với các vật liệu khác nhau; nó có đặc tính chống đóng băng nhất định",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T25",
-    "name": "金属高附着墨",
-    "desc": "金属表面打印，附着力强",
+    "name": "Mực kim loại có độ bám dính cao",
+    "desc": "In trên bề mặt kim loại, độ bám dính cao",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T28",
-    "name": "渗透蓝墨",
-    "desc": "油墨可渗入PE（常温）,PA（高温）等材质，形成不可篡改标识（标识久会晕开）",
+    "name": "Mực thấm 1200ml",
+    "desc": "Mực có thể thấm vào PE (nhiệt độ thường), PA (nhiệt độ cao) v.v., tạo thành dấu hiệu không thể làm giả (sẽ nhòe sau thời gian dài)",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T29",
-    "name": "高温墨,耐126℃",
-    "desc": "耐高温蒸煮，不抗转印",
+    "name": "Mực nhiệt độ cao, chịu được 126oC",
+    "desc": "Chịu được nhiệt độ cao khi nấu và không bị chuyển hóa",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T31",
-    "name": "透油墨",
-    "desc": "透过薄油层，附着",
+    "name": "Mực trong suốt",
+    "desc": "Qua lớp dầu mỏng, độ bám dính",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T33",
-    "name": "玻璃墨",
-    "desc": "玻璃墨，玻璃陶瓷高附着，耐正已烷",
+    "name": "mực thủy tinh",
+    "desc": "Mực thủy tinh, độ bám dính cao với gốm thủy tinh, kháng n-hexane",
     "category": "In trên kính / Gốm"
   },
   {
     "code": "T36",
-    "name": "高温变色墨,棕红变浅红",
-    "desc": "棕黑色变红色，常用126℃高温水煮识别",
+    "name": "Mực đổi màu ở nhiệt độ cao, đỏ nâu chuyển sang đỏ nhạt",
+    "desc": "Màu nâu đen chuyển sang màu đỏ, thường được nhận biết bằng cách đun sôi ở nhiệt độ cao 126°C",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T37",
-    "name": "无铬油墨",
-    "desc": "不含铬，环保，电子厂用",
+    "name": "Mực không chứa Chrome",
+    "desc": "Không chứa crom, thân thiện với môi trường, sử dụng trong nhà máy điện tử",
     "category": "Khác"
   },
   {
     "code": "T38",
-    "name": "电路板耐酸碱墨",
-    "desc": "无卤，耐酒精，耐酸碱，电路板行业非常适合",
+    "name": "Mực kháng axit và kiềm cho bảng mạch",
+    "desc": "Không chứa halogen, kháng cồn, kháng axit-kiềm, rất thích hợp cho ngành sản xuất bảng mạch",
     "category": "Kháng cồn / Hóa chất"
   },
   {
     "code": "T39",
-    "name": "抗冷冻墨",
-    "desc": "抗低温，冷冻食品等",
+    "name": "mực chống đông",
+    "desc": "Chịu được nhiệt độ thấp, thực phẩm đông lạnh, v.v.",
     "category": "Khác"
   },
   {
     "code": "T40",
-    "name": "水洗黑墨",
-    "desc": "临时标记，可以水去除",
+    "name": "Mực đen có thể giặt được",
+    "desc": "Điểm đánh dấu tạm thời có thể được loại bỏ bằng nước",
     "category": "Mực giặt được / Tạm thời"
   },
   {
     "code": "T42",
-    "name": "纸巾高温墨",
-    "desc": "耐高温烫印，不易脱落",
+    "name": "Khăn giấy mực nhiệt độ cao",
+    "desc": "Dập nóng chịu nhiệt độ cao, không dễ rơi ra",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T43",
-    "name": "高温墨",
-    "desc": "耐高温场合，烘烤蒸汽水煮等",
+    "name": "mực nhiệt độ cao",
+    "desc": "Chịu nhiệt độ cao, nướng, đun sôi bằng hơi nước, v.v.",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T45",
-    "name": "纯蓝强渗透",
-    "desc": "PE强渗透，不可篡改印记",
+    "name": "Màu xanh thuần khiết thâm nhập mạnh mẽ",
+    "desc": "PE có khả năng xuyên thấu mạnh mẽ và không thể bị giả mạo.",
     "category": "Thẩm thấu"
   },
   {
     "code": "T46PRO",
-    "name": "蓝黑强渗透",
-    "desc": "渗透较快",
+    "name": "Màu xanh và đen thâm nhập mạnh mẽ",
+    "desc": "Sự thâm nhập nhanh hơn",
     "category": "Thẩm thấu"
   },
   {
     "code": "T47",
-    "name": "高附着墨",
-    "desc": "塑料金属高附着，干燥较快",
+    "name": "Mực có độ bám dính cao",
+    "desc": "Độ bám dính cao với nhựa và kim loại, khô nhanh",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T51",
-    "name": "OPP油墨",
-    "desc": "PP,OPP,BOPP高附着；具备耐酒精性能",
+    "name": "Mực OPP",
+    "desc": "PP, OPP, BOPP có độ bám dính cao; có đặc tính kháng rượu",
     "category": "Kháng cồn / Hóa chất"
   },
   {
     "code": "T51A",
-    "name": "高附抗油墨",
-    "desc": "附着力强，抗油抗酒精",
+    "name": "Mực có độ bền cao",
+    "desc": "Độ bám dính mạnh, chịu dầu và cồn",
     "category": "Kháng cồn / Hóa chất"
   },
   {
     "code": "T56",
-    "name": "水洗蓝墨,专用溶剂RT40",
-    "desc": "临时标记，可以水去除",
+    "name": "Mực xanh có thể giặt được, dung môi đặc biệt RT40",
+    "desc": "Điểm đánh dấu tạm thời có thể được loại bỏ bằng nước",
     "category": "Mực giặt được / Tạm thời"
   },
   {
     "code": "T60",
-    "name": "食品红墨,专用溶剂RT60",
-    "desc": "鸡蛋红墨",
+    "name": "Mực đỏ thực phẩm, dung môi đặc biệt RT60",
+    "desc": "mực đỏ trứng",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "T60BU",
-    "name": "鸡蛋蓝墨",
-    "desc": "色素墨水，醇混合基，干燥偏慢，可做鸡蛋外壳打印，以及尿不湿墨使用；需醇基溶剂;",
+    "name": "Mực màu xanh trứng",
+    "desc": "Mực bột màu, nền hỗn hợp cồn, khô chậm, có thể dùng để in vỏ trứng và mực tã lót; cần có dung môi gốc cồn;",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "T64",
-    "name": "OPP油墨,分裂优于T51",
-    "desc": "BOPP，PP;PET上均可，高附着",
+    "name": "Mực OPP tách tốt hơn T51",
+    "desc": "Có thể sử dụng trên BOPP, PP; PET, độ bám dính cao",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T68CF",
-    "name": "无铬干馏黑墨",
-    "desc": "高温后可耐260摄氏度10分钟，适合部分高温场合（如波峰焊，回流焊，但须验证）；150度分钟后可耐酒精",
+    "name": "Mực đen vặn lại không có Chrome",
+    "desc": "Nó có thể chịu được 260 độ C trong 10 phút sau khi nhiệt độ cao, thích hợp cho một số trường hợp nhiệt độ cao (chẳng hạn như hàn sóng, hàn nóng chảy lại, nhưng phải được xác minh); nó có thể chịu được rượu sau 150 độ C trong 10 phút.",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T72",
-    "name": "蓝黑耐高温",
-    "desc": "耐126度蒸煮，不抗迁移",
+    "name": "Màu xanh đen chịu nhiệt độ cao",
+    "desc": "Chịu được nấu ăn ở 126 độ và không có khả năng chống di chuyển",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T73",
-    "name": "PVC低迁移墨",
-    "desc": "特殊应用于PVC管，减少迁移",
+    "name": "Mực di chuyển thấp PVC",
+    "desc": "Được sử dụng đặc biệt trong ống PVC để giảm sự di chuyển",
     "category": "Khác"
   },
   {
     "code": "T75",
-    "name": "高温变蓝色墨",
-    "desc": "高温前后变色标识",
+    "name": "Nhiệt độ cao làm mực chuyển sang màu xanh",
+    "desc": "Logo đổi màu trước và sau nhiệt độ cao",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T77",
-    "name": "高温低迁移墨",
-    "desc": "高温蒸煮126摄氏度",
+    "name": "Mực di chuyển thấp ở nhiệt độ cao",
+    "desc": "Nấu ở nhiệt độ cao 126 độ C",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T78",
-    "name": "耐重油墨",
-    "desc": "耐油各场合，性能优越",
+    "name": "Mực nặng",
+    "desc": "Chống dầu, hiệu quả vượt trội trong mọi tình huống",
     "category": "Khác"
   },
   {
     "code": "T79",
-    "name": "高温红墨",
-    "desc": "耐高温蒸煮",
+    "name": "Mực đỏ nhiệt độ cao",
+    "desc": "Khả năng chống nấu ở nhiệt độ cao",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T80",
-    "name": "PVC墨水",
-    "desc": "专门用在PVC管线上的染料墨，极强的抗迁移能力",
+    "name": "Mực PVC",
+    "desc": "Mực nhuộm chuyên dụng trên đường ống PVC, có khả năng chống di chuyển mạnh",
     "category": "Khác"
   },
   {
     "code": "T81",
-    "name": "碱洗油墨",
-    "desc": "用于短期标记，酒瓶，水瓶等用热碱水易去除",
+    "name": "Mực tẩy rửa có tính kiềm",
+    "desc": "Dùng để đánh dấu ngắn hạn, chai rượu, chai nước,… có thể dễ dàng loại bỏ bằng nước kiềm nóng.",
     "category": "Khác"
   },
   {
     "code": "T82",
-    "name": "珍珠棉墨",
-    "desc": "具有弹性的珍珠棉上打印，慢干，需要专门的溶剂",
+    "name": "Mực bông ngọc trai",
+    "desc": "In trên chất liệu cotton ngọc trai đàn hồi, khô chậm, cần dung môi đặc biệt",
     "category": "Khác"
   },
   {
     "code": "T84",
-    "name": "醇酯环保墨",
-    "desc": "快干，气味略柔和，无需含备案酮成分",
+    "name": "Rượu este mực thân thiện với môi trường",
+    "desc": "Nhanh khô, mùi hơi dịu, không cần chứa thành phần ketone đã đăng ký",
     "category": "Khác"
   },
   {
     "code": "T85",
-    "name": "KOPP高附着油墨",
-    "desc": "KOPP材质上使用",
+    "name": "Mực có độ bám dính cao KOPP",
+    "desc": "Được sử dụng trên vật liệu KOPP",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T87B",
-    "name": "耐碱水玻璃墨",
-    "desc": "玻璃上高附着，抗油；尼龙袋抗油",
+    "name": "Mực thủy tinh chịu kiềm",
+    "desc": "Độ bám dính cao với kính, chịu dầu; túi nylon chống dầu",
     "category": "In trên kính / Gốm"
   },
   {
     "code": "T89",
-    "name": "抗冷冻墨",
-    "desc": "抗冷冻",
+    "name": "mực chống đông",
+    "desc": "chất chống đông",
     "category": "Khác"
   },
   {
     "code": "T90",
-    "name": "高附着",
-    "desc": "无卤高附着油墨,适合在大部分材质上打印（PP-PI-PET-PE；金属等)有抗油效果",
+    "name": "Độ bám dính cao",
+    "desc": "Mực có độ bám dính cao không chứa halogen, thích hợp in trên hầu hết các chất liệu (PP-PI-PET-PE; kim loại, v.v.) có tác dụng chống dầu",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T93",
-    "name": "耐油水煮墨（常压）",
-    "desc": "耐水性，耐油性性能优异，可承受小于100℃的油水煮",
+    "name": "Mực nấu nước chịu dầu (áp suất thường)",
+    "desc": "Khả năng chống nước và chống dầu tuyệt vời, có thể chịu được dầu và nước sôi ở nhiệt độ dưới 100oC",
     "category": "Khác"
   },
   {
     "code": "T94",
-    "name": "高附墨（略快干）",
-    "desc": "常规高附着，略快干（比较适合分页机打印）",
+    "name": "Mực bám dính cao (khô nhanh hơn một chút)",
+    "desc": "Độ bám dính cao thường xuyên, khô nhanh một chút (thích hợp hơn cho việc in máy phân trang)",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "T97",
-    "name": "蓝黑渗透墨",
-    "desc": "牛奶利乐包渗入形成不可逆印记，耐高温蒸煮，适合罐头等材质",
+    "name": "mực xanh đen xuyên thấu",
+    "desc": "Sữa Tetra Pak thẩm thấu và hình thành những vết hằn không thể phục hồi. Nó có khả năng chịu nấu ở nhiệt độ cao và phù hợp với đồ hộp và các vật liệu khác.",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "T98",
-    "name": "耐酒精/PP高附墨",
-    "desc": "塑料（尤其是PP），金属等材质上耐酒精擦拭，浸泡",
+    "name": "Mực chịu cồn/PP có độ bám dính cao",
+    "desc": "Chịu được cồn và ngâm trên nhựa (đặc biệt là PP), kim loại và các vật liệu khác",
     "category": "Kháng cồn / Hóa chất"
   },
   {
     "code": "TC",
-    "name": "醇基墨",
-    "desc": "乙醇基，低气味；适合密闭，环保要求场合",
+    "name": "Mực gốc cồn",
+    "desc": "Gốc ethanol, ít mùi; thích hợp cho những dịp kín gió, thân thiện với môi trường",
     "category": "Khác"
   },
   {
     "code": "TCBU",
-    "name": "醇基蓝墨",
-    "desc": "低气味，乙醇基蓝墨",
+    "name": "Mực xanh gốc cồn",
+    "desc": "Mực xanh gốc ethanol, ít mùi",
     "category": "Khác"
   },
   {
     "code": "TCM",
-    "name": "醇基品红墨",
-    "desc": "醇基品红墨，气味小，环保",
+    "name": "Mực màu đỏ tươi chứa cồn",
+    "desc": "Mực màu đỏ tươi gốc cồn, ít mùi, thân thiện với môi trường",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "TF",
-    "name": "F墨",
-    "desc": "耐凡力水，耐烘烤无卤黑墨，电路板，电子产品常用",
+    "name": "Mực F",
+    "desc": "Mực đen không chứa halogen, chịu nước, chịu nhiệt, thường được sử dụng trong bảng mạch và các sản phẩm điện tử",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "TS01",
-    "name": "食品红墨,专用溶剂RTS01",
-    "desc": "鸡蛋红色油墨，色素型；打印在蛋壳上",
+    "name": "Mực đỏ thực phẩm, dung môi đặc biệt RTS01",
+    "desc": "Mực đỏ trứng, loại bột màu; in trên vỏ trứng",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "TS02",
-    "name": "食品青色墨，专用溶剂RTS",
-    "desc": "鸡蛋外壳打印食用色素油墨，仅限于打印蛋外壳",
+    "name": "Mực màu lục lam thực phẩm, dung môi đặc biệt RTS",
+    "desc": "Mực in màu thực phẩm vỏ trứng, hạn chế in vỏ trứng",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "TS03",
-    "name": "鸡蛋紫墨，专用溶剂RTS",
-    "desc": "鸡蛋外壳打印食用色素油墨，仅限于打印蛋外壳",
+    "name": "Mực trứng tím, dung môi đặc biệt RTS",
+    "desc": "Mực in màu thực phẩm vỏ trứng, hạn chế in vỏ trứng",
     "category": "Mực in trứng / Thực phẩm"
   },
   {
     "code": "TW101",
-    "name": "白墨",
-    "desc": "通用电线电缆白墨，抗迁移",
+    "name": "mực trắng",
+    "desc": "Mực trắng dây và cáp đa năng, chống di chuyển",
     "category": "Khác"
   },
   {
     "code": "TW5A",
-    "name": "高亮白墨",
-    "desc": "亮白白墨，通用性强，白度高",
+    "name": "Làm nổi bật mực trắng",
+    "desc": "Mực trắng sáng, tính linh hoạt mạnh mẽ và độ trắng cao",
     "category": "Khác"
   },
   {
     "code": "TW6",
-    "name": "白墨（通用）",
-    "desc": "常规性白墨，性能均衡，适合用在PVC线缆，低烟无卤线缆，PE线缆及多种材质",
+    "name": "Mực trắng (nói chung)",
+    "desc": "Mực trắng thông thường với hiệu suất cân bằng, thích hợp sử dụng cho cáp PVC, cáp không halogen ít khói, cáp PE và nhiều loại vật liệu khác nhau",
     "category": "Khác"
   },
   {
     "code": "TW7",
-    "name": "白墨",
-    "desc": "通用型",
+    "name": "mực trắng",
+    "desc": "Phổ quát",
     "category": "Khác"
   },
   {
     "code": "TWA",
-    "name": "白墨",
-    "desc": "常规白墨，使用范围宽",
+    "name": "mực trắng",
+    "desc": "Mực trắng thông thường, phạm vi sử dụng rộng rãi",
     "category": "Khác"
   },
   {
     "code": "TWAV",
-    "name": "抗硫化白墨",
-    "desc": "橡胶硫化白墨，耐140~180℃",
+    "name": "Mực trắng chống sunfua",
+    "desc": "Mực trắng lưu hóa cao su, chịu được 140 ~ 180oC",
     "category": "Khác"
   },
   {
     "code": "TWB",
-    "name": "白墨",
-    "desc": "附着力优越，性能均衡，适应多数材质",
+    "name": "mực trắng",
+    "desc": "Độ bám dính tuyệt vời, hiệu suất cân bằng, thích ứng với hầu hết các vật liệu",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "TWF",
-    "name": "白墨(分裂好）",
-    "desc": "抗迁移性好，白墨",
+    "name": "Mực trắng (tách tốt)",
+    "desc": "Khả năng chống di chuyển tốt, mực trắng",
     "category": "Khác"
   },
   {
     "code": "TWF6",
-    "name": "通用白墨",
-    "desc": "电线电缆用白墨，抗迁移；常规材质可以使用；附着力均衡",
+    "name": "Mực trắng phổ thông",
+    "desc": "Mực trắng được sử dụng cho dây và cáp để chống di chuyển; vật liệu thông thường có thể được sử dụng; độ bám dính được cân bằng",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "TWHF",
-    "name": "无卤白墨",
-    "desc": "电子产品，无卤要求",
+    "name": "Mực trắng không chứa halogen",
+    "desc": "Sản phẩm điện tử, yêu cầu không có halogen",
     "category": "Khác"
   },
   {
     "code": "TWHG",
-    "name": "PE增附白墨",
-    "desc": "PE高附着白墨，不抗迁移",
+    "name": "PE thêm mực trắng",
+    "desc": "PE có độ bám dính cao với mực trắng và không có khả năng chống di chuyển",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "TWHT",
-    "name": "干馏白墨",
-    "desc": "高温后耐酒精/高附着，抗硫化",
+    "name": "Mực trắng vặn lại",
+    "desc": "Chịu được cồn/độ bám dính cao sau nhiệt độ cao, chống lưu hóa",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "TWLTB",
-    "name": "浅蓝白墨",
-    "desc": "深色，浅色材质明显颜色",
+    "name": "Mực xanh nhạt và trắng",
+    "desc": "Vật liệu tối màu, sáng màu có màu sắc rõ ràng",
     "category": "Khác"
   },
   {
     "code": "TWYC",
-    "name": "黄白墨C款",
-    "desc": "暗底色，浅色表面均可使用；重颜料黄墨，白墨机；",
+    "name": "Mực vàng và trắng loại C",
+    "desc": "Có thể sử dụng trên cả nền tối và bề mặt sáng màu; mực nặng màu vàng, máy mực trắng;",
     "category": "Khác"
   },
   {
     "code": "TWYD",
-    "name": "黄白墨D款",
-    "desc": "深浅材质均可留清晰喷码；重颜料黄墨，白墨机用",
+    "name": "Mực vàng và trắng loại D",
+    "desc": "Mã mực in phun rõ ràng có thể được để lại trên cả vật liệu sáng và tối; mực nặng màu vàng và sử dụng máy mực trắng",
     "category": "Khác"
   },
   {
     "code": "TY1",
-    "name": "抗迁移黑墨",
-    "desc": "抗迁移颜料墨，耐高温，PVC线缆等使用",
+    "name": "Mực đen chống di chuyển",
+    "desc": "Mực bột màu chống di chuyển, chịu nhiệt độ cao, dùng cho cáp PVC, v.v.",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "TY4",
-    "name": "PE黄墨",
-    "desc": "颜料黄墨，用于PE,金属玻璃等材质，范围较宽，不抗迁移（抗迁移使用TY5C)",
+    "name": "Mực PE màu vàng",
+    "desc": "Mực màu vàng sắc tố, dùng cho PE, thủy tinh kim loại và các vật liệu khác, có phạm vi rộng và không có khả năng chống di chuyển (sử dụng TY5C để chống di chuyển)",
     "category": "In trên kính / Gốm"
   },
   {
     "code": "TY5C",
-    "name": "抗迁黄墨",
-    "desc": "颜料黄，抗迁移线缆等材质使用",
+    "name": "Mực vàng chống di dời",
+    "desc": "Sắc tố màu vàng, cáp chống di chuyển và các vật liệu khác được sử dụng",
     "category": "Khác"
   },
   {
     "code": "TY7",
-    "name": "高温可搽墨",
-    "desc": "耐高温，抗迁移，蒸煮后搽除不留痕迹",
+    "name": "Mực có thể được áp dụng ở nhiệt độ cao",
+    "desc": "Chịu nhiệt độ cao, chống di chuyển, không để lại dấu vết khi bôi sau khi nấu",
     "category": "Chịu nhiệt độ cao"
   },
   {
     "code": "TY801",
-    "name": "黄墨",
-    "desc": "浅色黄（在部分材质上发、偏绿），颜料型；PE高附着",
+    "name": "mực vàng",
+    "desc": "Màu vàng nhạt (xuất hiện màu xanh lục trên một số vật liệu), loại bột màu; độ bám dính cao với PE",
     "category": "Bám dính cao (Nhựa/Kim loại)"
   },
   {
     "code": "TYA",
-    "name": "抗迁移黑墨",
-    "desc": "抗迁移颜料黑，用于电线电缆，低烟无卤等材质，也可用于耐高温水煮；",
+    "name": "Mực đen chống di chuyển",
+    "desc": "Sắc tố đen chống di chuyển, được sử dụng cho dây và cáp, không có halogen và các vật liệu khác, và cũng có thể được sử dụng để chống sôi ở nhiệt độ cao;",
     "category": "Chịu nhiệt độ cao"
   }
 ]
