@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
 import { Settings, CheckCircle2, ArrowRight } from 'lucide-react';
-import ContactForm from '@/components/lead-gen/ContactForm';
 
 const padPrinters = [
   {
