@@ -115,9 +115,19 @@ export default function Header() {
 
         {/* Desktop Actions */}
         <div className="hidden lg:flex items-center space-x-6">
-          <button className="flex items-center text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">
-            <Globe className="w-4 h-4 mr-1" /> VN
-          </button>
+          <div className="relative group flex items-center h-20">
+            <button className="flex items-center text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">
+              <Globe className="w-4 h-4 mr-1" /> VN <ChevronDown className="ml-1 w-3 h-3" />
+            </button>
+            <div className="absolute top-16 right-0 w-36 bg-white border border-slate-100 shadow-xl rounded-xl py-2 opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto transition-all duration-200">
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                🇻🇳 Tiếng Việt
+              </Link>
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                🇬🇧 English
+              </Link>
+            </div>
+          </div>
           <div className="flex flex-col items-end">
             <span className="text-xs text-slate-500 font-medium">Hotline 24/7</span>
             <a href="tel:0987453866" className="text-blue-600 font-bold text-lg hover:text-blue-700 transition-colors">
