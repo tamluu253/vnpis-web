@@ -115,16 +115,34 @@ export default function Header() {
 
         {/* Desktop Actions */}
         <div className="hidden lg:flex items-center space-x-6">
-          <div className="relative group flex items-center h-20">
-            <button className="flex items-center text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors">
-              <Globe className="w-4 h-4 mr-1" /> VN <ChevronDown className="ml-1 w-3 h-3" />
+          <div className="relative group flex items-center h-20 z-50">
+            <button className="flex items-center text-sm font-medium text-slate-600 hover:text-blue-600 transition-colors bg-slate-50 px-3 py-1.5 rounded-md border border-slate-200">
+              <Globe className="w-4 h-4 mr-1.5" /> Select Language <ChevronDown className="ml-1 w-3 h-3" />
             </button>
-            <div className="absolute top-16 right-0 w-36 bg-white border border-slate-100 shadow-xl rounded-xl py-2 opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto transition-all duration-200">
+            <div className="absolute top-[60px] right-0 w-48 bg-white border border-slate-100 shadow-xl rounded-lg py-2 opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto transition-all duration-200">
               <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
-                🇻🇳 Tiếng Việt
+                Tiếng Việt
               </Link>
               <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
-                🇬🇧 English
+                Chinese (Simplified)
+              </Link>
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                English
+              </Link>
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                Japanese
+              </Link>
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                Khmer
+              </Link>
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                Korean
+              </Link>
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                Lao
+              </Link>
+              <Link href="#" className="flex items-center px-4 py-2 text-sm text-slate-700 hover:bg-slate-50 hover:text-blue-600 font-medium transition-colors">
+                Thai
               </Link>
             </div>
           </div>
