@@ -1,0 +1,272 @@
+[
+  {
+    "model": "MN-80-75",
+    "colors": 1,
+    "desc": "气动单色迷你移印机",
+    "plateSize": "100×75",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mn_80_75.png"
+  },
+  {
+    "model": "SYDK-125-100",
+    "colors": 1,
+    "desc": "气动单色移印机",
+    "plateSize": "100×75/100×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYDK2-125-100",
+    "colors": 1,
+    "desc": "气动双印头单色移印机",
+    "plateSize": "100×75/100×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sydk2_125_100.png"
+  },
+  {
+    "model": "SYCK-125-100",
+    "colors": 2,
+    "desc": "气动左右穿梭双色移印机",
+    "plateSize": "100×75/100×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYG-125-100",
+    "colors": 1,
+    "desc": "气动单色滚印移印机",
+    "plateSize": "直径40MM",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syg_125_100.png"
+  },
+  {
+    "model": "SYDK-200-90",
+    "colors": 1,
+    "desc": "气动单色油盅移印机",
+    "plateSize": "100*310",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sydk_200_90.png"
+  },
+  {
+    "model": "SYDK-125-90",
+    "colors": 1,
+    "desc": "气动油盅单色移印机",
+    "plateSize": "100*234",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYDK2-125-90",
+    "colors": 1,
+    "desc": "气动油盅双印头单色移印机",
+    "plateSize": "100*234",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYCK-125-90",
+    "colors": 2,
+    "desc": "气动油盅左右穿梭双色移印机",
+    "plateSize": "100*234",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYDK-200-150",
+    "colors": 1,
+    "desc": "气动单色移印机",
+    "plateSize": "150×75/150×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYDK2-200-150",
+    "colors": 1,
+    "desc": "气动双印头单色移印机",
+    "plateSize": "150×75/150×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sydk2_200_150.png"
+  },
+  {
+    "model": "SYCK-200-150",
+    "colors": 2,
+    "desc": "气动左右穿梭双色移印机",
+    "plateSize": "150×75/150×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYCK-200-90",
+    "colors": 2,
+    "desc": "气动左右穿梭双色油盅移印机",
+    "plateSize": "100*310",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syck_200_90.png"
+  },
+  {
+    "model": "SYDQ-125-90",
+    "colors": 1,
+    "desc": "自动清洗胶头单色移印机",
+    "plateSize": "100*234MM",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYDH-125-90",
+    "colors": 1,
+    "desc": "气动油盅横刮单色移印机",
+    "plateSize": "100*610MM",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sydh_125_90.png"
+  },
+  {
+    "model": "MS-150",
+    "colors": 1,
+    "desc": "气动单色单头移印机",
+    "plateSize": "100*100/100*150",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ms_150.png"
+  },
+  {
+    "model": "MS-150-90",
+    "colors": 1,
+    "desc": "气动单色油盅单色移印机",
+    "plateSize": "100*250/油盅90",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MSZ-150-2",
+    "colors": 2,
+    "desc": "气动转盘双色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msz_150_2.png"
+  },
+  {
+    "model": "MSZ-150-3",
+    "colors": 3,
+    "desc": "气动转盘三色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MSZ-150-4",
+    "colors": 4,
+    "desc": "气动转盘四色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MSC-150-2",
+    "colors": 2,
+    "desc": "气动左右穿梭双色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_150_2.png"
+  },
+  {
+    "model": "MSC-150-3",
+    "colors": 3,
+    "desc": "气动左右穿梭三色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MSC-150-4",
+    "colors": 4,
+    "desc": "气动左右穿梭四色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MS-200",
+    "colors": 1,
+    "desc": "气动单色单头移印机",
+    "plateSize": "150*100/150*150",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MS-250",
+    "colors": 1,
+    "desc": "气动单色单头移印机",
+    "plateSize": "200*100/200*150",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MND125-100",
+    "colors": 1,
+    "desc": "气动台式单色油盘移印机",
+    "plateSize": "100×75/100×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mnd125_100.png"
+  },
+  {
+    "model": "MND125-100T",
+    "colors": 1,
+    "desc": "气动立式单色油盘移印机",
+    "plateSize": "100×75/100×100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MYD-125-90",
+    "colors": 1,
+    "desc": "电动单色油盅移印机",
+    "plateSize": "100*234",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MYD-200-90",
+    "colors": 1,
+    "desc": "电动单色油盅移印机",
+    "plateSize": "100*310",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MYDG-125-100",
+    "colors": 1,
+    "desc": "电动滚印移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "Tùy chọn",
+    "speed": "Liên hệ",
+    "image": ""
+  }
+]
