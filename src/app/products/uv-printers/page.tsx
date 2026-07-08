@@ -146,6 +146,36 @@ export default function UvPrintersPage() {
         </div>
       </section>
 
+      {/* 2.5. ONSITE PRINTING SERVICE */}
+      <section className="py-20 bg-orange-50 border-t border-orange-100">
+        <div className="container mx-auto px-4 max-w-5xl text-center">
+          <div className="inline-flex items-center justify-center w-16 h-16 bg-orange-100 text-orange-600 rounded-full mb-6">
+            <Factory className="w-8 h-8" />
+          </div>
+          <h2 className="text-3xl font-bold text-slate-900 mb-6">Dịch Vụ In Dữ Liệu Biến Đổi Tận Nơi (On-site)</h2>
+          <p className="text-lg text-slate-700 leading-relaxed mb-8 max-w-3xl mx-auto">
+            Bên cạnh việc nhận in gia công trực tiếp tại xưởng VNPIS, chúng tôi còn cung cấp <strong>dịch vụ đem máy móc và nhân sự chuyên nghiệp đến in trực tiếp tại nhà máy của khách hàng</strong>. Đây là giải pháp hoàn hảo để đảm bảo tính an toàn cho dữ liệu, tránh rủi ro hao hụt bao bì trong quá trình vận chuyển.
+          </p>
+          <div className="grid sm:grid-cols-3 gap-6 text-left max-w-4xl mx-auto">
+            <div className="bg-white p-6 rounded-2xl shadow-sm border border-orange-100 hover:shadow-md transition-shadow">
+              <ShieldCheck className="w-8 h-8 text-orange-500 mb-3" />
+              <h3 className="font-bold text-slate-900 mb-2">Bảo mật dữ liệu 100%</h3>
+              <p className="text-sm text-slate-600">Quá trình in mã vạch, QR Code biến đổi diễn ra hoàn toàn dưới sự giám sát tại xưởng của bạn, tuyệt đối không rò rỉ dữ liệu.</p>
+            </div>
+            <div className="bg-white p-6 rounded-2xl shadow-sm border border-orange-100 hover:shadow-md transition-shadow">
+              <Zap className="w-8 h-8 text-orange-500 mb-3" />
+              <h3 className="font-bold text-slate-900 mb-2">Không rủi ro vận chuyển</h3>
+              <p className="text-sm text-slate-600">Loại bỏ khâu đóng gói vận chuyển màng/bao bì đi và về, giảm thiểu tuyệt đối tình trạng hư hỏng, xước hay nhăn bao bì.</p>
+            </div>
+            <div className="bg-white p-6 rounded-2xl shadow-sm border border-orange-100 hover:shadow-md transition-shadow">
+              <Settings className="w-8 h-8 text-orange-500 mb-3" />
+              <h3 className="font-bold text-slate-900 mb-2">Lắp đặt siêu tốc</h3>
+              <p className="text-sm text-slate-600">Đội ngũ kỹ thuật VNPIS sẽ đến tận nơi thiết lập hệ thống máy in UV trên chuyền có sẵn và vận hành ra sản lượng ngay lập tức.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* 3. CTA SECTION */}
       <section className="py-24 bg-blue-600 text-white text-center">
         <div className="container mx-auto px-4 max-w-4xl">
