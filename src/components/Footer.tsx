@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className="bg-slate-950 text-slate-300 pt-20 pb-10 border-t-4 border-blue-600 font-sans">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-16">
           {/* Column 1: Company Info */}
           <div>
             <Link href="/" className="inline-block mb-6 bg-white p-2 rounded-lg">
@@ -28,17 +28,6 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Column 2: Solutions */}
-          <div>
-            <h3 className="text-white text-lg font-bold mb-6">Giải Pháp & Dịch Vụ</h3>
-            <ul className="space-y-3">
-              <li><Link href="/solutions/qr-code-printing" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> In QR Code Công Nghiệp</Link></li>
-              <li><Link href="/solutions/variable-data-printing" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> In Dữ Liệu Biến Đổi</Link></li>
-              <li><Link href="/solutions/rfid" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Giải Pháp RFID</Link></li>
-              <li><Link href="/solutions/anti-counterfeit" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Tem Nhãn Chống Giả</Link></li>
-              <li><Link href="/services/pad-printing-service" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Gia Công In Pad / Tampon</Link></li>
-            </ul>
-          </div>
 
           {/* Column 3: Products */}
           <div>

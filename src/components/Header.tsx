@@ -9,19 +9,7 @@ export default function Header() {
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
 
   const navigation = [
-    {
-      name: 'Giải Pháp',
-      href: '/solutions',
-      dropdown: [
-        { name: 'In QR Code', href: '/solutions/qr-code-printing' },
-        { name: 'In Dữ Liệu Biến Đổi', href: '/solutions/variable-data-printing' },
-        { name: 'Giải Pháp RFID', href: '/solutions/rfid' },
-        { name: 'RFID Kho Bãi', href: '/solutions/warehouse-rfid' },
-        { name: 'RFID May Mặc', href: '/solutions/garment-rfid' },
-        { name: 'Chống Hàng Giả', href: '/solutions/anti-counterfeit' },
-        { name: 'Truy Xuất Nguồn Gốc', href: '/solutions/traceability' },
-      ],
-    },
+
     {
       name: 'Sản Phẩm',
       href: '/products',
