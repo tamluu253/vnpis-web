@@ -191,7 +191,7 @@ export default function Header() {
           <div className="flex flex-col space-y-4">
             {navigation.map((item) => (
               <div key={item.name} className="flex flex-col space-y-2">
-                <Link href={item.href} className="font-bold text-slate-900 text-lg py-2 border-b border-slate-100">
+                <Link href={item.href} onClick={() => setIsMobileMenuOpen(false)} className="font-bold text-slate-900 text-lg py-2 border-b border-slate-100">
                   {item.name}
                 </Link>
                 {item.dropdown && (
@@ -200,6 +200,7 @@ export default function Header() {
                       <Link 
                         key={subItem.name} 
                         href={subItem.href}
+                        onClick={() => setIsMobileMenuOpen(false)}
                         target={subItem.external ? "_blank" : undefined}
                         rel={subItem.external ? "noopener noreferrer" : undefined} 
                         className="text-slate-600 text-sm font-medium flex items-center"
@@ -213,10 +214,10 @@ export default function Header() {
               </div>
             ))}
             <div className="pt-6 mt-6 border-t border-slate-100 flex flex-col space-y-4">
-              <a href="tel:0987453866" className="flex items-center justify-center w-full py-3 bg-slate-100 text-slate-800 rounded-md font-bold">
+              <a href="tel:0987453866" onClick={() => setIsMobileMenuOpen(false)} className="flex items-center justify-center w-full py-3 bg-slate-100 text-slate-800 rounded-md font-bold">
                 <PhoneCall className="w-5 h-5 mr-2" /> Hotline: 0987 453 866
               </a>
-              <Link href="/contact" className="flex items-center justify-center w-full py-3 bg-orange-600 text-white rounded-md font-bold shadow-lg">
+              <Link href="/contact" onClick={() => setIsMobileMenuOpen(false)} className="flex items-center justify-center w-full py-3 bg-orange-600 text-white rounded-md font-bold shadow-lg">
                 Yêu Cầu Báo Giá
               </Link>
             </div>
