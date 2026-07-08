@@ -3,6 +3,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import FloatingContact from '@/components/lead-gen/FloatingContact';
 import GoogleTranslate from '@/components/GoogleTranslate';
+import SchemaOrg from '@/components/SchemaOrg';
 import { Outfit } from 'next/font/google';
 import Script from 'next/script';
 
@@ -55,6 +56,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body className={`${fontMain.variable} font-sans flex flex-col min-h-screen bg-slate-50 text-slate-900 antialiased`}>
+        <SchemaOrg />
         <GoogleTranslate />
         <Header />
         <main className="flex-grow pt-20 lg:pt-24">
