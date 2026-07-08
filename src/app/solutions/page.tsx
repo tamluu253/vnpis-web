@@ -248,7 +248,7 @@ export default function SolutionsPage() {
           <div className="aspect-video bg-slate-800 rounded-3xl shadow-2xl overflow-hidden relative flex items-center justify-center border border-slate-300">
             <iframe 
               className="w-full h-full absolute inset-0"
-              src="https://www.youtube.com/embed/2_YIe9D30uE" 
+              src="https://www.youtube.com/embed/qE28opXzqB0" 
               title="RFID Inventory Scanning Demo" 
               frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
