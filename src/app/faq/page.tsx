@@ -11,8 +11,25 @@ export const metadata = {
 export default function FAQPage() {
   const categories = Array.from(new Set(faqsData.map(faq => faq.category)));
 
+  const schemaData = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqsData.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer.replace(/<[^>]+>/g, ''), // Strip HTML for schema
+      },
+    })),
+  };
+
   return (
     <div className="min-h-screen bg-slate-50 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
+      />
       {/* 1. HERO SECTION */}
       <section className="relative pt-32 pb-24 bg-slate-900 text-white text-center">
         <div className="absolute inset-0 bg-blue-900/20 mix-blend-multiply" />

@@ -32,8 +32,33 @@ export default async function CaseStudyPage({ params }: { params: Promise<{ slug
 
   const { metadata, contentHtml } = post;
 
+  const schemaData = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: metadata.title,
+    description: metadata.description,
+    articleSection: metadata.industry,
+    author: {
+      '@type': 'Organization',
+      name: 'VNPIS',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'VNPIS - Industrial Printing Solutions',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://vnpis.com/icon.png',
+      },
+    },
+    datePublished: metadata.date || '2026-07-08T00:00:00.000Z',
+  };
+
   return (
     <main className="min-h-screen pt-24 pb-16 bg-white font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
+      />
       <article className="container mx-auto px-4 max-w-4xl">
         <Link href="/case-studies" className="inline-flex items-center text-blue-600 hover:text-blue-800 font-medium mb-8 transition-colors">
           <ArrowLeft className="w-4 h-4 mr-2" /> Các Case Study Khác

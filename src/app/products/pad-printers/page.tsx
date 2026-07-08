@@ -57,9 +57,9 @@ export default function PadPrintersPage() {
           <p className="text-lg text-slate-600 max-w-3xl mx-auto mb-8">
             Giải pháp in ấn hoàn hảo trên các bề mặt cong, lồi lõm hoặc không bằng phẳng. Phân phối chính hãng các dòng máy in Pad từ các thương hiệu: SJ, MC, HJ và DL.
           </p>
-          <div className="flex justify-center">
-            <Link href="/products/pad-printers/hj" className="inline-flex items-center bg-blue-50 text-blue-700 hover:bg-blue-100 font-semibold px-6 py-3 rounded-full transition-colors border border-blue-200">
-              Xem Toàn Bộ Catalog Máy HJ (30+ Models) <ArrowRight className="w-4 h-4 ml-2" />
+          <div className="flex justify-center mt-4">
+            <Link href="/products/pad-printers/hj" className="inline-flex items-center bg-blue-600 text-white hover:bg-blue-700 font-bold text-lg px-10 py-5 rounded-full shadow-xl shadow-blue-600/20 transition-all transform hover:-translate-y-1">
+              Xem Toàn Bộ Catalog Máy HJ (30+ Models) <ArrowRight className="w-5 h-5 ml-2" />
             </Link>
           </div>
         </div>

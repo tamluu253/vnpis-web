@@ -32,8 +32,33 @@ export default async function PillarPage({ params }: { params: Promise<{ slug: s
 
   const { metadata, contentHtml } = post;
 
+  const schemaData = {
+    '@context': 'https://schema.org',
+    '@type': 'TechArticle',
+    headline: metadata.title,
+    description: metadata.description,
+    articleSection: metadata.category,
+    author: {
+      '@type': 'Organization',
+      name: 'VNPIS',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'VNPIS - Industrial Printing Solutions',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://vnpis.com/icon.png',
+      },
+    },
+    datePublished: metadata.date || '2026-07-08T00:00:00.000Z',
+  };
+
   return (
     <main className="min-h-screen bg-slate-50 font-sans">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
+      />
       {/* 1. HERO SECTION */}
       <section className="relative pt-32 pb-24 lg:pt-40 lg:pb-32 overflow-hidden bg-slate-900 text-white">
         <div className="absolute inset-0 bg-blue-900/20 mix-blend-multiply" />
