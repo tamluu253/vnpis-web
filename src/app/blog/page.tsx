@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { ArrowRight, FileText } from 'lucide-react';
-import blogData from '@/data/blog-posts.json';
+import { getAllDocumentsMeta } from '@/lib/mdx';
 
 export const metadata = {
   title: 'Blog Kiến Thức In Phun Công Nghiệp | VNPIS',
@@ -9,6 +9,8 @@ export const metadata = {
 };
 
 export default function BlogIndex() {
+  const blogData = getAllDocumentsMeta('articles');
+  
   return (
     <main className="min-h-screen pt-24 pb-16 bg-slate-50">
       <div className="container mx-auto px-4">
@@ -25,7 +27,7 @@ export default function BlogIndex() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {blogData.map((article, index) => (
+          {blogData.map((article: any, index: number) => (
             <Link key={index} href={`/blog/${article.slug}`} className="group block bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 overflow-hidden flex flex-col h-full">
               <div className="relative aspect-video bg-slate-100 overflow-hidden">
                 {article.mediaExt === 'mp4' && article.slug !== 'giai-phap-in-truc-tiep-len-vo-trung-ga-muc-he01' && article.slug !== 'muc-in-day-cap-trang-linx-videojet' ? (
@@ -41,7 +43,7 @@ export default function BlogIndex() {
                   </div>
                 )}
                 <div className="absolute top-4 left-4 flex gap-2">
-                  <span className="bg-orange-500 text-white text-xs font-bold px-2.5 py-1 rounded-md">{article.type}</span>
+                  <span className="bg-orange-500 text-white text-xs font-bold px-2.5 py-1 rounded-md">{article.category}</span>
                   <span className="bg-slate-900/80 backdrop-blur-sm text-white text-xs font-bold px-2.5 py-1 rounded-md">{article.code}</span>
                 </div>
               </div>
@@ -50,7 +52,7 @@ export default function BlogIndex() {
                   {article.title}
                 </h2>
                 <p className="text-slate-600 text-sm mb-6 line-clamp-3 flex-grow">
-                  {article.desc}
+                  {article.description}
                 </p>
                 <div className="flex items-center text-blue-600 font-semibold text-sm mt-auto">
                   Xem chi tiết <ArrowRight className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" />

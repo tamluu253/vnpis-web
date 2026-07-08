@@ -2,33 +2,36 @@ import React from 'react';
 import { ArrowLeft, CheckCircle2 } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import blogData from '@/data/blog-posts.json';
+import { getAllSlugs, getDocumentBySlug } from '@/lib/mdx';
 
-// Generate static params for all 70 posts at build time
+// Generate static params for all posts at build time
 export function generateStaticParams() {
-  return blogData.map((post) => ({
-    slug: post.slug,
+  const slugs = getAllSlugs('articles');
+  return slugs.map((slug) => ({
+    slug: slug,
   }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;
-  const post = blogData.find((p) => p.slug === resolvedParams.slug);
+  const post = await getDocumentBySlug('articles', resolvedParams.slug);
   if (!post) return { title: 'Not Found' };
   
   return {
-    title: `${post.title} | VNPIS`,
-    description: post.desc,
+    title: `${post.metadata.title} | VNPIS`,
+    description: post.metadata.description,
   };
 }
 
 export default async function BlogPost({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;
-  const post = blogData.find((p) => p.slug === resolvedParams.slug);
+  const post = await getDocumentBySlug('articles', resolvedParams.slug);
   
   if (!post) {
     notFound();
   }
+
+  const { metadata, contentHtml } = post;
 
   return (
     <main className="min-h-screen pt-24 pb-16 bg-white">
@@ -40,40 +43,40 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         <div className="mb-10">
           <div className="flex gap-3 mb-6">
             <span className="bg-orange-100 text-orange-700 px-3 py-1 rounded-full text-sm font-bold border border-orange-200">
-              {post.type}
+              {metadata.category}
             </span>
             <span className="bg-slate-100 text-slate-700 px-3 py-1 rounded-full text-sm font-bold border border-slate-200">
-              Mã: {post.code}
+              Mã: {metadata.code}
             </span>
           </div>
           
           <h1 className="text-3xl md:text-5xl font-bold text-slate-900 mb-6 leading-tight">
-            {post.title}
+            {metadata.title}
           </h1>
           
           <p className="text-xl text-slate-600 mb-10 leading-relaxed">
-            {post.desc}
+            {metadata.description}
           </p>
 
           <div className="w-full aspect-video bg-slate-900 rounded-2xl overflow-hidden mb-12 shadow-lg relative flex items-center justify-center">
-            {post.mediaExt === 'mp4' && post.slug !== 'giai-phap-in-truc-tiep-len-vo-trung-ga-muc-he01' && post.slug !== 'muc-in-day-cap-trang-linx-videojet' ? (
-              <video src={`/media/blog/${post.slug}.mp4`} autoPlay loop muted playsInline className="w-full h-full object-cover" />
+            {metadata.mediaExt === 'mp4' && metadata.slug !== 'giai-phap-in-truc-tiep-len-vo-trung-ga-muc-he01' && metadata.slug !== 'muc-in-day-cap-trang-linx-videojet' ? (
+              <video src={`/media/blog/${metadata.slug}.mp4`} autoPlay loop muted playsInline className="w-full h-full object-cover" />
             ) : (
               <>
                 <img 
-                  src={post.mediaExt === 'jpg' ? `/media/blog/${post.slug}.jpg` : "/images/blog-placeholder.jpg"} 
-                  alt={post.title} 
+                  src={metadata.mediaExt === 'jpg' ? `/media/blog/${metadata.slug}.jpg` : "/images/blog-placeholder.jpg"} 
+                  alt={metadata.title} 
                   className="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-overlay" 
                 />
-                <span className="text-5xl md:text-7xl font-black text-white z-10 drop-shadow-2xl opacity-90">{post.code}</span>
+                <span className="text-5xl md:text-7xl font-black text-white z-10 drop-shadow-2xl opacity-90">{metadata.code}</span>
               </>
             )}
           </div>
         </div>
 
         <div className="prose prose-lg max-w-none text-slate-700 mb-16">
-          {post.content ? (
-            <div dangerouslySetInnerHTML={{ __html: post.content.replace(/\n/g, '<br />') }} />
+          {contentHtml ? (
+            <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
           ) : (
             <p>Nội dung chi tiết đang được cập nhật. Vui lòng liên hệ với VNPIS để được tư vấn trực tiếp về giải pháp này.</p>
           )}
@@ -118,9 +121,9 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "Article",
-            "headline": post.title,
-            "description": post.desc,
-            "image": post.mediaExt === 'jpg' ? `https://vnpis.com/media/blog/${post.slug}.jpg` : "https://vnpis.com/images/blog-placeholder.jpg",
+            "headline": metadata.title,
+            "description": metadata.description,
+            "image": metadata.mediaExt === 'jpg' ? `https://vnpis.com/media/blog/${metadata.slug}.jpg` : "https://vnpis.com/images/blog-placeholder.jpg",
             "author": {
               "@type": "Organization",
               "name": "VNPIS"
@@ -135,7 +138,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             },
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": `https://vnpis.com/blog/${post.slug}`
+              "@id": `https://vnpis.com/blog/${metadata.slug}`
             }
           })
         }}
