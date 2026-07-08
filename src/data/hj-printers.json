@@ -4,7 +4,7 @@
     "colors": 1,
     "desc": "Máy in pad 1 màu với hệ thống canh chỉnh CCD tự động chính xác cao",
     "plateSize": "100x150mm",
-    "printArea": "75x125mm",
+    "printArea": "70x120mm",
     "speed": "600 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp160a_ccd.png"
   },
@@ -13,7 +13,7 @@
     "colors": 8,
     "desc": "Hệ thống mâm xoay 8 màu, 22 trạm gắp thả sản phẩm chuyên dụng cho chai lọ",
     "plateSize": "100x2500mm",
-    "printArea": "75x225mm",
+    "printArea": "70x2470mm",
     "speed": "500 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_300hz.png"
   },
@@ -22,7 +22,7 @@
     "colors": 2,
     "desc": "Máy in pad 2 màu với hệ thống động cơ Servo kép",
     "plateSize": "200x400mm",
-    "printArea": "Ф160mm",
+    "printArea": "170x370mm",
     "speed": "1450 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp250aym.png"
   },
@@ -31,7 +31,7 @@
     "colors": 6,
     "desc": "Máy in pad 6 màu có hệ thống độc lập nâng hạ pad",
     "plateSize": "150x300mm",
-    "printArea": "Ф125mm",
+    "printArea": "120x270mm",
     "speed": "800 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_300fac.png"
   },
@@ -40,7 +40,7 @@
     "colors": 1,
     "desc": "Máy in pad 1 màu dạng cơ bản, khay mực hở",
     "plateSize": "100x100mm",
-    "printArea": "75x75mm",
+    "printArea": "70x70mm",
     "speed": "2100 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_125a.png"
   },
@@ -49,7 +49,7 @@
     "colors": 1,
     "desc": "Máy in pad 1 màu dùng cốc mực kín",
     "plateSize": "100x200mm",
-    "printArea": "Ф45mm",
+    "printArea": "70x170mm",
     "speed": "1500 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_125ay.png"
   },
@@ -58,7 +58,7 @@
     "colors": 2,
     "desc": "Máy in pad 2 màu hệ thống Shuttle trượt",
     "plateSize": "100x100mm",
-    "printArea": "75x75mm",
+    "printArea": "70x70mm",
     "speed": "1500 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_125b.png"
   },
@@ -67,7 +67,7 @@
     "colors": 1,
     "desc": "Máy in pad 1 màu khay mực hở đứng",
     "plateSize": "100x150mm",
-    "printArea": "75x125mm",
+    "printArea": "70x120mm",
     "speed": "1800 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_160.png"
   },
@@ -76,7 +76,7 @@
     "colors": 1,
     "desc": "Máy in pad 1 màu dùng cốc mực kín đứng",
     "plateSize": "100x250mm",
-    "printArea": "70x70mm",
+    "printArea": "Ф80mm",
     "speed": "1800 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_160y.png"
   },
@@ -85,7 +85,7 @@
     "colors": 2,
     "desc": "Máy in pad 2 màu băng tải (Conveyor)",
     "plateSize": "100x150mm",
-    "printArea": "75x125mm",
+    "printArea": "70x120mm",
     "speed": "1800 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_160bz.png"
   },
@@ -94,7 +94,7 @@
     "colors": 3,
     "desc": "Máy in pad 3 màu hệ thống trượt Shuttle",
     "plateSize": "100x250mm",
-    "printArea": "70x70mm",
+    "printArea": "Ф80mm",
     "speed": "900 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_160c.png"
   },
@@ -103,7 +103,7 @@
     "colors": 4,
     "desc": "Máy in pad 4 màu hệ thống trượt Shuttle",
     "plateSize": "100x250mm",
-    "printArea": "70x70mm",
+    "printArea": "Ф80mm",
     "speed": "680 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_160d.png"
   },
@@ -112,7 +112,7 @@
     "colors": 3,
     "desc": "Máy in pad 3 màu hệ thống mâm xoay (Turntable)",
     "plateSize": "100x150mm",
-    "printArea": "75x125mm",
+    "printArea": "70x120mm",
     "speed": "1200 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_160cz.png"
   },
@@ -121,7 +121,7 @@
     "colors": 4,
     "desc": "Máy in pad 4 màu hệ thống băng chuyền",
     "plateSize": "100x150mm",
-    "printArea": "75x125mm",
+    "printArea": "70x120mm",
     "speed": "1200 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_160dz.png"
   },
@@ -130,7 +130,7 @@
     "colors": 4,
     "desc": "Máy in pad 4 màu hệ cốc mực kín, băng chuyền",
     "plateSize": "100x150mm",
-    "printArea": "75x120mm",
+    "printArea": "70x120mm",
     "speed": "1200 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_200dzy.png"
   },
@@ -139,7 +139,7 @@
     "colors": 1,
     "desc": "Máy in pad 1 màu khay mực đứng (cỡ trung)",
     "plateSize": "150x300mm",
-    "printArea": "100x120mm",
+    "printArea": "120x270mm",
     "speed": "1600 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_200y.png"
   },
@@ -148,7 +148,7 @@
     "colors": 2,
     "desc": "Máy in pad 2 màu trượt Shuttle",
     "plateSize": "150x150mm",
-    "printArea": "120x125mm",
+    "printArea": "120x120mm",
     "speed": "1600 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_200b.png"
   },
@@ -157,7 +157,7 @@
     "colors": 6,
     "desc": "Máy in pad 6 màu hệ thống băng chuyền (Conveyor)",
     "plateSize": "100x150mm",
-    "printArea": "75x120mm",
+    "printArea": "70x120mm",
     "speed": "1600 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_200fz.png"
   },
@@ -166,7 +166,7 @@
     "colors": 4,
     "desc": "Máy in pad 4 màu khổ lớn trượt Shuttle",
     "plateSize": "150x350mm",
-    "printArea": "120x200mm",
+    "printArea": "120x320mm",
     "speed": "400 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_300d.png"
   },
@@ -175,7 +175,7 @@
     "colors": 1,
     "desc": "Máy in pad 1 màu khổ siêu lớn (chuyên in bàn phím máy tính)",
     "plateSize": "250x600mm",
-    "printArea": "200x500mm",
+    "printArea": "220x570mm",
     "speed": "1200 nhịp/giờ",
     "image": "/images/pad-printers/hj/hp_300k.png"
   }

@@ -64,11 +64,11 @@ export default function HJPrintersCatalog() {
                 
                 <div className="space-y-2 mt-auto pt-4 border-t border-slate-100">
                   <div className="flex justify-between text-sm">
-                    <span className="text-slate-500">Kích thước mâm:</span>
+                    <span className="text-slate-500">Kích thước bản in:</span>
                     <span className="font-semibold text-slate-700">{machine.plateSize}</span>
                   </div>
                   <div className="flex justify-between text-sm">
-                    <span className="text-slate-500">Diện tích in tối đa:</span>
+                    <span className="text-slate-500">Kích thước hình in tối đa:</span>
                     <span className="font-semibold text-slate-700">{machine.printArea}</span>
                   </div>
                   <div className="flex justify-between text-sm">
