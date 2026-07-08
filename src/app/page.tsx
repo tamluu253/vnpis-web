@@ -10,13 +10,13 @@ export default function Home() {
         <div className="absolute inset-0 bg-blue-900/20 mix-blend-multiply" />
         <div className="container mx-auto px-4 relative z-10 text-center max-w-5xl">
           <span className="inline-block py-1.5 px-4 rounded-full bg-blue-500/20 text-blue-300 text-sm font-bold tracking-widest mb-6 border border-blue-500/30 uppercase">
-            Giải Pháp In Công Nghiệp Toàn Diện
+            Industrial Printing Solutions
           </span>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-8 tracking-tight leading-tight">
-            Nâng Tầm Sản Xuất Với Công Nghệ In <span className="text-orange-500">Dữ Liệu Biến Đổi</span>
+            Nâng Tầm Sản Xuất Với Giải Pháp <span className="text-orange-500">In Công Nghiệp Toàn Diện</span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-300 mb-10 max-w-3xl mx-auto leading-relaxed">
-            VNPIS cung cấp giải pháp RFID, In QR Code và Truy xuất nguồn gốc tự động, giúp doanh nghiệp B2B tối ưu vận hành và bảo vệ thương hiệu.
+            Hệ sinh thái thiết bị, vật tư và dịch vụ in ấn cao cấp: UV Single Pass, Pad Printing, Screen Printing, TIJ, CIJ và Giải pháp in Dữ liệu biến đổi.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link href="/contact" className="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white bg-orange-600 rounded-lg hover:bg-orange-700 transition-all duration-300 shadow-xl shadow-orange-600/30 hover:-translate-y-1">
@@ -29,47 +29,89 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 2. SOLUTIONS GRID */}
+      {/* 2. CORE PILLARS */}
       <section className="py-24 bg-white relative">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16 max-w-3xl mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Giải Pháp Chủ Lực Tại VNPIS</h2>
-            <p className="text-lg text-slate-600">Chúng tôi không chỉ bán thiết bị, chúng tôi xây dựng hệ thống giải pháp toàn diện cho dây chuyền sản xuất của bạn.</p>
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">6 Trụ Cột Giải Pháp Cốt Lõi</h2>
+            <p className="text-lg text-slate-600">Hệ sinh thái in ấn công nghiệp toàn diện, đáp ứng mọi nhu cầu từ thiết bị, vật tư đến dịch vụ in gia công trực tiếp trên dây chuyền.</p>
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Card 1 */}
-            <Link href="/solutions/variable-data-printing" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-blue-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden">
+            {/* 1. UV Single Pass Printing */}
+            <Link href="/solutions/uv-single-pass-printing" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-blue-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
               <div className="w-14 h-14 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <Settings className="w-7 h-7" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4 group-hover:text-blue-600 transition-colors">In Dữ Liệu Biến Đổi</h3>
-              <p className="text-slate-600 mb-6 leading-relaxed">Giải pháp in ấn linh hoạt thông tin ngày sản xuất, mã lô, barcode với tốc độ cao trực tiếp trên dây chuyền.</p>
-              <div className="flex items-center text-blue-600 font-bold">
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-blue-600 transition-colors">1. UV Single Pass Printing</h3>
+              <div className="flex text-yellow-400 mb-4 text-lg">★★★★★</div>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Giải pháp in tốc độ cao trực tiếp trên chuyền. Tối ưu cho Variable Data, QR Code, Barcode, Serial kết hợp hệ thống Vision Camera.</p>
+              <div className="flex items-center text-blue-600 font-bold mt-auto">
                 Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </div>
             </Link>
 
-            {/* Card 2 */}
-            <Link href="/solutions/rfid" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-orange-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden">
+            {/* 2. Pad Printing */}
+            <Link href="/solutions/pad-printing" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-orange-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
               <div className="w-14 h-14 bg-orange-100 text-orange-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                <Factory className="w-7 h-7" />
+              </div>
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-orange-600 transition-colors">2. Pad Printing</h3>
+              <div className="flex text-yellow-400 mb-4 text-lg">★★★★★</div>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Hệ sinh thái trọn gói: Máy in, mực, silicone pad, bản in, hóa chất, primer và dịch vụ kỹ thuật chuyển giao công nghệ.</p>
+              <div className="flex items-center text-orange-600 font-bold mt-auto">
+                Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </Link>
+
+            {/* 3. Screen Printing */}
+            <Link href="/solutions/screen-printing" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-purple-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
+              <div className="w-14 h-14 bg-purple-100 text-purple-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                <CheckCircle2 className="w-7 h-7" />
+              </div>
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-purple-600 transition-colors">3. Screen Printing</h3>
+              <div className="flex text-yellow-400 mb-4 text-lg">★★★★☆</div>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Giải pháp in lụa công nghiệp. Cung cấp máy móc, vật tư cao cấp cùng dịch vụ in gia công chuyên nghiệp cho độ bền màu tuyệt đối.</p>
+              <div className="flex items-center text-purple-600 font-bold mt-auto">
+                Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </Link>
+
+            {/* 4. TIJ Printing */}
+            <Link href="/products/tij-printers" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-green-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
+              <div className="w-14 h-14 bg-green-100 text-green-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <BarChart3 className="w-7 h-7" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4 group-hover:text-orange-600 transition-colors">Hệ Thống RFID</h3>
-              <p className="text-slate-600 mb-6 leading-relaxed">Tự động hóa quản lý kho bãi, theo dõi hàng hóa và kiểm kê theo thời gian thực nhờ công nghệ chip RFID.</p>
-              <div className="flex items-center text-orange-600 font-bold">
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-green-600 transition-colors">4. TIJ Solutions</h3>
+              <div className="flex text-yellow-400 mb-4 text-lg">★★★★☆</div>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Công nghệ in phun nhiệt. Tập trung vào phân phối Cartridge, Ink (Solvent/UV), và phát triển giải pháp OEM theo yêu cầu.</p>
+              <div className="flex items-center text-green-600 font-bold mt-auto">
                 Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </div>
             </Link>
 
-            {/* Card 3 */}
-            <Link href="/solutions/anti-counterfeit" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-blue-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden">
-              <div className="w-14 h-14 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+            {/* 5. CIJ Printing */}
+            <Link href="/products/cij-printers" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-red-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
+              <div className="w-14 h-14 bg-red-100 text-red-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <ShieldCheck className="w-7 h-7" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-4 group-hover:text-blue-600 transition-colors">Chống Hàng Giả</h3>
-              <p className="text-slate-600 mb-6 leading-relaxed">Bảo vệ thương hiệu với giải pháp in mã QR động mã hóa kép, tem chống giả công nghệ cao khó sao chép.</p>
-              <div className="flex items-center text-blue-600 font-bold">
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-red-600 transition-colors">5. CIJ Consumables</h3>
+              <div className="flex text-yellow-400 mb-4 text-lg">★★★★☆</div>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Nguồn cung cấp ổn định, chất lượng cao các loại mực (Ink), dung môi (Solvent), Make-up và phụ tùng cho máy in phun liên tục.</p>
+              <div className="flex items-center text-red-600 font-bold mt-auto">
+                Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </div>
+            </Link>
+
+            {/* 6. Printing Service */}
+            <Link href="/services/variable-data-printing" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-yellow-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
+              <div className="w-14 h-14 bg-yellow-100 text-yellow-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                <Settings className="w-7 h-7" />
+              </div>
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-yellow-600 transition-colors">6. Printing Service</h3>
+              <div className="flex text-yellow-400 mb-4 text-lg">★★★★★</div>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Mỏ vàng dịch vụ của VNPIS. Bao gồm in QR, barcode, UV, tampon, lụa, cho thuê máy, và đặc biệt là In Dữ Liệu Biến Đổi Tận Nơi.</p>
+              <div className="flex items-center text-yellow-600 font-bold mt-auto">
                 Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </div>
             </Link>

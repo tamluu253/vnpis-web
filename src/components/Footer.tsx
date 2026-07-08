@@ -6,9 +6,9 @@ export default function Footer() {
   return (
     <footer className="bg-slate-950 text-slate-300 pt-20 pb-10 border-t-4 border-blue-600 font-sans">
       <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           {/* Column 1: Company Info */}
-          <div>
+          <div className="lg:col-span-1">
             <Link href="/" className="inline-block mb-6 bg-white p-2 rounded-lg">
               <img src="/images/vnpis-logo.png" alt="VNPIS Logo" className="h-10 w-auto" />
             </Link>
@@ -28,16 +28,27 @@ export default function Footer() {
             </div>
           </div>
 
+          {/* Column 2: Solutions */}
+          <div>
+            <h3 className="text-white text-lg font-bold mb-6">Giải Pháp & Dịch Vụ</h3>
+            <ul className="space-y-3">
+              <li><Link href="/solutions/uv-single-pass-printing" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> UV Single Pass Printing</Link></li>
+              <li><Link href="/solutions/variable-data-printing" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Variable Data Printing</Link></li>
+              <li><Link href="/solutions/pad-printing" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Pad Printing</Link></li>
+              <li><Link href="/solutions/screen-printing" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Screen Printing</Link></li>
+              <li><Link href="/services/pad-printing-service" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Dịch vụ in gia công</Link></li>
+            </ul>
+          </div>
 
           {/* Column 3: Products */}
           <div>
             <h3 className="text-white text-lg font-bold mb-6">Sản Phẩm Cốt Lõi</h3>
             <ul className="space-y-3">
-              <li><Link href="/products/uv-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Máy In Phun UV</Link></li>
-              <li><Link href="/products/cij-inks/domino" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Mực In Công Nghiệp CIJ</Link></li>
-              <li><Link href="/products/printheads/ricoh-gen5" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Đầu In Ricoh / Epson</Link></li>
-              <li><Link href="/products/pad-printing/machines" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Máy In Pad (Tampon)</Link></li>
-              <li><Link href="/products/pad-printing/inks" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Vật Tư In Pad</Link></li>
+              <li><Link href="/products/uv-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> UV Printer</Link></li>
+              <li><Link href="/products/tij-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> TIJ Printer</Link></li>
+              <li><Link href="/products/cij-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> CIJ Printer</Link></li>
+              <li><Link href="/products/industrial-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Industrial Ink</Link></li>
+              <li><Link href="/products/consumables" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Printing Consumables</Link></li>
             </ul>
           </div>
 

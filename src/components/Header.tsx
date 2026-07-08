@@ -4,52 +4,76 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { Menu, X, ChevronDown, PhoneCall, Globe, ExternalLink } from 'lucide-react';
 
+type NavigationItem = {
+  name: string;
+  href: string;
+  dropdown?: {
+    name: string;
+    href: string;
+    external?: boolean;
+  }[];
+};
+
 export default function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
 
-  const navigation = [
-
+  const navigation: NavigationItem[] = [
+    {
+      name: 'Giải Pháp',
+      href: '/solutions',
+      dropdown: [
+        { name: 'Variable Data Printing', href: '/solutions/variable-data-printing' },
+        { name: 'UV Single Pass Printing', href: '/solutions/uv-single-pass-printing' },
+        { name: 'Pad Printing', href: '/solutions/pad-printing' },
+        { name: 'Screen Printing', href: '/solutions/screen-printing' },
+        { name: 'Industrial Coding', href: '/solutions/industrial-coding' },
+      ],
+    },
     {
       name: 'Sản Phẩm',
       href: '/products',
       dropdown: [
-        { name: 'Máy In UV Single Pass', href: '/products/uv-printers' },
-        { name: 'Máy In Pad', href: '/products/pad-printers' },
-        { name: 'Máy In Lụa', href: '/products/screen-printers' },
-        { name: 'Mực In CIJ', href: '/products/cij-ink' },
-        { name: 'Mực In TIJ', href: '/products/tij-ink' },
-        { name: 'Mực In CIJ, TIJ Đặc Biệt', href: '/products/special-inks' },
-        { name: 'Đầu In Công Nghiệp', href: 'https://cuuhodauin.com', external: true },
+        { name: 'UV Printer', href: '/products/uv-printers' },
+        { name: 'Pad Printer', href: '/products/pad-printers' },
+        { name: 'Screen Printer', href: '/products/screen-printers' },
+        { name: 'TIJ Printer', href: '/products/tij-printers' },
+        { name: 'CIJ Printer', href: '/products/cij-printers' },
+        { name: 'Industrial Ink', href: '/products/industrial-ink' },
+        { name: 'Printheads', href: '/products/printheads' },
+        { name: 'Printing Consumables', href: '/products/consumables' },
       ]
     },
     {
       name: 'Dịch Vụ',
       href: '/services',
       dropdown: [
-        { name: 'In Công Nghiệp (Kỹ Thuật Số/Lụa)', href: 'https://inanvnpis.com', external: true },
-        { name: 'In Gia Công QR', href: '/services/qr-printing' },
-        { name: 'In Dữ Liệu Biến Đổi', href: '/services/variable-data-printing' },
-        { name: 'Dịch Vụ In Pad', href: 'https://inanvnpis.com', external: true },
-        { name: 'Dịch Vụ In UV', href: 'https://inanvnpis.com', external: true },
-        { name: 'Tư Vấn Giải Pháp', href: '/services/consulting' },
+        { name: 'Variable Data Printing', href: '/services/variable-data-printing' },
+        { name: 'Pad Printing Service', href: '/services/pad-printing-service' },
+        { name: 'Screen Printing Service', href: '/services/screen-printing-service' },
+        { name: 'Machine Rental', href: '/services/machine-rental' },
+        { name: 'Machine Repair', href: '/services/machine-repair' },
+        { name: 'Color Management', href: '/services/color-management' },
       ],
     },
     {
-      name: 'Ngành',
-      href: '/industries',
-    },
-    {
-      name: 'Blog',
+      name: 'Kiến Thức',
       href: '/blog',
+      dropdown: [
+        { name: 'Blog', href: '/blog' },
+        { name: 'Case Study', href: '/case-studies' },
+        { name: 'Video', href: '/videos' },
+        { name: 'Downloads', href: '/resources/download' },
+        { name: 'FAQ', href: '/faq' },
+      ],
     },
     {
-      name: 'Tài Liệu',
-      href: '/documents',
-    },
-    {
-      name: 'Về Chúng Tôi',
+      name: 'Giới Thiệu',
       href: '/about',
+    },
+    {
+      name: 'Liên Hệ',
+      href: '/contact',
     },
   ];
 
