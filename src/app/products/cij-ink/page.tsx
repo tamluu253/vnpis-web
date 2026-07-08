@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowRight, CheckCircle2, Factory, Droplets, ShieldCheck, Clock, Layers, Maximize } from 'lucide-react';
 import Link from 'next/link';
+import SpecialInksCatalog from '@/components/products/SpecialInksCatalog';
 
 export const metadata = {
   title: 'Mực In Phun Công Nghiệp CIJ | Tương Thích & Tiết Kiệm | VNPIS',
@@ -184,6 +185,19 @@ export default function CIJInkPage() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* INK CATALOG (DATA KHỦNG) */}
+      <section id="catalog" className="py-24 bg-slate-50 border-t border-slate-200">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Tra Cứu Hơn 100+ Mã Mực CIJ / TIJ</h2>
+            <div className="w-20 h-1 bg-blue-500 mx-auto rounded-full mb-8" />
+            <p className="text-lg text-slate-600">Hệ thống cơ sở dữ liệu các dòng mực đặc biệt, mực tương thích cho mọi bề mặt công nghiệp.</p>
+          </div>
+
+          <SpecialInksCatalog />
         </div>
       </section>
 

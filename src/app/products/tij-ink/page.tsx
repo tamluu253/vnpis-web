@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowRight, CheckCircle2, Zap, MonitorSmartphone, Package, Target } from 'lucide-react';
 import Link from 'next/link';
+import SpecialInksCatalog from '@/components/products/SpecialInksCatalog';
 
 export const metadata = {
   title: 'Mực In Nhiệt TIJ (Thermal Inkjet) | Độ Phân Giải Cao | VNPIS',
@@ -146,6 +147,19 @@ export default function TIJInkPage() {
               </tbody>
             </table>
           </div>
+        </div>
+      </section>
+
+      {/* INK CATALOG (DATA KHỦNG) */}
+      <section id="catalog" className="py-24 bg-slate-50 border-t border-slate-200">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16 max-w-3xl mx-auto">
+            <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">Tra Cứu Hơn 100+ Mã Mực CIJ / TIJ</h2>
+            <div className="w-20 h-1 bg-orange-500 mx-auto rounded-full mb-8" />
+            <p className="text-lg text-slate-600">Hệ thống cơ sở dữ liệu các dòng mực đặc biệt, mực tương thích cho mọi bề mặt công nghiệp.</p>
+          </div>
+
+          <SpecialInksCatalog />
         </div>
       </section>
 
