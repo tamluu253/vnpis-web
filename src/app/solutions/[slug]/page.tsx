@@ -84,8 +84,8 @@ export default async function PillarPage({ params }: { params: Promise<{ slug: s
                 
                 <h3 className="font-bold text-slate-900 text-lg mb-4">Cần Tư Vấn Nhanh?</h3>
                 <p className="text-slate-600 text-sm mb-6">Kỹ sư VNPIS luôn sẵn sàng giải đáp thắc mắc về công nghệ {metadata.category}.</p>
-                <Link href="/contact" className="w-full inline-flex items-center justify-center px-4 py-3 bg-blue-600 text-white rounded-lg font-bold hover:bg-blue-700 transition-colors">
-                  <Phone className="w-4 h-4 mr-2" /> Gọi Chuyên Gia
+                <Link href="tel:0987453866" className="w-full inline-flex items-center justify-center px-4 py-3 bg-blue-600 text-white rounded-lg font-bold hover:bg-blue-700 transition-colors">
+                  <Phone className="w-4 h-4 mr-2" /> Gọi: 098 745 3866
                 </Link>
                 <Link href="/solutions" className="w-full inline-flex items-center justify-center px-4 py-3 bg-slate-100 text-slate-700 rounded-lg font-semibold mt-3 hover:bg-slate-200 transition-colors">
                   <ArrowLeft className="w-4 h-4 mr-2" /> Xem giải pháp khác
