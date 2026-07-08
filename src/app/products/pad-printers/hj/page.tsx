@@ -49,7 +49,7 @@ export default function HJPrintersCatalog() {
             <div key={machine.model} className="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 flex flex-col overflow-hidden group">
               <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center border-b border-slate-50 overflow-hidden">
                 <Image 
-                  src="/images/products/hj/HP-125AY.png"
+                  src={machine.image || "/images/products/hj/HP-125AY.png"}
                   alt={machine.model}
                   fill
                   className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
