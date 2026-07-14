@@ -78,7 +78,7 @@ export default function HJPrintersCatalog() {
                 </div>
 
                 <a href="tel:0987453866" className="mt-6 w-full text-center bg-slate-50 hover:bg-slate-100 text-blue-600 font-semibold py-2.5 rounded-lg transition-colors border border-slate-200 text-sm">
-                  Liên Hệ Hotline
+                  Liên hệ 0987453866
                 </a>
               </div>
             </div>
