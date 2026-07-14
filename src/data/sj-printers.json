@@ -15,7 +15,7 @@
     "plateSize": "100×75/100×100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/sydk_125_100.png"
   },
   {
     "model": "SYDK2-125-100",
@@ -33,7 +33,7 @@
     "plateSize": "100×75/100×100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/syck_125_100.png"
   },
   {
     "model": "SYG-125-100",
@@ -60,7 +60,7 @@
     "plateSize": "100*234",
     "printArea": "70x204mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/sydk_125_90.png"
   },
   {
     "model": "SYDK2-125-90",
@@ -69,7 +69,7 @@
     "plateSize": "100*234",
     "printArea": "70x204mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/sydk2_125_90.png"
   },
   {
     "model": "SYCK-125-90",
@@ -78,7 +78,7 @@
     "plateSize": "100*234",
     "printArea": "70x204mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/syck_125_90.png"
   },
   {
     "model": "SYDK-200-150",
@@ -87,7 +87,7 @@
     "plateSize": "150×75/150×100",
     "printArea": "120x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/sydk_200_150.png"
   },
   {
     "model": "SYDK2-200-150",
@@ -105,7 +105,7 @@
     "plateSize": "150×75/150×100",
     "printArea": "120x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/syck_200_150.png"
   },
   {
     "model": "SYCK-200-90",
@@ -123,7 +123,7 @@
     "plateSize": "100*234MM",
     "printArea": "70x204mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/sydq_125_90.png"
   },
   {
     "model": "SYDH-125-90",
@@ -168,7 +168,7 @@
     "plateSize": "100*75/100*100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/msz_150_3.png"
   },
   {
     "model": "MSZ-150-4",
@@ -177,7 +177,7 @@
     "plateSize": "100*75/100*100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/msz_150_4.png"
   },
   {
     "model": "MSC-150-2",
@@ -204,7 +204,7 @@
     "plateSize": "100*75/100*100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/msc_150_4.png"
   },
   {
     "model": "MS-200",
@@ -213,7 +213,7 @@
     "plateSize": "150*100/150*150",
     "printArea": "120x70mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/ms_200.png"
   },
   {
     "model": "MS-250",
@@ -222,7 +222,7 @@
     "plateSize": "200*100/200*150",
     "printArea": "170x70mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/ms_250.png"
   },
   {
     "model": "MND125-100",
@@ -231,7 +231,7 @@
     "plateSize": "100×75/100×100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/mnd125_100.png"
+    "image": "/images/pad-printers/sj/mnd125_100.jpg"
   },
   {
     "model": "MND125-100T",
@@ -240,7 +240,7 @@
     "plateSize": "100×75/100×100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/mnd125_100t.png"
   },
   {
     "model": "MYD-125-90",
@@ -249,7 +249,7 @@
     "plateSize": "100*234",
     "printArea": "70x204mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/myd_125_90.jpg"
   },
   {
     "model": "MYD-200-90",
@@ -258,7 +258,7 @@
     "plateSize": "100*310",
     "printArea": "70x280mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/myd_200_90.jpg"
   },
   {
     "model": "MYDG-125-100",
@@ -267,6 +267,6 @@
     "plateSize": "100*75/100*100",
     "printArea": "70x45mm",
     "speed": "Liên hệ",
-    "image": ""
+    "image": "/images/pad-printers/sj/mydg_125_100.png"
   }
 ]
