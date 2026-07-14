@@ -47,13 +47,13 @@ export default function HJPrintersCatalog() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {sjPrinters.map((machine) => (
             <div key={machine.model} className="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 flex flex-col overflow-hidden group">
-              <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center border-b border-slate-50 overflow-hidden">
+              <div className="aspect-square bg-white relative flex items-center justify-center border-b border-slate-100 overflow-hidden">
                 {machine.image ? (
                   <Image 
                     src={machine.image}
                     alt={machine.model}
                     fill
-                    className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
+                    className="object-contain p-2 group-hover:scale-110 transition-transform duration-500 mix-blend-multiply"
                   />
                 ) : (
                   <div className="flex flex-col items-center justify-center text-slate-300 group-hover:text-slate-400 transition-colors">
