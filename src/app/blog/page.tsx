@@ -1,6 +1,6 @@
 import React from 'react';
-import Link from 'next/link';
-import { ArrowRight, FileText } from 'lucide-react';
+import { FileText } from 'lucide-react';
+import BlogList from '@/components/BlogList';
 import { getAllDocumentsMeta } from '@/lib/mdx';
 
 export const metadata = {
@@ -26,41 +26,7 @@ export default function BlogIndex() {
           </p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {blogData.map((article: any, index: number) => (
-            <Link key={index} href={`/blog/${article.slug}`} className="group block bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 overflow-hidden flex flex-col h-full">
-              <div className="relative aspect-video bg-slate-100 overflow-hidden">
-                {article.mediaExt === 'mp4' && article.slug !== 'giai-phap-in-truc-tiep-len-vo-trung-ga-muc-he01' && article.slug !== 'muc-in-day-cap-trang-linx-videojet' ? (
-                  <video src={`/media/blog/${article.slug}.mp4`} muted loop playsInline className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
-                ) : (
-                  <div className="w-full h-full flex items-center justify-center bg-slate-900 group-hover:scale-105 transition-transform duration-500 relative">
-                     <img 
-                       src={article.mediaExt === 'jpg' ? `/media/blog/${article.slug}.jpg` : "/images/blog-placeholder.jpg"} 
-                       alt={article.title} 
-                       className="absolute inset-0 w-full h-full object-cover opacity-60 mix-blend-overlay" 
-                     />
-                     <span className="text-4xl md:text-5xl font-black text-white z-10 drop-shadow-lg opacity-90">{article.code}</span>
-                  </div>
-                )}
-                <div className="absolute top-4 left-4 flex gap-2">
-                  <span className="bg-orange-500 text-white text-xs font-bold px-2.5 py-1 rounded-md">{article.category}</span>
-                  <span className="bg-slate-900/80 backdrop-blur-sm text-white text-xs font-bold px-2.5 py-1 rounded-md">{article.code}</span>
-                </div>
-              </div>
-              <div className="p-6 flex flex-col flex-grow">
-                <h2 className="text-xl font-bold text-slate-900 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2">
-                  {article.title}
-                </h2>
-                <p className="text-slate-600 text-sm mb-6 line-clamp-3 flex-grow">
-                  {article.description}
-                </p>
-                <div className="flex items-center text-blue-600 font-semibold text-sm mt-auto">
-                  Xem chi tiết <ArrowRight className="w-4 h-4 ml-1 group-hover:translate-x-1 transition-transform" />
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
+        <BlogList initialData={blogData} />
 
       </div>
     </main>
