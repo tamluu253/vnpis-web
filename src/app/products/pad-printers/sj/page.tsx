@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { Settings, PhoneCall, ArrowLeft, Filter } from 'lucide-react';
+import { Settings, PhoneCall, ArrowLeft, Filter, ImageOff } from 'lucide-react';
 import Image from 'next/image';
 import sjPrinters from '@/data/sj-printers.json';
 
@@ -48,12 +48,19 @@ export default function HJPrintersCatalog() {
           {sjPrinters.map((machine) => (
             <div key={machine.model} className="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 flex flex-col overflow-hidden group">
               <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center border-b border-slate-50 overflow-hidden">
-                <Image 
-                  src={machine.image || "/images/pad-printers/sj/mn_80_75.png"}
-                  alt={machine.model}
-                  fill
-                  className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
-                />
+                {machine.image ? (
+                  <Image 
+                    src={machine.image}
+                    alt={machine.model}
+                    fill
+                    className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
+                  />
+                ) : (
+                  <div className="flex flex-col items-center justify-center text-slate-300 group-hover:text-slate-400 transition-colors">
+                    <ImageOff className="w-12 h-12 mb-2" />
+                    <span className="text-xs font-medium">Đang cập nhật hình</span>
+                  </div>
+                )}
                 <div className="absolute top-3 left-3 bg-white px-2 py-1 rounded-md text-xs font-bold text-slate-800 shadow-sm border border-slate-200 z-10">
                   {machine.colors} Màu
                 </div>
