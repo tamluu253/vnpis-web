@@ -49,6 +49,11 @@ export default function ScreenPrintersPage() {
           <p className="text-lg text-slate-600 max-w-3xl mx-auto">
             Giải pháp in lụa (in lưới) hoàn hảo cho các bề mặt phẳng khổ lớn và in 360 độ trên chai lọ. Phân phối chính hãng các dòng máy in lụa từ MC, HJ và DL.
           </p>
+          <div className="flex justify-center mt-8 space-x-4">
+            <Link href="/products/screen-printers/hj" className="inline-flex items-center bg-blue-600 text-white hover:bg-blue-700 font-bold text-lg px-10 py-5 rounded-full shadow-xl shadow-blue-600/20 transition-all transform hover:-translate-y-1">
+              Xem Catalog Máy In Lụa HJ (17 Models) <ArrowRight className="w-5 h-5 ml-2" />
+            </Link>
+          </div>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-20">
@@ -79,8 +84,8 @@ export default function ScreenPrintersPage() {
                   ))}
                 </ul>
                 
-                <Link href="#contact-form" className="inline-flex items-center justify-center w-full bg-slate-100 hover:bg-indigo-600 text-slate-800 hover:text-white font-semibold py-3 rounded-xl transition-colors mt-auto">
-                  Nhận Báo Giá <ArrowRight className="w-4 h-4 ml-2" />
+                <Link href={machine.id === 'hj-screen-1' ? "/products/screen-printers/hj" : "#contact-form"} className="inline-flex items-center justify-center w-full bg-slate-100 hover:bg-indigo-600 text-slate-800 hover:text-white font-semibold py-3 rounded-xl transition-colors mt-auto">
+                  {machine.id === 'hj-screen-1' ? "Xem Tất Cả Máy HJ" : "Nhận Báo Giá"} <ArrowRight className="w-4 h-4 ml-2" />
                 </Link>
               </div>
             </div>
