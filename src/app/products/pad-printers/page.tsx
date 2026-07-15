@@ -74,7 +74,7 @@ export default function PadPrintersPage() {
                   <video src={machine.video} autoPlay loop muted playsInline className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                 ) : (
                   <div className="w-full h-full flex items-center justify-center bg-slate-200 text-slate-400 font-semibold text-xl">
-                    {machine.imgPlaceholder}
+                    {machine.name}
                   </div>
                 )}
                 <div className="absolute top-4 right-4 bg-white/90 backdrop-blur-sm px-3 py-1 rounded-lg font-bold text-slate-800 shadow-sm">
