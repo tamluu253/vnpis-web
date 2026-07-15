@@ -1,24 +1,24 @@
 import React from 'react';
 import Link from 'next/link';
-import { Settings, PhoneCall, ArrowLeft, Filter } from 'lucide-react';
+import { Settings, PhoneCall, ArrowLeft } from 'lucide-react';
 import Image from 'next/image';
-import hjPrinters from '@/data/hj-printers.json';
+import hjScreenPrinters from '@/data/hj-screen-printers.json';
 
 export const metadata = {
-  title: 'Catalog Máy In Pad HJ | VNPIS',
-  description: 'Danh mục chi tiết toàn bộ các model máy in pad của hãng HJ (Từ 1 màu cơ bản đến 8 màu tự động)',
+  title: 'Catalog Máy In Lụa HJ | VNPIS',
+  description: 'Danh mục chi tiết toàn bộ các model máy in lụa (Screen Printers) của hãng HJ.',
 };
 
-export default function HJPrintersCatalog() {
+export default function HJScreenPrintersCatalog() {
   return (
     <main className="min-h-screen pt-24 pb-16 bg-slate-50">
       <div className="container mx-auto px-4 max-w-7xl">
         
         {/* Breadcrumb */}
         <div className="mb-8">
-          <Link href="/products/pad-printers" className="inline-flex items-center text-sm font-medium text-slate-500 hover:text-blue-600 transition-colors">
+          <Link href="/products/screen-printers" className="inline-flex items-center text-sm font-medium text-slate-500 hover:text-blue-600 transition-colors">
             <ArrowLeft className="w-4 h-4 mr-2" />
-            Trở lại danh mục Máy In Pad
+            Trở lại danh mục Máy In Lụa
           </Link>
         </div>
 
@@ -29,9 +29,9 @@ export default function HJPrintersCatalog() {
               <Settings className="w-5 h-5" />
               <span>HJ Series Catalog</span>
             </div>
-            <h1 className="text-3xl md:text-5xl font-bold text-slate-900 mb-4">Danh Mục Máy In Pad HJ</h1>
+            <h1 className="text-3xl md:text-5xl font-bold text-slate-900 mb-4">Danh Mục Máy In Lụa HJ</h1>
             <p className="text-lg text-slate-600">
-              Tổng hợp 20 model máy in pad chất lượng cao từ hãng HJ. Đáp ứng mọi nhu cầu từ xưởng gia công nhỏ đến dây chuyền sản xuất tự động hàng loạt.
+              Tổng hợp các model máy in lụa (Screen Printers) chất lượng cao từ hãng HJ. Đáp ứng mọi nhu cầu từ in lụa phẳng, in lụa tròn đến hệ thống servo tự động chính xác cao.
             </p>
           </div>
           <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 text-center md:text-right flex-shrink-0">
@@ -45,37 +45,43 @@ export default function HJPrintersCatalog() {
 
         {/* Catalog Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {hjPrinters.map((machine) => (
+          {hjScreenPrinters.map((machine) => (
             <div key={machine.model} className="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 flex flex-col overflow-hidden group">
               <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center border-b border-slate-50 overflow-hidden">
                 <Image 
-                  src={machine.image || "/images/products/hj/HP-125AY.png"}
+                  src={machine.image || "/images/pad-printers/hj/placeholder.png"}
                   alt={machine.model}
                   fill
                   className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
                 />
-                <div className="absolute top-3 left-3 bg-white px-2 py-1 rounded-md text-xs font-bold text-slate-800 shadow-sm border border-slate-200 z-10">
-                  {machine.colors} Màu
-                </div>
               </div>
               <div className="p-5 flex flex-col flex-grow">
                 <h3 className="text-xl font-bold text-slate-900 mb-2">{machine.model}</h3>
                 <p className="text-slate-600 text-sm mb-4 line-clamp-2 min-h-[40px]">{machine.desc}</p>
                 
-                <div className="space-y-2 mt-auto pt-4 border-t border-slate-100">
-                  <div className="flex justify-between text-sm">
-                    <span className="text-slate-500">Kích thước bản in:</span>
-                    <span className="font-semibold text-slate-700">{machine.plateSize}</span>
+                {/* Chỉ hiển thị các thông số nếu có dữ liệu, vì dòng này hiện tại chưa có thông số */}
+                {(machine.plateSize || machine.printArea || machine.speed) && (
+                  <div className="space-y-2 mt-auto pt-4 border-t border-slate-100">
+                    {machine.plateSize && (
+                      <div className="flex justify-between text-sm">
+                        <span className="text-slate-500">Kích thước khung/bản:</span>
+                        <span className="font-semibold text-slate-700">{machine.plateSize}</span>
+                      </div>
+                    )}
+                    {machine.printArea && (
+                      <div className="flex justify-between text-sm">
+                        <span className="text-slate-500">Kích thước hình in:</span>
+                        <span className="font-semibold text-slate-700">{machine.printArea}</span>
+                      </div>
+                    )}
+                    {machine.speed && (
+                      <div className="flex justify-between text-sm">
+                        <span className="text-slate-500">Tốc độ in:</span>
+                        <span className="font-semibold text-slate-700">{machine.speed}</span>
+                      </div>
+                    )}
                   </div>
-                  <div className="flex justify-between text-sm">
-                    <span className="text-slate-500">Kích thước hình in tối đa:</span>
-                    <span className="font-semibold text-slate-700">{machine.printArea}</span>
-                  </div>
-                  <div className="flex justify-between text-sm">
-                    <span className="text-slate-500">Tốc độ in:</span>
-                    <span className="font-semibold text-slate-700">{machine.speed}</span>
-                  </div>
-                </div>
+                )}
 
                 <a href="tel:0987453866" className="mt-6 w-full text-center bg-slate-50 hover:bg-slate-100 text-blue-600 font-semibold py-2.5 rounded-lg transition-colors border border-slate-200 text-sm">
                   Liên hệ 0987453866
