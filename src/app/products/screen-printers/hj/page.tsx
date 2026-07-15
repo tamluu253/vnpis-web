@@ -48,12 +48,18 @@ export default function HJScreenPrintersCatalog() {
           {hjScreenPrinters.map((machine) => (
             <div key={machine.model} className="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 flex flex-col overflow-hidden group">
               <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center border-b border-slate-50 overflow-hidden">
-                <Image 
-                  src={machine.image || "/images/pad-printers/hj/placeholder.png"}
-                  alt={machine.model}
-                  fill
-                  className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
-                />
+                {(!machine.image || machine.image.includes('placeholder')) ? (
+                  <div className="w-full h-full flex items-center justify-center bg-slate-200 text-slate-400 font-semibold text-center p-4">
+                    Ảnh đang cập nhật
+                  </div>
+                ) : (
+                  <Image 
+                    src={machine.image}
+                    alt={machine.model}
+                    fill
+                    className="object-contain p-4 group-hover:scale-110 transition-transform duration-500"
+                  />
+                )}
               </div>
               <div className="p-5 flex flex-col flex-grow">
                 <h3 className="text-xl font-bold text-slate-900 mb-2">{machine.model}</h3>
