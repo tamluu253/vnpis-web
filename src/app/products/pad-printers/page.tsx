@@ -4,37 +4,36 @@ import { Settings, CheckCircle2, ArrowRight } from 'lucide-react';
 
 const padPrinters = [
   {
-    id: 'sanjin-150x400',
+    id: 'hj-160byn',
+    brand: 'HJ',
+    name: 'HP-160AY',
+    desc: 'Máy in pad 1 màu với hệ thống vận hành tự động, độ ổn định cao. Phù hợp cho đa dạng nhu cầu in ấn sản phẩm vừa và nhỏ.',
+    video: '/media/machines/hp-160byn.mp4',
+    features: ['Hệ thống cốc mực kín', 'Hành trình trượt mượt mà', 'Cảm biến an toàn']
+  },
+  {
+    id: 'hj-200ay',
+    brand: 'HJ',
+    name: 'HP-200AY',
+    desc: 'Dòng máy in pad cao cấp HP-200AY, tối ưu cho việc in các logo có kích thước lớn với khay mực mở rộng và lực in mạnh mẽ.',
+    video: '/media/machines/hp-200ay.mp4',
+    features: ['Lực in mạnh mẽ, đều màu', 'Màn hình điều khiển PLC', 'Tốc độ: 1600 nhịp/giờ']
+  },
+  {
+    id: 'hj-200yx',
+    brand: 'HJ',
+    name: 'HP-200YX',
+    desc: 'Hệ thống in pad chuyên dụng tốc độ cao, hiệu suất vượt trội, tiết kiệm tối đa thời gian và vật tư cho xưởng công nghiệp.',
+    video: '/media/machines/hp-200yx.mp4',
+    features: ['Cốc mực kín cỡ lớn', 'Linh kiện khí nén chuẩn Âu', 'Hệ thống sấy tích hợp']
+  },
+  {
+    id: 'sj-150x400',
     brand: 'SJ',
     name: 'SJ-150x400 (1 Màu)',
     desc: 'Máy in pad 1 màu khổ 150x400, chuyên in logo lên vật thể cong như bút bi, thân ống. Hoạt động ổn định, độ nét cao.',
     video: '/media/machines/sanjin-150x400-pen.mp4',
     features: ['Cốc mực kín 90mm', 'Tốc độ: 1200 nhịp/giờ', 'Bàn làm việc X-Y-R']
-  },
-  {
-    id: 'mc-150x150-2c',
-    brand: 'MC',
-    name: 'MC-150x150 (2 Màu Bàn Trượt)',
-    desc: 'Máy in 2 màu đồng thời, độ lệch màu cực thấp. Phù hợp in nắp chai, nắp hũ mỹ phẩm, đồ chơi.',
-    video: '/media/machines/mc-150x150-2color.mp4',
-    features: ['In 2 màu tự động', 'Bàn trượt Shuttle', 'Bơm mực tự động']
-  },
-  {
-    id: 'hj-4color',
-    brand: 'HJ',
-    name: 'HJ-4Color (4 Màu Tự Động)',
-    desc: 'Hệ thống tự động cấp phôi, in 4 màu độc lập và gắp thành phẩm. Tối ưu sản xuất hàng loạt.',
-    video: '/media/machines/hj-4color.mp4',
-    features: ['Tự động hóa 100%', 'PLC Touch Screen', 'Tự động lau pad']
-  },
-  {
-    id: 'dl-series',
-    brand: 'DL',
-    name: 'DL (Series Phổ Thông)',
-    desc: 'Máy in pad để bàn phổ thông. Thiết kế nhỏ gọn, độ bền linh kiện cao.',
-    video: '',
-    imgPlaceholder: 'DL Pad Printer',
-    features: ['Đạt chuẩn CE', 'Giao diện cảm ứng', 'Linh kiện SMC/Festo']
   }
 ];
 
