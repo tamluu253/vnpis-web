@@ -9,6 +9,12 @@ export const metadata = {
 
 const productCategories = [
   {
+    title: 'Mực In CIJ/TIJ Đặc Biệt',
+    description: 'Mực dùng cho máy in phun CIJ/TIJ nhưng có đặc tính chuyên dụng: kháng dung môi, chịu nhiệt độ cao, bám dính siêu việt trên thủy tinh, cáp điện, kim loại.',
+    href: '/products/special-inks',
+    icon: <Droplet className="w-10 h-10 text-purple-500" />
+  },
+  {
     title: 'Hệ Thống Kho RFID (SME)',
     description: 'Hệ thống kiểm kho tự động siêu tốc 1000 sản phẩm/5 phút. Trọn gói thiết bị, thẻ tag và phần mềm.',
     href: '/products/rfid-warehouse-sme',
@@ -25,12 +31,6 @@ const productCategories = [
     description: 'Máy in date, in mã vạch tự động tốc độ cao cho dây chuyền sản xuất thực phẩm, bao bì.',
     href: '/products/tij-printers',
     icon: <Package className="w-10 h-10 text-green-500" />
-  },
-  {
-    title: 'Mực In Chuyên Dụng',
-    description: 'Mực in UV, mực dung môi bám dính cao trên mọi bề mặt: nhựa, kim loại, thủy tinh, cáp điện.',
-    href: '/products/special-inks',
-    icon: <Droplet className="w-10 h-10 text-purple-500" />
   },
   {
     title: 'Máy In Tampon & In Lụa',
