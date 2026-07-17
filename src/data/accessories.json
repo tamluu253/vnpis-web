@@ -1,0 +1,85 @@
+{
+  "pads": [
+    {
+      "id": "pad-round",
+      "name": "Cục Silicone Tròn (Round Pad)",
+      "desc": "Đầu in phổ biến nhất, lực ép đều từ tâm ra viền, giúp bọt khí dễ dàng thoát ra ngoài, chống biến dạng hình ảnh.",
+      "features": ["Thoát khí tốt", "In trên bề mặt cong hoặc lồi/lõm", "Hình ảnh sắc nét"],
+      "image": "https://cdn-icons-png.flaticon.com/512/9313/9313075.png"
+    },
+    {
+      "id": "pad-rectangular",
+      "name": "Cục Silicone Chữ Nhật (Rectangular)",
+      "desc": "Thiết kế với góc nghiêng (mái nhà) giúp lăn mực đều đặn. Phù hợp cho các thiết kế in dài hoặc logo hình chữ nhật.",
+      "features": ["In text dài", "In logo chữ nhật", "Chống méo biên"],
+      "image": "https://cdn-icons-png.flaticon.com/512/9313/9313075.png"
+    },
+    {
+      "id": "pad-custom",
+      "name": "Cục Silicone Hình Thù Đặc Biệt",
+      "desc": "Được đúc theo khuôn mẫu đặc thù của sản phẩm khách hàng (Ví dụ: in mặt lõm sâu, in bậc thang).",
+      "features": ["Custom khuôn", "Độ cứng 30-70 shore tùy chọn", "Chống tĩnh điện"],
+      "image": "https://cdn-icons-png.flaticon.com/512/9313/9313075.png"
+    }
+  ],
+  "plates": [
+    {
+      "id": "plate-steel-thick",
+      "name": "Khuôn Thép Dày (10mm)",
+      "desc": "Khuôn thép hợp kim siêu bền, được gia công CNC và khắc axit hoặc khắc laser chính xác. Tuổi thọ lên đến hàng triệu lần in.",
+      "features": ["Dày 10mm", "Tuổi thọ 1-2 triệu lần in", "Dành cho sản xuất hàng loạt"],
+      "image": "https://cdn-icons-png.flaticon.com/512/2920/2920110.png"
+    },
+    {
+      "id": "plate-steel-thin",
+      "name": "Khuôn Thép Mỏng (0.5mm)",
+      "desc": "Khuôn thép lá mỏng tiết kiệm chi phí, sử dụng kèm đế nam châm (Magnetic block). Dễ lưu trữ, phù hợp in đơn hàng trung bình.",
+      "features": ["Dày 0.25mm - 0.5mm", "Cần đế nam châm", "Tiết kiệm chi phí"],
+      "image": "https://cdn-icons-png.flaticon.com/512/2920/2920110.png"
+    },
+    {
+      "id": "plate-polymer",
+      "name": "Khuôn Polymer",
+      "desc": "Khuôn gốc nhựa dễ phơi bản bằng tia UV tại nhà máy. Khắc phục sự phụ thuộc vào xưởng làm khuôn thép.",
+      "features": ["Có thể tự phơi bản", "Tuổi thọ 10,000 - 50,000 lần", "Linh hoạt cho in mẫu"],
+      "image": "https://cdn-icons-png.flaticon.com/512/2920/2920110.png"
+    }
+  ],
+  "accessories": [
+    {
+      "id": "acc-ink-cup",
+      "name": "Cốc Mực (Sealed Ink Cup)",
+      "desc": "Hệ thống cốc mực kín tích hợp nam châm giúp giữ mực không bay hơi, tiết kiệm dung môi và hạn chế mùi độc hại.",
+      "sizes": ["Ø60mm", "Ø90mm", "Ø130mm", "Ø150mm"],
+      "image": "https://cdn-icons-png.flaticon.com/512/2271/2271062.png"
+    },
+    {
+      "id": "acc-ceramic-ring",
+      "name": "Vòng Gốm Gạt Mực (Ceramic Ring)",
+      "desc": "Vòng gốm siêu cứng gắn trên cốc mực. Chịu mài mòn cực tốt, gạt sạch mực thừa trên bề mặt khuôn thép mà không làm xước khuôn.",
+      "sizes": ["Ø60mm", "Ø90mm", "Ø130mm", "Ø150mm"],
+      "image": "https://cdn-icons-png.flaticon.com/512/8654/8654716.png"
+    },
+    {
+      "id": "acc-tungsten-ring",
+      "name": "Vòng Thép Gạt Mực (Tungsten Ring)",
+      "desc": "Làm từ thép Tungsten Carbide nguyên khối, chống mẻ vỡ khi va đập, tuổi thọ cao hơn gốm khi dùng với khuôn thép dày.",
+      "sizes": ["Ø60mm", "Ø90mm", "Ø130mm", "Ø150mm"],
+      "image": "https://cdn-icons-png.flaticon.com/512/8654/8654716.png"
+    },
+    {
+      "id": "acc-doctor-blade",
+      "name": "Dao Gạt Mực (Doctor Blade)",
+      "desc": "Dao gạt mực thép mỏng dùng cho máy in khay hở (Open-inkwell) hoặc dao gạt mực cao su (Squeegee) cho máy in lụa.",
+      "sizes": ["Cắt theo yêu cầu"],
+      "image": "https://cdn-icons-png.flaticon.com/512/619/619044.png"
+    },
+    {
+      "id": "acc-tray-liner",
+      "name": "Tấm Lót Khay Mực (Ink Tray Liners)",
+      "desc": "Tấm nhựa lót trong khay mực, dùng 1 lần. Khắc phục triệt để thời gian rửa khay mỗi lần thay màu mực.",
+      "sizes": ["Vừa khít mọi loại khay"],
+      "image": "https://cdn-icons-png.flaticon.com/512/10041/10041261.png"
+    }
+  ]
+}
