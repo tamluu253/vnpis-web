@@ -92,34 +92,15 @@
         "desc": "Đầu in tích hợp hộp mực 12.7mm hoặc 22.5mm tiện dụng, thay thế nhanh chóng. Khởi động là in, không lo tắc nghẽn.",
         "href": "/contact",
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
-      }
-    ]
-  },
-  {
-    "brandId": "kodak",
-    "brandName": "KODAK",
-    "country": "Mỹ (USA)",
-    "description": "Công nghệ phun liên tục (CIJ) tốc độ siêu cao dành riêng cho in dữ liệu biến đổi (Variable Data).",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png",
-    "products": [
-      {
-        "id": "kodak-s10",
-        "name": "Kodak Prosper S10",
-        "type": "Mực gốc nước",
-        "dropSize": "N/A",
-        "frequency": "N/A",
-        "desc": "Hệ thống đầu in tốc độ cao lên đến 305m/phút, giải pháp tối ưu cho ngành in thư trực tiếp, vé số, thẻ cào.",
-        "href": "/products/printheads/kodak-s10",
-        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
-        "id": "kodak-s5",
-        "name": "Kodak Prosper S5",
-        "type": "Mực gốc nước",
-        "dropSize": "N/A",
-        "frequency": "N/A",
-        "desc": "Bản thu gọn với tốc độ in 152m/phút, tiết kiệm chi phí nhưng vẫn giữ được độ phân giải hoàn hảo.",
-        "href": "/products/printheads/kodak-s5",
+        "id": "hp-pagewide",
+        "name": "HP PageWide (Single Pass)",
+        "type": "Mực gốc nước / Mực Pigment",
+        "dropSize": "Nhỏ (Độ phân giải 1200 dpi)",
+        "frequency": "Siêu cao",
+        "desc": "Đầu phun khổ lớn chuyên dụng cho ứng dụng in Single Pass tốc độ cao trên bao bì carton và các ứng dụng dải rộng.",
+        "href": "/contact",
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
