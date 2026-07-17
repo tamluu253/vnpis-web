@@ -104,6 +104,15 @@
         "desc": "Dòng mực in phổ thông dễ thao tác, chi phí hợp lý.",
         "certs": ["REACH", "RoHS"],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
+      },
+      {
+        "id": "afford-kt1",
+        "name": "KT1 / Serie 50",
+        "type": "Mực in vải (Textile)",
+        "materials": ["Vải", "Nylon", "Polyester", "Da tổng hợp"],
+        "desc": "Mực in vải siêu bám, mềm mại, độ co giãn tuyệt vời khi kết hợp với UV Hardener 29.140 và D-696 Slow Diluent.",
+        "certs": ["ZDHC Level 3", "REACH", "Oeko-Tex"],
+        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
   },
