@@ -50,6 +50,15 @@
         "desc": "Mực UV độ linh hoạt cao, kháng đứt gãy khi uốn cong.",
         "certs": ["REACH", "RoHS"],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
+      },
+      {
+        "id": "dubuit-tl4",
+        "name": "TL4-PAD",
+        "type": "Mực in vải, da cao cấp",
+        "materials": ["Vải", "Da", "PU", "Sợi tổng hợp"],
+        "desc": "Mực in siêu bám, mềm mại, không gây cộm, thay thế cho TL3. Chuyên dùng in tagless trên quần áo, dệt may.",
+        "certs": ["ZDHC Level 3", "Oeko-Tex", "REACH", "RoHS"],
+        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
   },
@@ -190,8 +199,8 @@
         "id": "nengtong-pad",
         "name": "NT Pad Series",
         "type": "Mực in Pad phổ thông",
-        "materials": ["Nhựa ABS", "Giấy", "PVC"],
-        "desc": "Mực in nhanh khô, dễ vận hành, phù hợp xưởng sản xuất quy mô lớn yêu cầu kiểm soát chi phí tối đa.",
+        "materials": ["Nhựa ABS", "Giấy", "PVC", "Vải", "Da"],
+        "desc": "Mực in nhanh khô, dễ vận hành, ứng dụng linh hoạt từ vật liệu nhựa đến vải dệt, da tổng hợp. Phù hợp xưởng sản xuất quy mô lớn.",
         "certs": ["RoHS"],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }

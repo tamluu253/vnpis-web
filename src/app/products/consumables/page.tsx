@@ -54,7 +54,7 @@ export default function ConsumablesPage() {
           
           <p className="text-lg text-slate-400 max-w-3xl leading-relaxed">
             Danh mục các dòng mực in công nghiệp cao cấp từ các thương hiệu hàng đầu thế giới. 
-            Đáp ứng mọi yêu cầu khắt khe nhất về độ bám dính, chống trầy xước và tiêu chuẩn an toàn (REACH, RoHS, ZDHC).
+            Đáp ứng mọi yêu cầu khắt khe nhất về độ bám dính, chống trầy xước và tiêu chuẩn an toàn (REACH, RoHS, ZDHC Level 3).
           </p>
         </div>
       </div>
