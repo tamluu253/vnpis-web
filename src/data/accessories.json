@@ -49,8 +49,8 @@
     {
       "id": "acc-ink-cup",
       "name": "Cốc Mực (Sealed Ink Cup)",
-      "desc": "Hệ thống cốc mực kín tích hợp nam châm giúp giữ mực không bay hơi, tiết kiệm dung môi và hạn chế mùi độc hại.",
-      "sizes": ["Ø60mm", "Ø90mm", "Ø130mm", "Ø150mm"],
+      "desc": "Đa dạng các loại cốc mực: Cốc nhựa, cốc nhôm nguyên khối, cốc có từ tính (nam châm) hoặc cốc không từ tính. Đặc biệt: Nhận gia công cốc mực theo bản vẽ hoặc mẫu thực tế của khách hàng.",
+      "sizes": ["Ø60mm", "Ø90mm", "Ø130mm", "Ø150mm", "Gia công theo yêu cầu"],
       "image": "https://cdn-icons-png.flaticon.com/512/2271/2271062.png"
     },
     {
@@ -64,6 +64,13 @@
       "id": "acc-tungsten-ring",
       "name": "Vòng Thép Gạt Mực (Tungsten Ring)",
       "desc": "Làm từ thép Tungsten Carbide nguyên khối, chống mẻ vỡ khi va đập, tuổi thọ cao hơn gốm khi dùng với khuôn thép dày.",
+      "sizes": ["Ø60mm", "Ø90mm", "Ø130mm", "Ø150mm"],
+      "image": "https://cdn-icons-png.flaticon.com/512/8654/8654716.png"
+    },
+    {
+      "id": "acc-double-material-ring",
+      "name": "Vòng Gạt Mực Kép (Double-Material Inlaid Ring)",
+      "desc": "Sản phẩm công nghệ mới: Vòng dao khảm 2 vật liệu. Phần viền ngoài bằng Inox (Stainless Steel) chống rỉ sét, phần lưỡi gạt bằng thép Tungsten siêu cứng. Đảm bảo độ bền cực cao, tối ưu chi phí.",
       "sizes": ["Ø60mm", "Ø90mm", "Ø130mm", "Ø150mm"],
       "image": "https://cdn-icons-png.flaticon.com/512/8654/8654716.png"
     },
