@@ -81,5 +81,35 @@
       "sizes": ["Vừa khít mọi loại khay"],
       "image": "https://cdn-icons-png.flaticon.com/512/10041/10041261.png"
     }
+  ],
+  "additives": [
+    {
+      "id": "add-solvent",
+      "name": "Dung Môi Pha Mực (Solvents)",
+      "desc": "Dung môi chuyên dụng pha loãng mực in, kiểm soát tốc độ khô (nhanh khô, chậm khô) phù hợp với tốc độ máy và nhiệt độ xưởng.",
+      "sizes": ["Can 1 Lít", "Can 5 Lít"],
+      "image": "https://cdn-icons-png.flaticon.com/512/882/882772.png"
+    },
+    {
+      "id": "add-primer",
+      "name": "Nước Xử Lý Bề Mặt (Primer / Promoter)",
+      "desc": "Chất quét lót giúp tăng cường độ bám dính của mực trên các vật liệu khó bám như PP, PE, Kim loại trơn hoặc Thủy tinh.",
+      "sizes": ["Chai 1 Lít"],
+      "image": "https://cdn-icons-png.flaticon.com/512/882/882772.png"
+    },
+    {
+      "id": "add-cleaner",
+      "name": "Nước Tẩy Rửa / Vệ Sinh (Cleaning Agents)",
+      "desc": "Dung dịch vệ sinh chuyên dụng giúp tẩy sạch khuôn in, cốc mực và lau chùi các sản phẩm in lỗi (in hỏng) mà không làm hại bề mặt vật liệu gốc.",
+      "sizes": ["Can 5 Lít", "Can 20 Lít"],
+      "image": "https://cdn-icons-png.flaticon.com/512/882/882772.png"
+    },
+    {
+      "id": "add-hardener",
+      "name": "Chất Đóng Rắn (Hardener / Catalyst)",
+      "desc": "Phụ gia xúc tác (Pha tỷ lệ 10%) dùng cho mực 2 thành phần, giúp mực chết cứng, chịu ma sát cao và kháng hóa chất tuyệt đối.",
+      "sizes": ["Hũ 100g", "Hũ 200g"],
+      "image": "https://cdn-icons-png.flaticon.com/512/882/882772.png"
+    }
   ]
 }

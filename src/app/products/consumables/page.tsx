@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, ArrowRight, CheckCircle2, ShieldAlert, Package, Layers, CircleDot, Settings, Droplet } from 'lucide-react';
+import { ArrowLeft, ArrowRight, CheckCircle2, ShieldAlert, Package, Layers, CircleDot, Settings, Droplet, Beaker } from 'lucide-react';
 import inksData from '@/data/inks.json';
 import accessoriesData from '@/data/accessories.json';
 
@@ -16,7 +16,7 @@ const certColors: Record<string, string> = {
   "EN71-3": "bg-indigo-100 text-indigo-700 border-indigo-200"
 };
 
-type TabType = 'inks' | 'pads' | 'plates' | 'accessories';
+type TabType = 'inks' | 'pads' | 'plates' | 'accessories' | 'additives';
 
 export default function ConsumablesPage() {
   const [activeTab, setActiveTab] = useState<TabType>('inks');
@@ -46,14 +46,14 @@ export default function ConsumablesPage() {
   return (
     <div className="min-h-screen bg-slate-50 pb-20">
       {/* Header & Navigation */}
-      <div className="bg-slate-900 text-white pt-24 pb-12 relative overflow-hidden">
-        <div className="absolute inset-0 z-0 opacity-30">
-          <div className="absolute top-0 -left-1/4 w-1/2 h-full bg-gradient-to-r from-purple-600 to-transparent blur-3xl transform -skew-x-12"></div>
-          <div className="absolute top-0 -right-1/4 w-1/2 h-full bg-gradient-to-l from-orange-500 to-transparent blur-3xl transform skew-x-12"></div>
+      <div className="bg-white text-slate-900 pt-24 pb-12 relative overflow-hidden border-b border-slate-200">
+        <div className="absolute inset-0 z-0 opacity-10">
+          <div className="absolute top-0 -left-1/4 w-1/2 h-full bg-gradient-to-r from-orange-400 to-transparent blur-3xl transform -skew-x-12"></div>
+          <div className="absolute top-0 -right-1/4 w-1/2 h-full bg-gradient-to-l from-yellow-400 to-transparent blur-3xl transform skew-x-12"></div>
         </div>
 
         <div className="container mx-auto px-4 relative z-10">
-          <Link href="/products" className="inline-flex items-center text-slate-300 hover:text-white mb-6 transition-colors font-medium">
+          <Link href="/products" className="inline-flex items-center text-slate-500 hover:text-orange-600 mb-6 transition-colors font-medium">
             <ArrowLeft className="w-5 h-5 mr-2" />
             Về trang Sản phẩm
           </Link>
@@ -61,47 +61,53 @@ export default function ConsumablesPage() {
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-8">
             <div>
               <div className="flex items-center gap-4 mb-4">
-                <div className="p-3 bg-white/10 rounded-xl backdrop-blur-sm border border-white/20">
-                  <Package className="w-10 h-10 text-orange-400" />
+                <div className="p-4 bg-orange-100 rounded-2xl border border-orange-200">
+                  <Package className="w-12 h-12 text-orange-600" />
                 </div>
-                <h1 className="text-4xl md:text-5xl font-black tracking-tight">
+                <h1 className="text-5xl md:text-6xl font-black tracking-tight text-slate-900">
                   Vật Tư In Công Nghiệp
                 </h1>
               </div>
-              <p className="text-lg text-slate-400 max-w-2xl leading-relaxed">
-                Siêu thị vật tư tổng hợp cho ngành in Tampon (Pad printing) và In lụa (Screen printing). Từ mực in cao cấp đến khuôn thép, cục silicone và cốc mực.
+              <p className="text-xl text-slate-600 max-w-3xl leading-relaxed">
+                Siêu thị vật tư tổng hợp cho ngành in Tampon (Pad printing) và In lụa (Screen printing). Từ mực in cao cấp đến khuôn thép, cục silicone và các hóa chất chuyên dụng.
               </p>
             </div>
-            <Link href="/contact" className="inline-flex items-center justify-center px-6 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-lg font-bold transition-colors whitespace-nowrap">
+            <Link href="/contact" className="inline-flex items-center justify-center px-8 py-4 bg-orange-500 hover:bg-orange-600 text-white rounded-xl font-bold transition-all shadow-lg hover:shadow-orange-500/30 whitespace-nowrap text-lg">
               Nhận Báo Giá Tổng
             </Link>
           </div>
 
           {/* TABS NAVIGATION */}
-          <div className="flex overflow-x-auto hide-scrollbar gap-2 mt-8 pb-2">
+          <div className="flex overflow-x-auto hide-scrollbar gap-3 mt-10 pb-2">
             <button 
               onClick={() => setActiveTab('inks')}
-              className={`flex items-center px-6 py-3 rounded-xl font-bold whitespace-nowrap transition-all ${activeTab === 'inks' ? 'bg-orange-500 text-white shadow-lg' : 'bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-white'}`}
+              className={`flex items-center px-6 py-4 rounded-xl font-bold whitespace-nowrap transition-all border ${activeTab === 'inks' ? 'bg-slate-900 text-white border-slate-900 shadow-lg' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50 hover:text-slate-900'}`}
             >
               <Droplet className="w-5 h-5 mr-2" /> Mực In (Inks)
             </button>
             <button 
               onClick={() => setActiveTab('pads')}
-              className={`flex items-center px-6 py-3 rounded-xl font-bold whitespace-nowrap transition-all ${activeTab === 'pads' ? 'bg-blue-500 text-white shadow-lg' : 'bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-white'}`}
+              className={`flex items-center px-6 py-4 rounded-xl font-bold whitespace-nowrap transition-all border ${activeTab === 'pads' ? 'bg-blue-600 text-white border-blue-600 shadow-lg shadow-blue-500/30' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50 hover:text-slate-900'}`}
             >
               <CircleDot className="w-5 h-5 mr-2" /> Đầu In Silicone
             </button>
             <button 
               onClick={() => setActiveTab('plates')}
-              className={`flex items-center px-6 py-3 rounded-xl font-bold whitespace-nowrap transition-all ${activeTab === 'plates' ? 'bg-purple-500 text-white shadow-lg' : 'bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-white'}`}
+              className={`flex items-center px-6 py-4 rounded-xl font-bold whitespace-nowrap transition-all border ${activeTab === 'plates' ? 'bg-purple-600 text-white border-purple-600 shadow-lg shadow-purple-500/30' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50 hover:text-slate-900'}`}
             >
               <Layers className="w-5 h-5 mr-2" /> Khuôn In (Plates)
             </button>
             <button 
               onClick={() => setActiveTab('accessories')}
-              className={`flex items-center px-6 py-3 rounded-xl font-bold whitespace-nowrap transition-all ${activeTab === 'accessories' ? 'bg-emerald-500 text-white shadow-lg' : 'bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-white'}`}
+              className={`flex items-center px-6 py-4 rounded-xl font-bold whitespace-nowrap transition-all border ${activeTab === 'accessories' ? 'bg-emerald-600 text-white border-emerald-600 shadow-lg shadow-emerald-500/30' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50 hover:text-slate-900'}`}
             >
               <Settings className="w-5 h-5 mr-2" /> Phụ Kiện (Accessories)
+            </button>
+            <button 
+              onClick={() => setActiveTab('additives')}
+              className={`flex items-center px-6 py-4 rounded-xl font-bold whitespace-nowrap transition-all border ${activeTab === 'additives' ? 'bg-amber-500 text-white border-amber-500 shadow-lg shadow-amber-500/30' : 'bg-white text-slate-600 border-slate-200 hover:bg-slate-50 hover:text-slate-900'}`}
+            >
+              <Beaker className="w-5 h-5 mr-2" /> Phụ Gia (Additives)
             </button>
           </div>
         </div>
@@ -277,6 +283,36 @@ export default function ConsumablesPage() {
                   <p className="text-slate-600 mb-6 text-sm flex-grow">{item.desc}</p>
                   <div className="flex flex-wrap gap-2 pt-4 border-t border-slate-100">
                     <span className="text-xs font-bold text-slate-400 uppercase mr-2 w-full">Quy cách phổ biến:</span>
+                    {item.sizes.map((sz, i) => (
+                      <span key={i} className="inline-block px-3 py-1 bg-slate-100 text-slate-700 text-sm font-bold rounded-lg border border-slate-200">
+                        {sz}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* ===================== TAB: ADDITIVES ===================== */}
+        {activeTab === 'additives' && (
+          <div className="animate-fade-in space-y-8">
+             <div className="bg-amber-50 border border-amber-100 rounded-2xl p-8 mb-8 text-amber-900">
+              <h2 className="text-2xl font-bold mb-3 flex items-center"><Beaker className="w-6 h-6 mr-2 text-amber-600"/> Phụ Gia & Hóa Chất (Additives)</h2>
+              <p className="max-w-3xl">Các dung dịch phụ trợ thiết yếu trong quá trình in ấn: dung môi pha loãng mực, chất xử lý tăng độ bám bề mặt, chất đóng rắn và dung dịch vệ sinh khuôn in, vệ sinh sản phẩm lỗi.</p>
+            </div>
+            
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {accessoriesData.additives.map(item => (
+                <div key={item.id} className="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 hover:shadow-lg transition-shadow group flex flex-col">
+                  <div className="w-20 h-20 bg-amber-50 rounded-2xl flex items-center justify-center border border-amber-100 mb-6">
+                    <img src={item.image} alt={item.name} className="w-12 h-12 object-contain group-hover:scale-110 transition-transform opacity-80" />
+                  </div>
+                  <h3 className="text-xl font-bold text-slate-900 mb-3">{item.name}</h3>
+                  <p className="text-slate-600 mb-6 text-sm flex-grow">{item.desc}</p>
+                  <div className="flex flex-wrap gap-2 pt-4 border-t border-slate-100">
+                    <span className="text-xs font-bold text-slate-400 uppercase mr-2 w-full">Quy cách đóng gói:</span>
                     {item.sizes.map((sz, i) => (
                       <span key={i} className="inline-block px-3 py-1 bg-slate-100 text-slate-700 text-sm font-bold rounded-lg border border-slate-200">
                         {sz}
