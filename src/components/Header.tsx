@@ -64,7 +64,6 @@ export default function Header() {
         { name: 'Case Study', href: '/case-studies' },
         { name: 'Video', href: '/videos' },
         { name: 'Downloads', href: '/resources/download' },
-        { name: 'Thư viện Catalog', href: '/resources/catalog' },
         { name: 'FAQ', href: '/faq' },
       ],
     },
