@@ -10,54 +10,101 @@
         "id": "dubuit-d-pad",
         "name": "D-PAD",
         "type": "Mực in Pad 1/2 thành phần",
-        "materials": ["Nhựa ABS", "Nhựa PS", "Nhựa PC", "Gỗ", "Giấy"],
+        "materials": [
+          "Nhựa ABS",
+          "Nhựa PS",
+          "Nhựa PC",
+          "Gỗ",
+          "Giấy"
+        ],
         "desc": "Mực in tiêu chuẩn đa dụng với độ bóng cao, khô nhanh và dễ thao tác. Phù hợp cho hầu hết các loại nhựa thông dụng.",
-        "certs": ["REACH", "RoHS"],
+        "certs": [
+          "REACH",
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "dubuit-mono-pad",
         "name": "MONO-PAD",
         "type": "Mực in Pad 1 thành phần",
-        "materials": ["Nhựa ABS", "PVC", "Giấy", "Gỗ"],
+        "materials": [
+          "Nhựa ABS",
+          "PVC",
+          "Giấy",
+          "Gỗ"
+        ],
         "desc": "Dòng mực 1 thành phần không cần chất đóng rắn, thân thiện với người dùng, tiết kiệm vật tư khi sản xuất số lượng lớn.",
-        "certs": ["REACH", "RoHS"],
+        "certs": [
+          "REACH",
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "dubuit-mg-pad",
         "name": "MG-PAD",
         "type": "Mực in Pad 2 thành phần (Cao cấp)",
-        "materials": ["Kim loại", "Kính", "Gốm sứ", "Hợp kim"],
+        "materials": [
+          "Kim loại",
+          "Kính",
+          "Gốm sứ",
+          "Hợp kim"
+        ],
         "desc": "Dòng mực chuyên trị các bề mặt khó bám dính nhất như Kính và Kim loại. Khả năng kháng hóa chất và cọ rửa cực tốt.",
-        "certs": ["REACH", "RoHS"],
+        "certs": [
+          "REACH",
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "dubuit-uvg",
         "name": "UVG / UVHDGLASS",
         "type": "Mực UV in Lụa/Pad",
-        "materials": ["Kính", "Thủy tinh"],
+        "materials": [
+          "Kính",
+          "Thủy tinh"
+        ],
         "desc": "Mực sấy UV chuyên dụng cho ngành thủy tinh, bao bì mỹ phẩm cao cấp. Khô ngay lập tức dưới ánh sáng UV.",
-        "certs": ["REACH", "RoHS"],
+        "certs": [
+          "REACH",
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "dubuit-ubt",
         "name": "UBT",
         "type": "Mực UV đa dụng",
-        "materials": ["PET", "Nhựa cứng"],
+        "materials": [
+          "PET",
+          "Nhựa cứng"
+        ],
         "desc": "Mực UV độ linh hoạt cao, kháng đứt gãy khi uốn cong.",
-        "certs": ["REACH", "RoHS"],
+        "certs": [
+          "REACH",
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "dubuit-tl4",
         "name": "TL4-PAD",
         "type": "Mực in vải, da cao cấp",
-        "materials": ["Vải", "Da", "PU", "Sợi tổng hợp"],
+        "materials": [
+          "Vải",
+          "Da",
+          "PU",
+          "Sợi tổng hợp"
+        ],
         "desc": "Mực in siêu bám, mềm mại, không gây cộm, thay thế cho TL3. Chuyên dùng in tagless trên quần áo, dệt may.",
-        "certs": ["ZDHC Level 3", "Oeko-Tex", "REACH", "RoHS"],
+        "certs": [
+          "ZDHC Level 3",
+          "Oeko-Tex",
+          "REACH",
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
@@ -70,48 +117,21 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png",
     "series": [
       {
-        "id": "afford-serie-54",
-        "name": "SERIE 54 MULTIPAD",
-        "type": "Mực in nhựa PP",
-        "materials": ["Nhựa PP (chưa xử lý lửa)", "Nhựa PE"],
-        "desc": "Dòng mực thần thánh chuyên trị nhựa PP/PE không cần khò lửa (Pre-treatment) mà vẫn bám dính xuất sắc.",
-        "certs": ["REACH", "RoHS"],
-        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
-      },
-      {
-        "id": "afford-serie-21",
-        "name": "SERIE 21 BITAMPO",
-        "type": "Mực in Kính/Kim loại",
-        "materials": ["Kính", "Kim loại", "Gốm sứ"],
-        "desc": "Dòng mực 2 thành phần siêu bám, kháng hóa chất, chịu nhiệt tốt sau khi sấy chín.",
-        "certs": ["REACH", "RoHS"],
-        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
-      },
-      {
-        "id": "afford-serie-35",
-        "name": "SERIE 35 MULTIPAD",
-        "type": "Mực in nhựa cứng",
-        "materials": ["PVC", "ABS", "PS", "PC"],
-        "desc": "Mực bóng, độ che phủ cao, kháng trầy xước vật lý, phù hợp cho vỏ thiết bị điện tử, đồ gia dụng.",
-        "certs": ["REACH", "RoHS"],
-        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
-      },
-      {
-        "id": "afford-serie-20",
-        "name": "SERIE 20 MULTIPAD",
-        "type": "Mực in đa dụng",
-        "materials": ["Nhựa đa dụng", "Gỗ", "Giấy tráng phủ"],
-        "desc": "Dòng mực in phổ thông dễ thao tác, chi phí hợp lý.",
-        "certs": ["REACH", "RoHS"],
-        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
-      },
-      {
         "id": "afford-kt1",
         "name": "KT1 / Serie 50",
         "type": "Mực in vải (Textile)",
-        "materials": ["Vải", "Nylon", "Polyester", "Da tổng hợp"],
+        "materials": [
+          "Vải",
+          "Nylon",
+          "Polyester",
+          "Da tổng hợp"
+        ],
         "desc": "Mực in vải siêu bám, mềm mại, độ co giãn tuyệt vời khi kết hợp với UV Hardener 29.140 và D-696 Slow Diluent.",
-        "certs": ["ZDHC Level 3", "REACH", "Oeko-Tex"],
+        "certs": [
+          "ZDHC Level 3",
+          "REACH",
+          "Oeko-Tex"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
@@ -127,18 +147,33 @@
         "id": "ruco-t200",
         "name": "T200 Series",
         "type": "Mực an toàn đa dụng",
-        "materials": ["Nhựa y tế", "Đồ chơi trẻ em", "Nhựa ABS/PC"],
+        "materials": [
+          "Nhựa y tế",
+          "Đồ chơi trẻ em",
+          "Nhựa ABS/PC"
+        ],
         "desc": "Không chứa Halogen, đạt chuẩn đồ chơi trẻ em DIN EN 71-3. Hoàn toàn an toàn khi tiếp xúc với da và miệng.",
-        "certs": ["EN71-3", "REACH", "RoHS", "Halogen-Free"],
+        "certs": [
+          "EN71-3",
+          "REACH",
+          "RoHS",
+          "Halogen-Free"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "ruco-t120",
         "name": "T120 Series",
         "type": "Mực chịu ma sát cao",
-        "materials": ["Kim loại", "Nhựa cứng"],
+        "materials": [
+          "Kim loại",
+          "Nhựa cứng"
+        ],
         "desc": "Độ bám dính và chịu mài mòn cơ học cực kì ấn tượng, thường dùng trong công nghiệp ô tô, linh kiện điện tử.",
-        "certs": ["REACH", "RoHS"],
+        "certs": [
+          "REACH",
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
@@ -154,9 +189,18 @@
         "id": "sericom-textile",
         "name": "Sericom Textile Pad/Screen",
         "type": "Mực in Tagless / Dệt may",
-        "materials": ["Cotton", "Polyester", "Vải pha"],
+        "materials": [
+          "Cotton",
+          "Polyester",
+          "Vải pha"
+        ],
         "desc": "Mềm mại, không gợn cộm, độ bám giặt cực tốt. Đỉnh cao về kiểm soát hóa chất độc hại trong ngành dệt may.",
-        "certs": ["ZDHC Level 3", "GOTS", "Oeko-Tex", "REACH"],
+        "certs": [
+          "ZDHC Level 3",
+          "GOTS",
+          "Oeko-Tex",
+          "REACH"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
@@ -172,27 +216,43 @@
         "id": "henkey-ppex-2",
         "name": "PPEX-2",
         "type": "Mực in PP",
-        "materials": ["Nhựa PP", "Nhựa PE"],
+        "materials": [
+          "Nhựa PP",
+          "Nhựa PE"
+        ],
         "desc": "Dòng mực in bám thẳng lên PP không qua xử lý. Thường dùng trong đồ gia dụng, linh kiện ô tô.",
-        "certs": ["RoHS", "REACH"],
+        "certs": [
+          "RoHS",
+          "REACH"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "henkey-pet-8000",
         "name": "PET-8000",
         "type": "Mực 2K cường độ cao",
-        "materials": ["Sơn tĩnh điện", "Kim loại", "PET"],
+        "materials": [
+          "Sơn tĩnh điện",
+          "Kim loại",
+          "PET"
+        ],
         "desc": "Mực đóng rắn 2 thành phần (2K) bám cực tốt lên bề mặt đã qua sơn tĩnh điện.",
-        "certs": ["RoHS"],
+        "certs": [
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       },
       {
         "id": "henkey-uv-ppf",
         "name": "UV-PPF",
         "type": "Mực UV Pad/Screen",
-        "materials": ["Nhựa cứng đa dụng"],
+        "materials": [
+          "Nhựa cứng đa dụng"
+        ],
         "desc": "Mực UV tốc độ sấy cao, bề mặt bóng đẹp.",
-        "certs": ["RoHS"],
+        "certs": [
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]
@@ -208,9 +268,17 @@
         "id": "nengtong-pad",
         "name": "NT Pad Series",
         "type": "Mực in Pad phổ thông",
-        "materials": ["Nhựa ABS", "Giấy", "PVC", "Vải", "Da"],
+        "materials": [
+          "Nhựa ABS",
+          "Giấy",
+          "PVC",
+          "Vải",
+          "Da"
+        ],
         "desc": "Mực in nhanh khô, dễ vận hành, ứng dụng linh hoạt từ vật liệu nhựa đến vải dệt, da tổng hợp. Phù hợp xưởng sản xuất quy mô lớn.",
-        "certs": ["RoHS"],
+        "certs": [
+          "RoHS"
+        ],
         "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
       }
     ]

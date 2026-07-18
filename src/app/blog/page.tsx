@@ -4,8 +4,8 @@ import BlogList from '@/components/BlogList';
 import { getAllDocumentsMeta } from '@/lib/mdx';
 
 export const metadata = {
-  title: 'Blog Kiến Thức In Phun Công Nghiệp | VNPIS',
-  description: 'Tổng hợp các bài viết chuyên sâu về mực in, giải pháp in phun công nghiệp CIJ, TIJ, DOD và các ứng dụng thực tế.',
+  title: 'Blog Kiến Thức In Ấn Công Nghiệp | VNPIS',
+  description: 'Tổng hợp các bài viết chuyên sâu về mực in, giải pháp in ấn công nghiệp (In lụa, Tampon, CIJ, TIJ, DOD...) và các ứng dụng thực tế.',
 };
 
 export default function BlogIndex() {
@@ -20,9 +20,9 @@ export default function BlogIndex() {
             <FileText className="w-5 h-5" />
             <span>Blog & Tin Tức Ngành</span>
           </div>
-          <h1 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6">Giải Pháp & Kiến Thức In Phun Công Nghiệp</h1>
+          <h1 className="text-4xl lg:text-5xl font-bold text-slate-900 mb-6">Giải Pháp & Kiến Thức In Ấn Công Nghiệp</h1>
           <p className="text-lg text-slate-600">
-            Khám phá thư viện {blogData.length}+ bài viết chuyên sâu và giải pháp kỹ thuật in phun đặc biệt của VNPIS.
+            Khám phá thư viện {blogData.length}+ bài viết chuyên sâu và giải pháp kỹ thuật in ấn đặc biệt của VNPIS.
           </p>
         </div>
 
