@@ -6,7 +6,7 @@ category: "PAD"
 code: "PAD-05"
 ---
 
-Các cơ sở sản xuất nước uống đóng bình 20L thường gặp khó khăn khi muốn in logo thương hiệu hoặc thông tin thay đổi (NSX, HSD) trực tiếp lên bề mặt nhựa PET/PC cong của vỏ bình. Decal dán thường bị bong tróc khi vận chuyển hoặc cọ rửa. Giải pháp vĩnh cửu chính là sử dụng máy in tampon 1 màu giá rẻ.
+Các cơ sở sản xuất nước uống đóng bình 20L thường gặp khó khăn khi muốn in logo thương hiệu hoặc thông tin thay đổi (NSX, HSD) trực tiếp lên bề mặt nhựa PET/PC cong của vỏ bình. Decal dán thường bị bong tróc khi vận chuyển hoặc cọ rửa. Giải pháp vĩnh cửu chính là sử dụng [**máy in tampon 1 màu**](/products/pad-printers/hj) giá rẻ.
 
 Với các model máy có hành trình in dài và cục silicone cỡ lớn, máy in tampon có thể ôm trọn biên dạng cong của bình nước 20L, ép chặt lớp mực xuống bề mặt nhựa. Sự kết hợp giữa máy in tampon và dòng mực bám dính đặc chủng giúp logo của bạn chống chịu hoàn toàn với nước và ma sát vật lý.
 

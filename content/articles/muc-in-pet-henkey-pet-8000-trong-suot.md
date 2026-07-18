@@ -10,7 +10,7 @@ mediaExt: "null"
 Nhựa PET (Polyethylene Terephthalate) được sử dụng rỗng rãi làm chai nước suối, ly nhựa trà sữa, hộp nhựa trong suốt định hình. Đặc điểm của bao bì PET là độ trong suốt cao, do đó mực in lên PET cũng phải có độ bóng láng (Glossy) để tôn lên vẻ đẹp sản phẩm. **Henkey PET-8000** là sự lựa chọn số 1.
 
 ## Đặc điểm nổi trội của PET-8000
-- **Khô cực nhanh**: Rất thích hợp cho máy in lụa tròn tự động tốc độ cao in ly nhựa, chai nhựa PET.
+- **Khô cực nhanh**: Rất thích hợp cho [**máy in lụa**](/products/screen-printers) tròn tự động tốc độ cao in ly nhựa, chai nhựa PET.
 - **Độ bóng như gương (High Gloss)**: Lớp mực in ra bóng bẩy, mịn màng, làm tăng giá trị thẩm mỹ của bao bì.
 - **Kháng ma sát**: Ly nhựa PET trong quá trình đóng gói và vận chuyển thường xuyên cọ xát vào nhau. PET-8000 tạo lớp màng cứng cáp chống xước dăm bề mặt.
 

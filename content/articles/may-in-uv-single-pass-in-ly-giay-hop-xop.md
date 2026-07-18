@@ -10,5 +10,5 @@ Trong ngành F&B, việc nhập ly giấy, hộp bã mía, hộp xốp in sẵn 
 
 Máy in UV Single Pass có thể in trực tiếp hình ảnh full màu (CMYK) sắc nét lên bề mặt ly giấy đã thành phẩm hoặc nắp hộp xốp. Mực UV thực phẩm khô ngay lập tức nhờ hệ thống đèn LED UV lạnh, không làm biến dạng vật liệu mỏng.
 
-Không cần làm bản kẽm, không lo tồn kho bao bì. Đầu tư một máy UV Single Pass từ VNPIS giúp bạn nhận gia công in ấn cho hàng trăm quán ăn trong khu vực. Gọi 0987453866 để xem video vận hành máy!
+Không cần làm bản kẽm, không lo tồn kho bao bì. Đầu tư một máy UV Single Pass từ [**VNPIS**](/) giúp bạn nhận gia công in ấn cho hàng trăm quán ăn trong khu vực. Gọi 0987453866 để xem video vận hành máy!
 

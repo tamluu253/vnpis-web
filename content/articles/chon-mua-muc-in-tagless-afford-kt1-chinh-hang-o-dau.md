@@ -9,7 +9,7 @@ mediaExt: "null"
 
 Với hiệu năng vượt trội và các chứng nhận an toàn quốc tế, **Afford KT1** đang bị làm nhái, pha trộn rất nhiều trên thị trường gây ảnh hưởng nghiêm trọng đến các xưởng may xuất khẩu (bị trả hàng do test hóa chất không đạt).
 
-## VNPIS - Đại lý phân phối Afford chính hãng tại Việt Nam
+## [**VNPIS**](/) - Đại lý phân phối Afford chính hãng tại Việt Nam
 Đến với VNPIS, quý khách hàng hoàn toàn yên tâm:
 - **100% Nhập khẩu chính ngạch**: Nguyên đai nguyên kiện từ nhà máy Afford Inks tại Tây Ban Nha.
 - **Đầy đủ giấy tờ Audit**: Cung cấp đầy đủ CO, CQ, MSDS, TDS và chứng thư ZDHC Level 3, Oeko-Tex Standard 100 mới nhất.

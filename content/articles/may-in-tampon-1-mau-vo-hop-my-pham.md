@@ -6,7 +6,7 @@ category: "PAD"
 code: "PAD-07"
 ---
 
-Trong ngành mỹ phẩm, bao bì quyết định 50% sự thành công của sản phẩm. Các thỏi son, lọ kem dưỡng, hộp phấn thường có hình khối trụ tròn, oval hoặc các góc bo tròn phức tạp. Để in logo vàng gold, bạc hay đen sắc sảo lên các bề mặt này, máy in tampon 1 màu là thiết bị duy nhất có thể đảm nhiệm xuất sắc.
+Trong ngành mỹ phẩm, bao bì quyết định 50% sự thành công của sản phẩm. Các thỏi son, lọ kem dưỡng, hộp phấn thường có hình khối trụ tròn, oval hoặc các góc bo tròn phức tạp. Để in logo vàng gold, bạc hay đen sắc sảo lên các bề mặt này, [**máy in tampon 1 màu**](/products/pad-printers/hj) là thiết bị duy nhất có thể đảm nhiệm xuất sắc.
 
 Sự mềm dẻo của đầu in silicone trên máy in tampon 1 màu giá rẻ cho phép nó dễ dàng "luồn lách" và áp sát vào các đường cong của vỏ mỹ phẩm. Khả năng in các đường nét thanh mảnh (fine-line) của máy tampon vượt trội hoàn toàn so với in lụa hay ép kim truyền thống.
 

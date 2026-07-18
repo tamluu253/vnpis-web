@@ -21,4 +21,4 @@ Dòng D-PAD thường được các nhà máy lựa chọn để in trên:
 - Bao bì mỹ phẩm cao cấp (Acrylic, PS).
 - Linh kiện nhựa gia dụng, đồ chơi trẻ em (đáp ứng chuẩn RoHS).
 
-Đặc biệt, dòng mực này rất dễ sử dụng và ít gây hao mòn khuôn in. Hãy liên hệ với VNPIS để nhận mẫu test thử Dubuit D-PAD hoàn toàn miễn phí trên sản phẩm nhựa của bạn!
+Đặc biệt, dòng mực này rất dễ sử dụng và ít gây hao mòn khuôn in. Hãy liên hệ với [**VNPIS**](/) để nhận mẫu test thử Dubuit D-PAD hoàn toàn miễn phí trên sản phẩm nhựa của bạn!

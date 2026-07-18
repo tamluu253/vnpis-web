@@ -6,7 +6,7 @@ category: "PAD"
 code: "PAD-08"
 ---
 
-Bóng đèn LED là sản phẩm tiêu dùng thiết yếu, đòi hỏi thông số kỹ thuật (công suất, điện áp) phải được in rõ ràng lên phần bầu nhựa hoặc đui nhôm. Tuy nhiên, nhiệt độ tỏa ra khi đèn sáng rất cao, đòi hỏi mực in phải bám chắc và chịu nhiệt tốt. Máy in tampon 1 màu giá rẻ chính là lời giải hoàn hảo.
+Bóng đèn LED là sản phẩm tiêu dùng thiết yếu, đòi hỏi thông số kỹ thuật (công suất, điện áp) phải được in rõ ràng lên phần bầu nhựa hoặc đui nhôm. Tuy nhiên, nhiệt độ tỏa ra khi đèn sáng rất cao, đòi hỏi mực in phải bám chắc và chịu nhiệt tốt. [**Máy in tampon 1 màu**](/products/pad-printers/hj) giá rẻ chính là lời giải hoàn hảo.
 
 Nhờ cơ chế truyền mực trung gian qua đầu silicone, máy in tampon có thể in dễ dàng lên độ cong của bầu bóng đèn mà không làm vỡ bóng. Tốc độ in của máy khí nén 1 màu có thể đạt 1200 - 1500 sản phẩm/giờ, hoàn toàn bắt kịp nhịp độ của các dây chuyền lắp ráp đèn LED công nghiệp.
 

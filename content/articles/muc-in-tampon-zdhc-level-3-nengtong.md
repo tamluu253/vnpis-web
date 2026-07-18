@@ -16,4 +16,4 @@ Yêu cầu loại bỏ hóa chất độc hại trong chuỗi cung ứng dệt m
 - **Độ co giãn tuyệt vời**: Hình in có thể bị uốn cong, kéo giãn mạnh theo đế giày hoặc lớp vải mà không hề xuất hiện hiện tượng rạn nứt (cracking).
 - **Chống nước, chống mồ hôi**: Không bị phai màu khi tiếp xúc với mồ hôi chân hoặc ma sát cơ học trong lúc vận động thể thao.
 
-Liên hệ VNPIS - Đại lý phân phối chính thức mực in Nengtong tại Việt Nam để được tư vấn mã mực phù hợp nhất!
+Liên hệ [**VNPIS**](/) - Đại lý phân phối chính thức mực in Nengtong tại Việt Nam để được tư vấn mã mực phù hợp nhất!

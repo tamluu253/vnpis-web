@@ -6,7 +6,7 @@ category: "VAT-TU"
 code: "VT-01"
 ---
 
-Bản thép (Cliche) là linh hồn của phương pháp in tampon. Một bản thép bị ăn mòn không đều hoặc độ sâu không chuẩn sẽ khiến mực lên không đều, nhòe nét hoặc mờ lợt. Thay vì sử dụng phương pháp ăn mòn axit truyền thống gây ô nhiễm và thiếu chính xác, VNPIS áp dụng công nghệ khắc bản thép bằng tia Laser Fiber tiên tiến nhất.
+Bản thép (Cliche) là linh hồn của phương pháp in tampon. Một bản thép bị ăn mòn không đều hoặc độ sâu không chuẩn sẽ khiến mực lên không đều, nhòe nét hoặc mờ lợt. Thay vì sử dụng phương pháp ăn mòn axit truyền thống gây ô nhiễm và thiếu chính xác, [**VNPIS**](/) áp dụng công nghệ khắc bản thép bằng tia Laser Fiber tiên tiến nhất.
 
 Bản thép của chúng tôi được nhập khẩu từ Nhật Bản, có độ cứng cao (Rockwell 60-62 HRC), chịu được sự ma sát liên tục của dao gạt mực bằng thép hoặc vòng hợp kim của cốc mực. Độ sâu vệt khắc được kiểm soát hoàn hảo từ 20 đến 30 micromet tùy theo độ nhớt của mực và tính chất vật liệu.
 

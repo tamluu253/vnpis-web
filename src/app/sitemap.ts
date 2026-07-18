@@ -1,12 +1,13 @@
 import { MetadataRoute } from 'next';
-import blogData from '@/data/blog-posts.json';
+import { getAllDocumentsMeta } from '@/lib/mdx';
 
 const DOMAIN = 'https://vnpis.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const blogEntries: MetadataRoute.Sitemap = blogData.map((post) => ({
+  const articles = getAllDocumentsMeta('articles');
+  const blogEntries: MetadataRoute.Sitemap = articles.map((post: any) => ({
     url: `${DOMAIN}/blog/${post.slug}`,
-    lastModified: new Date(),
+    lastModified: new Date(post.date || Date.now()),
     changeFrequency: 'weekly',
     priority: 0.8,
   }));

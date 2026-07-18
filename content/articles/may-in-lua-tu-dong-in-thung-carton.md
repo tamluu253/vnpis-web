@@ -6,7 +6,7 @@ category: "SCREEN"
 code: "SCREEN-01"
 ---
 
-In lụa (Screen Printing) từ lâu đã là công nghệ không thể thay thế trong ngành in ấn bao bì. Đối với các đơn vị sản xuất thùng carton, hộp giấy, túi giấy kraft số lượng vừa và nhỏ, máy in lụa tự động là lựa chọn hoàn hảo thay vì phải in offset tốn kém.
+In lụa (Screen Printing) từ lâu đã là công nghệ không thể thay thế trong ngành in ấn bao bì. Đối với các đơn vị sản xuất thùng carton, hộp giấy, túi giấy kraft số lượng vừa và nhỏ, [**máy in lụa**](/products/screen-printers) tự động là lựa chọn hoàn hảo thay vì phải in offset tốn kém.
 
 Ưu điểm lớn nhất của máy in lụa là khả năng tạo ra lớp mực rất dày, che phủ hoàn toàn màu nền tối của giấy kraft hay carton sóng. Tốc độ máy in lụa tự động hiện nay đã được cải thiện đáng kể, tích hợp hệ thống sấy hồng ngoại (IR) hoặc sấy UV ngay trên băng tải, giúp sản phẩm khô lập tức sau khi in.
 

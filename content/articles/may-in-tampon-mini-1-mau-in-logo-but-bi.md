@@ -10,5 +10,5 @@ Thị trường quà tặng doanh nghiệp đang phát triển mạnh mẽ, tron
 
 So với phương pháp in lụa truyền thống tốn nhiều thời gian phơi bản và độ chính xác không cao trên bề mặt trụ tròn của bút, máy in tampon (pad printer) cho phép in liên tục với tốc độ lên đến hàng ngàn nhịp mỗi giờ. Cục silicone đặc chế giúp mực in bám chặt vào thân bút nhựa hoặc kim loại, tái tạo hoàn hảo các chi tiết logo nhỏ nhất.
 
-Nếu bạn đang muốn khởi nghiệp ngành quà tặng với số vốn mỏng, đầu tư một chiếc máy in tampon 1 màu từ VNPIS sẽ giúp bạn thu hồi vốn chỉ sau vài đơn hàng. Liên hệ 0987453866 để nhận báo giá chi tiết.
+Nếu bạn đang muốn khởi nghiệp ngành quà tặng với số vốn mỏng, đầu tư một chiếc [**máy in tampon 1 màu**](/products/pad-printers/hj) từ VNPIS sẽ giúp bạn thu hồi vốn chỉ sau vài đơn hàng. Liên hệ 0987453866 để nhận báo giá chi tiết.
 

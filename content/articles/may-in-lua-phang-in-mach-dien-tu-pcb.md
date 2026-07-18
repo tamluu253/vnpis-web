@@ -6,7 +6,7 @@ category: "SCREEN"
 code: "SCREEN-02"
 ---
 
-Trong ngành công nghiệp điện tử và công nghệ cao, máy in lụa phẳng đóng vai trò cực kỳ quan trọng. Chúng được sử dụng để in các lớp mực dẫn điện, phủ xanh bảo vệ bo mạch PCB, hoặc in các họa tiết siêu nét lên kính cường lực, màn hình cảm ứng.
+Trong ngành công nghiệp điện tử và công nghệ cao, [**máy in lụa**](/products/screen-printers) phẳng đóng vai trò cực kỳ quan trọng. Chúng được sử dụng để in các lớp mực dẫn điện, phủ xanh bảo vệ bo mạch PCB, hoặc in các họa tiết siêu nét lên kính cường lực, màn hình cảm ứng.
 
 Yêu cầu đối với máy in lụa trong lĩnh vực này là độ chính xác vi sai (chỉ tính bằng micromet). Các máy in lụa công nghiệp của VNPIS được trang bị hệ thống căn chỉnh bằng camera CCD tự động, bàn hút chân không chống xê dịch vật liệu, và động cơ servo điều khiển dao gạt mực mượt mà.
 

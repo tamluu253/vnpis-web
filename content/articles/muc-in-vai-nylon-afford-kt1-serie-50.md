@@ -27,4 +27,4 @@ Mực in Afford KT1 không hoạt động đơn lẻ để đạt hiệu suất 
 Điểm sáng giá nhất của Afford KT1 là chứng nhận **ZDHC Level 3** (Zero Discharge of Hazardous Chemicals). 
 Để đưa hàng hóa vào chuỗi cung ứng của các tập đoàn khổng lồ như Nike, Adidas, Puma... xưởng in bắt buộc phải sử dụng các dòng hóa chất đạt chuẩn ZDHC. KT1 hoàn toàn không chứa PVC, Phthalates, Kim loại nặng hay Formaldehyde, đáp ứng Oeko-Tex Standard 100 Class 1 (an toàn cho cả trẻ sơ sinh).
 
-Nếu nhà máy của bạn đang đau đầu đi tìm giải pháp mực in Tagless cao cấp, hãy liên hệ ngay với VNPIS để nhận mẫu test thử Afford KT1 cùng bộ phụ gia chuyên dụng!
+Nếu nhà máy của bạn đang đau đầu đi tìm giải pháp [**mực in Tagless**](/products/consumables/inks) cao cấp, hãy liên hệ ngay với VNPIS để nhận mẫu test thử Afford KT1 cùng bộ phụ gia chuyên dụng!

@@ -15,7 +15,7 @@ Nhiều xưởng in vẫn đang phân vân giữa việc sử dụng mực Plast
 
 ## 2. Năng suất và tự động hóa
 - **Plastisol**: In lụa thủ công, tốc độ chậm, cần sấy nhiệt ở nhiệt độ rất cao (160°C) để mực "chín".
-- **Afford KT1**: Sử dụng trên máy in Tampon 1 màu tốc độ cao (1000 - 2000 áo/giờ), mực tự khô nhanh trong không khí, không cần lò sấy nhiệt lớn, rất dễ tích hợp vào dây chuyền may.
+- **Afford KT1**: Sử dụng trên [**máy in Tampon 1 màu**](/products/pad-printers/hj) tốc độ cao (1000 - 2000 áo/giờ), mực tự khô nhanh trong không khí, không cần lò sấy nhiệt lớn, rất dễ tích hợp vào dây chuyền may.
 
 ## 3. An toàn môi trường
 Afford KT1 hoàn toàn không chứa PVC, đáp ứng các tiêu chuẩn xanh (ZDHC, Oeko-Tex), trong khi Plastisol truyền thống đang dần bị cấm ở nhiều thị trường do chứa PVC và Phthalates.
