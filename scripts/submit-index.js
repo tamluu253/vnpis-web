@@ -12,14 +12,10 @@ async function submitToIndex() {
     process.exit(1);
   }
 
-  const key = require(CREDENTIALS_PATH);
-  const jwtClient = new google.auth.JWT(
-    key.client_email,
-    null,
-    key.private_key,
-    ['https://www.googleapis.com/auth/indexing'],
-    null
-  );
+  const jwtClient = new google.auth.JWT({
+    keyFile: CREDENTIALS_PATH,
+    scopes: ['https://www.googleapis.com/auth/indexing'],
+  });
 
   await jwtClient.authorize();
   const indexing = google.indexing({ version: 'v3', auth: jwtClient });
