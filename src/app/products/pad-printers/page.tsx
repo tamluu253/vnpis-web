@@ -58,10 +58,10 @@ export default function PadPrintersPage() {
           </p>
           <div className="flex justify-center mt-4 space-x-4">
             <Link href="/products/pad-printers/hj" className="inline-flex items-center bg-blue-600 text-white hover:bg-blue-700 font-bold text-lg px-10 py-5 rounded-full shadow-xl shadow-blue-600/20 transition-all transform hover:-translate-y-1">
-              Catalog HJ (30+ Models) <ArrowRight className="w-5 h-5 ml-2" />
+              Catalog HJ (20 Models) <ArrowRight className="w-5 h-5 ml-2" />
             </Link>
             <Link href="/products/pad-printers/sj" className="inline-flex items-center bg-emerald-600 text-white hover:bg-emerald-700 font-bold text-lg px-10 py-5 rounded-full shadow-xl shadow-emerald-600/20 transition-all transform hover:-translate-y-1">
-              Catalog SJ (30+ Models) <ArrowRight className="w-5 h-5 ml-2" />
+              Catalog SJ (58 Models) <ArrowRight className="w-5 h-5 ml-2" />
             </Link>
           </div>
         </div>

@@ -50,8 +50,11 @@ export default function ScreenPrintersPage() {
             Giải pháp in lụa (in lưới) hoàn hảo cho các bề mặt phẳng khổ lớn và in 360 độ trên chai lọ. Phân phối chính hãng các dòng máy in lụa từ MC, HJ và DL.
           </p>
           <div className="flex justify-center mt-8 space-x-4">
+            <Link href="/products/screen-printers/hj" className="inline-flex items-center bg-blue-600 text-white hover:bg-blue-700 font-bold text-lg px-10 py-5 rounded-full shadow-xl shadow-blue-600/20 transition-all transform hover:-translate-y-1">
+              Catalog Máy In Lụa HJ (7 Models) <ArrowRight className="w-5 h-5 ml-2" />
+            </Link>
             <Link href="/products/screen-printers/sj" className="inline-flex items-center bg-emerald-600 text-white hover:bg-emerald-700 font-bold text-lg px-10 py-5 rounded-full shadow-xl shadow-emerald-600/20 transition-all transform hover:-translate-y-1">
-              Catalog Máy In Lụa SJ <ArrowRight className="w-5 h-5 ml-2" />
+              Catalog Máy In Lụa SJ (9 Models) <ArrowRight className="w-5 h-5 ml-2" />
             </Link>
           </div>
         </div>

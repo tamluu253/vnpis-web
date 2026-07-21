@@ -42,7 +42,7 @@
     "plateSize": "100x100mm",
     "printArea": "70x70mm",
     "speed": "2100 nhịp/giờ",
-    "image": "/images/pad-printers/hj/hp_125a.png"
+    "image": "/images/pad-printers/hj/hp-125ay_1.png"
   },
   {
     "model": "HP-125AY",
@@ -51,7 +51,7 @@
     "plateSize": "100x200mm",
     "printArea": "70x170mm",
     "speed": "1500 nhịp/giờ",
-    "image": "/images/pad-printers/hj/hp_125ay.png"
+    "image": "/images/pad-printers/hj/hp-125ay_1.png"
   },
   {
     "model": "HP-125B",
@@ -69,7 +69,7 @@
     "plateSize": "100x150mm",
     "printArea": "70x120mm",
     "speed": "1800 nhịp/giờ",
-    "image": "/images/pad-printers/hj/hp_160.png"
+    "image": "/images/pad-printers/hj/hp-160ay_1.jpg"
   },
   {
     "model": "HP-160Y",
