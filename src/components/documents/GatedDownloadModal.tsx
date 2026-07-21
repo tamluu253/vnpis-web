@@ -21,11 +21,25 @@ export default function GatedDownloadModal({ isOpen, onClose, fileName, fileUrl 
 
   if (!isOpen) return null;
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // Simulate sending lead data
-    console.log('Lead Data:', formData);
     setIsSubmitted(true);
+
+    try {
+      await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          name: formData.name,
+          phone: formData.phone,
+          company: formData.company,
+          message: `Yêu cầu tải tài liệu: ${fileName} (${formData.email})`,
+          pageTitle: `Tải tài liệu: ${fileName}`
+        })
+      });
+    } catch (err) {
+      console.error(err);
+    }
     
     // Automatically trigger download after 1.5s
     setTimeout(() => {

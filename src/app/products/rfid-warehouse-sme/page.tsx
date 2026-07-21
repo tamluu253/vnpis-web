@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { ArrowRight, CheckCircle2, Package, Search, BarChart3, Clock, Zap, Phone, ShoppingCart } from 'lucide-react';
+import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
   title: 'Giải Pháp Quản Lý Kho RFID Cho SME | VNPIS',
@@ -260,37 +261,12 @@ export default function SolutionsPage() {
 
       {/* 7. LEAD FORM & CTA */}
       <section id="contact" className="py-24 bg-slate-900 text-white relative overflow-hidden">
-        <div className="absolute top-0 right-0 w-96 h-96 bg-orange-600/20 rounded-full blur-3xl -mr-20 -mt-20" />
-        <div className="absolute bottom-0 left-0 w-96 h-96 bg-blue-600/20 rounded-full blur-3xl -ml-20 -mb-20" />
-        
         <div className="container mx-auto px-4 max-w-4xl relative z-10">
-          <div className="bg-white/5 backdrop-blur-lg border border-white/10 rounded-3xl p-8 md:p-12 shadow-2xl text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Sẵn sàng nâng cấp kho hàng của bạn?</h2>
-            <p className="text-slate-300 mb-10 max-w-xl mx-auto text-lg">Đừng để thất thoát tồn kho làm giảm lợi nhuận. Để lại thông tin, chuyên gia của VNPIS sẽ liên hệ khảo sát miễn phí.</p>
-            
-            <form action="https://formspree.io/f/mrbgzqvp" method="POST" className="max-w-2xl mx-auto space-y-4 text-left">
-              <div className="grid md:grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-sm font-medium text-slate-300 mb-1">Họ tên *</label>
-                  <input type="text" name="name" required className="w-full px-4 py-3 rounded-lg bg-slate-800 border border-slate-700 text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all placeholder-slate-500" placeholder="Nhập họ tên" />
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-300 mb-1">Số điện thoại *</label>
-                  <input type="tel" name="phone" required className="w-full px-4 py-3 rounded-lg bg-slate-800 border border-slate-700 text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all placeholder-slate-500" placeholder="Nhập SĐT" />
-                </div>
-              </div>
-              <div>
-                <label className="block text-sm font-medium text-slate-300 mb-1">Diện tích kho / Yêu cầu chi tiết</label>
-                <textarea rows={4} name="message" className="w-full px-4 py-3 rounded-lg bg-slate-800 border border-slate-700 text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all placeholder-slate-500" placeholder="Ví dụ: Kho rộng 500m2, cần tư vấn combo máy đọc R2000..." />
-              </div>
-              <button type="submit" className="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold py-4 px-8 rounded-lg transition-colors text-lg shadow-lg shadow-orange-600/20 mt-4">
-                NHẬN BÁO GIÁ & TƯ VẤN NGAY
-              </button>
-              <p className="text-center text-sm text-slate-400 mt-6 flex items-center justify-center">
-                <Phone className="w-4 h-4 mr-2" /> Hotline trực tiếp hỗ trợ 24/7: <strong className="ml-1 text-white text-base">0987453866</strong>
-              </p>
-            </form>
-          </div>
+          <ConsultationForm
+            title="Sẵn Sàng Nâng Cấp Kho Hàng Của Bạn?"
+            subtitle="Đừng để thất thoát tồn kho làm giảm lợi nhuận. Để lại thông tin, chuyên gia của VNPIS sẽ liên hệ khảo sát miễn phí."
+            pageTitle="Giải Pháp RFID Kho SME"
+          />
         </div>
       </section>
     </div>

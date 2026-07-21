@@ -2,6 +2,7 @@ import React from 'react';
 import { ArrowRight, CheckCircle2, Factory, Droplets, ShieldCheck, Clock, Layers, Maximize } from 'lucide-react';
 import Link from 'next/link';
 import SpecialInksCatalog from '@/components/products/SpecialInksCatalog';
+import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
   title: 'Mực In Phun Công Nghiệp CIJ | Tương Thích & Tiết Kiệm | VNPIS',
@@ -228,37 +229,11 @@ export default function CIJInkPage() {
       {/* LEAD FORM SECTION */}
       <section id="contact" className="py-24 bg-blue-50">
         <div className="container mx-auto px-4 max-w-4xl">
-          <div className="bg-white rounded-3xl shadow-xl overflow-hidden border border-blue-100">
-            <div className="p-8 md:p-12 text-center bg-blue-600 text-white">
-              <h2 className="text-3xl font-bold mb-4">Đăng Ký Test Mực Miễn Phí Tại Nhà Máy</h2>
-              <p className="text-blue-100 text-lg">Đội ngũ kỹ sư VNPIS sẽ mang mẫu mực đến tận dây chuyền của bạn để kiểm chứng độ bám dính.</p>
-            </div>
-            <div className="p-8 md:p-12">
-              <form className="space-y-6">
-                <div className="grid md:grid-cols-2 gap-6">
-                  <div>
-                    <label className="block text-sm font-medium text-slate-700 mb-2">Họ & Tên *</label>
-                    <input type="text" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all" placeholder="Nhập họ tên..." />
-                  </div>
-                  <div>
-                    <label className="block text-sm font-medium text-slate-700 mb-2">Số Điện Thoại *</label>
-                    <input type="tel" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all" placeholder="Nhập số điện thoại..." />
-                  </div>
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-2">Công ty / Nhà máy</label>
-                  <input type="text" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all" placeholder="Tên công ty..." />
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-2">Dòng máy in đang sử dụng (Videojet, Domino...)</label>
-                  <input type="text" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all" placeholder="Ví dụ: Videojet 1580..." />
-                </div>
-                <button type="button" className="w-full bg-orange-500 hover:bg-orange-600 text-white font-bold text-lg py-4 rounded-xl transition-colors shadow-lg shadow-orange-500/30">
-                  Gửi Yêu Cầu Test Mực
-                </button>
-              </form>
-            </div>
-          </div>
+          <ConsultationForm
+            title="Đăng Ký Test Mực Miễn Phí Tại Nhà Máy"
+            subtitle="Đội ngũ kỹ sư VNPIS sẽ mang mẫu mực đến tận dây chuyền của bạn để kiểm chứng độ bám dính."
+            pageTitle="Mực In CIJ"
+          />
         </div>
       </section>
 

@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { ArrowRight, CheckCircle2, ChevronDown, Mail, Phone } from 'lucide-react';
+import ConsultationForm from '@/components/ui/ConsultationForm';
 
 interface LandingPageProps {
   title: string;
@@ -119,33 +120,11 @@ export default function LandingPage({ title, subtitle, category, externalCtaUrl,
       {/* 5. LEAD FORM & CTA */}
       <section id="contact" className="py-24 bg-slate-900 text-white">
         <div className="container mx-auto px-4 max-w-4xl">
-          <div className="bg-white rounded-3xl p-8 md:p-12 shadow-2xl text-slate-900 text-center">
-            <h2 className="text-3xl font-bold mb-4">Nhận Tư Vấn & Báo Giá Miễn Phí</h2>
-            <p className="text-slate-600 mb-8 max-w-xl mx-auto">Đội ngũ chuyên gia của VNPIS sẵn sàng khảo sát và thiết kế giải pháp phù hợp nhất với nhà máy của bạn.</p>
-            
-            <form className="max-w-2xl mx-auto space-y-4 text-left">
-              <div className="grid md:grid-cols-2 gap-4">
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-1">Họ tên *</label>
-                  <input type="text" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all" placeholder="Nhập họ tên" />
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-700 mb-1">Số điện thoại *</label>
-                  <input type="tel" className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all" placeholder="Nhập SĐT" />
-                </div>
-              </div>
-              <div>
-                <label className="block text-sm font-medium text-slate-700 mb-1">Công ty / Yêu cầu chi tiết</label>
-                <textarea rows={4} className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 outline-none transition-all" placeholder="Ví dụ: Cần tư vấn máy in phun Date cho dây chuyền thực phẩm..." />
-              </div>
-              <button type="button" className="w-full bg-orange-600 hover:bg-orange-700 text-white font-bold py-4 px-8 rounded-lg transition-colors text-lg shadow-lg shadow-orange-600/20">
-                GỬI YÊU CẦU TƯ VẤN
-              </button>
-              <p className="text-center text-sm text-slate-500 mt-4 flex items-center justify-center">
-                <Phone className="w-4 h-4 mr-1" /> Hotline trực tiếp: <strong className="ml-1 text-slate-800">0987453866</strong>
-              </p>
-            </form>
-          </div>
+          <ConsultationForm
+            title="Nhận Tư Vấn & Báo Giá Miễn Phí"
+            subtitle="Đội ngũ chuyên gia của VNPIS sẵn sàng khảo sát và thiết kế giải pháp phù hợp nhất với nhà máy của bạn."
+            pageTitle={title}
+          />
         </div>
       </section>
     </div>

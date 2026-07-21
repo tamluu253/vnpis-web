@@ -2,6 +2,7 @@ import React from 'react';
 import { ArrowRight, CheckCircle2, Zap, MonitorSmartphone, Package, Target } from 'lucide-react';
 import Link from 'next/link';
 import SpecialInksCatalog from '@/components/products/SpecialInksCatalog';
+import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
   title: 'Mực In Nhiệt TIJ (Thermal Inkjet) | Độ Phân Giải Cao | VNPIS',
@@ -190,36 +191,11 @@ export default function TIJInkPage() {
       {/* 5. LEAD FORM SECTION */}
       <section id="contact" className="py-24 bg-slate-900 text-white">
         <div className="container mx-auto px-4 max-w-4xl">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Bạn Cần Tìm Hộp Mực TIJ Tương Thích?</h2>
-            <p className="text-slate-400 text-lg">Để lại thông tin máy in và bề mặt in, chúng tôi sẽ báo giá dòng mực chuẩn nhất cho bạn.</p>
-          </div>
-          <div className="bg-slate-800 rounded-3xl p-8 md:p-12 border border-slate-700 shadow-2xl">
-            <form className="space-y-6">
-              <div className="grid md:grid-cols-2 gap-6">
-                <div>
-                  <label className="block text-sm font-medium text-slate-300 mb-2">Họ & Tên *</label>
-                  <input type="text" className="w-full px-4 py-3 bg-slate-900 border border-slate-600 rounded-lg text-white focus:border-orange-500 focus:ring-1 focus:ring-orange-500 outline-none transition-all" placeholder="Nhập họ tên..." />
-                </div>
-                <div>
-                  <label className="block text-sm font-medium text-slate-300 mb-2">Số Điện Thoại *</label>
-                  <input type="tel" className="w-full px-4 py-3 bg-slate-900 border border-slate-600 rounded-lg text-white focus:border-orange-500 focus:ring-1 focus:ring-orange-500 outline-none transition-all" placeholder="Nhập số điện thoại..." />
-                </div>
-              </div>
-              <div>
-                <label className="block text-sm font-medium text-slate-300 mb-2">Bạn cần in trên bề mặt nào?</label>
-                <select className="w-full px-4 py-3 bg-slate-900 border border-slate-600 rounded-lg text-white focus:border-orange-500 outline-none appearance-none">
-                  <option>Thùng Carton (Thấm hút)</option>
-                  <option>Túi Nilon / Bao bì màng nhựa (Không thấm hút)</option>
-                  <option>Kim loại / Thủy tinh</option>
-                  <option>Khác</option>
-                </select>
-              </div>
-              <button type="button" className="w-full bg-orange-500 hover:bg-orange-600 text-white font-bold text-lg py-4 rounded-xl transition-colors shadow-lg shadow-orange-500/20">
-                Gửi Yêu Cầu Báo Giá
-              </button>
-            </form>
-          </div>
+          <ConsultationForm
+            title="Bạn Cần Tìm Hộp Mực TIJ Tương Thích?"
+            subtitle="Để lại thông tin máy in và bề mặt in, chúng tôi sẽ báo giá dòng mực chuẩn nhất cho bạn."
+            pageTitle="Mực In TIJ"
+          />
         </div>
       </section>
 
