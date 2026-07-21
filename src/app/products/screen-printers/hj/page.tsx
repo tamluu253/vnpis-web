@@ -45,7 +45,7 @@ export default function HJScreenPrintersCatalog() {
 
         {/* Catalog Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {hjScreenPrinters.map((machine) => (
+          {(hjScreenPrinters as any[]).map((machine) => (
             <div key={machine.model} className="bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 border border-slate-100 flex flex-col overflow-hidden group">
               <div className="aspect-[4/3] bg-slate-100 relative flex items-center justify-center border-b border-slate-50 overflow-hidden">
                 {(!machine.image || machine.image.includes('placeholder')) ? (
