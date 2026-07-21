@@ -45,9 +45,9 @@ export default function Footer() {
             <h3 className="text-white text-lg font-bold mb-6">Sản Phẩm Cốt Lõi</h3>
             <ul className="space-y-3">
               <li><Link href="/products/uv-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> UV Printer</Link></li>
-              <li><Link href="/products/tij-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> TIJ Printer</Link></li>
-              <li><Link href="/products/cij-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> CIJ Printer</Link></li>
-              <li><Link href="/products/industrial-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Industrial Ink</Link></li>
+              <li><Link href="/products/cij-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> CIJ Ink</Link></li>
+              <li><Link href="/products/tij-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> TIJ Ink</Link></li>
+              <li><Link href="/products/industrial-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Special Inks</Link></li>
               <li><Link href="/products/consumables" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Printing Consumables</Link></li>
             </ul>
           </div>

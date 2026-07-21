@@ -27,9 +27,9 @@ const productCategories = [
     icon: <Printer className="w-10 h-10 text-blue-500" />
   },
   {
-    title: 'Máy In Phun (CIJ/TIJ)',
-    description: 'Máy in date, in mã vạch tự động tốc độ cao cho dây chuyền sản xuất thực phẩm, bao bì.',
-    href: '/products/tij-printers',
+    title: 'Mực In CIJ & TIJ Công Nghiệp',
+    description: 'Mực in phun CIJ tương thích Videojet, Domino, Linx & Hộp mực in nhiệt TIJ HP 45A sắc nét 600dpi.',
+    href: '/products/cij-ink',
     icon: <Package className="w-10 h-10 text-green-500" />
   },
   {

@@ -66,8 +66,8 @@ export default function IndustrialCodingPage() {
                   <span className="text-slate-700">Khô siêu tốc với hệ dung môi mạnh (Solvent-based).</span>
                 </li>
               </ul>
-              <Link href="/products/cij-printers" className="inline-flex items-center text-red-600 font-bold hover:text-red-700 mt-auto">
-                Xem Máy In CIJ <ArrowRight className="ml-2 w-4 h-4" />
+              <Link href="/products/cij-ink" className="inline-flex items-center text-red-600 font-bold hover:text-red-700 mt-auto">
+                Mực In CIJ Tương Thích <ArrowRight className="w-4 h-4 ml-1" />
               </Link>
             </div>
             
@@ -96,8 +96,8 @@ export default function IndustrialCodingPage() {
                   <span className="text-slate-700">Máy cực nhỏ gọn, dễ dàng lắp đặt mọi vị trí.</span>
                 </li>
               </ul>
-              <Link href="/products/tij-printers" className="inline-flex items-center text-green-600 font-bold hover:text-green-700 mt-auto">
-                Xem Máy In TIJ <ArrowRight className="ml-2 w-4 h-4" />
+              <Link href="/products/tij-ink" className="inline-flex items-center text-green-600 font-bold hover:text-green-700 mt-auto">
+                Hộp Mực TIJ Công Nghiệp <ArrowRight className="w-4 h-4 ml-1" />
               </Link>
             </div>
           </div>

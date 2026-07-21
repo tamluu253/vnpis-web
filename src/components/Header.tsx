@@ -38,9 +38,9 @@ export default function Header() {
         { name: 'Pad Printer', href: '/products/pad-printers' },
         { name: 'Screen Printer', href: '/products/screen-printers' },
         { name: 'Hot Stamping', href: '/products/hot-stamping' },
-        { name: 'TIJ Printer', href: '/products/tij-printers' },
-        { name: 'CIJ Printer', href: '/products/cij-printers' },
-        { name: 'Industrial Ink', href: '/products/industrial-ink' },
+        { name: 'CIJ Ink', href: '/products/cij-ink' },
+        { name: 'TIJ Ink', href: '/products/tij-ink' },
+        { name: 'Special Inks', href: '/products/special-inks' },
         { name: 'Printheads', href: '/products/printheads' },
         { name: 'Printing Consumables', href: '/products/consumables' },
       ]

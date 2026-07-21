@@ -104,16 +104,15 @@ export default function VariableDataPrintingPage() {
             <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 hover:border-green-500 transition-colors">
               <h3 className="text-2xl font-bold text-white mb-4">TIJ (In Phun Nhiệt)</h3>
               <p className="text-slate-300 mb-6">Độ phân giải 600 DPI, nét in cực đẹp. Phù hợp in mã QR kích thước nhỏ trên bao bì dược phẩm, thùng carton, hộp giấy.</p>
-              <Link href="/products/tij-printers" className="text-green-400 hover:text-green-300 font-semibold inline-flex items-center">
-                Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4" />
+              <Link href="/products/tij-ink" className="text-green-400 hover:text-green-300 font-semibold inline-flex items-center">
+                Mực In TIJ <ArrowRight className="w-4 h-4 ml-1" />
               </Link>
             </div>
-
-            <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 hover:border-red-500 transition-colors">
-              <h3 className="text-2xl font-bold text-white mb-4">CIJ (In Phun Liên Tục)</h3>
-              <p className="text-slate-300 mb-6">Tốc độ in nhanh nhất, ném mực từ khoảng cách xa. Hoàn hảo cho in dưới đáy lon nước giải khát, dây cáp điện.</p>
-              <Link href="/products/cij-printers" className="text-red-400 hover:text-red-300 font-semibold inline-flex items-center">
-                Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4" />
+            <div className="p-6 bg-slate-800 rounded-xl border border-slate-700">
+              <h3 className="text-xl font-bold text-white mb-2">2. CIJ Ink (Continuous Inkjet)</h3>
+              <p className="text-slate-400 text-sm mb-4">Dung môi và mực tương thích tiết kiệm 40% cho dây chuyền in liên tục.</p>
+              <Link href="/products/cij-ink" className="text-red-400 hover:text-red-300 font-semibold inline-flex items-center">
+                Mực In CIJ <ArrowRight className="w-4 h-4 ml-1" />
               </Link>
             </div>
           </div>

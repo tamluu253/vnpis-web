@@ -77,29 +77,29 @@ export default function Home() {
               </div>
             </Link>
 
-            {/* 4. TIJ Printing */}
-            <Link href="/products/tij-printers" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-green-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
+            {/* 4. TIJ Printing Ink */}
+            <Link href="/products/tij-ink" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-green-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
               <div className="w-14 h-14 bg-green-100 text-green-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <BarChart3 className="w-7 h-7" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-green-600 transition-colors">4. TIJ Solutions</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-green-600 transition-colors">4. Mực In TIJ (Cartridge)</h3>
               <div className="flex text-yellow-400 mb-4 text-lg">★★★★☆</div>
-              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Công nghệ in phun nhiệt. Tập trung vào phân phối Cartridge, Ink (Solvent/UV), và phát triển giải pháp OEM theo yêu cầu.</p>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Hộp mực in nhiệt 12.7mm & 25.4mm cho độ phân giải 600dpi sắc nét. Khô ngay trên thùng carton, túi nilon, màng PE.</p>
               <div className="flex items-center text-green-600 font-bold mt-auto">
-                Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                Xem bảng giá mực <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </div>
             </Link>
 
-            {/* 5. CIJ Printing */}
-            <Link href="/products/cij-printers" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-red-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
+            {/* 5. CIJ Consumables & Ink */}
+            <Link href="/products/cij-ink" className="group p-8 bg-slate-50 border border-slate-100 rounded-2xl hover:border-red-500 hover:shadow-2xl transition-all duration-300 relative overflow-hidden flex flex-col">
               <div className="w-14 h-14 bg-red-100 text-red-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <ShieldCheck className="w-7 h-7" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-red-600 transition-colors">5. CIJ Consumables</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-red-600 transition-colors">5. Mực In CIJ Tương Thích</h3>
               <div className="flex text-yellow-400 mb-4 text-lg">★★★★☆</div>
-              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Nguồn cung cấp ổn định, chất lượng cao các loại mực (Ink), dung môi (Solvent), Make-up và phụ tùng cho máy in phun liên tục.</p>
+              <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Mực và dung môi tương thích 100% cho máy Videojet, Domino, Linx, Markem-Imaje. Tiết kiệm 40% chi phí vận hành.</p>
               <div className="flex items-center text-red-600 font-bold mt-auto">
-                Tìm hiểu thêm <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                Xem bảng giá mực <ArrowRight className="ml-2 w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </div>
             </Link>
 
