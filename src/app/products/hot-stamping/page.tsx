@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Layers, ArrowRight } from 'lucide-react';
+import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
   title: 'Máy Ép Nhũ (Hot Stamping) | SJ',
@@ -26,6 +27,14 @@ export default function HotStampingPage() {
               Xem Catalog Máy Ép Nhũ SJ <ArrowRight className="w-5 h-5 ml-2" />
             </Link>
           </div>
+        </div>
+
+        <div className="mt-16 max-w-4xl mx-auto">
+          <ConsultationForm
+            title="Tư Vấn Chọn Máy Ép Nhũ"
+            subtitle="Để lại thông tin về sản phẩm bạn cần ép kim / ép nhũ nóng, chúng tôi sẽ tư vấn dòng máy phù hợp nhất."
+            pageTitle="Máy Ép Nhũ"
+          />
         </div>
 
       </div>

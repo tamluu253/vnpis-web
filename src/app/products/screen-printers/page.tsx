@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import { Layers, CheckCircle2, ArrowRight } from 'lucide-react';
+import ConsultationForm from '@/components/ui/ConsultationForm';
 
 const screenPrinters = [
   {
@@ -95,22 +96,12 @@ export default function ScreenPrintersPage() {
           ))}
         </div>
 
-        <div id="contact-form" className="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 md:p-12 max-w-4xl mx-auto">
-          <div className="text-center mb-10">
-            <h2 className="text-3xl font-bold text-slate-900 mb-4">Tư Vấn Máy In Lụa</h2>
-            <p className="text-slate-600">Bạn cần in trên bề mặt phẳng, túi nilon hay in xoay quanh chai tròn? Hãy để lại thông tin để chuyên gia của chúng tôi hỗ trợ.</p>
-          </div>
-          <form className="space-y-4">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <input type="text" placeholder="Họ và tên *" required className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-indigo-600 outline-none" />
-              <input type="tel" placeholder="Số điện thoại *" required className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-indigo-600 outline-none" />
-            </div>
-            <input type="text" placeholder="Tên công ty / Xưởng sản xuất *" required className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-indigo-600 outline-none" />
-            <textarea placeholder="Mô tả sản phẩm cần in (vd: Cần in lụa logo lên cốc thủy tinh)..." rows={4} className="w-full px-4 py-3 border border-slate-200 rounded-xl focus:ring-2 focus:ring-indigo-600 outline-none"></textarea>
-            <button type="submit" className="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-4 px-8 rounded-xl transition-colors">
-              Gửi Yêu Cầu Tư Vấn
-            </button>
-          </form>
+        <div id="contact-form" className="max-w-4xl mx-auto">
+          <ConsultationForm
+            title="Tư Vấn Máy In Lụa"
+            subtitle="Bạn cần in trên bề mặt phẳng, túi nilon hay in xoay quanh chai tròn? Hãy để lại thông tin để chuyên gia của chúng tôi hỗ trợ."
+            pageTitle="Máy In Lụa"
+          />
         </div>
 
       </div>
