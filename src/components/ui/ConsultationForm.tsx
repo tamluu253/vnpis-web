@@ -47,10 +47,10 @@ export default function ConsultationForm({
   const zaloUrl = `https://zalo.me/0987453866`;
 
   return (
-    <div className="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 md:p-12 max-w-4xl mx-auto">
+    <div className="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 md:p-12 max-w-4xl mx-auto text-slate-900">
       <div className="text-center mb-10">
         <h2 className="text-3xl font-bold text-slate-900 mb-4">{title}</h2>
-        <p className="text-slate-600">{subtitle}</p>
+        <p className="text-slate-600 font-medium">{subtitle}</p>
       </div>
 
       {!isSubmitted ? (
@@ -62,7 +62,7 @@ export default function ConsultationForm({
               required
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-              className="w-full px-4 py-3.5 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none transition-all"
+              className="w-full px-4 py-3.5 bg-slate-50 text-slate-900 placeholder-slate-400 border border-slate-300 rounded-xl focus:bg-white focus:ring-2 focus:ring-blue-600 focus:border-blue-600 outline-none transition-all font-medium"
             />
             <input
               type="tel"
@@ -70,7 +70,7 @@ export default function ConsultationForm({
               required
               value={formData.phone}
               onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
-              className="w-full px-4 py-3.5 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none transition-all"
+              className="w-full px-4 py-3.5 bg-slate-50 text-slate-900 placeholder-slate-400 border border-slate-300 rounded-xl focus:bg-white focus:ring-2 focus:ring-blue-600 focus:border-blue-600 outline-none transition-all font-medium"
             />
           </div>
           <input
@@ -79,14 +79,14 @@ export default function ConsultationForm({
             required
             value={formData.company}
             onChange={(e) => setFormData({ ...formData, company: e.target.value })}
-            className="w-full px-4 py-3.5 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none transition-all"
+            className="w-full px-4 py-3.5 bg-slate-50 text-slate-900 placeholder-slate-400 border border-slate-300 rounded-xl focus:bg-white focus:ring-2 focus:ring-blue-600 focus:border-blue-600 outline-none transition-all font-medium"
           />
           <textarea
             placeholder="Mô tả sản phẩm cần in (vd: Cần in logo 2 màu lên nắp chai nhựa cong)..."
             rows={4}
             value={formData.message}
             onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-            className="w-full px-4 py-3.5 border border-slate-200 rounded-xl focus:ring-2 focus:ring-blue-600 outline-none transition-all"
+            className="w-full px-4 py-3.5 bg-slate-50 text-slate-900 placeholder-slate-400 border border-slate-300 rounded-xl focus:bg-white focus:ring-2 focus:ring-blue-600 focus:border-blue-600 outline-none transition-all font-medium"
           ></textarea>
 
           <button
