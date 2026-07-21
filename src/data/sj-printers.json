@@ -1,5 +1,302 @@
 [
   {
+    "model": "SY-150-100",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sy_150_100.jpg"
+  },
+  {
+    "model": "SYC-125-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syc_125_90.png"
+  },
+  {
+    "model": "SYD-200-150",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syd_200_150.png"
+  },
+  {
+    "model": "SYD2-200-150",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syd2_200_150.png"
+  },
+  {
+    "model": "SYC-200-150",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syc_200_150.png"
+  },
+  {
+    "model": "SYC-200-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SYDQ-125-90",
+    "colors": 1,
+    "desc": "自动清洗胶头单色移印机",
+    "plateSize": "100*234MM",
+    "printArea": "70x204mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sydq_125_90.png"
+  },
+  {
+    "model": "SU-125",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/su_125.png"
+  },
+  {
+    "model": "SE-125",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/se_125.png"
+  },
+  {
+    "model": "ME-125",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/me_125.png"
+  },
+  {
+    "model": "MND-125-100T",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mnd_125_100t.png"
+  },
+  {
+    "model": "SY-200-150",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sy_200_150.jpg"
+  },
+  {
+    "model": "MND-125-100",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mnd_125_100.png"
+  },
+  {
+    "model": "MND-125-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mnd_125_90.png"
+  },
+  {
+    "model": "MS-H450",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ms_h450.png"
+  },
+  {
+    "model": "MS-150-100",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ms_150_100.png"
+  },
+  {
+    "model": "MS-150-90",
+    "colors": 1,
+    "desc": "气动单色油盅单色移印机",
+    "plateSize": "100*250/油盅90",
+    "printArea": "70x220mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ms_150_90.png"
+  },
+  {
+    "model": "MSZ-150-2",
+    "colors": 2,
+    "desc": "气动转盘双色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "70x45mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msz_150_2.png"
+  },
+  {
+    "model": "MSZ-150-3",
+    "colors": 3,
+    "desc": "气动转盘三色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "70x45mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msz_150_3.jpg"
+  },
+  {
+    "model": "MSZ-150-4",
+    "colors": 4,
+    "desc": "气动转盘四色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "70x45mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msz_150_4.png"
+  },
+  {
+    "model": "MSC-150-2",
+    "colors": 2,
+    "desc": "气动左右穿梭双色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "70x45mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_150_2.png"
+  },
+  {
+    "model": "MSC-150-3",
+    "colors": 3,
+    "desc": "气动左右穿梭三色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "70x45mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_150_3.jpg"
+  },
+  {
+    "model": "SY-120",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sy_120.png"
+  },
+  {
+    "model": "MSC-150-4",
+    "colors": 4,
+    "desc": "气动左右穿梭四色移印机",
+    "plateSize": "100*75/100*100",
+    "printArea": "70x45mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_150_4.jpg"
+  },
+  {
+    "model": "MS-200",
+    "colors": 1,
+    "desc": "气动单色单头移印机",
+    "plateSize": "150*100/150*150",
+    "printArea": "120x70mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ms_200.png"
+  },
+  {
+    "model": "MS-200-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ms_200_90.png"
+  },
+  {
+    "model": "MSZ-200-2",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msz_200_2.png"
+  },
+  {
+    "model": "MSZ-200-3",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msz_200_3.jpg"
+  },
+  {
+    "model": "MSZ-200-4",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msz_200_4.jpg"
+  },
+  {
+    "model": "MSC-200-2",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_200_2.png"
+  },
+  {
+    "model": "MSC-200-3",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_200_3.jpg"
+  },
+  {
+    "model": "MSC-200-4",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_200_4.jpg"
+  },
+  {
+    "model": "MSC-250-100",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/msc_250_100.png"
+  },
+  {
     "model": "MN-80-75",
     "colors": 1,
     "desc": "气动单色迷你移印机",
@@ -7,6 +304,60 @@
     "printArea": "70x45mm",
     "speed": "Liên hệ",
     "image": "/images/pad-printers/sj/mn_80_75.png"
+  },
+  {
+    "model": "MYD-125-90",
+    "colors": 1,
+    "desc": "电动单色油盅移印机",
+    "plateSize": "100*234",
+    "printArea": "70x204mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/myd_125_90.png"
+  },
+  {
+    "model": "MYC-125-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MYD-200-90",
+    "colors": 1,
+    "desc": "电动单色油盅移印机",
+    "plateSize": "100*310",
+    "printArea": "70x280mm",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/myd_200_90.png"
+  },
+  {
+    "model": "MYC-200-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/myc_200_90.png"
+  },
+  {
+    "model": "MYDQ-125-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mydq_125_90.png"
+  },
+  {
+    "model": "SYDCT2-125-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sydct2_125_90.png"
   },
   {
     "model": "SYDK-125-100",
@@ -36,6 +387,456 @@
     "image": "/images/pad-printers/sj/syck_125_100.png"
   },
   {
+    "model": "SYD-125-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syd_125_90.png"
+  },
+  {
+    "model": "SYD2-125-90",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/syd2_125_90.png"
+  },
+  {
+    "model": "SLD-200",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sld_200.png"
+  },
+  {
+    "model": "SS-400-3",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ss_400_3.png"
+  },
+  {
+    "model": "S-200L",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/s_200l.png"
+  },
+  {
+    "model": "S-400T",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/s_400t.png"
+  },
+  {
+    "model": "SS-AG-200",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ss_ag_200.jpg"
+  },
+  {
+    "model": "MN300-A",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mn300_a.png"
+  },
+  {
+    "model": "MN400-A",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/mn400_a.png"
+  },
+  {
+    "model": "SLS-400-2H",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/sls_400_2h.png"
+  },
+  {
+    "model": "SLS-400-2S",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "SS-250-3",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ss_250_3.png"
+  },
+  {
+    "model": "HT-50",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht_50.png"
+  },
+  {
+    "model": "H200-CS",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h200_cs.png"
+  },
+  {
+    "model": "H168D",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "H168DS",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "H200-D",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h200_d.png"
+  },
+  {
+    "model": "HD-200XL",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "HD250Z",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/hd250z.png"
+  },
+  {
+    "model": "HT2040",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht2040.png"
+  },
+  {
+    "model": "HT100",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht100.png"
+  },
+  {
+    "model": "HT3040",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/ht3040.png"
+  },
+  {
+    "model": "H168",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h168.png"
+  },
+  {
+    "model": "HYD-200-150",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/hyd_200_150.png"
+  },
+  {
+    "model": "H168S",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h168s.png"
+  },
+  {
+    "model": "H195",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h195.png"
+  },
+  {
+    "model": "H195S",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h195s.png"
+  },
+  {
+    "model": "H195L",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h195l.png"
+  },
+  {
+    "model": "H195B",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "H195BS",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "H200-A",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": "/images/pad-printers/sj/h200_a.png"
+  },
+  {
+    "model": "MSC-200-4D",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MSC-150-4D-A",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "(MS-200-140ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "(MSC-250-150)",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "6è‰²",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B11ï¼ˆSS-500-3ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B12ï¼ˆSS-600-3ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B13ï¼ˆMN-800ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B14ï¼ˆMN-1000ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B15ï¼ˆMN-1200ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B16ï¼ˆHS450ç¼ºå›¾ç‰‡å°ºå¯¸ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B17ï¼ˆHSD450ç¼ºå›¾ç‰‡å°ºå¯¸ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B18ï¼ˆSS-250-Dç¼ºå›¾ç‰‡å°ºå¯¸ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "B19ï¼ˆSS-250-DCç¼ºå›¾ç‰‡å°ºå¯¸ï¼‰",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "HYD-200-200",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MN-400AS",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MSC-H450",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "MU-125",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
+    "model": "STP280C",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
+  },
+  {
     "model": "SYG-125-100",
     "colors": 1,
     "desc": "气动单色滚印移印机",
@@ -43,6 +844,15 @@
     "printArea": "Tùy chọn",
     "speed": "Liên hệ",
     "image": "/images/pad-printers/sj/syg_125_100.png"
+  },
+  {
+    "model": "ç‰¹æ®Šæœºåž‹APMå‹ºå­åŒè‰²è½¬ç›˜",
+    "colors": 1,
+    "desc": "Máy in tampon SJ",
+    "plateSize": "Đang cập nhật",
+    "printArea": "Đang cập nhật",
+    "speed": "Liên hệ",
+    "image": ""
   },
   {
     "model": "SYDK-200-90",
@@ -117,15 +927,6 @@
     "image": "/images/pad-printers/sj/syck_200_90.png"
   },
   {
-    "model": "SYDQ-125-90",
-    "colors": 1,
-    "desc": "自动清洗胶头单色移印机",
-    "plateSize": "100*234MM",
-    "printArea": "70x204mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/sydq_125_90.png"
-  },
-  {
     "model": "SYDH-125-90",
     "colors": 1,
     "desc": "气动油盅横刮单色移印机",
@@ -142,78 +943,6 @@
     "printArea": "70x70mm",
     "speed": "Liên hệ",
     "image": "/images/pad-printers/sj/ms_150.png"
-  },
-  {
-    "model": "MS-150-90",
-    "colors": 1,
-    "desc": "气动单色油盅单色移印机",
-    "plateSize": "100*250/油盅90",
-    "printArea": "70x220mm",
-    "speed": "Liên hệ",
-    "image": ""
-  },
-  {
-    "model": "MSZ-150-2",
-    "colors": 2,
-    "desc": "气动转盘双色移印机",
-    "plateSize": "100*75/100*100",
-    "printArea": "70x45mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/msz_150_2.png"
-  },
-  {
-    "model": "MSZ-150-3",
-    "colors": 3,
-    "desc": "气动转盘三色移印机",
-    "plateSize": "100*75/100*100",
-    "printArea": "70x45mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/msz_150_3.png"
-  },
-  {
-    "model": "MSZ-150-4",
-    "colors": 4,
-    "desc": "气动转盘四色移印机",
-    "plateSize": "100*75/100*100",
-    "printArea": "70x45mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/msz_150_4.png"
-  },
-  {
-    "model": "MSC-150-2",
-    "colors": 2,
-    "desc": "气动左右穿梭双色移印机",
-    "plateSize": "100*75/100*100",
-    "printArea": "70x45mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/msc_150_2.png"
-  },
-  {
-    "model": "MSC-150-3",
-    "colors": 3,
-    "desc": "气动左右穿梭三色移印机",
-    "plateSize": "100*75/100*100",
-    "printArea": "70x45mm",
-    "speed": "Liên hệ",
-    "image": ""
-  },
-  {
-    "model": "MSC-150-4",
-    "colors": 4,
-    "desc": "气动左右穿梭四色移印机",
-    "plateSize": "100*75/100*100",
-    "printArea": "70x45mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/msc_150_4.png"
-  },
-  {
-    "model": "MS-200",
-    "colors": 1,
-    "desc": "气动单色单头移印机",
-    "plateSize": "150*100/150*150",
-    "printArea": "120x70mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/ms_200.png"
   },
   {
     "model": "MS-250",
@@ -241,24 +970,6 @@
     "printArea": "70x45mm",
     "speed": "Liên hệ",
     "image": "/images/pad-printers/sj/mnd125_100t.png"
-  },
-  {
-    "model": "MYD-125-90",
-    "colors": 1,
-    "desc": "电动单色油盅移印机",
-    "plateSize": "100*234",
-    "printArea": "70x204mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/myd_125_90.jpg"
-  },
-  {
-    "model": "MYD-200-90",
-    "colors": 1,
-    "desc": "电动单色油盅移印机",
-    "plateSize": "100*310",
-    "printArea": "70x280mm",
-    "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/myd_200_90.jpg"
   },
   {
     "model": "MYDG-125-100",
