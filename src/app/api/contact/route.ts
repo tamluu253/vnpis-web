@@ -15,23 +15,29 @@ export async function POST(request: Request) {
     console.log(`- Nhu cầu: ${message}`);
     console.log('===================================');
 
-    // Optionally send to Formspree or Email API if endpoint is set
+    // Send email directly to info@vnpis.com via FormSubmit AJAX service
     try {
-      await fetch('https://formspree.io/f/mrbgzqvp', {
+      const response = await fetch('https://formsubmit.co/ajax/info@vnpis.com', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
         body: JSON.stringify({
-          name,
-          phone,
-          company,
-          message,
-          pageTitle,
-          _replyto: 'info@vnpis.com',
-          _subject: `[VNPIS Web Lead] Khách hàng ${name} - ${phone} đăng ký tư vấn`
+          _subject: `[VNPIS Web Lead] Khách hàng ${name} (${phone}) - ${company}`,
+          _template: 'table',
+          _captcha: 'false',
+          'Họ và tên': name,
+          'Số điện thoại': phone,
+          'Tên công ty / Xưởng': company,
+          'Mô tả nhu cầu': message || 'Tư vấn báo giá máy',
+          'Trang đăng ký': pageTitle || 'Website VNPIS'
         })
       });
+      const resData = await response.json();
+      console.log('FormSubmit Result:', resData);
     } catch (e) {
-      // Ignore background email send failure to keep UX fast
+      console.error('Email dispatch error:', e);
     }
 
     return NextResponse.json({ success: true, message: 'Đã tiếp nhận yêu cầu tư vấn' });
