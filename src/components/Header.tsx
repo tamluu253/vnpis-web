@@ -37,6 +37,7 @@ export default function Header() {
         { name: 'UV Printer', href: '/products/uv-printers' },
         { name: 'Pad Printer', href: '/products/pad-printers' },
         { name: 'Screen Printer', href: '/products/screen-printers' },
+        { name: 'Hot Stamping', href: '/products/hot-stamping' },
         { name: 'TIJ Printer', href: '/products/tij-printers' },
         { name: 'CIJ Printer', href: '/products/cij-printers' },
         { name: 'Industrial Ink', href: '/products/industrial-ink' },
