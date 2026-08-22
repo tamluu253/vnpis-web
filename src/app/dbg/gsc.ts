@@ -4,7 +4,9 @@ const siteUrlsToTry = [
   'sc-domain:vnpis.com',
   'https://vnpis.com/',
   'https://www.vnpis.com/',
-  'http://vnpis.com/',
+  'sc-domain:inanvnpis.com',
+  'https://inanvnpis.com/',
+  'https://www.inanvnpis.com/',
 ];
 
 export async function getTopKeywords(periodDays: number = 30) {
@@ -70,20 +72,7 @@ export async function getTopKeywords(periodDays: number = 30) {
         }
       } catch (e: any) {
         lastError = e.message || String(e);
-        if (e.message?.includes('Search Console API has not been used') || e.message?.includes('disabled')) {
-          return {
-            error: 'Google Search Console API chưa được Bật trong Google Cloud Console (Project 769443757499).',
-            rows: [],
-          };
-        }
       }
-    }
-
-    if (lastError.includes('permission') || lastError.includes('403')) {
-      return {
-        error: `Chưa phân quyền cho Service Account: ${clientEmail} trong Google Search Console.`,
-        rows: [],
-      };
     }
 
     return { error: null, rows: [] };

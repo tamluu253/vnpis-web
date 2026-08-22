@@ -97,11 +97,18 @@ async function getAnalyticsData(period: PeriodType) {
   }
 }
 
+import { headers } from 'next/headers';
+
 type SearchParams = Promise<{ [key: string]: string | string[] | undefined }>;
 
 export default async function AnalyticsDashboard(props: {
   searchParams: SearchParams;
 }) {
+  const headerList = await headers();
+  const host = headerList.get('host') || '';
+  const isInanvnpis = host.includes('inanvnpis');
+  const dashboardTitle = isInanvnpis ? 'INANVNPIS.COM — ANALYTICS DASHBOARD' : 'VNPIS.COM — ANALYTICS DASHBOARD';
+
   const searchParams = await props.searchParams;
   const periodStr = typeof searchParams?.period === 'string' ? searchParams.period : 'week';
   const period = ['day', 'week', 'month', 'quarter', 'year'].includes(periodStr) 
@@ -148,7 +155,7 @@ export default async function AnalyticsDashboard(props: {
   return (
     <html lang="vi">
       <head>
-        <title>VNPIS Analytics Dashboard - Thực tế</title>
+        <title>{dashboardTitle}</title>
         <meta name="robots" content="noindex, nofollow, noarchive" />
       </head>
       <body style={{ backgroundColor: '#0b132b', color: '#f8fafc', fontFamily: 'sans-serif', margin: 0, padding: 0 }}>
@@ -156,8 +163,8 @@ export default async function AnalyticsDashboard(props: {
           {/* Header */}
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px', borderBottom: '1px solid #1e293b', paddingBottom: '16px' }}>
             <div>
-              <span style={{ backgroundColor: '#22c55e', color: '#ffffff', fontSize: '11px', fontWeight: 'bold', padding: '4px 8px', borderRadius: '4px', textTransform: 'uppercase' }}>Dữ liệu thực từ Google Analytics 4 & GSC (Data Lag Offset 3 Ngày)</span>
-              <h1 style={{ fontSize: '24px', fontWeight: 'bold', color: '#f59e0b', margin: '8px 0 0 0' }}>VNPIS.COM &mdash; ANALYTICS DASHBOARD</h1>
+              <span style={{ backgroundColor: '#22c55e', color: '#ffffff', fontSize: '11px', fontWeight: 'bold', padding: '4px 8px', borderRadius: '4px', textTransform: 'uppercase' }}>Dữ liệu thực từ Google Analytics 4 & GSC</span>
+              <h1 style={{ fontSize: '24px', fontWeight: 'bold', color: '#f59e0b', margin: '8px 0 0 0' }}>{dashboardTitle}</h1>
               <p style={{ fontSize: '13px', color: '#94a3b8', margin: '4px 0 0 0' }}>Báo cáo hiệu suất lượt truy cập & nội dung trang web</p>
             </div>
             
