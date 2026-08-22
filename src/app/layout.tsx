@@ -7,6 +7,7 @@ import GoogleTranslate from '@/components/GoogleTranslate';
 import SchemaOrg from '@/components/SchemaOrg';
 import { Outfit } from 'next/font/google';
 import Script from 'next/script';
+import { Analytics } from '@vercel/analytics/next';
 
 const fontMain = Outfit({ subsets: ['latin'], variable: '--font-sans' });
 
@@ -74,6 +75,7 @@ export default function RootLayout({
         </main>
         <Footer />
         <FloatingContact />
+        <Analytics />
       </body>
     </html>
   );
