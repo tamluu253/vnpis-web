@@ -12,12 +12,12 @@ const nextConfig = {
     return [
       {
         source: '/kien-thuc/index',
-        destination: '/kien-thuc',
+        destination: '/blog',
         permanent: true,
       },
       {
         source: '/kien-thuc/index.html',
-        destination: '/kien-thuc',
+        destination: '/blog',
         permanent: true,
       },
       {
@@ -31,13 +31,93 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: '/solutions/pad-printing',
+        destination: '/in-tampon',
+        permanent: true,
+      },
+      {
+        source: '/services/pad-printing-service',
+        destination: '/in-tampon',
+        permanent: true,
+      },
+      {
+        source: '/in-tampon-gia-re',
+        destination: '/in-tampon',
+        permanent: true,
+      },
+      {
+        source: '/products/pad-printing',
+        destination: '/in-tampon',
+        permanent: true,
+      },
+      {
+        source: '/solutions/screen-printing',
+        destination: '/in-lua',
+        permanent: true,
+      },
+      {
+        source: '/services/screen-printing-service',
+        destination: '/in-lua',
+        permanent: true,
+      },
+      {
+        source: '/in-lua-gia-re',
+        destination: '/in-lua',
+        permanent: true,
+      },
+      {
+        source: '/products/screen-printers',
+        destination: '/in-lua',
+        permanent: true,
+      },
+      {
         source: '/products/cij-printers',
-        destination: '/products/cij-ink',
+        destination: '/muc-in-cij',
+        permanent: true,
+      },
+      {
+        source: '/products/cij-ink',
+        destination: '/muc-in-cij',
+        permanent: true,
+      },
+      {
+        source: '/products/cij-inks',
+        destination: '/muc-in-cij',
         permanent: true,
       },
       {
         source: '/products/tij-printers',
-        destination: '/products/tij-ink',
+        destination: '/tij',
+        permanent: true,
+      },
+      {
+        source: '/products/tij-ink',
+        destination: '/tij',
+        permanent: true,
+      },
+      {
+        source: '/products/tij-inks',
+        destination: '/tij',
+        permanent: true,
+      },
+      {
+        source: '/services/variable-data-printing',
+        destination: '/in-ky-thuat-so',
+        permanent: true,
+      },
+      {
+        source: '/services/variable-data-service',
+        destination: '/in-ky-thuat-so',
+        permanent: true,
+      },
+      {
+        source: '/services/qr-printing',
+        destination: '/in-ky-thuat-so',
+        permanent: true,
+      },
+      {
+        source: '/services/qr-printing-service',
+        destination: '/in-ky-thuat-so',
         permanent: true,
       },
       {
@@ -52,7 +132,7 @@ const nextConfig = {
       },
       {
         source: '/tin-tuc.html',
-        destination: '/kien-thuc',
+        destination: '/blog',
         permanent: true,
       },
       {
@@ -78,21 +158,6 @@ const nextConfig = {
       {
         source: '/sitemap.html',
         destination: '/sitemap.xml',
-        permanent: true,
-      },
-      {
-        source: '/in-tampon-gia-re',
-        destination: '/services/pad-printing-service',
-        permanent: true,
-      },
-      {
-        source: '/in-lua-gia-re',
-        destination: '/services/screen-printing-service',
-        permanent: true,
-      },
-      {
-        source: '/in-uv-gia-re',
-        destination: '/services/uv-printing-service',
         permanent: true,
       },
     ];

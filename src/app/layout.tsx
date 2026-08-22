@@ -10,42 +10,18 @@ import Script from 'next/script';
 
 const fontMain = Outfit({ subsets: ['latin'], variable: '--font-sans' });
 
-import type { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  metadataBase: new URL('https://www.inanvnpis.com'),
+export const metadata = {
+  metadataBase: new URL('https://vnpis.com'),
   title: {
-    default: 'Xưởng Gia Công In Tampon, In Lụa & Vật Tư Ngành In VNPIS TP.HCM',
-    template: '%s | Xưởng In VNPIS Solutions',
+    default: 'VNPIS | Xưởng In Tampon, In Lụa, Mực In CIJ & TIJ, In Dữ Liệu Biến Đổi',
+    template: '%s | VNPIS - Industrial Printing Solutions',
   },
-  description: 'VNPIS Solutions chuyên gia công in tampon (tô chén ly nhựa, linh kiện), in lụa màng nhựa/túi giấy/vải, in KTS QR code dữ liệu biến đổi & phân phối mực in gia công tại TP.HCM. Hotline/Zalo Báo Giá 24/7: 0901 836 344 (Mr. Tâm) - 0901 826 344 (Mr. Giang).',
-  keywords: [
-    'xưởng gia công in tampon tphcm',
-    'gia công in lụa',
-    'in tampon ly nhựa tô chén',
-    'in kỹ thuật số qr code',
-    'mực in tampon afford kt1',
-    'máy in tampon 1 màu',
-    'vật tư ngành in gia công',
-    'xưởng in vnpis solutions'
-  ],
+  description: 'Công ty TNHH VNPIS - Chuyên gia công in tampon, in lụa, in kỹ thuật số dữ liệu biến đổi QR/Barcode. Cung cấp máy in & mực in công nghiệp CIJ, TIJ chính hãng tại TP.HCM. Hotline/Zalo: 0987 453 866.',
   alternates: {
     canonical: './',
   },
-  openGraph: {
-    title: 'Xưởng Gia Công In Tampon, In Lụa & Vật Tư Ngành In VNPIS TP.HCM',
-    description: 'Chuyên nhận in gia công Tampon, In Lụa, In KTS dữ liệu biến đổi trên mọi chất liệu tại TP.HCM. Hotline/Zalo Báo Giá: 0901 836 344.',
-    url: 'https://inanvnpis.com',
-    siteName: 'In Ấn VNPIS Solutions',
-    locale: 'vi_VN',
-    type: 'website',
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
   verification: {
-    google: ['googlefd3afa8a73f86c45', 'xQz99KRkCepH0j7LgeoQ2hHqRA4YqEMOw4rP1nHBHH0'],
+    google: 'xQz99KRkCepH0j7LgeoQ2hHqRA4YqEMOw4rP1nHBHH0',
   },
 };
 

@@ -1,20 +1,31 @@
 import { MetadataRoute } from 'next';
-import { getAllDocumentsMeta } from '@/lib/mdx';
+import { getAllSlugs } from '@/lib/mdx';
 
-const DOMAIN = 'https://www.inanvnpis.com';
+const DOMAIN = 'https://vnpis.com';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const articles = getAllDocumentsMeta('articles');
-  const blogEntries: MetadataRoute.Sitemap = articles.map((post: any) => ({
-    url: `${DOMAIN}/blog/${post.slug}`,
-    lastModified: new Date(post.date || Date.now()),
+  const articleSlugs = getAllSlugs('articles');
+  const pillarSlugs = getAllSlugs('pillars');
+
+  const blogEntries: MetadataRoute.Sitemap = articleSlugs.map((slug: string) => ({
+    url: `${DOMAIN}/blog/${slug}`,
+    lastModified: new Date(),
     changeFrequency: 'weekly',
     priority: 0.8,
+  }));
+
+  const pillarEntries: MetadataRoute.Sitemap = pillarSlugs.map((slug: string) => ({
+    url: `${DOMAIN}/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.9,
   }));
 
   const coreServices = [
     '/in-tampon',
     '/in-lua',
+    '/muc-in-cij',
+    '/tij',
     '/in-ky-thuat-so',
     '/about',
     '/contact',
@@ -42,6 +53,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     ...serviceEntries,
+    ...pillarEntries,
     ...blogEntries,
   ];
 }
+

@@ -111,12 +111,15 @@ export default async function AnalyticsDashboard(props: {
   const currentStats = await getAnalyticsData(period);
   const pages = currentStats.pages;
   
-  const range = dateRanges[period] || dateRanges.week;
-  const gscStartDate = range.startDate === 'today' ? new Date().toISOString().split('T')[0] : 
-                       new Date(Date.now() - parseInt(range.startDate) * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
-  const gscEndDate = new Date().toISOString().split('T')[0];
-  
-  const gscKeywords = await getTopKeywords(gscStartDate, gscEndDate);
+  const periodDaysMap: Record<PeriodType, number> = {
+    day: 1,
+    week: 7,
+    month: 30,
+    quarter: 90,
+    year: 365,
+  };
+  const periodDays = periodDaysMap[period] || 7;
+  const { error: gscError, rows: gscKeywords } = await getTopKeywords(periodDays);
 
   const getButtonStyle = (p: string) => ({
     backgroundColor: period === p ? '#f59e0b' : 'transparent',
@@ -231,7 +234,7 @@ export default async function AnalyticsDashboard(props: {
                     </tr>
                   </thead>
                   <tbody>
-                    {gscKeywords.length > 0 ? gscKeywords.map((kw: any) => (
+                    {gscKeywords && gscKeywords.length > 0 ? gscKeywords.map((kw: any) => (
                       <tr key={kw.rank} style={{ borderBottom: '1px solid #334155' }}>
                         <td style={{ padding: '12px', fontWeight: 'bold' }}>
                           <span style={{ backgroundColor: kw.rank <= 3 ? '#3b82f6' : '#475569', color: '#ffffff', padding: '2px 8px', borderRadius: '4px' }}>Top {kw.rank}</span>
@@ -242,8 +245,17 @@ export default async function AnalyticsDashboard(props: {
                       </tr>
                     )) : (
                       <tr>
-                        <td colSpan={4} style={{ padding: '24px', textAlign: 'center', color: '#64748b' }}>
-                          Chưa có dữ liệu Từ khóa từ Google Search Console (hoặc thiếu quyền)
+                        <td colSpan={4} style={{ padding: '24px', textAlign: 'center', color: '#f87171', fontSize: '13px', lineHeight: '1.6' }}>
+                          {gscError ? (
+                            <div>
+                              <p style={{ fontWeight: 'bold', margin: '0 0 8px 0' }}>⚠️ {gscError}</p>
+                              <p style={{ color: '#94a3b8', margin: 0, fontSize: '12px' }}>
+                                Cần kích hoạt Google Search Console API tại Google Cloud Console &amp; cấp quyền User cho Email Service Account: <code>vnpis-seo-bot@vnpis-com.iam.gserviceaccount.com</code> trong Search Console.
+                              </p>
+                            </div>
+                          ) : (
+                            'Chưa có dữ liệu từ khóa hiển thị trong khoảng thời gian này (dữ liệu GSC có chênh lệch 2-3 ngày).'
+                          )}
                         </td>
                       </tr>
                     )}
