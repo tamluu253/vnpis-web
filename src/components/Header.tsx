@@ -31,11 +31,18 @@ export default function Header() {
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
   const [currentLang, setCurrentLang] = useState<string>('vi');
 
+  const [logoSrc, setLogoSrc] = useState('/images/vnpis-logo.png');
+  const [logoAlt, setLogoAlt] = useState('VNPIS Logo');
+
   useEffect(() => {
     if (typeof window !== 'undefined') {
       const match = document.cookie.match(/googtrans=\/vi\/([^;]+)/);
       if (match && match[1]) {
         setCurrentLang(match[1]);
+      }
+      if (window.location.hostname.includes('inanvnpis')) {
+        setLogoSrc('/images/inanvnpis-logo.png');
+        setLogoAlt('In Ấn VNPIS Logo');
       }
     }
   }, []);
@@ -115,7 +122,7 @@ export default function Header() {
       <div className="container mx-auto px-4 h-20 lg:h-24 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex-shrink-0">
-          <img src="/images/vnpis-logo.png" alt="VNPIS Logo" className="h-14 lg:h-16 w-auto transition-all" />
+          <img src={logoSrc} alt={logoAlt} className="h-14 lg:h-16 w-auto transition-all" />
         </Link>
 
         {/* Desktop Navigation */}
