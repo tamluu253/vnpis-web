@@ -121,6 +121,10 @@ export default async function AnalyticsDashboard(props: {
   const periodDays = periodDaysMap[period] || 7;
   const { error: gscError, rows: gscKeywords } = await getTopKeywords(periodDays);
 
+  // Compute GSC Summary Metrics
+  const totalGscClicks = gscKeywords.reduce((acc: number, item: any) => acc + item.clicks, 0);
+  const totalGscImpressions = gscKeywords.reduce((acc: number, item: any) => acc + item.impressions, 0);
+
   const getButtonStyle = (p: string) => ({
     backgroundColor: period === p ? '#f59e0b' : 'transparent',
     color: period === p ? '#0f172a' : '#94a3b8',
@@ -133,6 +137,14 @@ export default async function AnalyticsDashboard(props: {
     display: 'inline-block'
   });
 
+  const getSmartInsight = (clicks: number, impressions: number, posStr: string) => {
+    const pos = parseFloat(posStr) || 99;
+    if (pos <= 3 && clicks > 0) return { label: '🔥 Đang Giữ Top 1-3', bg: '#15803d', color: '#ffffff' };
+    if (impressions > 0 && clicks === 0) return { label: '💡 Cần Đổi Meta Title', bg: '#b45309', color: '#ffffff' };
+    if (pos > 3 && pos <= 10) return { label: '🚀 Đang Cận Top 1-3', bg: '#1d4ed8', color: '#ffffff' };
+    return { label: '📈 Đang Tăng Hạng', bg: '#475569', color: '#ffffff' };
+  };
+
   return (
     <html lang="vi">
       <head>
@@ -140,11 +152,11 @@ export default async function AnalyticsDashboard(props: {
         <meta name="robots" content="noindex, nofollow, noarchive" />
       </head>
       <body style={{ backgroundColor: '#0b132b', color: '#f8fafc', fontFamily: 'sans-serif', margin: 0, padding: 0 }}>
-        <div style={{ padding: '24px', maxWidth: '1200px', margin: '0 auto' }}>
+        <div style={{ padding: '24px', maxWidth: '1280px', margin: '0 auto' }}>
           {/* Header */}
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '24px', borderBottom: '1px solid #1e293b', paddingBottom: '16px' }}>
             <div>
-              <span style={{ backgroundColor: '#22c55e', color: '#ffffff', fontSize: '11px', fontWeight: 'bold', padding: '4px 8px', borderRadius: '4px', textTransform: 'uppercase' }}>Dữ liệu thực từ Google Analytics 4 & GSC</span>
+              <span style={{ backgroundColor: '#22c55e', color: '#ffffff', fontSize: '11px', fontWeight: 'bold', padding: '4px 8px', borderRadius: '4px', textTransform: 'uppercase' }}>Dữ liệu thực từ Google Analytics 4 & GSC (Data Lag Offset 3 Ngày)</span>
               <h1 style={{ fontSize: '24px', fontWeight: 'bold', color: '#f59e0b', margin: '8px 0 0 0' }}>VNPIS.COM &mdash; ANALYTICS DASHBOARD</h1>
               <p style={{ fontSize: '13px', color: '#94a3b8', margin: '4px 0 0 0' }}>Báo cáo hiệu suất lượt truy cập & nội dung trang web</p>
             </div>
@@ -159,58 +171,64 @@ export default async function AnalyticsDashboard(props: {
             </div>
           </div>
 
-          {/* Cards metrics */}
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))', gap: '16px', marginBottom: '24px' }}>
-            <div style={{ backgroundColor: '#1e293b', padding: '20px', borderRadius: '12px', borderLeft: '4px solid #3b82f6' }}>
-              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Tổng Lượt Truy Cập (Sessions)</p>
-              <h2 style={{ fontSize: '28px', color: '#ffffff', margin: '8px 0 0 0' }}>{currentStats.visits}</h2>
+          {/* Cards metrics GA4 & GSC */}
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '16px', marginBottom: '24px' }}>
+            <div style={{ backgroundColor: '#1e293b', padding: '18px', borderRadius: '12px', borderLeft: '4px solid #3b82f6' }}>
+              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Tổng Truy Cập (Sessions)</p>
+              <h2 style={{ fontSize: '26px', color: '#ffffff', margin: '6px 0 0 0' }}>{currentStats.visits}</h2>
               <span style={{ fontSize: '12px', color: '#22c55e' }}>Phiên truy cập website</span>
             </div>
 
-            <div style={{ backgroundColor: '#1e293b', padding: '20px', borderRadius: '12px', borderLeft: '4px solid #f59e0b' }}>
-              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Người dùng mới (New Users)</p>
-              <h2 style={{ fontSize: '28px', color: '#f59e0b', margin: '8px 0 0 0' }}>{currentStats.organic}</h2>
-              <span style={{ fontSize: '12px', color: '#22c55e' }}>Chỉ số thu hút KH mới</span>
+            <div style={{ backgroundColor: '#1e293b', padding: '18px', borderRadius: '12px', borderLeft: '4px solid #f59e0b' }}>
+              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Người Dùng Mới (New Users)</p>
+              <h2 style={{ fontSize: '26px', color: '#f59e0b', margin: '6px 0 0 0' }}>{currentStats.organic}</h2>
+              <span style={{ fontSize: '12px', color: '#22c55e' }}>Thu hút KH mới</span>
             </div>
 
-            <div style={{ backgroundColor: '#1e293b', padding: '20px', borderRadius: '12px', borderLeft: '4px solid #10b981' }}>
-              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Tổng tương tác (Event Count)</p>
-              <h2 style={{ fontSize: '28px', color: '#10b981', margin: '8px 0 0 0' }}>{currentStats.leads}</h2>
-              <span style={{ fontSize: '12px', color: '#94a3b8' }}>Click, Cuộn trang, Bấm gọi</span>
+            <div style={{ backgroundColor: '#1e293b', padding: '18px', borderRadius: '12px', borderLeft: '4px solid #10b981' }}>
+              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Tổng Tương Tác (Events)</p>
+              <h2 style={{ fontSize: '26px', color: '#10b981', margin: '6px 0 0 0' }}>{currentStats.leads}</h2>
+              <span style={{ fontSize: '12px', color: '#94a3b8' }}>Click, Bấm gọi Zalo</span>
             </div>
 
-            <div style={{ backgroundColor: '#1e293b', padding: '20px', borderRadius: '12px', borderLeft: '4px solid #8b5cf6' }}>
-              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Tỉ lệ tương tác (Tương đối)</p>
-              <h2 style={{ fontSize: '28px', color: '#8b5cf6', margin: '8px 0 0 0' }}>{currentStats.ctr}</h2>
-              <span style={{ fontSize: '12px', color: '#8b5cf6' }}>Engaged / Total Sessions</span>
+            <div style={{ backgroundColor: '#1e293b', padding: '18px', borderRadius: '12px', borderLeft: '4px solid #8b5cf6' }}>
+              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Tổng Nhấp GSC (Clicks)</p>
+              <h2 style={{ fontSize: '26px', color: '#8b5cf6', margin: '6px 0 0 0' }}>{totalGscClicks}</h2>
+              <span style={{ fontSize: '12px', color: '#8b5cf6' }}>Từ kết quả tìm kiếm Google</span>
+            </div>
+
+            <div style={{ backgroundColor: '#1e293b', padding: '18px', borderRadius: '12px', borderLeft: '4px solid #ec4899' }}>
+              <p style={{ fontSize: '12px', color: '#94a3b8', margin: 0, textTransform: 'uppercase', fontWeight: 'bold' }}>Hiển Thị GSC (Impressions)</p>
+              <h2 style={{ fontSize: '26px', color: '#ec4899', margin: '6px 0 0 0' }}>{totalGscImpressions}</h2>
+              <span style={{ fontSize: '12px', color: '#ec4899' }}>Lượt hiển thị tìm kiếm</span>
             </div>
           </div>
 
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '24px', marginBottom: '24px' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(450px, 1fr))', gap: '24px', marginBottom: '24px' }}>
             {/* Top Pages Table */}
             <div style={{ backgroundColor: '#1e293b', padding: '24px', borderRadius: '12px' }}>
-              <h3 style={{ fontSize: '18px', color: '#f59e0b', margin: '0 0 16px 0' }}>🏆 Top Nội Dung Thu Hút Nhất</h3>
+              <h3 style={{ fontSize: '18px', color: '#f59e0b', margin: '0 0 16px 0' }}>🏆 Top Nội Dung Thu Hút Nhất (GA4)</h3>
               <div style={{ overflowX: 'auto' }}>
-                <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '14px', textAlign: 'left' }}>
+                <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '13px', textAlign: 'left' }}>
                   <thead>
                     <tr style={{ borderBottom: '1px solid #334155', color: '#94a3b8' }}>
-                      <th style={{ padding: '12px', width: '80px' }}>Vị Trí</th>
-                      <th style={{ padding: '12px' }}>Tiêu đề trang (Page Title)</th>
-                      <th style={{ padding: '12px', width: '100px' }}>Số Phiên</th>
+                      <th style={{ padding: '10px', width: '70px' }}>Hạng</th>
+                      <th style={{ padding: '10px' }}>Tiêu đề trang (Page Title)</th>
+                      <th style={{ padding: '10px', width: '90px' }}>Số Phiên</th>
                     </tr>
                   </thead>
                   <tbody>
                     {pages.length > 0 ? pages.map((page: any) => (
                       <tr key={page.rank} style={{ borderBottom: '1px solid #334155' }}>
-                        <td style={{ padding: '12px', fontWeight: 'bold' }}>
-                          <span style={{ backgroundColor: page.rank <= 3 ? '#f59e0b' : '#475569', color: '#0f172a', padding: '2px 8px', borderRadius: '4px' }}>{page.position}</span>
+                        <td style={{ padding: '10px', fontWeight: 'bold' }}>
+                          <span style={{ backgroundColor: page.rank <= 3 ? '#f59e0b' : '#475569', color: '#0f172a', padding: '2px 6px', borderRadius: '4px', fontSize: '12px' }}>{page.position}</span>
                         </td>
-                        <td style={{ padding: '12px', color: '#ffffff', fontWeight: 'bold' }}>{page.title}</td>
-                        <td style={{ padding: '12px', color: '#cbd5e1' }}>{page.sessions}</td>
+                        <td style={{ padding: '10px', color: '#ffffff', fontWeight: 'bold' }}>{page.title}</td>
+                        <td style={{ padding: '10px', color: '#cbd5e1', fontWeight: 'bold' }}>{page.sessions}</td>
                       </tr>
                     )) : (
                       <tr>
-                        <td colSpan={3} style={{ padding: '24px', textAlign: 'center', color: '#64748b' }}>
+                        <td colSpan={3} style={{ padding: '20px', textAlign: 'center', color: '#64748b' }}>
                           Chưa có dữ liệu từ Google Analytics
                         </td>
                       </tr>
@@ -222,30 +240,47 @@ export default async function AnalyticsDashboard(props: {
 
             {/* Top Keywords Table */}
             <div style={{ backgroundColor: '#1e293b', padding: '24px', borderRadius: '12px' }}>
-              <h3 style={{ fontSize: '18px', color: '#3b82f6', margin: '0 0 16px 0' }}>🔍 Top Từ Khóa Tìm Kiếm (GSC)</h3>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
+                <h3 style={{ fontSize: '18px', color: '#3b82f6', margin: 0 }}>🔍 Top Từ Khóa Tìm Kiếm (GSC Full Metrics)</h3>
+                <span style={{ fontSize: '11px', color: '#94a3b8', backgroundColor: '#0f172a', padding: '4px 8px', borderRadius: '4px' }}>Top {gscKeywords.length} từ khóa</span>
+              </div>
+              
               <div style={{ overflowX: 'auto' }}>
-                <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '14px', textAlign: 'left' }}>
+                <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '13px', textAlign: 'left' }}>
                   <thead>
                     <tr style={{ borderBottom: '1px solid #334155', color: '#94a3b8' }}>
-                      <th style={{ padding: '12px', width: '80px' }}>Vị Trí</th>
-                      <th style={{ padding: '12px' }}>Từ khóa (Query)</th>
-                      <th style={{ padding: '12px', width: '100px' }}>Lượt nhấp</th>
-                      <th style={{ padding: '12px', width: '100px' }}>Hiển thị</th>
+                      <th style={{ padding: '10px', width: '70px' }}>Hạng GG</th>
+                      <th style={{ padding: '10px' }}>Từ khóa (Query)</th>
+                      <th style={{ padding: '10px', width: '60px' }}>Nhấp</th>
+                      <th style={{ padding: '10px', width: '60px' }}>Hiển thị</th>
+                      <th style={{ padding: '10px', width: '60px' }}>CTR</th>
+                      <th style={{ padding: '10px', width: '140px' }}>Gợi ý chiến lược</th>
                     </tr>
                   </thead>
                   <tbody>
-                    {gscKeywords && gscKeywords.length > 0 ? gscKeywords.map((kw: any) => (
-                      <tr key={kw.rank} style={{ borderBottom: '1px solid #334155' }}>
-                        <td style={{ padding: '12px', fontWeight: 'bold' }}>
-                          <span style={{ backgroundColor: kw.rank <= 3 ? '#3b82f6' : '#475569', color: '#ffffff', padding: '2px 8px', borderRadius: '4px' }}>Top {kw.rank}</span>
-                        </td>
-                        <td style={{ padding: '12px', color: '#ffffff', fontWeight: 'bold' }}>{kw.query}</td>
-                        <td style={{ padding: '12px', color: '#22c55e', fontWeight: 'bold' }}>{kw.clicks}</td>
-                        <td style={{ padding: '12px', color: '#cbd5e1' }}>{kw.impressions}</td>
-                      </tr>
-                    )) : (
+                    {gscKeywords && gscKeywords.length > 0 ? gscKeywords.map((kw: any) => {
+                      const insight = getSmartInsight(kw.clicks, kw.impressions, kw.position);
+                      return (
+                        <tr key={kw.rank} style={{ borderBottom: '1px solid #334155' }}>
+                          <td style={{ padding: '10px', fontWeight: 'bold' }}>
+                            <span style={{ backgroundColor: parseFloat(kw.position) <= 3 ? '#3b82f6' : '#475569', color: '#ffffff', padding: '2px 6px', borderRadius: '4px', fontSize: '11px' }}>
+                              Top {kw.position}
+                            </span>
+                          </td>
+                          <td style={{ padding: '10px', color: '#ffffff', fontWeight: 'bold' }}>{kw.query}</td>
+                          <td style={{ padding: '10px', color: '#22c55e', fontWeight: 'bold' }}>{kw.clicks}</td>
+                          <td style={{ padding: '10px', color: '#cbd5e1' }}>{kw.impressions}</td>
+                          <td style={{ padding: '10px', color: parseFloat(kw.ctr) > 0 ? '#f59e0b' : '#64748b' }}>{kw.ctr}</td>
+                          <td style={{ padding: '10px' }}>
+                            <span style={{ backgroundColor: insight.bg, color: insight.color, padding: '2px 6px', borderRadius: '4px', fontSize: '10px', fontWeight: 'bold', display: 'inline-block' }}>
+                              {insight.label}
+                            </span>
+                          </td>
+                        </tr>
+                      );
+                    }) : (
                       <tr>
-                        <td colSpan={4} style={{ padding: '24px', textAlign: 'center', color: '#f87171', fontSize: '13px', lineHeight: '1.6' }}>
+                        <td colSpan={6} style={{ padding: '24px', textAlign: 'center', color: '#f87171', fontSize: '13px', lineHeight: '1.6' }}>
                           {gscError ? (
                             <div>
                               <p style={{ fontWeight: 'bold', margin: '0 0 8px 0' }}>⚠️ {gscError}</p>

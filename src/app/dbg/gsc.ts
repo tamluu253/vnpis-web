@@ -53,7 +53,7 @@ export async function getTopKeywords(periodDays: number = 30) {
             startDate,
             endDate,
             dimensions: ['query'],
-            rowLimit: 10,
+            rowLimit: 50,
           },
         });
 
@@ -64,6 +64,7 @@ export async function getTopKeywords(periodDays: number = 30) {
             clicks: row.clicks || 0,
             impressions: row.impressions || 0,
             ctr: ((row.ctr || 0) * 100).toFixed(1) + '%',
+            position: row.position ? row.position.toFixed(1) : '-',
           }));
           return { error: null, rows };
         }
