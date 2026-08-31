@@ -1,0 +1,93 @@
+[
+  {
+    "model": "HS-260P",
+    "name": "Máy In Lụa Phẳng Hút Chân Không HS-260P",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng bán tự động tích hợp bàn hút chân không giữ phôi cố định, cơ chế kéo dao gạt mực bằng xilanh khí nén mượt mà.",
+    "plateSize": "400 x 600 mm",
+    "printArea": "200 x 260 mm",
+    "speed": "1,600 nhịp/giờ",
+    "airPressure": "5 - 7 bar",
+    "weight": "110 kg",
+    "power": "220V / 50Hz / 50W",
+    "image": "/images/screen-printers/hj/hs-260p-user.jpg"
+  },
+  {
+    "model": "HS-350P",
+    "name": "Máy In Lụa Phẳng Độ Chính Xác Cao HS-350P",
+    "colors": 1,
+    "desc": "Dòng máy in lụa phẳng cỡ trung chuyên dụng cho in vỏ hộp thiết bị, linh kiện nhựa, kim loại, quà tặng với độ phủ mực mịn đồng đều.",
+    "plateSize": "500 x 700 mm",
+    "printArea": "250 x 350 mm",
+    "speed": "1,400 nhịp/giờ",
+    "airPressure": "5 - 7 bar",
+    "weight": "145 kg",
+    "power": "220V / 50Hz / 60W",
+    "image": "/images/screen-printers/hj/hs-350p-user.jpg"
+  },
+  {
+    "model": "HS-500P",
+    "name": "Máy In Lụa Phẳng Tiêu Chuẩn 500mm HS-500P",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng công nghiệp cỡ lớn 500mm, khung thép kiên cố, nâng hạ khí nén định vị micro-adjustment.",
+    "plateSize": "550 x 800 mm",
+    "printArea": "300 x 500 mm",
+    "speed": "1,100 nhịp/giờ",
+    "airPressure": "5 - 7 bar",
+    "weight": "180 kg",
+    "power": "220V / 50Hz / 60W",
+    "image": "/images/screen-printers/hj/hs-350p_2.jpeg"
+  },
+  {
+    "model": "HS-600P",
+    "name": "Máy In Lụa Phẳng Tiêu Chuẩn 600mm HS-600P",
+    "colors": 1,
+    "desc": "Máy in lụa phẳng khổ lớn 600mm thích hợp cho in tấm kính, bảng mạch PCB, bìa carton và linh kiện gia dụng.",
+    "plateSize": "700 x 1000 mm",
+    "printArea": "400 x 600 mm",
+    "speed": "1,000 nhịp/giờ",
+    "airPressure": "5 - 7 bar",
+    "weight": "220 kg",
+    "power": "220V / 50Hz / 75W",
+    "image": "/images/screen-printers/hj/hs-600p.jpg"
+  },
+  {
+    "model": "HS-1300PE",
+    "name": "Máy In Lụa Phẳng Khổ Siêu Lớn Hút Chân Không HS-1300PE",
+    "colors": 1,
+    "desc": "Dây chuyền in lụa siêu khổ trang bị hệ thống hút chân không công suất lớn, chống lệch phôi tuyệt đối trên tấm nhôm, màng nhựa lớn.",
+    "plateSize": "1300 x 1600 mm",
+    "printArea": "1000 x 1300 mm",
+    "speed": "600 nhịp/giờ",
+    "airPressure": "5 - 7 bar",
+    "weight": "450 kg",
+    "power": "220V / 50Hz / 120W",
+    "image": "/images/screen-printers/hj/hs-70100p.jpg"
+  },
+  {
+    "model": "HS-260R",
+    "name": "Máy In Lụa Xoay Tròn (Cylindrical) HS-260R",
+    "colors": 1,
+    "desc": "Chuyên dụng in lụa 360 độ trên thân chai lọ tròn, cốc nhựa, tuýp mỹ phẩm, bình nước với độ chính xác cao.",
+    "plateSize": "350 x 500 mm",
+    "printArea": "Đường kính Ф80 mm",
+    "speed": "1,400 nhịp/giờ",
+    "airPressure": "5 - 7 bar",
+    "weight": "125 kg",
+    "power": "220V / 50Hz / 50W",
+    "image": "/images/screen-printers/hj/hs-260pme-2r.jpg"
+  },
+  {
+    "model": "HS-500R",
+    "name": "Máy In Lụa Trụ Tròn Cỡ Lớn HS-500R",
+    "colors": 1,
+    "desc": "Giải pháp in lụa xoay tròn công nghiệp cho chai lọ cỡ lớn, xô nhựa, hũ mỹ phẩm dung tích lớn.",
+    "plateSize": "450 x 750 mm",
+    "printArea": "Đường kính Ф150 mm",
+    "speed": "1,000 nhịp/giờ",
+    "airPressure": "5 - 7 bar",
+    "weight": "190 kg",
+    "power": "220V / 50Hz / 60W",
+    "image": "/images/screen-printers/hj/hs-90120.jpg"
+  }
+]

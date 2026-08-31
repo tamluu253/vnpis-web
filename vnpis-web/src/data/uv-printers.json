@@ -1,0 +1,48 @@
+[
+  {
+    "id": "model-sheet-feeder",
+    "name": "Máy In UV Single Pass Dạng Cấp Tờ Rời (Auto Sheet Feeder)",
+    "description": "Hệ thống máy in UV Single Pass tích hợp bộ cấp phôi tờ rời tự động. Chuyên dụng cho in dữ liệu biến đổi, QR code, mã vạch và logo trên túi màng phẳng, bao bì carton, thẻ cứng, tờ gấp giấy với độ chính xác cao.",
+    "features": [
+      "Bộ cấp tờ rời nạp phôi ma sát tự động (Friction Sheet Feeder).",
+      "Dàn đầu in UV Single Pass phun công nghiệp tốc độ cao.",
+      "Hệ thống sấy UV-LED đóng rắn mực tức thì dưới 1 giây.",
+      "Tích hợp gá căn chỉnh lề phôi chuẩn xác $< 0.1\\text{mm}$.",
+      "In trực tiếp trên giấy kraft, túi nilon, màng nhôm, carton phẳng."
+    ],
+    "specs": {
+      "printheadType": "Ricoh Gen5 / Gen6 Piezoelectric",
+      "printWidth": "108mm - 324mm (Tùy chọn ghép cụm)",
+      "printSpeed": "0 - 100m/phút (Tùy chỉnh tốc độ nạp phôi)",
+      "resolution": "600 x 300 - 1200 dpi",
+      "inkType": "Mực UV bám dính cao (Kháng cồn & cào xước)",
+      "curingSystem": "Đèn sấy UV-LED công suất cao",
+      "feederType": "Tự động nạp tờ rời tốc độ cao",
+      "dimensions": "2.2m x 1.1m x 1.6m"
+    },
+    "image": "/images/products/uv-sheet-feeder.jpg"
+  },
+  {
+    "id": "model-roll-inspection",
+    "name": "Máy In UV Single Pass Dạng Cuộn Tích Hợp Camera Inspection",
+    "description": "Dây chuyền in UV Single Pass dạng cuộn (Roll-to-Roll) kết hợp hệ thống camera kiểm phẩm CCD công nghiệp. Tự động kiểm tra chất lượng in, phát hiện mã QR/Barcode lỗi hoặc trùng lặp ngay khi đang chạy ở tốc độ cao.",
+    "features": [
+      "Hệ thống xả - cuộn căng tự động (Tension Control Roll-to-Roll).",
+      "Tích hợp Camera CCD Vision Inspection phát hiện lỗi 100%.",
+      "Tự động cảnh báo và dừng máy khi phát hiện mã QR hỏng/trùng.",
+      "In dữ liệu biến đổi mã hóa bảo mật trên tem nhãn dạng cuộn.",
+      "Tốc độ kiểm tra và in đồng bộ lên tới 150m/phút."
+    ],
+    "specs": {
+      "printheadType": "Kyocera / Ricoh Gen6 Industrial",
+      "printWidth": "216mm - 486mm",
+      "printSpeed": "0 - 150m/phút",
+      "resolution": "600 x 600 - 1200 dpi",
+      "inspectionSystem": "Camera CCD Vision HD 4K Online",
+      "curingSystem": "Hệ thống sấy UV-LED làm mát bằng nước",
+      "webControl": "Cảm biến canh biên EPC tự động",
+      "dimensions": "3.5m x 1.4m x 1.8m"
+    },
+    "image": "/images/products/uv-roll-inspection.jpg"
+  }
+]

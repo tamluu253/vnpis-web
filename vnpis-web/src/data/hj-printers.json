@@ -1,0 +1,215 @@
+[
+  {
+    "model": "HP160A-CCD",
+    "name": "Máy In Tampon 1 Màu Định Vị CCD HP160A-CCD",
+    "colors": 1,
+    "desc": "Máy in tampon (pad printer) 1 màu trang bị hệ thống camera CCD định vị phôi tự động, slide trượt cơ khí chính xác cho linh kiện vi điện tử.",
+    "plateSize": "100 x 150 mm",
+    "printArea": "70 x 120 mm",
+    "speed": "600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_1.jpg"
+  },
+  {
+    "model": "HP-125A",
+    "name": "Máy In Tampon 1 Màu Khay Mực Hở HP-125A",
+    "colors": 1,
+    "desc": "Máy in tampon 1 màu khay mực hở dạng đứng tiêu chuẩn, kết cấu gọn nhẹ, vận hành khí nén êm ái.",
+    "plateSize": "100 x 100 mm",
+    "printArea": "70 x 70 mm",
+    "speed": "2,100 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_5.jpg"
+  },
+  {
+    "model": "HP-125AY",
+    "name": "Máy In Tampon 1 Màu Cốc Mực Kín HP-125AY",
+    "colors": 1,
+    "desc": "Máy in tampon 1 màu cốc mực kín (Ink Cup) tiết kiệm dung môi, ngăn mùi mực bay hơi, thân thiện môi trường nhà xưởng.",
+    "plateSize": "100 x 200 mm",
+    "printArea": "70 x 170 mm",
+    "speed": "1,500 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_6.jpg"
+  },
+  {
+    "model": "HP-160",
+    "name": "Máy In Tampon 1 Màu Khay Mực Hở HP-160",
+    "colors": 1,
+    "desc": "Máy in tampon 1 màu khay mực hở công nghiệp cỡ trung, bàn nâng hạ X-Y-Z dễ tinh chỉnh vị trí phôi.",
+    "plateSize": "100 x 150 mm",
+    "printArea": "70 x 120 mm",
+    "speed": "1,800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_8.jpg"
+  },
+  {
+    "model": "HP-160Y",
+    "name": "Máy In Tampon 1 Màu Cốc Mực Kín Ф90mm HP-160Y",
+    "colors": 1,
+    "desc": "Máy in tampon 1 màu trang bị cốc mực kín đường kính Ф90mm, chống gạt mực sót, độ nét in nhãn mác hoàn hảo.",
+    "plateSize": "100 x 250 mm",
+    "printArea": "Ф80 mm",
+    "speed": "1,800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_9.jpg"
+  },
+  {
+    "model": "HP-200Y",
+    "name": "Máy In Tampon 1 Màu Khổ Trung Cốc Mực HP-200Y",
+    "colors": 1,
+    "desc": "Máy in tampon 1 màu khổ trung chuyên dụng cho phôi kích thước lớn, lực ép pad mạnh mẽ.",
+    "plateSize": "150 x 300 mm",
+    "printArea": "120 x 270 mm",
+    "speed": "1,600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_23.jpg"
+  },
+  {
+    "model": "HP-200YX",
+    "name": "Máy In Tampon 1 Màu Cốc Mực Đứng HP-200YX",
+    "colors": 1,
+    "desc": "Dòng máy in tampon 1 màu công nghiệp có độ bền cao, hỗ trợ tích hợp dây chuyền tự động hóa.",
+    "plateSize": "100 x 250 mm",
+    "printArea": "Ф80 mm",
+    "speed": "1,500 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_14.jpg",
+    "video": "/media/machines/hp-200yx-1-mau.mp4"
+  },
+  {
+    "model": "HP-300K",
+    "name": "Máy In Tampon Khổ Ngang Rộng HP-300K",
+    "colors": 1,
+    "desc": "Máy in tampon công nghiệp khổ ngang rộng (Horizontal Pad Printer) chuyên dụng cho in dải chữ dài, thước kẻ, linh kiện điện tử, bàn phím máy tính.",
+    "plateSize": "250 x 600 mm",
+    "printArea": "220 x 570 mm",
+    "speed": "1,200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_33.jpg",
+    "video": "/media/machines/mc-screen-printer.mp4",
+    "videoTitle": "Video Thực Tế Xưởng: Vận Hành Máy In Tampon Khổ Ngang HP-300K"
+  },
+  {
+    "model": "HP-125B",
+    "name": "Máy In Tampon 2 Màu Bàn Trượt Shuttle HP-125B",
+    "colors": 2,
+    "desc": "Máy in tampon 2 màu cơ chế bàn trượt Shuttle linh hoạt, chống lem mực giữa các màu chồng nét.",
+    "plateSize": "100 x 100 mm",
+    "printArea": "70 x 70 mm",
+    "speed": "1,500 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_7.jpg"
+  },
+  {
+    "model": "HP-160BZ",
+    "name": "Máy In Tampon 2 Màu Băng Tải HP-160BZ",
+    "colors": 2,
+    "desc": "Máy in tampon 2 màu trang bị hệ thống băng tải Conveyor tự động di chuyển phôi, nâng cao năng suất gấp đôi.",
+    "plateSize": "100 x 150 mm",
+    "printArea": "70 x 120 mm",
+    "speed": "1,800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_10.jpg"
+  },
+  {
+    "model": "HP-200B",
+    "name": "Máy In Tampon 2 Màu Bàn Trượt Shuttle HP-200B",
+    "colors": 2,
+    "desc": "Máy in tampon 2 màu cỡ trung bàn trượt Shuttle, khung máy thép kiên cố, lực ép pad đồng đều.",
+    "plateSize": "150 x 150 mm",
+    "printArea": "120 x 120 mm",
+    "speed": "1,600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_24.jpg"
+  },
+  {
+    "model": "HP250AYM",
+    "name": "Máy In Tampon 2 Màu Động Cơ Servo Kép HP250AYM",
+    "colors": 2,
+    "desc": "Dòng máy in tampon 2 màu sử dụng động cơ Servo kép cho tốc độ dịch bàn và hạ pad cực nhanh, chính xác cao.",
+    "plateSize": "200 x 400 mm",
+    "printArea": "170 x 370 mm",
+    "speed": "1,450 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_21.jpg"
+  },
+  {
+    "model": "HP-160C",
+    "name": "Máy In Tampon 3 Màu Bàn Trượt Shuttle HP-160C",
+    "colors": 3,
+    "desc": "Máy in tampon 3 màu bàn trượt Shuttle chính xác, phối màu đa sắc cho đồ chơi, linh kiện gia dụng, vỏ thiết bị.",
+    "plateSize": "100 x 250 mm",
+    "printArea": "Ф80 mm",
+    "speed": "900 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_13.jpg"
+  },
+  {
+    "model": "HP-160CZ",
+    "name": "Máy In Tampon 3 Màu Mâm Xoay Turntable HP-160CZ",
+    "colors": 3,
+    "desc": "Máy in tampon 3 màu trang bị mâm xoay Turntable chia độ tự động, nạp và xả phôi liên tục không dừng máy.",
+    "plateSize": "100 x 150 mm",
+    "printArea": "70 x 120 mm",
+    "speed": "1,200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_16.jpg"
+  },
+  {
+    "model": "HP-160D",
+    "name": "Máy In Tampon 4 Màu Bàn Trượt Shuttle HP-160D",
+    "colors": 4,
+    "desc": "Máy in tampon 4 màu bàn trượt Shuttle tiêu chuẩn công nghiệp, cho phép in 4 màu liên hoàn trên cùng 1 trạm phôi.",
+    "plateSize": "100 x 250 mm",
+    "printArea": "Ф80 mm",
+    "speed": "680 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_15.jpg"
+  },
+  {
+    "model": "HP-160DZ",
+    "name": "Máy In Tampon 4 Màu Băng Tải Tự Động HP-160DZ",
+    "colors": 4,
+    "desc": "Máy in tampon 4 màu trang bị băng tải Conveyor tự động di chuyển phôi qua 4 trạm in liên tục.",
+    "plateSize": "100 x 150 mm",
+    "printArea": "70 x 120 mm",
+    "speed": "1,200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_19.jpg"
+  },
+  {
+    "model": "HP-200DZY",
+    "name": "Máy In Tampon 4 Màu Cốc Mực Kín Băng Tải HP-200DZY",
+    "colors": 4,
+    "desc": "Dòng máy in tampon 4 màu cao cấp kết hợp cốc mực kín và băng tải tự động, tiết kiệm mực và sản lượng cao.",
+    "plateSize": "100 x 150 mm",
+    "printArea": "70 x 120 mm",
+    "speed": "1,200 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_20.jpg"
+  },
+  {
+    "model": "HP-300D",
+    "name": "Máy In Tampon 4 Màu Khổ Lớn Shuttle HP-300D",
+    "colors": 4,
+    "desc": "Máy in tampon 4 màu khổ lớn trượt Shuttle chuyên dụng cho phôi kích thước lớn đòi hỏi độ phủ màu dày.",
+    "plateSize": "150 x 350 mm",
+    "printArea": "120 x 320 mm",
+    "speed": "400 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_32.jpg"
+  },
+  {
+    "model": "HP-300FAC",
+    "name": "Máy In Tampon 6 Màu Nâng Hạ Độc Lập HP-300FAC",
+    "colors": 6,
+    "desc": "Máy in tampon 6 màu tự động có cơ chế nâng hạ từng đầu pad độc lập, lập trình điều khiển PLC cảm ứng mượt mà.",
+    "plateSize": "150 x 300 mm",
+    "printArea": "120 x 270 mm",
+    "speed": "800 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_29.jpg"
+  },
+  {
+    "model": "HP-200FZ",
+    "name": "Máy In Tampon 6 Màu Băng Tải Tự Động HP-200FZ",
+    "colors": 6,
+    "desc": "Hệ thống máy in tampon 6 màu băng tải tự động, cho phép in chi tiết phức tạp nhiều màu sắc với sản lượng lớn.",
+    "plateSize": "100 x 150 mm",
+    "printArea": "70 x 120 mm",
+    "speed": "1,600 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_31.jpg"
+  },
+  {
+    "model": "HP-300HZ",
+    "name": "Máy In Tampon 8 Màu Mâm Xoay Tự Động HP-300HZ",
+    "colors": 8,
+    "desc": "Hệ thống máy in tampon 8 màu mâm xoay công nghiệp trang bị 22 trạm gắp thả sản phẩm tự động chuyên dụng cho chai lọ, bình nước.",
+    "plateSize": "100 x 2500 mm",
+    "printArea": "70 x 2470 mm",
+    "speed": "500 nhịp/giờ",
+    "image": "/images/pad-printers/hj/hj_catalog_img_27.jpg"
+  }
+]
