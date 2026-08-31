@@ -12,7 +12,7 @@ export async function GET(request: Request) {
       return NextResponse.json({ error: 'Thiếu mã đơn hàng.' }, { status: 400 });
     }
 
-    const order = findOrderById(orderId);
+    const order = await findOrderById(orderId);
 
     if (!order) {
       return NextResponse.json({ error: 'Không tìm thấy đơn hàng.' }, { status: 404 });

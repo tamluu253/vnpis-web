@@ -51,7 +51,7 @@ async function runTests() {
     company: 'VNPIS B2B Test'
   };
 
-  const order = createOrder(mockOrderData);
+  const order = await createOrder(mockOrderData);
   console.log('✅ Đã tạo đơn hàng thành công!');
   console.log(`- Mã đơn: ${order.orderId}`);
   console.log(`- Trạng thái: ${order.status} (Kỳ vọng: PENDING)`);
@@ -60,7 +60,7 @@ async function runTests() {
 
   // TEST 2: Order Lookup
   console.log('--- Test 2: Tìm kiếm đơn hàng ---');
-  const foundOrder = findOrderById(order.orderId);
+  const foundOrder = await findOrderById(order.orderId);
   if (foundOrder && foundOrder.name === mockOrderData.name) {
     console.log('✅ Tìm thấy đơn hàng chính xác bằng ID!');
   } else {
@@ -117,7 +117,7 @@ async function runTests() {
 
   // TEST 5: Status Update
   console.log('--- Test 5: Cập nhật trạng thái đơn hàng ---');
-  const updated = updateOrderStatus(order.orderId, 'COMPLETED');
+  const updated = await updateOrderStatus(order.orderId, 'COMPLETED');
   if (updated && updated.status === 'COMPLETED') {
     console.log('✅ Cập nhật trạng thái thành công sang COMPLETED!');
   } else {

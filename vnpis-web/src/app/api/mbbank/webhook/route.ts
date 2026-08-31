@@ -71,7 +71,7 @@ export async function POST(request: Request) {
 
       if (orderId) {
         console.log(`Matched Order ID: ${orderId}`);
-        const order = findOrderById(orderId);
+        const order = await findOrderById(orderId);
 
         if (order) {
           orderDetails = order;
@@ -81,7 +81,7 @@ export async function POST(request: Request) {
             console.log(`Activating delivery for Order: ${orderId}, Email: ${order.email}`);
             
             // A. Update status
-            updateOrderStatus(orderId, 'COMPLETED');
+            await updateOrderStatus(orderId, 'COMPLETED');
             
             // B. Generate secure token
             const token = generateDownloadToken(order.email);

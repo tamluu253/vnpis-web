@@ -26,7 +26,7 @@ export async function POST(request: Request) {
     }
 
     // 1. Create order
-    const order = createOrder({
+    const order = await createOrder({
       name,
       phone,
       email,
