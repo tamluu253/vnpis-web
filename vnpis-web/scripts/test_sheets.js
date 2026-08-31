@@ -33,40 +33,41 @@ async function testSheets() {
     console.log('✅ Xác thực thành công!');
 
     const sheets = google.sheets({ version: 'v4', auth });
-
-    console.log('🆕 Đang khởi tạo Sheet mới thử nghiệm...');
-    const spreadsheet = await sheets.spreadsheets.create({
-      requestBody: {
-        properties: {
-          title: 'VNPIS_Ebook_Orders_Test_Sheet'
-        }
-      }
-    });
-    
-    const spreadsheetId = spreadsheet.data.spreadsheetId;
-    console.log(`✅ Đã tạo Sheet mới thành công! ID: ${spreadsheetId}`);
+    const spreadsheetId = '1jNGPK7kL9JRLToSBqwJmAyE-GK7-ElZ5ylSyWWKcDXs';
 
     // Set headers
-    console.log('📝 Đang ghi dữ liệu thử nghiệm...');
+    console.log('📝 Đang ghi dữ liệu thử nghiệm vào Sheet...');
     await sheets.spreadsheets.values.append({
       spreadsheetId,
-      range: 'Sheet1!A1',
+      range: 'A1',
       valueInputOption: 'RAW',
       requestBody: {
         values: [[
-          'orderId', 'name', 'phone', 'email', 'status'
-        ], [
-          'EBK-TEST-1001', 'Test User', '0987654321', 'test@gmail.com', 'COMPLETED'
+          'orderId', 'name', 'phone', 'email', 'status', 'createdAt', 'updatedAt'
         ]]
       }
     });
-    console.log('✅ Ghi dữ liệu hoàn tất!');
+    console.log('✅ Ghi tiêu đề hoàn tất!');
+
+    // Append a mock order row
+    console.log('📝 Đang ghi dòng dữ liệu thử nghiệm...');
+    await sheets.spreadsheets.values.append({
+      spreadsheetId,
+      range: 'A2',
+      valueInputOption: 'RAW',
+      requestBody: {
+        values: [[
+          'EBK-TEST-1002', 'Lưu Trọng Tâm Test', '0987654321', 'tamluu253@gmail.com', 'PENDING', new Date().toISOString(), new Date().toISOString()
+        ]]
+      }
+    });
+    console.log('✅ Ghi dòng dữ liệu hoàn tất!');
 
     // Read values back
     console.log('📖 Đang đọc dữ liệu kiểm chứng...');
     const readResponse = await sheets.spreadsheets.values.get({
       spreadsheetId,
-      range: 'Sheet1!A1:E2'
+      range: 'A1:G3'
     });
     console.log('Dữ liệu đọc được:', readResponse.data.values);
 

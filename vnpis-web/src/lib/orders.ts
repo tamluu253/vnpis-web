@@ -47,6 +47,12 @@ let cachedSpreadsheetId: string | null = null;
 async function getSpreadsheetId(auth: any): Promise<string | null> {
   if (cachedSpreadsheetId) return cachedSpreadsheetId;
   
+  // Use manually configured spreadsheet ID if present
+  if (process.env.EBOOK_SPREADSHEET_ID) {
+    cachedSpreadsheetId = process.env.EBOOK_SPREADSHEET_ID;
+    return cachedSpreadsheetId;
+  }
+  
   try {
     const drive = google.drive({ version: 'v3', auth });
     
@@ -92,7 +98,7 @@ async function getSpreadsheetId(auth: any): Promise<string | null> {
     // Add headers
     await sheets.spreadsheets.values.append({
       spreadsheetId: newId,
-      range: 'Sheet1!A1',
+      range: 'A1',
       valueInputOption: 'RAW',
       requestBody: {
         values: [[
@@ -166,7 +172,7 @@ export async function getOrders(): Promise<EbookOrder[]> {
     const sheets = google.sheets({ version: 'v4', auth });
     const response = await sheets.spreadsheets.values.get({
       spreadsheetId,
-      range: 'Sheet1!A2:I'
+      range: 'A2:I'
     });
 
     const rows = response.data.values;
@@ -227,7 +233,7 @@ export async function createOrder(data: { name: string; phone: string; email: st
     const sheets = google.sheets({ version: 'v4', auth });
     await sheets.spreadsheets.values.append({
       spreadsheetId,
-      range: 'Sheet1!A2',
+      range: 'A2',
       valueInputOption: 'RAW',
       requestBody: {
         values: [[
@@ -283,7 +289,7 @@ export async function updateOrderStatus(orderId: string, status: 'PENDING' | 'CO
     // Find the row index of the orderId
     const response = await sheets.spreadsheets.values.get({
       spreadsheetId,
-      range: 'Sheet1!A:A'
+      range: 'A:A'
     });
     const rows = response.data.values;
     if (!rows || rows.length === 0) return null;
@@ -314,7 +320,7 @@ export async function updateOrderStatus(orderId: string, status: 'PENDING' | 'CO
     // Update status (Column G)
     await sheets.spreadsheets.values.update({
       spreadsheetId,
-      range: `Sheet1!G${rowNum}`,
+      range: `G${rowNum}`,
       valueInputOption: 'RAW',
       requestBody: { values: [[status]] }
     });
@@ -322,7 +328,7 @@ export async function updateOrderStatus(orderId: string, status: 'PENDING' | 'CO
     // Update updatedAt (Column I)
     await sheets.spreadsheets.values.update({
       spreadsheetId,
-      range: `Sheet1!I${rowNum}`,
+      range: `I${rowNum}`,
       valueInputOption: 'RAW',
       requestBody: { values: [[updatedAt]] }
     });
@@ -330,7 +336,7 @@ export async function updateOrderStatus(orderId: string, status: 'PENDING' | 'CO
     // Fetch the updated row to return
     const getRowResponse = await sheets.spreadsheets.values.get({
       spreadsheetId,
-      range: `Sheet1!A${rowNum}:I${rowNum}`
+      range: `A${rowNum}:I${rowNum}`
     });
     const row = getRowResponse.data.values?.[0];
     if (!row) return null;
