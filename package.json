@@ -1,0 +1,14 @@
+{
+  "name": "vnpis-monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix vnpis-web run dev",
+    "build": "npm --prefix vnpis-web run build",
+    "vercel-build": "npm --prefix vnpis-web run vercel-build",
+    "start": "npm --prefix vnpis-web run start"
+  },
+  "dependencies": {
+    "next": "16.2.10"
+  }
+}
