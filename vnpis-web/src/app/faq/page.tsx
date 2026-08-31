@@ -5,7 +5,7 @@ import { HelpCircle, ChevronDown, MessageSquare } from 'lucide-react';
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'Trung Tâm Trợ Giúp & FAQ | VNPIS - Industrial Printing Solutions',
+  title: 'Trung Tâm Trợ Giúp & FAQ | VNPIS - Giải Pháp In Ấn Công Nghiệp Toàn Diện',
   description: 'Thư viện hơn 200 câu hỏi thường gặp về máy in công nghiệp, công nghệ in UV, Tampon, CIJ, TIJ và giải pháp khắc phục sự cố.',
   alternates: {
     canonical: 'https://vnpis.com/faq',

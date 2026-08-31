@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const isDraft = meta.draft === true || meta.status === 'draft';
   
   return {
-    title: `${meta.title} | VNPIS - Industrial Printing Solutions`,
+    title: `${meta.title} | VNPIS - Giải Pháp In Ấn Công Nghiệp Toàn Diện`,
     description: meta.description,
     alternates: {
       canonical: meta.canonical || `https://vnpis.com/${resolvedParams.slug}`,

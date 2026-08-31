@@ -16,8 +16,8 @@ export const metadata = {
     canonical: '/',
   },
   title: {
-    default: 'VNPIS | Xưởng In Tampon, In Lụa, Mực In CIJ & TIJ, In Dữ Liệu Biến Đổi',
-    template: '%s | VNPIS - Industrial Printing Solutions',
+    default: 'VNPIS | Giải Pháp In Ấn Công Nghiệp Toàn Diện',
+    template: '%s | VNPIS - Giải Pháp In Ấn Công Nghiệp Toàn Diện',
   },
   description: 'Công ty TNHH VNPIS - Chuyên gia công in tampon, in lụa, in kỹ thuật số dữ liệu biến đổi QR/Barcode. Cung cấp máy in & mực in công nghiệp CIJ, TIJ chính hãng tại TP.HCM. Hotline/Zalo: 0987 453 866.',
   verification: {

@@ -11,7 +11,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-blue-900/20 mix-blend-multiply" />
         <div className="container mx-auto px-4 relative z-10 text-center max-w-5xl">
           <span className="inline-block py-1.5 px-4 rounded-full bg-blue-500/20 text-blue-300 text-sm font-bold tracking-widest mb-6 border border-blue-500/30 uppercase">
-            Industrial Printing Solutions
+            Giải Pháp In Ấn Công Nghiệp Toàn Diện
           </span>
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-8 tracking-tight leading-tight">
             Nâng Tầm Sản Xuất Với Giải Pháp <span className="text-orange-500">In Công Nghiệp Toàn Diện</span>
