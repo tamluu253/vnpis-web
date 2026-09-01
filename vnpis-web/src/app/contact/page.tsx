@@ -13,7 +13,7 @@ export const metadata = {
 };
 
 export default function ContactPage() {
-  const directMapUrl = "https://www.google.com/maps/search/?api=1&query=10.7289,106.6663";
+  const directMapUrl = "https://www.google.com/maps/search/?api=1&query=PM9J%2BRC+B%C3%ACnh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam";
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans">
@@ -279,7 +279,7 @@ export default function ContactPage() {
               <div className="w-full h-full min-h-[380px] rounded-2xl overflow-hidden border border-slate-200 relative flex-grow">
                 <iframe
                   title="Bản đồ chỉ đường Google Maps Công ty TNHH VNPIS"
-                  src="https://maps.google.com/maps?q=18+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+4,+KDC+%C4%90%E1%BA%A1i+Ph%C3%BAc+Green+Villas,+B%C3%ACnh+H%C6%B0ng,+TP.+H%E1%BB%93+Ch%C3%AD+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed"
+                  src="https://maps.google.com/maps?q=PM9J%2BRC+B%C3%ACnh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=&z=17&ie=UTF8&iwloc=&output=embed"
                   className="w-full h-full min-h-[380px] border-0"
                   allowFullScreen
                   loading="lazy"
