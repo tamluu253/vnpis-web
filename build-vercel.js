@@ -6,6 +6,11 @@ console.log('=== VNPIS Monorepo Build Script Starting ===');
 const rootDir = __dirname;
 const webDir = path.join(rootDir, 'vnpis-web');
 
+console.log('Ensuring dependencies in vnpis-web...');
+if (!fs.existsSync(path.join(webDir, 'node_modules'))) {
+  execSync('npm install', { cwd: webDir, stdio: 'inherit' });
+}
+
 console.log('Building inside vnpis-web with Webpack compiler...');
 execSync('npx next build --webpack', { cwd: webDir, stdio: 'inherit' });
 
