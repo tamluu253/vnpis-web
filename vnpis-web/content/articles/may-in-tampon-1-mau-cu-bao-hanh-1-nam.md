@@ -168,6 +168,6 @@ Hãy liên hệ ngay với VNPIS hôm nay để được tư vấn cấu hình m
 ### 📌 CÔNG TY TNHH VNPIS - TỔNG KHO THIẾT BỊ IN TAMPON HÀNG ĐẦU VIỆT NAM
 * 🏢 **Văn phòng & Xưởng Kỹ Thuật**: 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh.
 * 📞 **Hotline tư vấn thiết bị & báo giá 24/7**: **Mr. Tâm - 0987 453 866**
-* ✉️ **Email**: contact@vnpis.com / sales@vnpis.com
+* ✉️ **Email chính thức**: info@vnpis.com
 * 🌐 **Website chính thức**: [https://vnpis.com](https://vnpis.com)
 * 🔗 **Hệ sinh thái sản phẩm**: [Máy In Tampon](https://vnpis.com/products/pad-printers) | [Máy In Lụa](https://vnpis.com/products/screen-printers) | [Mực In Công Nghiệp](https://vnpis.com/products/industrial-ink)
