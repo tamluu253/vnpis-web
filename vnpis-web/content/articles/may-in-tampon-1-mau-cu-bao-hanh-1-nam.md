@@ -32,7 +32,7 @@ slug: "may-in-tampon-1-mau-cu-bao-hanh-1-nam"
 
 Trong bối cảnh cạnh tranh sản xuất công nghiệp và in ấn bao bì ngày càng gay gắt, việc sở hữu một chiếc **máy in tampon 1 màu** chất lượng cao là nhu cầu cấp thiết của hàng ngàn xưởng in, nhà máy nhựa, cơ sở gia công quà tặng và doanh nghiệp F&B. Tuy nhiên, bài toán chi phí đầu tư thiết bị ban đầu luôn khiến nhiều chủ doanh nghiệp đắn đo.
 
-Hiểu được trăn trở đó, **VNPIS** mang đến giải pháp đột phá: **Cung cấp dòng máy in tampon 1 màu cũ (máy lướt 95% - 98%) đi kèm chính sách BẢO HÀNH TRỌN GÓI 1 NÃM như máy mới hoàn toàn**. Đây là nước đi chiến lược giúp các xưởng in cắt giảm từ **40% đến 50% vốn đầu tư**, thu hồi vốn siêu nhanh chỉ sau 2 - 4 tháng vận hành mà vẫn đảm bảo độ nét và độ bền tuyệt đối.
+Hiểu được trăn trở đó, **VNPIS** mang đến giải pháp đột phá: **Cung cấp dòng máy in tampon 1 màu cũ (máy lướt 95% - 98%) đi kèm chính sách BẢO HÀNH TRỌN GÓI 1 NĂM như máy mới hoàn toàn**. Đây là nước đi chiến lược giúp các xưởng in cắt giảm từ **40% đến 50% vốn đầu tư**, thu hồi vốn siêu nhanh chỉ sau 2 - 4 tháng vận hành mà vẫn đảm bảo độ nét và độ bền tuyệt đối.
 
 ---
 
@@ -85,7 +85,7 @@ Các dòng **máy in tampon 1 màu** qua sử dụng tại VNPIS chủ yếu thu
 | **Tốc độ in tối đa** | 1.500 - 2.000 sản phẩm/giờ | 1.200 - 1.600 sản phẩm/giờ |
 | **Áp suất khí nén yêu cầu** | 5 - 7 bar | 4 - 6 bar |
 | **Nguồn điện vận hành** | 220V / 50Hz (Công suất 50W) | 220V / 50Hz (Công suất 35W) |
-| **Chế độ bảo hành** | **12 tháng trọn gói (1 đổi 1 linh kiện)** | **12 tháng trọn gói (1 đổi 1 linh kiện)** |
+| **Chế độ bảo hành** | 12 tháng trọn gói (1 đổi 1 linh kiện) | 12 tháng trọn gói (1 đổi 1 linh kiện) |
 
 > 📌 **Tham khảo chi tiết các dòng máy mới & cũ tại**:
 > - [Máy In Tampon HJ Phổ Thông](https://vnpis.com/products/pad-printers/hj)
@@ -100,10 +100,10 @@ Nhằm mang lại tính minh bạch tuyệt đối cho quý khách hàng B2B, VN
 
 | Hạng Mục Thiết Bị | Giá Máy Mới (Tham Khảo) | Giá Máy Cũ Bảo Hành 1 Năm Tại VNPIS | Mức Tiết Kiệm |
 | :--- | :--- | :--- | :--- |
-| **Máy in tampon 1 màu mini để bàn** | 35.000.000 VNĐ | **18.500.000 - 21.000.000 VNĐ** | **Tiết kiệm ~45%** |
-| **Máy in tampon 1 màu tiêu chuẩn (Cốc Ø90mm)** | 48.000.000 VNĐ | **24.000.000 - 27.500.000 VNĐ** | **Tiết kiệm ~50%** |
-| **Máy in tampon 1 màu khổ lớn (Cốc Ø125mm)** | 62.000.000 VNĐ | **32.000.000 - 36.000.000 VNĐ** | **Tiết kiệm ~45%** |
-| **Combo trọn gói (Máy cũ + Hỗ trợ kỹ thuật)** | -- | **Hỗ trợ gá mẫu & chạy thử tại xưởng** | **Tối ưu chi phí** |
+| **Máy in tampon 1 màu mini để bàn** | 35.000.000 VNĐ | 18.500.000 - 21.000.000 VNĐ | Tiết kiệm ~45% |
+| **Máy in tampon 1 màu tiêu chuẩn (Cốc Ø90mm)** | 48.000.000 VNĐ | 24.000.000 - 27.500.000 VNĐ | Tiết kiệm ~50% |
+| **Máy in tampon 1 màu khổ lớn (Cốc Ø125mm)** | 62.000.000 VNĐ | 32.000.000 - 36.000.000 VNĐ | Tiết kiệm ~45% |
+| **Combo trọn gói (Máy cũ + Hỗ trợ kỹ thuật)** | -- | Hỗ trợ gá mẫu & chạy thử tại xưởng | Tối ưu chi phí |
 
 > 📌 **Dịch vụ hỗ trợ đi kèm khi mua máy in tampon 1 màu cũ tại VNPIS**:
 > - Miễn phí tư vấn lựa chọn độ cứng đầu in Silicone phù hợp với từng loại phôi sản phẩm.
