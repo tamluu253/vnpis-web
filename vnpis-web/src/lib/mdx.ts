@@ -28,10 +28,15 @@ const contentDirectory = path.join(/*turbopackIgnore: true*/ process.cwd(), 'con
  * Lấy tất cả các file markdown trong một thư mục cụ thể (vd: 'pillars', 'articles')
  */
 export function getAllSlugs(contentType: string): string[] {
-  const dirPath = path.join(contentDirectory, contentType);
+  let dirPath = path.join(contentDirectory, contentType);
   
   if (!fs.existsSync(dirPath)) {
-    return [];
+    const fallbackPath = path.join(process.cwd(), 'vnpis-web', 'content', contentType);
+    if (fs.existsSync(fallbackPath)) {
+      dirPath = fallbackPath;
+    } else {
+      return [];
+    }
   }
   
   const fileNames = fs.readdirSync(dirPath);
@@ -53,6 +58,11 @@ export function getDocumentMetadataBySlug<T = BaseMetadata>(
       path.join(contentDirectory, 'pillars', `${cleanSlug}.md`),
       path.join(contentDirectory, 'case-studies', `${cleanSlug}.md`),
       path.join(contentDirectory, `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', contentType, `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', 'articles', `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', 'pillars', `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', 'case-studies', `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', `${cleanSlug}.md`),
     ];
     const found = candidates.find(c => fs.existsSync(c));
     if (!found) return null;
@@ -85,6 +95,11 @@ export async function getDocumentBySlug<T = BaseMetadata>(
       path.join(contentDirectory, 'pillars', `${cleanSlug}.md`),
       path.join(contentDirectory, 'case-studies', `${cleanSlug}.md`),
       path.join(contentDirectory, `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', contentType, `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', 'articles', `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', 'pillars', `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', 'case-studies', `${cleanSlug}.md`),
+      path.join(process.cwd(), 'vnpis-web', 'content', `${cleanSlug}.md`),
     ];
     const found = candidates.find(c => fs.existsSync(c));
     if (!found) {
@@ -129,7 +144,10 @@ export function getAllDocumentsMeta<T = BaseMetadata>(contentType: string): T[] 
   const slugs = getAllSlugs(contentType);
   
   const documents = slugs.map((slug) => {
-    const fullPath = path.join(contentDirectory, contentType, `${slug}.md`);
+    let fullPath = path.join(contentDirectory, contentType, `${slug}.md`);
+    if (!fs.existsSync(fullPath)) {
+      fullPath = path.join(process.cwd(), 'vnpis-web', 'content', contentType, `${slug}.md`);
+    }
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const matterResult = matter(fileContents);
     
