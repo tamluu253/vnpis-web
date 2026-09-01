@@ -13,7 +13,7 @@ export const metadata = {
 };
 
 export default function ContactPage() {
-  const directMapUrl = "https://www.google.com/maps/search/?api=1&query=18+Đường+số+4,+KDC+Đại+Phúc+Green+Villas,+Xã+Bình+Hưng,+TP.+Hồ+Chí+Minh";
+  const directMapUrl = "https://www.google.com/maps/search/?api=1&query=10.7289,106.6663";
 
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans">

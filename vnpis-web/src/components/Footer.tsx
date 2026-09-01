@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { MapPin, Phone, Mail, ArrowRight, ExternalLink } from 'lucide-react';
 
 export default function Footer() {
-  const mapUrl = "https://www.google.com/maps/search/?api=1&query=18+Đường+số+4,+KDC+Đại+Phúc+Green+Villas,+Xã+Bình+Hưng,+TP.+Hồ+Chí+Minh";
+  const mapUrl = "https://www.google.com/maps/search/?api=1&query=10.7289,106.6663";
 
   return (
     <footer className="bg-slate-950 text-slate-300 pt-20 pb-10 border-t-4 border-blue-600 font-sans">
