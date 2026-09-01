@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { MapPin, Phone, Mail, ArrowRight } from 'lucide-react';
+import { MapPin, Phone, Mail, ArrowRight, ExternalLink } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -54,7 +54,7 @@ export default function Footer() {
 
           {/* Column 4: Contact */}
           <div>
-            <h3 className="text-white text-lg font-bold mb-6">Liên Hệ</h3>
+            <h3 className="text-white text-lg font-bold mb-6">Liên Hệ & Bản Đồ</h3>
             <ul className="space-y-4">
               <li className="flex items-start">
                 <MapPin className="w-5 h-5 text-orange-500 mr-3 mt-1 flex-shrink-0" />
@@ -64,6 +64,15 @@ export default function Footer() {
                   <span className="block mt-2"><strong className="text-slate-200">Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.</span>
                   <span className="block mt-1"><strong className="text-slate-200">Địa điểm KD 1:</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh.</span>
                   <span className="block mt-1"><strong className="text-slate-200">Địa điểm KD 2:</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh.</span>
+                  <a
+                    href="https://share.google/N6YpipmVmhVDnLSBA"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center text-xs font-bold text-blue-400 hover:text-blue-300 mt-2 transition-colors bg-blue-950/60 px-3 py-1.5 rounded-lg border border-blue-800/50"
+                  >
+                    <span>Xem bản đồ chỉ đường Google Maps</span>
+                    <ExternalLink className="w-3.5 h-3.5 ml-1.5" />
+                  </a>
                 </span>
               </li>
               <li className="flex items-center">

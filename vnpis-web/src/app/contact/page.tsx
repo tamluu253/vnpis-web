@@ -187,56 +187,102 @@ export default function ContactPage() {
         </div>
       </section>
 
-      {/* 4. ĐỊA CHỈ XƯỞNG DUY NHẤT CỦA Công ty TNHH VNPIS */}
+      {/* 4. ĐỊA CHỈ XƯỞNG & BẢN ĐỒ ĐỊNH VỊ CỦA Công ty TNHH VNPIS */}
       <section className="py-20 bg-slate-100 border-y border-slate-200">
-        <div className="container mx-auto px-4 max-w-4xl">
-          <div className="bg-white p-8 md:p-12 rounded-3xl border border-slate-200 shadow-lg text-slate-900">
-            <div className="flex items-center justify-between mb-6 pb-4 border-b border-slate-100">
-              <span className="inline-block px-4 py-1.5 bg-blue-100 text-blue-700 font-bold text-xs uppercase tracking-wider rounded-full">
-                Địa Chỉ Tiếp Nhận Hàng In Gia Công
-              </span>
-              <Building2 className="w-8 h-8 text-blue-600" />
+        <div className="container mx-auto px-4 max-w-6xl">
+          <div className="grid lg:grid-cols-12 gap-8 items-stretch">
+            {/* Address Info Column */}
+            <div className="lg:col-span-6 bg-white p-8 md:p-10 rounded-3xl border border-slate-200 shadow-lg text-slate-900 flex flex-col justify-between">
+              <div>
+                <div className="flex items-center justify-between mb-6 pb-4 border-b border-slate-100">
+                  <span className="inline-block px-4 py-1.5 bg-blue-100 text-blue-700 font-bold text-xs uppercase tracking-wider rounded-full">
+                    Địa Chỉ &amp; Định Vị Xưởng
+                  </span>
+                  <Building2 className="w-8 h-8 text-blue-600" />
+                </div>
+                <h2 className="text-3xl font-extrabold text-slate-900 mb-6">Công ty TNHH VNPIS</h2>
+                
+                <div className="space-y-6 text-slate-700 text-base leading-relaxed">
+                  <div className="flex items-start">
+                    <MapPin className="w-6 h-6 text-blue-600 mr-4 shrink-0 mt-1" />
+                    <div className="space-y-1">
+                      <strong className="text-slate-900 block text-lg font-bold mb-2">Hệ thống địa chỉ Công ty TNHH VNPIS (MST: 0318266611):</strong>
+                      <div className="text-sm space-y-1.5">
+                        <p><strong className="text-slate-900">Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.</p>
+                        <p><strong className="text-slate-900">Địa điểm KD 1:</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh.</p>
+                        <p><strong className="text-slate-900">Địa điểm KD 2 (Xưởng sản xuất):</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh.</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="flex items-start">
+                    <Phone className="w-6 h-6 text-blue-600 mr-4 shrink-0 mt-1" />
+                    <div>
+                      <strong className="text-slate-900 block text-lg font-bold mb-1">Hotline Kinh Doanh &amp; Tư Vấn Kỹ Thuật 24/7:</strong>
+                      <div className="font-bold text-blue-600 text-lg mt-1">
+                        <a href="tel:0987453866" className="hover:underline flex items-center gap-1">
+                          Mr. Tâm: 0987 453 866
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="flex items-center">
+                    <Mail className="w-6 h-6 text-blue-600 mr-4 shrink-0" />
+                    <div>
+                      <strong className="text-slate-900 text-base font-bold mr-2">Email báo giá &amp; tiếp nhận file thiết kế:</strong>
+                      <span className="text-blue-600 font-semibold">info@vnpis.com</span>
+                    </div>
+                  </div>
+
+                  <div className="flex items-center pt-2">
+                    <CheckCircle2 className="w-6 h-6 text-emerald-600 mr-4 shrink-0" />
+                    <span className="font-semibold text-slate-800 text-sm">
+                      Hỗ trợ in test mẫu sản phẩm (Sample testing) trực tiếp và giao nhận hàng gia công tận nơi trên toàn quốc.
+                    </span>
+                  </div>
+                </div>
+              </div>
+
+              <div className="pt-6 mt-6 border-t border-slate-100">
+                <a
+                  href="https://share.google/N6YpipmVmhVDnLSBA"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full inline-flex items-center justify-center gap-2 py-3.5 px-6 bg-blue-600 hover:bg-blue-700 text-white font-extrabold rounded-2xl shadow-md transition-all text-sm uppercase tracking-wider"
+                >
+                  <MapPin className="w-4 h-4 text-orange-300" />
+                  <span>Mở Chỉ Đường Trên Google Maps</span>
+                  <ExternalLink className="w-4 h-4" />
+                </a>
+              </div>
             </div>
-            <h2 className="text-3xl font-extrabold text-slate-900 mb-6">Công ty TNHH VNPIS</h2>
-            
-            <div className="space-y-6 text-slate-700 text-base leading-relaxed">
-              <div className="flex items-start">
-                <MapPin className="w-6 h-6 text-blue-600 mr-4 shrink-0 mt-1" />
-                <div className="space-y-1">
-                  <strong className="text-slate-900 block text-lg font-bold mb-2">Hệ thống địa chỉ Công ty TNHH VNPIS (MST: 0318266611):</strong>
-                  <div className="text-sm space-y-1">
-                    <p><strong className="text-slate-900">Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.</p>
-                    <p><strong className="text-slate-900">Địa điểm KD 1:</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh.</p>
-                    <p><strong className="text-slate-900">Địa điểm KD 2:</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh.</p>
-                  </div>
-                </div>
-              </div>
 
-              <div className="flex items-start">
-                <Phone className="w-6 h-6 text-blue-600 mr-4 shrink-0 mt-1" />
-                <div>
-                  <strong className="text-slate-900 block text-lg font-bold mb-1">Hotline Kinh Doanh &amp; Tư Vấn Kỹ Thuật 24/7:</strong>
-                  <div className="font-bold text-blue-600 text-lg mt-1">
-                    <a href="tel:0987453866" className="hover:underline flex items-center gap-1">
-                      Mr. Tâm: 0987 453 866
-                    </a>
-                  </div>
-                </div>
-              </div>
-
-              <div className="flex items-center">
-                <Mail className="w-6 h-6 text-blue-600 mr-4 shrink-0" />
-                <div>
-                  <strong className="text-slate-900 text-base font-bold mr-2">Email báo giá &amp; tiếp nhận file thiết kế:</strong>
-                  <span className="text-blue-600 font-semibold">info@vnpis.com</span>
-                </div>
-              </div>
-
-              <div className="flex items-center pt-2">
-                <CheckCircle2 className="w-6 h-6 text-emerald-600 mr-4 shrink-0" />
-                <span className="font-semibold text-slate-800">
-                  Hỗ trợ in test mẫu sản phẩm (Sample testing) trực tiếp và giao nhận hàng gia công tận nơi trên toàn quốc.
+            {/* Embedded Google Map Column */}
+            <div className="lg:col-span-6 bg-white p-4 rounded-3xl border border-slate-200 shadow-lg min-h-[400px] flex flex-col">
+              <div className="flex items-center justify-between p-3 mb-2 bg-slate-50 rounded-2xl border border-slate-100">
+                <span className="text-xs font-bold text-slate-700 uppercase tracking-wider flex items-center gap-1.5">
+                  <MapPin className="w-4 h-4 text-blue-600" /> Bản Đồ Vị Trí VNPIS (Bình Hưng, TP.HCM)
                 </span>
+                <a
+                  href="https://share.google/N6YpipmVmhVDnLSBA"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-blue-600 hover:text-blue-800 font-extrabold flex items-center gap-1"
+                >
+                  <span>Chỉ đường</span>
+                  <ExternalLink className="w-3 h-3" />
+                </a>
+              </div>
+              <div className="w-full h-full min-h-[380px] rounded-2xl overflow-hidden border border-slate-200 relative flex-grow">
+                <iframe
+                  title="Bản đồ chỉ đường Google Maps Công ty TNHH VNPIS"
+                  src="https://maps.google.com/maps?q=18+%C4%90%C6%B0%E1%BB%9Dng+s%E1%BB%91+4,+KDC+%C4%90%E1%BA%A1i+Ph%C3%BAc+Green+Villas,+B%C3%ACnh+H%C6%B0ng,+TP.+H%E1%BB%93+Ch%C3%AD+Minh&t=&z=16&ie=UTF8&iwloc=&output=embed"
+                  className="w-full h-full min-h-[380px] border-0"
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                />
               </div>
             </div>
           </div>
