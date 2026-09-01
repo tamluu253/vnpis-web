@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "npm --prefix vnpis-web run dev",
-    "build": "npm --prefix vnpis-web run build",
-    "vercel-build": "npm --prefix vnpis-web run vercel-build",
+    "build": "node build-vercel.js",
+    "vercel-build": "node build-vercel.js",
     "start": "npm --prefix vnpis-web run start"
   },
   "dependencies": {
