@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm --prefix vnpis-web run build",
+  "outputDirectory": "vnpis-web/.next",
+  "framework": "nextjs"
+}
