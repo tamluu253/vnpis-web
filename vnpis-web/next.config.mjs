@@ -2,12 +2,14 @@ import path from 'path';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  turbopack: {},
+  turbopack: {
+    root: path.join(process.cwd(), '..'),
+  },
   staticPageGenerationTimeout: 180,
   outputFileTracingIncludes: {
     '/**': ['./content/**/*'],
   },
-  outputFileTracingRoot: path.join(process.cwd()),
+  outputFileTracingRoot: path.join(process.cwd(), '..'),
   async redirects() {
     return [
       {
