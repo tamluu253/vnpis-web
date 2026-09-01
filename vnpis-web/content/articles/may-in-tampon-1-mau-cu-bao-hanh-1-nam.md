@@ -9,7 +9,7 @@ keywords:
   - "máy in pad 1 màu lướt"
   - "máy in tampon 1 màu cốc mực kín"
   - "báo giá máy in tampon 1 màu VNPIS"
-date: "2026-08-31"
+date: "2027-09-01"
 author: "Tâm Lưu - Kỹ Sư Trưởng VNPIS"
 category: "Máy In Tampon & Thiết Bị Thanh Lý"
 canonical: "https://vnpis.com/blog/may-in-tampon-1-mau-cu-bao-hanh-1-nam"
