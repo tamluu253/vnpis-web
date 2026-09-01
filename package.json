@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "node build-vercel.js",
-    "build": "node build-vercel.js",
-    "vercel-build": "node build-vercel.js",
+    "dev": "npm --prefix vnpis-web run dev",
+    "build": "npm --prefix vnpis-web run build",
+    "vercel-build": "npm --prefix vnpis-web run build",
     "start": "npm --prefix vnpis-web run start",
     "lint": "npm --prefix vnpis-web run lint"
   },
