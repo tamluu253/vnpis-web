@@ -211,8 +211,28 @@ export default function ContactPage() {
                       <strong className="text-slate-900 block text-lg font-bold mb-2">Hệ thống địa chỉ Công ty TNHH VNPIS (MST: 0318266611):</strong>
                       <div className="text-sm space-y-1.5">
                         <p><strong className="text-slate-900">Trụ sở chính:</strong> Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.</p>
-                        <p><strong className="text-slate-900">Địa điểm KD 1:</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh.</p>
-                        <p><strong className="text-slate-900">Địa điểm KD 2 (Xưởng sản xuất):</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh.</p>
+                        <div className="flex items-start justify-between gap-2">
+                          <p><strong className="text-slate-900">Địa điểm KD 1:</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh.</p>
+                          <a
+                            href="https://www.google.com/maps/search/?api=1&query=PMQG%2BVM+Ch%C3%A1nh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-[11px] font-bold text-blue-600 hover:underline shrink-0 whitespace-nowrap"
+                          >
+                            📍 Maps
+                          </a>
+                        </div>
+                        <div className="flex items-start justify-between gap-2">
+                          <p><strong className="text-slate-900">Địa điểm KD 2 (Xưởng):</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh.</p>
+                          <a
+                            href="https://www.google.com/maps/search/?api=1&query=PM9J%2BRC+B%C3%ACnh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-[11px] font-bold text-blue-600 hover:underline shrink-0 whitespace-nowrap"
+                          >
+                            📍 Maps
+                          </a>
+                        </div>
                       </div>
                     </div>
                   </div>
