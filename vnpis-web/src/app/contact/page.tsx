@@ -5,14 +5,16 @@ import { Phone, Mail, MapPin, Clock, ArrowRight, ExternalLink, Building2, Layers
 import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
-  title: 'Liên Hệ Công ty TNHH VNPIS | Nhận Báo Giá In Tampon, In Lụa, In KTS',
-  description: 'Liên hệ Công ty TNHH VNPIS (Địa chỉ: 18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, TP.HCM). Chuyên gia công in Tampon ly tô chén nhựa, in lụa bao bì/vải, in QR Code biến đổi. Hỗ trợ in mẫu thử miễn phí & hotline 24/7.',
+  title: 'Liên Hệ Công ty TNHH VNPIS | Báo Giá Máy In Tampon 1 Màu & Gia Công In Ấn',
+  description: 'Liên hệ Công ty TNHH VNPIS (Địa chỉ: 18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, TP.HCM). Chuyên cung cấp máy in tampon 1 màu, gia công in Tampon ly nhựa/chai lọ, in lụa bao bì, in QR Code biến đổi. Hỗ trợ in mẫu thử miễn phí & hotline 24/7.',
   alternates: {
     canonical: 'https://vnpis.com/contact',
   },
 };
 
 export default function ContactPage() {
+  const directMapUrl = "https://www.google.com/maps/search/?api=1&query=18+Đường+số+4,+KDC+Đại+Phúc+Green+Villas,+Xã+Bình+Hưng,+TP.+Hồ+Chí+Minh";
+
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col font-sans">
       {/* 1. HERO SECTION */}
@@ -27,10 +29,10 @@ export default function ContactPage() {
             </span>
             <h1 className="text-4xl md:text-6xl font-black mb-6 tracking-tight text-white leading-tight">
               Liên Hệ Trực Tiếp Để Nhận <br className="hidden md:block"/>
-              Báo Giá Gia Công In Ấn B2B Tốt Nhất
+              Báo Giá Máy In Tampon 1 Màu &amp; Gia Công B2B
             </h1>
             <p className="text-lg md:text-xl text-slate-300 mb-10 max-w-3xl mx-auto leading-relaxed">
-              Xưởng gia công **VNPIS** (thuộc Công ty TNHH VNPIS) chuyên gia công in Tampon, in Lụa, in UV cuộn và in dữ liệu biến đổi nhảy số series, QR Code động. Trực tiếp in test mẫu sản phẩm miễn phí cho khách hàng trước khi chốt đơn.
+              Xưởng gia công **VNPIS** (thuộc Công ty TNHH VNPIS) chuyên cung cấp **máy in tampon 1 màu cũ bảo hành 1 năm**, gia công in Tampon, in Lụa, in UV cuộn và in dữ liệu biến đổi nhảy số series, QR Code động. Trực tiếp in test mẫu sản phẩm miễn phí cho khách hàng trước khi chốt đơn.
             </p>
           </div>
 
@@ -81,10 +83,10 @@ export default function ContactPage() {
           <div className="text-center mb-16 max-w-3xl mx-auto">
             <span className="text-xs font-bold text-blue-600 uppercase tracking-widest block mb-2">Năng Lực Phục Vụ</span>
             <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-4">
-              Doanh Nghiệp Của Bạn Đang Cần Gia Công Sản Phẩm Nào?
+              Doanh Nghiệp Của Bạn Đang Cần Máy In Tampon 1 Màu Hay Gia Công Sản Phẩm Nào?
             </h2>
             <p className="text-slate-600 text-base md:text-lg">
-              Xưởng in VNPIS Solutions trang bị hệ thống máy in tự động công suất cao, sẵn sàng nhận các đơn hàng gia công phức tạp nhất.
+              Xưởng VNPIS Solutions trang bị hệ thống máy in tampon 1 màu và máy in lụa tự động công suất cao, sẵn sàng phục vụ nhu cầu thiết bị và gia công của khách hàng.
             </p>
             <div className="w-20 h-1.5 bg-blue-600 mx-auto rounded-full mt-4" />
           </div>
@@ -97,10 +99,10 @@ export default function ContactPage() {
                   01
                 </div>
                 <h3 className="text-xl font-bold mb-3 text-slate-900">
-                  Gia Công In Tampon (Pad Printing)
+                  Cung Cấp &amp; In Tampon (Pad Printing)
                 </h3>
                 <p className="text-slate-600 text-sm leading-relaxed mb-6">
-                  Chuyên in logo, thông số trên bề mặt cong, lõm, hình cầu hoặc gồ ghề: tô chén ly dĩa nhựa PP/PET, bình giữ nhiệt, thỏi son mỹ phẩm, nút bấm thiết bị điện tử.
+                  Cung cấp máy in tampon 1 màu cũ bảo hành 1 năm và nhận gia công in logo lên tô chén ly nhựa PP/PET, bình giữ nhiệt, thỏi son mỹ phẩm, nút bấm thiết bị điện tử.
                 </p>
               </div>
               <div className="pt-4 border-t border-slate-200">
@@ -165,10 +167,10 @@ export default function ContactPage() {
                 <Layers className="w-4 h-4" /> Hệ Sinh Thế Máy Móc &amp; Vật Tư In VNPIS
               </div>
               <h3 className="text-2xl md:text-3xl font-extrabold text-white leading-tight">
-                Bạn Muốn Tự Mua Thiết Bị &amp; Mực In Để Chủ Động Sản Xuất Tại Nhà Máy?
+                Bạn Muốn Tự Mua Máy In Tampon 1 Màu &amp; Mực In Để Chủ Động Sản Xuất Tại Nhà Máy?
               </h3>
               <p className="text-slate-300 text-sm md:text-base leading-relaxed">
-                Bên cạnh dịch vụ gia công in ấn tại xưởng của **Công ty TNHH VNPIS**, cùng thuộc hệ sinh thái chủ sở hữu VNPIS là công ty chuyên cung cấp chính hãng các dòng **Máy in tampon, Máy in lụa tự động, Mực in công nghiệp Henkey/Dubuit, Hộp mực TIJ &amp; Đầu in phun Ricoh/Epson**.
+                Bên cạnh dịch vụ gia công in ấn tại xưởng của **Công ty TNHH VNPIS**, cùng thuộc hệ sinh thái chủ sở hữu VNPIS là công ty chuyên cung cấp chính hãng các dòng **Máy in tampon 1 màu, Máy in lụa tự động, Mực in công nghiệp Henkey/Dubuit, Hộp mực TIJ &amp; Đầu in phun Ricoh/Epson**.
               </p>
             </div>
             <div className="shrink-0 w-full lg:w-auto text-center">
@@ -181,7 +183,7 @@ export default function ContactPage() {
                 <span>Khám Phá Thiết Bị Tại VNPIS.COM</span>
                 <ExternalLink className="w-5 h-5 ml-2" />
               </a>
-              <span className="block text-xs text-slate-400 mt-2">Xem danh mục máy in &amp; vật tư mực in B2B</span>
+              <span className="block text-xs text-slate-400 mt-2">Xem danh mục máy in tampon 1 màu &amp; vật tư mực in B2B</span>
             </div>
           </div>
         </div>
@@ -196,7 +198,7 @@ export default function ContactPage() {
               <div>
                 <div className="flex items-center justify-between mb-6 pb-4 border-b border-slate-100">
                   <span className="inline-block px-4 py-1.5 bg-blue-100 text-blue-700 font-bold text-xs uppercase tracking-wider rounded-full">
-                    Địa Chỉ &amp; Định Vị Xưởng
+                    Địa Chỉ &amp; Định Vị Xưởng VNPIS
                   </span>
                   <Building2 className="w-8 h-8 text-blue-600" />
                 </div>
@@ -246,13 +248,13 @@ export default function ContactPage() {
 
               <div className="pt-6 mt-6 border-t border-slate-100">
                 <a
-                  href="https://share.google/N6YpipmVmhVDnLSBA"
+                  href={directMapUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full inline-flex items-center justify-center gap-2 py-3.5 px-6 bg-blue-600 hover:bg-blue-700 text-white font-extrabold rounded-2xl shadow-md transition-all text-sm uppercase tracking-wider"
                 >
                   <MapPin className="w-4 h-4 text-orange-300" />
-                  <span>Mở Chỉ Đường Trên Google Maps</span>
+                  <span>Mở Ứng Dụng Google Maps Chỉ Đường</span>
                   <ExternalLink className="w-4 h-4" />
                 </a>
               </div>
@@ -265,12 +267,12 @@ export default function ContactPage() {
                   <MapPin className="w-4 h-4 text-blue-600" /> Bản Đồ Vị Trí VNPIS (Bình Hưng, TP.HCM)
                 </span>
                 <a
-                  href="https://share.google/N6YpipmVmhVDnLSBA"
+                  href={directMapUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs text-blue-600 hover:text-blue-800 font-extrabold flex items-center gap-1"
                 >
-                  <span>Chỉ đường</span>
+                  <span>Chỉ đường App</span>
                   <ExternalLink className="w-3 h-3" />
                 </a>
               </div>
@@ -293,8 +295,8 @@ export default function ContactPage() {
       <section id="contact" className="py-24 bg-slate-900 text-white">
         <div className="container mx-auto px-4 max-w-4xl">
           <ConsultationForm
-            title="Gửi Yêu Cầu Báo Giá In Gia Công &amp; Làm Mẫu Miễn Phí"
-            subtitle="Đội ngũ kỹ thuật xưởng in VNPIS Solutions sẽ tiếp nhận thông số sản phẩm, hỗ trợ in mẫu thử (sample test) thực tế và gửi bảng giá gia công tối ưu nhất cho doanh nghiệp."
+            title="Gửi Yêu Cầu Báo Giá Máy In Tampon 1 Màu &amp; In Mẫu Miễn Phí"
+            subtitle="Đội ngũ kỹ thuật xưởng in VNPIS Solutions sẽ tiếp nhận thông số sản phẩm, hỗ trợ in mẫu thử (sample test) thực tế và gửi bảng giá tối ưu nhất cho doanh nghiệp."
             pageTitle="In An VNPIS Contact Page"
           />
         </div>

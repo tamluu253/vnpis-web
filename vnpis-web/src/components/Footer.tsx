@@ -3,6 +3,8 @@ import Link from 'next/link';
 import { MapPin, Phone, Mail, ArrowRight, ExternalLink } from 'lucide-react';
 
 export default function Footer() {
+  const mapUrl = "https://www.google.com/maps/search/?api=1&query=18+Đường+số+4,+KDC+Đại+Phúc+Green+Villas,+Xã+Bình+Hưng,+TP.+Hồ+Chí+Minh";
+
   return (
     <footer className="bg-slate-950 text-slate-300 pt-20 pb-10 border-t-4 border-blue-600 font-sans">
       <div className="container mx-auto px-4">
@@ -13,7 +15,7 @@ export default function Footer() {
               <img src="/images/vnpis-logo.png" alt="VNPIS Logo" className="h-10 w-auto" />
             </Link>
             <p className="mb-6 text-sm leading-relaxed text-slate-400">
-              VNPIS là nhà cung cấp hàng đầu về Giải pháp In Công nghiệp, In Dữ liệu Biến đổi, Mã QR và Tự động hóa cho các nhà máy sản xuất tại Việt Nam.
+              VNPIS là nhà cung cấp hàng đầu về Giải pháp In Công nghiệp, Máy in tampon 1 màu, In Dữ liệu Biến đổi, Mã QR và Tự động hóa cho các nhà máy sản xuất tại Việt Nam.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-blue-600 hover:text-white transition-colors text-sm font-bold">
@@ -44,11 +46,11 @@ export default function Footer() {
           <div>
             <h3 className="text-white text-lg font-bold mb-6">Sản Phẩm Cốt Lõi</h3>
             <ul className="space-y-3">
+              <li><Link href="/products/pad-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Máy in tampon 1 màu</Link></li>
               <li><Link href="/products/uv-printers" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> UV Printer</Link></li>
               <li><Link href="/products/cij-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> CIJ Ink</Link></li>
               <li><Link href="/products/tij-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> TIJ Ink</Link></li>
-              <li><Link href="/products/industrial-ink" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Special Inks</Link></li>
-              <li><Link href="/products/consumables" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Printing Consumables</Link></li>
+              <li><Link href="/products/consumables" className="hover:text-blue-400 transition-colors flex items-center"><ArrowRight className="w-3 h-3 mr-2" /> Vật tư in tampon & in lụa</Link></li>
             </ul>
           </div>
 
@@ -65,12 +67,12 @@ export default function Footer() {
                   <span className="block mt-1"><strong className="text-slate-200">Địa điểm KD 1:</strong> 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh.</span>
                   <span className="block mt-1"><strong className="text-slate-200">Địa điểm KD 2:</strong> 18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, TP. Hồ Chí Minh.</span>
                   <a
-                    href="https://share.google/N6YpipmVmhVDnLSBA"
+                    href={mapUrl}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center text-xs font-bold text-blue-400 hover:text-blue-300 mt-2 transition-colors bg-blue-950/60 px-3 py-1.5 rounded-lg border border-blue-800/50"
                   >
-                    <span>Xem bản đồ chỉ đường Google Maps</span>
+                    <span>Mở ứng dụng Google Maps chỉ đường</span>
                     <ExternalLink className="w-3.5 h-3.5 ml-1.5" />
                   </a>
                 </span>
