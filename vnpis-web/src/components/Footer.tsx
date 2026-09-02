@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { MapPin, Phone, Mail, ArrowRight, ExternalLink } from 'lucide-react';
 
 export default function Footer() {
-  const mapUrl = "https://www.google.com/maps/search/?api=1&query=PM9J%2BRC+B%C3%ACnh+H%C6%B0ng,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam";
+  const mapUrl = "https://www.google.com/maps/search/?api=1&query=10.719361,106.680972";
 
   return (
     <footer className="bg-slate-950 text-slate-300 pt-20 pb-10 border-t-4 border-blue-600 font-sans">
