@@ -6,14 +6,14 @@ keywords:
   - "máy in tampon 2 màu"
   - "máy in tampon 4 màu"
   - "báo giá máy in tampon công nghiệp"
-date: "2026-09-06"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
+date: "2026-08-23"
+author: "Tâm Lưu - Kỹ Sư Trưởng VNPIS"
 category: "Máy In Tampon & Hệ Thống Tự Động Hóa"
 canonical: "https://vnpis.com/blog/top-5-may-in-tampon-coc-muc-kin"
 schema_type: "TechnicalArticle"
 publisher_mst: "0318266611"
-status: "draft"
-draft: true
+status: "published"
+draft: false
 image: "/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg"
 mediaExt: ".jpg"
 tags:
@@ -72,7 +72,9 @@ Trong thiết kế dây chuyền sản xuất công nghiệp và lập dự toá
 
 ### 📐 Công Thức Tính Năng Suất Ca Sản Xuất Máy In Tampon / In Lụa
 
-$$\text{Năng suất (pcs/h)} = \left(\frac{3600}{t_{\text{dập}} + t_{\text{xoay}} + t_{\text{nạp phôi}}}\right) \times \text{OEE}$$
+```
+Năng suất (sản phẩm/giờ) = [3600 / (t_dập + t_xoay + t_nạp_phôi)] * OEE
+```
 
 > **Giải thích thông số:** Tối ưu hóa thời gian chu kỳ dập pad và nạp phôi giúp nhà máy đạt sản lượng 18.000 - 25.000 sản phẩm/ca 8 tiếng với OEE > 88%.
 
@@ -94,8 +96,8 @@ Kỹ thuật viên thực hiện bắt buộc phải ghi chép nhật ký đo ki
 
 ## 6. Đánh Giá Trải Nghiệm Thực Tế & Nghiên Cứu Điển Hình (Case Study Tại VNPIS)
 
-Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ cho tập đoàn SamSung tại KCN VSIP Bắc Ninh gặp sự cố nghiêm trọng liên quan đến **máy in tampon cốc mực kín**. Tỷ lệ bong tróc logo trên vỏ nhựa ABS mạ crom lên đến 14.5%, khiến toàn bộ lô hàng 50.000 linh kiện đối mặt với nguy cơ bị từ chối xuất xưởng và phạt tiến độ hợp đồng.
-Đội ngũ ứng cứu kỹ thuật VNPIS do Kỹ Sư Trưởng Lưu Trọng Tâm trực tiếp chỉ đạo đã có mặt tại hiện trường trong vòng 6 giờ. Qua đo kiểm chuyên sâu bằng kính hiển vi và bút đo Dyne, chúng tôi phát hiện 2 nguyên nhân cốt lõi:
+Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ cho một tập đoàn công nghệ FDI lớn tại KCN VSIP Bắc Ninh gặp sự cố nghiêm trọng liên quan đến **máy in tampon cốc mực kín**. Tỷ lệ bong tróc logo trên vỏ nhựa ABS mạ crom lên đến 14.5%, khiến toàn bộ lô hàng 50.000 linh kiện đối mặt với nguy cơ bị từ chối xuất xưởng và phạt tiến độ hợp đồng.
+Đội ngũ ứng cứu kỹ thuật VNPIS do Kỹ Sư Trưởng Tâm Lưu trực tiếp chỉ đạo đã có mặt tại hiện trường trong vòng 6 giờ. Qua đo kiểm chuyên sâu bằng kính hiển vi và bút đo Dyne, chúng tôi phát hiện 2 nguyên nhân cốt lõi:
 1. Năng lượng bề mặt của lớp mạ crom chỉ đạt 34 dynes/cm (dưới ngưỡng tối thiểu 42 dynes/cm) do dư lượng dầu bôi trơn khuôn ép.
 2. Sử dụng đầu in silicon thông thường có độ cứng Shore 60A quá cao làm kẹt bóng khí tại góc bo R = 1.2 mm.
 **Giải pháp khắc phục của VNPIS:** Tích hợp đầu khò Plasma lạnh xử lý online đạt 46 dynes/cm, chuyển sang sử dụng Silicon Pad hình nón Shore 40A và mực chuyên dụng Henkey PET8000 pha Hardener 8000B tỷ lệ 10:1. Kết quả sau 4 giờ tinh chỉnh: Tỷ lệ lỗi giảm xuống **0.02%**, độ bám dính đạt chuẩn ASTM D3359 5B sau khi test cồn 90 độ 200 lần, giúp nhà máy kịp tiến độ giao hàng xuất khẩu.
@@ -191,8 +193,8 @@ Quý khách hàng, xưởng in và đối tác OEM vui lòng để lại thông 
   "image": [
     "https://vnpis.com/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg"
   ],
-  "datePublished": "2026-09-06T22:56:10.070Z",
-  "dateModified": "2026-09-06T22:56:10.070Z",
+  "datePublished": "2026-08-23T05:52:56.457Z",
+  "dateModified": "2026-08-23T05:52:56.457Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://vnpis.com/blog/top-5-may-in-tampon-coc-muc-kin"
