@@ -5,10 +5,10 @@ import Footer from '@/components/Footer';
 import FloatingContact from '@/components/lead-gen/FloatingContact';
 import GoogleTranslate from '@/components/GoogleTranslate';
 import SchemaOrg from '@/components/SchemaOrg';
-import { Outfit } from 'next/font/google';
+import { Plus_Jakarta_Sans } from 'next/font/google';
 import Script from 'next/script';
 
-const fontMain = Outfit({ subsets: ['latin'], variable: '--font-sans' });
+const fontMain = Plus_Jakarta_Sans({ subsets: ['latin', 'vietnamese'], variable: '--font-sans' });
 
 export const metadata = {
   metadataBase: new URL('https://vnpis.com'),

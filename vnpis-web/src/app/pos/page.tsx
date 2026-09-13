@@ -127,7 +127,7 @@ const INITIAL_PRODUCTS: Product[] = [
   { id: "15", sku: "VNPIS-SOL-03", name: "Dung môi NPP-9000", category: "Dung môi & Phụ gia", unit: "Lít", costPrice: 165000, price: 243470, stock: 95 },
   { id: "16", sku: "VNPIS-SOL-04", name: "Nước xử lý bề mặt PP Veritek", category: "Dung môi & Phụ gia", unit: "Lít", costPrice: 35000, price: 52000, stock: 240 },
   { id: "17", sku: "VNPIS-SOL-05", name: "Nước phủ tiền xử lý PRTDTGTCUDC3", category: "Dung môi & Phụ gia", unit: "Lít", costPrice: 562250, price: 865000, stock: 65 },
-  { id: "18", sku: "VNPIS-PART-01", name: "Đầu in Pad 086-03 Cosota", category: "Vật tư & Linh kiện", unit: "Cái", costPrice: 320000, price: 460000, stock: 4 },
+  { id: "18", sku: "VNPIS-PART-01", name: "Đầu in Pad Silicon 086-03 VNPIS", category: "Vật tư & Linh kiện", unit: "Cái", costPrice: 320000, price: 460000, stock: 4 },
   { id: "19", sku: "VNPIS-PART-02", name: "Khuôn in Thick plate bằng thép (100x100x10mm)", category: "Vật tư & Linh kiện", unit: "Tấm", costPrice: 160000, price: 240000, stock: 55 },
   { id: "20", sku: "VNPIS-PART-03", name: "Khuôn in Thép (100x250x0.3mm)", category: "Vật tư & Linh kiện", unit: "Tấm", costPrice: 580000, price: 830000, stock: 26 },
   { id: "21", sku: "VNPIS-PART-04", name: "Vòng gạt mực sứ (100x90x12mm)", category: "Vật tư & Linh kiện", unit: "Cái", costPrice: 650000, price: 945000, stock: 12 },

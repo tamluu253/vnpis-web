@@ -98,7 +98,16 @@ export async function BlogPostContainer({
           {hasDedicatedMedia && (
             <div className="w-full aspect-video bg-slate-900 rounded-3xl overflow-hidden mb-12 shadow-xl relative flex items-center justify-center border border-slate-200">
               {metadata.mediaExt === 'mp4' && metadata.slug !== 'giai-phap-in-truc-tiep-len-vo-trung-ga-muc-he01' && metadata.slug !== 'muc-in-day-cap-trang-linx-videojet' ? (
-                <video src={`/media/blog/${metadata.slug}.mp4`} autoPlay loop muted playsInline className="w-full h-full object-cover" />
+                <video 
+                  src={`/media/blog/${metadata.slug}.mp4`} 
+                  poster={metadata.image || '/images/hero-bg.jpg'}
+                  autoPlay 
+                  loop 
+                  muted 
+                  playsInline 
+                  controls
+                  className="w-full h-full object-cover" 
+                />
               ) : (
                 <div className="w-full h-full relative">
                   <img 
@@ -152,26 +161,39 @@ export async function BlogPostContainer({
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "Article",
-            "headline": metadata.title,
-            "description": metadata.description,
-            "image": metadata.image || (hasDedicatedMedia ? `https://vnpis.com/media/blog/${metadata.slug}.${metadata.mediaExt}` : 'https://vnpis.com/vnpis-logo.png'),
-            "author": {
-              "@type": "Organization",
-              "name": "Công ty TNHH VNPIS"
-            },
-            "publisher": {
-              "@type": "Organization",
-              "name": "Công ty TNHH VNPIS",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https://vnpis.com/vnpis-logo.png"
-              }
-            },
-            "mainEntityOfPage": {
-              "@type": "WebPage",
-              "@id": pageUrl
-            }
+            "@graph": [
+              {
+                "@type": "Article",
+                "headline": metadata.title,
+                "description": metadata.description,
+                "image": metadata.image || (hasDedicatedMedia ? `https://vnpis.com/media/blog/${metadata.slug}.${metadata.mediaExt}` : 'https://vnpis.com/vnpis-logo.png'),
+                "author": {
+                  "@type": "Organization",
+                  "name": "Công ty TNHH VNPIS"
+                },
+                "publisher": {
+                  "@type": "Organization",
+                  "name": "Công ty TNHH VNPIS",
+                  "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://vnpis.com/vnpis-logo.png"
+                  }
+                },
+                "mainEntityOfPage": {
+                  "@type": "WebPage",
+                  "@id": pageUrl
+                }
+              },
+              ...(metadata.mediaExt === 'mp4' ? [{
+                "@type": "VideoObject",
+                "name": metadata.title,
+                "description": metadata.description,
+                "thumbnailUrl": metadata.image || "https://vnpis.com/vnpis-logo.png",
+                "uploadDate": "2026-01-01T08:00:00+07:00",
+                "contentUrl": `https://vnpis.com/media/blog/${metadata.slug}.mp4`,
+                "embedUrl": pageUrl
+              }] : [])
+            ]
           })
         }}
       />

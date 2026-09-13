@@ -132,8 +132,18 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: '/bai-viet/:path*',
+        destination: '/blog/:path*',
+        permanent: true,
+      },
+      {
         source: '/tin-tuc',
         destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/tin-tuc/:path*',
+        destination: '/blog/:path*',
         permanent: true,
       },
       {

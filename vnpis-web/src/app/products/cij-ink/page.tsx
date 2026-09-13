@@ -102,10 +102,12 @@ export default function CIJInkPage() {
               <div className="aspect-square rounded-2xl overflow-hidden bg-slate-800 border border-slate-700 shadow-2xl relative">
                  <video 
                    src="/media/cij-glass-test.mp4" 
+                   poster="/images/hero-bg.jpg"
                    autoPlay 
                    loop 
                    muted 
                    playsInline
+                   controls
                    className="absolute inset-0 w-full h-full object-cover"
                  />
                  <div className="absolute bottom-4 left-4 right-4 bg-slate-900/80 backdrop-blur-md px-4 py-3 rounded-xl border border-slate-700">
@@ -245,6 +247,15 @@ export default function CIJInkPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@graph": [
+              {
+                "@type": "VideoObject",
+                "name": "Video test mực CIJ VNPIS bám dính siêu việt trên vỏ chai thủy tinh ướt lạnh",
+                "description": "Video thử nghiệm thực tế độ bám dính mực in phun CIJ VNPIS trên vỏ chai thủy tinh đọng sương lạnh trong ngành sản xuất đồ uống.",
+                "thumbnailUrl": "https://vnpis.com/images/hero-bg.jpg",
+                "uploadDate": "2026-01-01T08:00:00+07:00",
+                "contentUrl": "https://vnpis.com/media/cij-glass-test.mp4",
+                "embedUrl": "https://vnpis.com/products/cij-ink"
+              },
               {
                 "@type": "Product",
                 "name": "Mực In Phun Công Nghiệp CIJ VNPIS",
