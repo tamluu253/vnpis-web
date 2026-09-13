@@ -1,0 +1,452 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-08-23",
+  "organization": {
+    "name": "CÔNG TY TNHH VNPIS",
+    "legal_name": "CÔNG TY TNHH VNPIS - GIẢI PHÁP & THIẾT BỊ IN ẤN CÔNG NGHIỆP",
+    "mst": "0318266611",
+    "hotline": "0987 453 866",
+    "hotline_raw": "0987453866",
+    "hotline_display": "0987 453 866 (Kỹ Sư Trưởng)",
+    "zalo_url": "https://zalo.me/0987453866",
+    "email": "info@vnpis.com",
+    "engineer": "Lưu Trọng Tâm",
+    "engineer_title": "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS",
+    "workshop_address": "18 Đường số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP. Hồ Chí Minh",
+    "geo": {
+      "latitude": 10.7167,
+      "longitude": 106.6667
+    },
+    "opening_hours": "Mo-Su 00:00-24:00 (Hỗ trợ CSKH & Sự cố 24/7)"
+  },
+  "frontmatter_schemas": {
+    "vnpis.com": {
+      "canonical_prefix": "https://vnpis.com/blog/",
+      "schema_type": "TechnicalArticle",
+      "publisher_mst": "0318266611",
+      "author": "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS",
+      "default_tags": [
+        "Máy in công nghiệp",
+        "Thiết bị in B2B",
+        "Máy in Tampon",
+        "Máy in Lụa",
+        "In UV Single Pass",
+        "VNPIS Solutions"
+      ]
+    },
+    "cuuhodauin.com": {
+      "canonical_prefix": "https://cuuhodauin.com/kien-thuc/",
+      "schema_type": "TechnicalArticle",
+      "publisher_mst": "0318266611",
+      "author": "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS",
+      "policy": "No Cure No Pay",
+      "default_tags": [
+        "Cứu hộ đầu in",
+        "Phục hồi đầu phun",
+        "Súc rửa đầu in",
+        "Phòng Lab VNPIS",
+        "No Cure No Pay"
+      ]
+    },
+    "inanvnpis.com": {
+      "canonical_prefix": "https://inanvnpis.com/blog/",
+      "schema_type": "TechnicalArticle",
+      "publisher_mst": "0318266611",
+      "author": "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS",
+      "service_type": "Gia Công In Ấn B2B & OEM",
+      "default_tags": [
+        "Gia công in ấn",
+        "In Tampon B2B",
+        "In Lụa Công Nghiệp",
+        "In UV OEM",
+        "Xưởng in Bình Chánh"
+      ]
+    }
+  },
+  "technical_data_tables": {
+    "printheads": {
+      "ricoh_gen5": {
+        "model": "Ricoh Gen5 MH5420 / MH5440",
+        "technology": "Piezoelectric Drop-on-Demand",
+        "nozzle_count": 1280,
+        "nozzle_rows": "4 rows x 320 nozzles",
+        "native_drop_volume": "7 - 35 pL (4 levels grayscale)",
+        "firing_frequency": "30 kHz (up to 60 kHz in binary mode)",
+        "viscosity_range": "10 - 12 mPa·s @ operating temperature",
+        "operating_temperature": "40°C - 45°C (integrated heater)",
+        "compatible_inks": "UV Curable, Solvent, Aqueous, Oil-based",
+        "dimensions_weight": "89 x 66 x 24.5 mm / 155 g"
+      },
+      "ricoh_gen6": {
+        "model": "Ricoh Gen6 MH5320 / MH5340",
+        "technology": "Piezoelectric Drop-on-Demand (High-Density)",
+        "nozzle_count": 1280,
+        "nozzle_rows": "4 rows x 320 nozzles",
+        "native_drop_volume": "5 pL (minimum drop size)",
+        "firing_frequency": "50 kHz (High Productivity)",
+        "viscosity_range": "9 - 11 mPa·s @ 45°C",
+        "operating_temperature": "45°C ± 1°C",
+        "compatible_inks": "UV LED Curable, Water-based, Solvent",
+        "alignment_accuracy": "±0.002 mm sub-pixel jetting"
+      },
+      "kyocera_kj4a": {
+        "model": "Kyocera KJ4A-RH 0600 (UV Single Pass)",
+        "technology": "High-Speed Monolithic Piezo Electric",
+        "nozzle_count": 2656,
+        "effective_print_width": "108.25 mm (4.26 inches)",
+        "native_resolution": "600 dpi",
+        "firing_frequency": "64 kHz",
+        "max_print_speed": "100 - 200 m/min",
+        "drop_volumes": "3, 6, 9, 14 pL",
+        "operating_temperature": "40°C - 50°C",
+        "drive_voltage": "24V - 28V waveform tuned"
+      },
+      "kyocera_kj4b": {
+        "model": "Kyocera KJ4B-QA 0600 (Water-based / Textile)",
+        "technology": "High-Speed Monolithic Piezo Electric",
+        "nozzle_count": 2656,
+        "effective_print_width": "108.25 mm (4.26 inches)",
+        "native_resolution": "600 dpi",
+        "firing_frequency": "30 kHz",
+        "max_print_speed": "150 m/min",
+        "drop_volumes": "3, 5 pL",
+        "operating_temperature": "20°C - 30°C",
+        "drive_voltage": "24V - 26V"
+      },
+      "epson_i3200": {
+        "model": "Epson PrecisionCore MicroTFP i3200 (U1/E1/A1)",
+        "technology": "MEMS Piezo PrecisionCore",
+        "nozzle_count": 3200,
+        "nozzle_rows": "8 rows x 400 nozzles",
+        "effective_width": "33.8 mm (1.33 inches)",
+        "resolution": "600 npi / 2 lines = 1200 dpi",
+        "drop_volumes": "3.2 - 12 pL Variable Sized Droplet",
+        "firing_frequency": "21.6 kHz (Eco/Water) / 43.2 kHz (UV-U1)",
+        "viscosity_range": "3 - 5 mPa·s (Water/Eco), 5 - 8 mPa·s (UV)",
+        "chamber_resistance": "750 - 950 Ω per channel"
+      },
+      "epson_xp600": {
+        "model": "Epson XP600 (FA09050)",
+        "technology": "Micro Piezoelectric",
+        "nozzle_count": 1080,
+        "nozzle_rows": "6 rows x 180 nozzles",
+        "drop_volumes": "3.5 - 21 pL",
+        "firing_frequency": "18 kHz",
+        "application": "DTF, UV Flatbed Mini, Eco-solvent advertising"
+      },
+      "konica_1024i": {
+        "model": "Konica Minolta KM1024i SHE (Independent Drive)",
+        "technology": "Shear Mode Piezoelectric On-Demand",
+        "nozzle_count": 1024,
+        "native_drop_volume": "6 pL / 14 pL / 30 pL",
+        "firing_frequency": "45 kHz",
+        "nozzle_density": "360 npi",
+        "viscosity_range": "8 - 14 mPa·s"
+      },
+      "seiko_spt510": {
+        "model": "Seiko SPT-510 (Drop-on-Demand)",
+        "technology": "Piezoelectric Drop-on-Demand",
+        "nozzle_count": 510,
+        "native_drop_volume": "35 pL / 50 pL",
+        "firing_frequency": "8 kHz",
+        "effective_width": "71.8 mm",
+        "resolution": "180 dpi"
+      }
+    },
+    "machines": {
+      "tampon_se125b": {
+        "model": "VNPIS SE-125B (Cốc Mực Kín Ø90mm)",
+        "ink_cup_diameter": "Ø90 mm (standard) / Ø60 mm (precision micro)",
+        "cliche_plate_size": "100 x 250 mm (SKD11 Steel 10mm or Thin 0.5mm)",
+        "max_printing_speed": "1,800 - 2,200 cycles/hour",
+        "pad_vertical_stroke": "125 mm (Z-axis micrometer adjustable)",
+        "pneumatic_pressure": "5 - 7 bar (FESTO / SMC components)",
+        "power_supply": "220V 50Hz / 50W",
+        "machine_weight": "110 kg"
+      },
+      "tampon_rotary_table": {
+        "model": "VNPIS Automated Rotary Pad Printing System (4-8 Stations)",
+        "indexing_table": "Cam Indexer precision ±0.015 mm",
+        "plc_control": "Mitsubishi FX5U / Siemens S7-1200 + Touch Screen HMI",
+        "loading_unloading": "Pneumatic pick-and-place / 6-axis Robot Arm interface",
+        "capacity": "2,500 - 3,600 pcs/hour",
+        "drying_system": "Hot air nozzle + IR cure station integrated"
+      },
+      "screen_flatbed_vacuum": {
+        "model": "VNPIS Semi-Automatic Flatbed Vacuum Screen Printer",
+        "max_print_area": "400 x 600 mm / 600 x 900 mm",
+        "table_surface": "Anodized Aluminum with micro-hole vacuum suction",
+        "repeatability": "±0.03 mm",
+        "squeegee_speed": "0 - 800 mm/s inverter controlled",
+        "off_contact_range": "0 - 15 mm digital adjustment"
+      },
+      "screen_cylindrical": {
+        "model": "VNPIS High-Precision Cylindrical Screen Printer (Chai Lọ, Ống Trụ)",
+        "max_diameter": "Ø10 - Ø120 mm",
+        "max_print_length": "250 mm",
+        "capacity": "1,200 - 1,500 pcs/hour",
+        "registration_accuracy": "360-degree optical sensor ±0.05 mm"
+      },
+      "uv_single_pass_carton": {
+        "model": "VNPIS Industrial UV Single Pass Corrugated & Packaging System",
+        "printhead_array": "Kyocera KJ4A / Ricoh Gen6 seamless stitching",
+        "max_speed": "80 - 120 meters/min",
+        "max_feed_width": "800 - 1600 mm",
+        "curing_unit": "High-power UV LED water-cooled 395nm (16 W/cm²)",
+        "rip_software": "Caldera / Onyx VDP data variable printing engine"
+      }
+    },
+    "consumables": {
+      "henkey_inks": {
+        "pet8000": {
+          "substrate": "Treated PET, Polycarbonate, Polyamide, Epoxy, Glass, Metal",
+          "system": "2-component solvent-based / Hardener 8000B (10:1 ratio)",
+          "viscosity": "18,000 - 25,000 mPa·s",
+          "pot_life": "6 - 8 hours @ 25°C",
+          "curing_time": "Dust dry 10 min, Full chemical resistance 48h @ 20°C or 30 min @ 80°C",
+          "chemical_resistance": "Resistant to alcohol (200 rubs), gasoline, oil, detergent"
+        },
+        "ppex": {
+          "substrate": "Untreated/Treated Polypropylene (PP), PE (surface > 42 dyne)",
+          "system": "1 or 2-component / High elasticity",
+          "adhesion": "Cross-hatch test 100% (5B / GT0) after 24h"
+        }
+      },
+      "tij_cartridges": {
+        "hp45_hf200": {
+          "spec": "12.7 mm Thermal Inkjet Cartridge (Black Solvent)",
+          "dry_time": "1 - 2 seconds on non-porous BOPP, PE, PVC, Aluminum foil",
+          "decap_time": "> 60 minutes without nozzle crusting",
+          "throw_distance": "1 - 5 mm",
+          "optical_density": "1.45 D"
+        }
+      },
+      "pad_silicone": {
+        "shore_hardness": "30 Shore A (delicate curve), 45 Shore A (standard), 60 Shore A (flat fine text)",
+        "oil_bleed_rate": "0.5% controlled silicone oil bleeding for clean release",
+        "tensile_strength": "30 kg/cm²",
+        "tear_resistance": "28 N/mm"
+      },
+      "swiss_mesh": {
+        "counts": "80T (heavy paste), 120T (standard graphic), 150T-165T (micro-detail & PCB resist)",
+        "mesh_opening": "48 µm to 31 µm",
+        "tension_standard": "20 - 24 N/cm (measured with Newton tension meter)"
+      }
+    }
+  },
+  "engineering_formulas": {
+    "ink_consumption": {
+      "name": "Công Thức Tính Định Mức Tiêu Hao Mực In",
+      "formula": "C = A * rho * t_wet * (Solid_pct / 100) * (1 + Waste_pct)",
+      "latex": "C = A \\times \\rho \\times t_{wet} \\times \\left(\\frac{\\text{Solid}\\%}{100}\\right) \\times (1 + \\text{Hao hụt})",
+      "explanation": "Trong đó: C là lượng mực tiêu hao (g), A là diện tích phủ mực (m²), rho là khối lượng riêng của mực (~1.05 - 1.15 g/cm³), t_wet là độ dày màng mực ướt (µm), Solid% là hàm lượng chất rắn."
+    },
+    "cycle_time_throughput": {
+      "name": "Công Thức Tính Năng Suất Ca Sản Xuất Máy In Tampon / In Lụa",
+      "formula": "Throughput = (3600 / (t_stroke + t_index + t_load)) * OEE",
+      "latex": "\\text{Năng suất (pcs/h)} = \\left(\\frac{3600}{t_{\\text{dập}} + t_{\\text{xoay}} + t_{\\text{nạp phôi}}}\\right) \\times \\text{OEE}",
+      "explanation": "Tối ưu hóa thời gian chu kỳ dập pad và nạp phôi giúp nhà máy đạt sản lượng 18.000 - 25.000 sản phẩm/ca 8 tiếng với OEE > 88%."
+    },
+    "ultrasonic_cavitation_energy": {
+      "name": "Công Thức Năng Lượng Sóng Siêu Âm Kép Phục Hồi Đầu In",
+      "formula": "I_acoustic = 0.5 * rho * c * (2 * pi * f * xi)^2",
+      "latex": "I = \\frac{1}{2} \\rho c (2\\pi f \\xi)^2",
+      "explanation": "Tần số 28kHz tạo bọt khí xâm thực lớn đánh tan cặn mực khô bên ngoài, trong khi tần số 40kHz tạo vi bọt len lỏi sâu vào buồng thạch anh piezo 5pL mà không làm nứt màng nozzle plate."
+    },
+    "astm_d3359_adhesion": {
+      "name": "Tiêu Chuẩn Kiểm Định Độ Bám Dính ASTM D3359 Cross-Hatch",
+      "ratings": {
+        "5B": "0% tróc (mép cắt phẳng hoàn toàn, chất lượng hoàn hảo)",
+        "4B": "< 5% tróc tại giao điểm đường cắt",
+        "3B": "5% - 15% tróc dọc mép cắt",
+        "2B": "15% - 35% tróc theo mảng",
+        "1B": "35% - 65% tróc diện rộng (không đạt)",
+        "0B": "> 65% bong tróc toàn bộ (hỏng màng sơn/mực)"
+      }
+    },
+    "surface_energy_dyne": {
+      "name": "Tiêu Chuẩn Xử Lý Năng Lượng Bề Mặt (Dyne Pen)",
+      "requirement": "Năng lượng bề mặt vật liệu polymer (PP, PE, POM) phải đạt tối thiểu > 42 dynes/cm qua xử lý Corona hoặc Plasma lạnh để đảm bảo liên kết hóa học với mực in."
+    }
+  },
+  "standard_troubleshooting_checklists": {
+    "printhead_recovery_sop": [
+      "Bước 1: Chẩn đoán điện trở vi mạch thạch anh Piezo (750-950Ω) và đo xung kích hoạt Drive Voltage bằng Oscilloscope để loại trừ chập IC trước khi súc rửa.",
+      "Bước 2: Soi kính hiển vi quang học độ phóng đại 500x quan sát bề mặt màng Nozzle Plate phát hiện vết xước cơ học, đóng cặn mực UV polyme hóa.",
+      "Bước 3: Ngâm súc rửa áp lực thẩm thấu ngược bằng dung dịch chuyên dụng VNPIS Flush Solution trong bể sóng siêu âm tần số kép 28kHz/40kHz gia nhiệt ổn định 45°C.",
+      "Bước 4: Nạp file đồ thị xung Waveform Push-Pull và hiệu chỉnh điện áp firing voltage bù đắp độ lão hóa của thạch anh sau thời gian dài vận hành.",
+      "Bước 5: Lắp đầu in lên dàn test, xả áp lực âm Meniscus Vacuum (-1.8 kPa), in test pattern kiểm tra 100% vòi phun, cam kết đạt tỷ lệ thông tia trên 90-95% (No Cure No Pay)."
+    ],
+    "tampon_zero_defect_sop": [
+      "Bước 1: Kiểm tra độ sâu khắc bản thép Cliché SKD11 đạt chuẩn 20 - 25 µm bằng thiết bị đo độ nhám bề mặt; độ phẳng mài bóng gương Ra < 0.05 µm.",
+      "Bước 2: Lựa chọn đầu in Tampon Silicon có hình dáng nón thoát khí, độ cứng Shore 38A - 45A phù hợp với biên dạng cong của linh kiện cần in.",
+      "Bước 3: Pha trộn mực in Henkey với chất đóng rắn Hardener theo tỷ lệ chính xác 10:1 (sai số cân điện tử < 0.1g), bổ sung dung môi chậm khô Retarder 10-15% duy trì độ nhớt 18.000 mPa·s.",
+      "Bước 4: Cân chỉnh lực ép cốc mực kín với vòng gốm Ceramic Ring 92 HRA sát khít bề mặt bản in, triệt tiêu hoàn toàn hiện tượng kéo vệt mực mờ (ghosting).",
+      "Bước 5: Kích hoạt xử lý bề mặt phôi bằng đầu khò lửa Corona hoặc Plasma lạnh đạt năng lượng bề mặt > 42 dynes/cm trước khi dập in để đảm bảo mực bám dính vĩnh viễn."
+    ],
+    "screen_printing_sop": [
+      "Bước 1: Căng lụa Thụy Sĩ Swiss Mesh đạt lực căng tiêu chuẩn 20 - 24 N/cm kiểm tra bằng đồng hồ đo Newton lực kế cơ học.",
+      "Bước 2: Phủ keo cảm quang lưỡng tính 2+2 (2 lớp mặt in + 2 lớp mặt gạt), sấy khô phòng sạch ở 38°C, đạt độ dày màng keo EOM 15 - 20%.",
+      "Bước 3: Cân chỉnh khoảng cách nhả lưới (Off-contact) từ 2 - 4 mm đảm bảo lụa tách rời bề mặt vật liệu ngay sau khi dao gạt đi qua.",
+      "Bước 4: Sử dụng dao gạt Polyurethane 70 - 75 Shore A với góc gạt 75 độ và áp lực đều 2.5 - 3.5 bar.",
+      "Bước 5: Kiểm soát profile sấy nhiệt hồng ngoại IR hoặc đóng rắn UV LED 395nm đảm bảo mực đạt độ bền cơ hóa lý tuyệt đối."
+    ],
+    "uv_single_pass_sop": [
+      "Bước 1: Cân chỉnh hệ thống băng tải hút chân không đồng bộ tín hiệu Encoder xung với tần số Firing 64 kHz của dàn đầu phun.",
+      "Bước 2: Kích hoạt hệ thống làm mát bằng nước tuần hoàn Chiller duy trì nhiệt độ buồng phun 22°C - 24°C và công suất đèn sấy UV LED 12 - 16 W/cm².",
+      "Bước 3: Ổn định hệ thống cấp mực áp lực âm Meniscus -1.6 kPa triệt tiêu hiện tượng rò mực hoặc hụt tia khi chạy tốc độ cao 100 m/phút.",
+      "Bước 4: Nạp profile ICC chuẩn cho từng loại giấy carton / decal vào RIP phần mềm Onyx / Caldera để tối ưu lượng hạt mực và dải màu.",
+      "Bước 5: Chạy test in dữ liệu biến đổi VDP barcode / QR code với camera kiểm tra lỗi quang học trực tuyến trước khi cho chạy chuyền liên tục."
+    ]
+  },
+  "faq_library": {
+    "cuuhodauin": [
+      {
+        "question": "Chính sách Cứu hộ đầu in 'No Cure No Pay' tại VNPIS hoạt động như thế nào?",
+        "answer": "Khi quý khách gửi đầu in đến Phòng Lab VNPIS, chúng tôi sẽ tiến hành đo kiểm vi mạch và súc rửa phục hồi. Nếu kết quả kiểm tra test tia không đạt tỷ lệ phục hồi tối thiểu (trên 85-90% vòi phun hoạt động chuẩn nét), quý khách sẽ hoàn toàn KHÔNG PHẢI THANH TOÁN bất kỳ chi phí dịch vụ nào."
+      },
+      {
+        "question": "Đầu in Ricoh Gen5 bị nghẹt mực UV có phục hồi được 100% tia không?",
+        "answer": "Đối với các ca đầu in Ricoh Gen5 MH5420 bị đóng cặn mực UV nhưng vi mạch Piezo còn nguyên vẹn, quy trình súc rửa siêu âm kép 28kHz/40kHz kết hợp dung dịch hòa tan monomer VNPIS Flush Solution có thể khôi phục từ 90% đến 98% số lượng tia phun, khôi phục chất lượng in bạt/decal sắc nét."
+      },
+      {
+        "question": "Thời gian phục hồi một đầu in tại Phòng Lab VNPIS mất bao lâu?",
+        "answer": "Thông thường, quy trình đo kiểm, ngâm thẩm thấu và cân chỉnh waveform hoàn tất trong vòng 24 - 48 giờ. Đối với các xưởng in đang dừng chuyền sản xuất cần ứng cứu khẩn cấp, VNPIS hỗ trợ xử lý ưu tiên giao trong ngày kèm dịch vụ in gia công bù tiến độ."
+      },
+      {
+        "question": "Khi nào nên phục hồi và khi nào bắt buộc phải thay mới đầu in?",
+        "answer": "Nếu đầu in chỉ bị nghẹt cặn mực, lệch tia, hoặc bóng khí trong buồng mực thì khả năng phục hồi thành công lên đến 95% với chi phí chỉ bằng 15-20% đầu mới. Tuy nhiên, nếu đầu in bị chập điện trở thạch anh Piezo (<500Ω) hoặc xước thủng màng Nozzle Plate do va đập cơ học, kỹ sư VNPIS sẽ tư vấn thay thế đầu in chính hãng."
+      }
+    ],
+    "vnpis": [
+      {
+        "question": "Máy in tampon cốc mực kín có ưu điểm gì vượt trội so với máng mực hở truyền thống?",
+        "answer": "Cốc mực kín Ø90mm với vòng gốm Ceramic 92 HRA giữ kín 100% dung môi, giảm lượng bay hơi hóa chất độc hại đến 80%, tiết kiệm 50% lượng mực tiêu hao và giữ cho độ nhớt mực luôn ổn định trong suốt ca làm việc 8-12 tiếng."
+      },
+      {
+        "question": "VNPIS có hỗ trợ chuyển giao công nghệ và chế tạo đồ gá in theo sản phẩm không?",
+        "answer": "Có. Khi mua máy in tampon hoặc máy in lụa tại VNPIS, quý khách được chuyển giao công nghệ vận hành tận xưởng, đào tạo thợ in và được đội ngũ kỹ sư VNPIS thiết kế gia công đồ gá nhôm CNC/In 3D định vị Exact-Fit miễn phí cho sản phẩm đầu tiên."
+      },
+      {
+        "question": "Giải pháp in UV Single Pass bao bì thùng carton có thay thế được công nghệ in flexo và offset không?",
+        "answer": "In UV Single Pass là giải pháp kỹ thuật số hoàn hảo cho các đơn hàng bao bì ngắn và trung bình (từ vài chục đến 10.000 hộp), không tốn chi phí và thời gian làm bản kẽm flexo, hỗ trợ in dữ liệu biến đổi (VDP QR code/barcode) với tốc độ lên đến 100 - 150 mét/phút."
+      },
+      {
+        "question": "Mực in công nghiệp Henkey và TIJ HP45 tại VNPIS có đạt tiêu chuẩn an toàn RoHS / REACH không?",
+        "answer": "Toàn bộ các dòng mực in công nghiệp Henkey PET8000, PPEX và hộp mực HP45 do VNPIS phân phối đều có đầy đủ chứng nhận RoHS 2.0, REACH, không chứa kim loại nặng và hợp chất hữu cơ độc hại, đáp ứng tiêu chuẩn xuất khẩu sang thị trường Mỹ và EU."
+      }
+    ],
+    "inanvnpis": [
+      {
+        "question": "Xưởng in VNPIS có nhận gia công in mẫu thử nghiệm (Sample Test) trước khi ký hợp đồng không?",
+        "answer": "Có. VNPIS hỗ trợ in test mẫu miễn phí trên phôi thực tế của khách hàng (lên màu chuẩn Pantone, thử nghiệm độ bám dính băng keo ASTM D3359 và test cồn) trong vòng 24 giờ làm việc trước khi tiến hành sản xuất hàng loạt."
+      },
+      {
+        "question": "Năng lực gia công in tampon và in lụa của VNPIS tại xưởng Bình Chánh đạt bao nhiêu sản phẩm/ngày?",
+        "answer": "Với hệ thống 12 máy in tampon 1-4 màu bán tự động, 3 dây chuyền in mâm xoay tự động và 6 máy in lụa trụ tròn/phẳng, xưởng VNPIS đạt công suất 80.000 - 120.000 sản phẩm/ngày, đáp ứng tiến độ cho các tập đoàn điện tử và OEM xuất khẩu."
+      },
+      {
+        "question": "VNPIS xử lý các bề mặt nhựa khó bám như PP, PE, POM và Silicone bằng kỹ thuật nào?",
+        "answer": "Chúng tôi áp dụng hệ thống xử lý hoạt hóa bề mặt bằng tia lửa Corona cao tần và Plasma lạnh để nâng năng lượng bề mặt từ 30 dyne lên > 44 dynes/cm, kết hợp mực in 2 thành phần Henkey chuyên dụng kèm phụ gia tăng bám Silane, đảm bảo độ bám tuyệt đối đạt chuẩn ASTM D3359 5B."
+      },
+      {
+        "question": "Quy trình kiểm soát chất lượng QA/QC tại xưởng in VNPIS diễn ra như thế nào?",
+        "answer": "100% lô hàng gia công tại VNPIS đều trải qua kiểm tra ngẫu nhiên theo tiêu chuẩn AQL Level II: kiểm tra độ sắc nét chi tiết 0.1mm, sai lệch màu delta E < 1.5, kiểm tra độ bền chà xát cồn 90 độ (200 lần) và test độ bám dính băng dính 3M 600."
+      }
+    ]
+  },
+  "sales_engine_widgets": {
+    "hotline_widget": {
+      "hotline_number": "0987453866",
+      "display_text": "0987 453 866",
+      "engineer_name": "Lưu Trọng Tâm (Kỹ Sư Trưởng VNPIS)",
+      "badge": "Tư Vấn Kỹ Thuật 24/7 & Báo Giá Trong 5 Phút",
+      "markdown_template": "> 📞 **TƯ VẤN KỸ THUẬT & ỨNG CỨU SỰ CỐ 24/7**\n> Hotline / Zalo Kỹ Sư Trưởng: **[0987 453 866](tel:0987453866)**\n> *Xưởng & Phòng Lab VNPIS: 18 Đường số 4, KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM.*"
+    },
+    "zalo_widget": {
+      "zalo_link": "https://zalo.me/0987453866",
+      "cta_label": "Chat Zalo Trực Tiếp Với Kỹ Sư Trưởng",
+      "markdown_template": "[👉 **CHAT ZALO VỚI KỸ SƯ TRƯỞNG (0987 453 866)**](https://zalo.me/0987453866)"
+    },
+    "lead_capture_form": {
+      "title": "Đăng Ký Khảo Sát Kỹ Thuật & Nhận Báo Giá Ưu Đãi B2B",
+      "fields": [
+        {
+          "name": "full_name",
+          "type": "text",
+          "label": "Họ và tên người liên hệ",
+          "required": true
+        },
+        {
+          "name": "phone_zalo",
+          "type": "tel",
+          "label": "Số điện thoại / Zalo",
+          "required": true
+        },
+        {
+          "name": "company_name",
+          "type": "text",
+          "label": "Tên công ty / Xưởng in",
+          "required": false
+        },
+        {
+          "name": "service_interest",
+          "type": "select",
+          "label": "Nhu cầu của quý khách",
+          "options": [
+            "Cứu hộ / Súc rửa đầu in (Ricoh, Kyocera, Epson, Konica)",
+            "Báo giá máy in Tampon / Dây chuyền tự động",
+            "Báo giá máy in Lụa / UV Single Pass",
+            "Gia công in OEM linh kiện / bao bì / chai lọ",
+            "Mua mực in Henkey / TIJ HP45 / Vật tư tiêu hao"
+          ]
+        },
+        {
+          "name": "equipment_model",
+          "type": "text",
+          "label": "Model máy in / Mã đầu in đang sử dụng (nếu có)",
+          "required": false
+        },
+        {
+          "name": "project_notes",
+          "type": "textarea",
+          "label": "Yêu cầu kỹ thuật chi tiết / Tình trạng sự cố",
+          "required": false
+        }
+      ],
+      "submit_button": "GỬI YÊU CẦU CHO KỸ SƯ TRƯỞNG (PHẢN HỒI TRONG 5 PHÚT)",
+      "webhook_endpoint": "/api/leads/webhook"
+    },
+    "webhook_dispatcher_contract": {
+      "target_url": "https://vnpis.com/api/leads/webhook",
+      "method": "POST",
+      "headers": {
+        "Content-Type": "application/json",
+        "X-VNPIS-Lead-Source": "Marketing-AI-Multi-Domain"
+      },
+      "payload_structure": {
+        "lead_id": "LEAD-UUID-V4",
+        "created_at": "ISO_TIMESTAMP",
+        "domain": "vnpis.com | cuuhodauin.com | inanvnpis.com",
+        "source_article_url": "CANONICAL_URL",
+        "source_article_title": "ARTICLE_TITLE",
+        "customer": {
+          "full_name": "STRING",
+          "phone_zalo": "STRING",
+          "company_name": "STRING"
+        },
+        "intent": {
+          "service_category": "PRINTHEAD_RESCUE | MACHINERY_SALES | OEM_PRINTING | CONSUMABLES",
+          "equipment_model": "STRING",
+          "notes": "STRING"
+        },
+        "urgency_level": "URGENT_LINE_STOPPED | HIGH_QUOTE_REQUEST | STANDARD_INQUIRY",
+        "routing": {
+          "direct_sms_engineer": "0987 453 866",
+          "telegram_alert_channel": "@vnpis_sales_leads_bot",
+          "zalo_oa_id": "VNPIS_OFFICIAL_ACCOUNT"
+        }
+      }
+    }
+  }
+}

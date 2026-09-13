@@ -1,0 +1,761 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-08-23",
+  "organization": {
+    "name": "CÔNG TY TNHH VNPIS",
+    "mst": "0318266611",
+    "hotline": "0987 453 866",
+    "engineer": "Lưu Trọng Tâm",
+    "workshop_address": "KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP. Hồ Chí Minh"
+  },
+  "diversity_policy": {
+    "partial_match_target_pct": 35,
+    "brand_context_target_pct": 30,
+    "conversational_cta_target_pct": 25,
+    "exact_match_max_cap_pct": 10,
+    "max_cross_links_per_article": 3,
+    "min_word_distance_between_links": 300,
+    "forbidden_in_first_n_words": 200
+  },
+  "domains": {
+    "vnpis.com": {
+      "base_url": "https://vnpis.com",
+      "article_path_prefix": "/blog/",
+      "role": "B2B Industrial Printing Machinery, Equipment & Consumables Hub",
+      "primary_pillars": [
+        "Máy In Tampon & Hệ Thống Tự Động Hóa",
+        "Máy In Lụa & Dây Chuyền Bán Tự Động",
+        "Máy In UV Phẳng & UV Single Pass",
+        "Mực In Công Nghiệp & Hóa Chất Dung Môi",
+        "Vật Tư, Phụ Kiện Chế Bản & Tiêu Hao"
+      ]
+    },
+    "cuuhodauin.com": {
+      "base_url": "https://cuuhodauin.com",
+      "article_path_prefix": "/kien-thuc/",
+      "role": "Printhead Rescue Lab, Ultrasonic Cleaning & Diagnostics Hub",
+      "primary_pillars": [
+        "Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6",
+        "Cứu Hộ Đầu In Kyocera Single Pass & Tốc Độ Cao",
+        "Cứu Hộ Đầu In Konica Minolta 512i / 1024i",
+        "Cứu Hộ Đầu In Epson Công Nghiệp (i3200, XP600, TX800)",
+        "Kỹ Thuật Súc Rửa, Đo Sóng Xung Waveform & Bảo Trì Phòng Lab"
+      ]
+    },
+    "inanvnpis.com": {
+      "base_url": "https://inanvnpis.com",
+      "article_path_prefix": "/blog/",
+      "role": "B2B OEM Custom Printing & Substrate Processing Services",
+      "primary_pillars": [
+        "Dịch Vụ Gia Công In Tampon (Pad Printing) B2B",
+        "Dịch Vụ Gia Công In Lụa (Screen Printing) Công Nghiệp",
+        "Dịch Vụ Gia Công In UV Công Nghiệp & Phôi Khó",
+        "Kỹ Thuật Tiền Xử Lý Bề Mặt & Kiểm Soát Độ Bám Dính",
+        "Quy Trình OEM, Báo Giá & Năng Lực Sản Xuất B2B"
+      ]
+    }
+  },
+  "cross_domain_vectors": [
+    {
+      "vector_id": "VEC_VNPIS_TO_CUUHO",
+      "source_domain": "vnpis.com",
+      "target_domain": "cuuhodauin.com",
+      "name": "Maintenance, Printhead Recovery & Lab Rescue Bridge",
+      "trigger_contexts": [
+        "bảo trì đầu in", "nghẹt tia béc phun", "chi phí thay đầu in",
+        "đầu in ricoh gen5 gen6", "đầu in kyocera single pass", "đầu in epson i3200",
+        "dung môi súc rửa", "đứt nét in phun", "tuổi thọ đầu phun",
+        "sóng siêu âm kép", "đo trở kháng piezo", "cứu hộ đầu in no cure no pay"
+      ],
+      "conversion_objective": "Điều hướng người mua máy hoặc người đang bảo trì thiết bị sang giải pháp cứu hộ đầu in phòng Lab giúp tiết kiệm 70% chi phí thay mới linh kiện với cam kết No Cure No Pay.",
+      "routes": [
+        {
+          "route_id": "V2C_RICOH",
+          "trigger_keywords": ["đầu in ricoh", "ricoh gen5", "ricoh gen6", "nghẹt tia uv", "súc rửa đầu in ricoh", "sửa đầu in ricoh", "đầu in uv", "mh5420"],
+          "target_url": "https://cuuhodauin.com/kien-thuc/quy-trinh-cuu-ho-dau-in-ricoh-gen5",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ phục hồi đầu in Ricoh Gen5 chuyên sâu",
+              "giải pháp cứu hộ đầu in Ricoh nghẹt tia UV",
+              "quy trình súc rửa đầu in Ricoh bằng sóng siêu âm kép",
+              "phương pháp thông béc phun đầu in Ricoh Gen6 công nghiệp"
+            ],
+            "brand_context": [
+              "Phòng Lab Cứu Hộ Đầu In VNPIS (cuuhodauin.com)",
+              "trung tâm phục hồi đầu phun công nghiệp cuuhodauin.com",
+              "chuyên gia kỹ thuật tại Cứu Hộ Đầu In VNPIS",
+              "phòng xét nghiệm vi mạch cuuhodauin.com"
+            ],
+            "conversational_cta": [
+              "tham khảo quy trình phục hồi đầu in Ricoh tiết kiệm chi phí",
+              "xem giải pháp xử lý thông béc phun cam kết No Cure No Pay",
+              "liên hệ phòng Lab để đo kiểm vi mạch đầu phun miễn phí",
+              "tìm hiểu cách phục hồi đầu in Ricoh đạt trên 90% tia phun"
+            ],
+            "exact_match": [
+              "cứu hộ đầu in ricoh gen5",
+              "phục hồi đầu in ricoh gen6"
+            ]
+          }
+        },
+        {
+          "route_id": "V2C_KYOCERA",
+          "trigger_keywords": ["đầu in kyocera", "single pass", "kj4a", "kj4b", "tốc độ cao 64khz", "đầu phun kyocera", "máy in thùng carton"],
+          "target_url": "https://cuuhodauin.com/kien-thuc/phuc-hoi-dau-in-kyocera-kj4a-single-pass",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ cứu hộ đầu in Kyocera KJ4A Single Pass",
+              "phục hồi đầu in Kyocera KJ4B máy in thùng carton",
+              "súc rửa chuyên sâu đầu phun Kyocera 64kHz",
+              "giải pháp xử lý nghẹt kênh đầu in Kyocera tốc độ cao"
+            ],
+            "brand_context": [
+              "Phòng Lab Cứu Hộ Đầu In Kyocera VNPIS",
+              "trung tâm chẩn đoán sóng xung cuuhodauin.com",
+              "đội ngũ kỹ sư phục hồi đầu phun cuuhodauin.com"
+            ],
+            "conversational_cta": [
+              "tìm hiểu phương án súc rửa đầu in Kyocera không tháo màng",
+              "xem báo giá phục hồi đầu in Kyocera bảo hành tia phun",
+              "tham khảo kinh nghiệm xử lý nghẹt mực đầu in Kyocera Single Pass"
+            ],
+            "exact_match": [
+              "cứu hộ đầu in kyocera kj4a",
+              "phục hồi đầu in kyocera kj4b"
+            ]
+          }
+        },
+        {
+          "route_id": "V2C_EPSON",
+          "trigger_keywords": ["epson i3200", "xp600", "tx800", "đứt tia", "thông vách", "lệch tia", "đầu in epson", "đầu phun epson", "precisioncore"],
+          "target_url": "https://cuuhodauin.com/kien-thuc/xu-ly-dau-in-epson-i3200-lech-tia-thong-vach",
+          "anchors": {
+            "partial_match": [
+              "xử lý đầu in Epson i3200 thông vách lọt kênh",
+              "khắc phục lỗi lệch tia đầu phun Epson PrecisionCore",
+              "cứu hộ đầu in Epson XP600 máy in DTF",
+              "giải pháp phục hồi đầu in Epson i3200 bị chai tia"
+            ],
+            "brand_context": [
+              "trung tâm cứu hộ đầu in Epson VNPIS",
+              "dịch vụ kỹ thuật phòng Lab cuuhodauin.com",
+              "chuyên gia xử lý đầu in cuuhodauin.com"
+            ],
+            "conversational_cta": [
+              "xem hướng dẫn đo kiểm áp buồng mực đầu in Epson",
+              "gửi đầu in Epson đến phòng Lab để phục hồi tia",
+              "khám phá công nghệ phục hồi đầu in Epson PrecisionCore"
+            ],
+            "exact_match": [
+              "cứu hộ đầu in epson i3200",
+              "sửa đầu in epson xp600"
+            ]
+          }
+        },
+        {
+          "route_id": "V2C_LAB_PRICING",
+          "trigger_keywords": ["chi phí phục hồi", "báo giá sửa đầu in", "no cure no pay", "bảo dưỡng nghỉ lễ", "bảng giá cứu hộ", "bảo trì đầu in", "nghẹt tia béc phun"],
+          "target_url": "https://cuuhodauin.com/kien-thuc/bao-gia-phuc-hoi-dau-in-cong-nghiep",
+          "anchors": {
+            "partial_match": [
+              "bảng giá phục hồi đầu in phun công nghiệp",
+              "chính sách cứu hộ đầu in không được không tính tiền",
+              "chi phí súc rửa siêu âm đầu in công nghiệp",
+              "bảng báo giá dịch vụ kỹ thuật phục hồi béc phun"
+            ],
+            "brand_context": [
+              "Bảng giá dịch vụ Phòng Lab Cứu Hộ Đầu In VNPIS",
+              "cam kết dịch vụ No Cure No Pay tại cuuhodauin.com",
+              "chính sách bảo hành dịch vụ cuuhodauin.com"
+            ],
+            "conversational_cta": [
+              "tham khảo bảng giá cứu hộ đầu in No Cure No Pay",
+              "xem chi phí phục hồi đầu in công nghiệp mới nhất",
+              "tính toán phương án tiết kiệm 70% ngân sách thay đầu in mới"
+            ],
+            "exact_match": [
+              "báo giá phục hồi đầu in",
+              "phục hồi đầu in no cure no pay"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "vector_id": "VEC_VNPIS_TO_INAN",
+      "source_domain": "vnpis.com",
+      "target_domain": "inanvnpis.com",
+      "name": "Trial Production, Testing & Short-Run Validation Bridge",
+      "trigger_contexts": [
+        "in thử nghiệm", "mẫu test pantone", "chưa đầu tư máy",
+        "đơn hàng thử nghiệm", "độ bám dính vật liệu khó", "đồ gá in chuyên dụng",
+        "in lô nhỏ", "xác thực chất lượng in", "thử nghiệm phôi nhựa kim loại",
+        "đo độ bám astm", "gia công in pilot run"
+      ],
+      "conversion_objective": "Khuyến khích khách hàng quan tâm đến máy móc in ấn chạy thử nghiệm đơn hàng mẫu tại xưởng OEM để thẩm định chất lượng và tối ưu bài toán chi phí trước khi đầu tư trang thiết bị.",
+      "routes": [
+        {
+          "route_id": "V2I_PAD_TRIAL",
+          "trigger_keywords": ["in tampon", "in pad", "linh kiện nhựa", "phím bấm", "vỏ nhựa abs", "in test pad", "đầu pad silicon", "cốc mực kín"],
+          "target_url": "https://inanvnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ in tampon mẫu thử linh kiện nhựa kỹ thuật",
+              "gia công in pad printing kiểm tra độ bám dính phôi",
+              "xưởng gia công in tampon vỏ nhựa ABS chuyên nghiệp",
+              "nhận in thử nghiệm độ bền phím bấm điện tử"
+            ],
+            "brand_context": [
+              "Xưởng gia công in ấn B2B VNPIS (inanvnpis.com)",
+              "dịch vụ in gia công OEM inanvnpis.com",
+              "trung tâm in gia công linh kiện VNPIS"
+            ],
+            "conversational_cta": [
+              "chạy thử mẫu in tampon trên linh kiện thực tế tại xưởng",
+              "đặt gia công in lô nhỏ để đánh giá chất lượng trước khi mua máy",
+              "gửi mẫu phôi nhựa để xưởng VNPIS in test Pantone thực tế"
+            ],
+            "exact_match": [
+              "gia công in tampon linh kiện nhựa",
+              "in tampon vỏ nhựa abs"
+            ]
+          }
+        },
+        {
+          "route_id": "V2I_SCREEN_TRIAL",
+          "trigger_keywords": ["in chai lọ", "in hũ mỹ phẩm", "in tròn 360 độ", "in lụa bao bì", "máy in lụa", "khung in lụa", "dao gạt squeegee", "in lụa"],
+          "target_url": "https://inanvnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ in lụa tròn 360 độ chai lọ mẫu test",
+              "gia công in lụa hũ mỹ phẩm thủy tinh chuẩn sắc nét",
+              "in gia công bao bì màng nhựa PE PP số lượng linh hoạt",
+              "giải pháp in lụa xoay tròn định vị điểm bắt màu"
+            ],
+            "brand_context": [
+              "Xưởng in lụa công nghiệp inanvnpis.com",
+              "trung tâm gia công in chai lọ VNPIS",
+              "dịch vụ in bao bì inanvnpis.com"
+            ],
+            "conversational_cta": [
+              "gửi mẫu chai lọ để in thử nghiệm 360 độ miễn phí",
+              "tham khảo dịch vụ in lụa gia công bao bì B2B",
+              "xem chất lượng in lụa thực tế trên phôi thủy tinh và nhựa PET"
+            ],
+            "exact_match": [
+              "gia công in lụa chai lọ mỹ phẩm",
+              "in lụa chai lọ thủy tinh"
+            ]
+          }
+        },
+        {
+          "route_id": "V2I_SURFACE_QC",
+          "trigger_keywords": ["corona", "plasma", "primer", "astm d3359", "cross-hatch", "độ bám dính phôi", "mực henkey", "dung môi"],
+          "target_url": "https://inanvnpis.com/blog/xu-ly-corona-plasma-tang-bam-dinh-nhua-pp-pe",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ xử lý bề mặt Corona Plasma hoạt hóa phôi in",
+              "thử nghiệm độ bám dính mực in ASTM D3359 tại xưởng",
+              "quy trình kiểm soát QA/QC 100% đơn hàng in công nghiệp",
+              "giải pháp hoạt hóa bề mặt nhựa trơ PP PE trước khi in"
+            ],
+            "brand_context": [
+              "Quy trình kiểm định chất lượng xưởng inanvnpis.com",
+              "phòng kỹ thuật xử lý bề mặt phôi inanvnpis.com",
+              "tiêu chuẩn kiểm tra chất lượng inanvnpis.com"
+            ],
+            "conversational_cta": [
+              "xem quy trình xử lý bề mặt phôi khó bám dính trước khi in",
+              "tìm hiểu tiêu chuẩn test băng keo 3M trên sản phẩm mẫu",
+              "gửi mẫu vật liệu khó bám để đo năng lượng bề mặt dyne/cm"
+            ],
+            "exact_match": [
+              "xử lý bề mặt corona plasma",
+              "xử lý corona plasma"
+            ]
+          }
+        },
+        {
+          "route_id": "V2I_QUOTE",
+          "trigger_keywords": ["báo giá gia công", "chi phí in oem", "in theo lô", "hợp đồng in", "bảng giá in", "in thử nghiệm", "chưa đầu tư máy"],
+          "target_url": "https://inanvnpis.com/blog/bang-bao-gia-gia-cong-in-an-b2b-so-luong-lon",
+          "anchors": {
+            "partial_match": [
+              "bảng báo giá gia công in ấn B2B theo lô hàng",
+              "chi phí dịch vụ in OEM linh kiện công nghiệp",
+              "đơn giá gia công in tampon và in lụa trọn gói",
+              "bảng giá in gia công hợp đồng cho nhà máy"
+            ],
+            "brand_context": [
+              "Bảng báo giá gia công inanvnpis.com",
+              "chính sách giá xưởng in OEM VNPIS",
+              "bảng giá dịch vụ inanvnpis.com"
+            ],
+            "conversational_cta": [
+              "nhận bảng báo giá gia công in ấn B2B cho nhà máy",
+              "tính toán chi phí in gia công so với khấu hao mua máy",
+              "yêu cầu báo giá chi tiết theo sản lượng và số màu in"
+            ],
+            "exact_match": [
+              "báo giá gia công in ấn b2b",
+              "báo giá gia công in ấn"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "vector_id": "VEC_CUUHO_TO_VNPIS",
+      "source_domain": "cuuhodauin.com",
+      "target_domain": "vnpis.com",
+      "name": "Beyond Economic Repair, Consumables & Machinery Upgrade Bridge",
+      "trigger_contexts": [
+        "đầu in hỏng nặng", "thông vách không thể phục hồi", "cháy thạch anh piezo",
+        "chập mạch ic", "nâng cấp máy in mới", "mực in chính hãng chống nghẹt",
+        "máy in uv single pass", "máy in tampon tự động", "phụ tùng dao gạt cốc mực",
+        "mực in đạt chuẩn rohs", "bảo hành chính hãng"
+      ],
+      "conversion_objective": "Tư vấn chuyển đổi sang máy in công nghiệp đời mới, dây chuyền tự động và mực in chính hãng chống nghẹt khi đầu in cũ đã hư hỏng vật lý vượt quá giới hạn phục hồi kinh tế.",
+      "routes": [
+        {
+          "route_id": "C2V_SINGLE_PASS",
+          "trigger_keywords": ["máy in single pass", "in thùng carton", "in tem cuộn", "nâng cấp máy", "máy in uv công nghiệp", "kyocera", "kj4a", "kj4b", "đầu in kyocera", "single pass", "đầu in konica", "512i", "1024i"],
+          "target_url": "https://vnpis.com/blog/may-in-uv-single-pass-thung-carton",
+          "anchors": {
+            "partial_match": [
+              "dây chuyền máy in UV Single Pass thùng carton tốc độ cao",
+              "hệ thống máy in kỹ thuật số công nghiệp chính hãng VNPIS",
+              "giải pháp nâng cấp máy in bao bì không cần bản in",
+              "máy in tem nhãn và bao bì Single Pass năng suất cao"
+            ],
+            "brand_context": [
+              "Thiết bị in ấn công nghiệp VNPIS (vnpis.com)",
+              "nhà phân phối máy in công nghiệp VNPIS",
+              "tổng đại lý thiết bị in vnpis.com"
+            ],
+            "conversational_cta": [
+              "tìm hiểu dòng máy in UV Single Pass bảo hành chính hãng 12 tháng",
+              "xem giải pháp thay thế dây chuyền in cũ bằng công nghệ Single Pass",
+              "nhận tư vấn cấu hình máy in kỹ thuật số công nghiệp mới"
+            ],
+            "exact_match": [
+              "máy in uv single pass thùng carton",
+              "máy in uv single pass"
+            ]
+          }
+        },
+        {
+          "route_id": "C2V_PAD_MACHINE",
+          "trigger_keywords": ["máy in tampon", "cốc mực kín", "se-125b", "tự động hóa mâm xoay", "mua máy in tampon", "chuyển đổi in tampon", "đo trở kháng", "piezo", "vi mạch"],
+          "target_url": "https://vnpis.com/blog/top-5-may-in-tampon-coc-muc-kin",
+          "anchors": {
+            "partial_match": [
+              "máy in tampon cốc mực kín 1-4 màu chuyên dụng",
+              "dây chuyền máy in pad printing tự động mâm xoay",
+              "thiết bị in tampon công nghiệp bảo hành tận xưởng",
+              "máy in tampon vận hành êm ái chống bay hơi dung môi"
+            ],
+            "brand_context": [
+              "Tổng kho máy in tampon VNPIS (vnpis.com)",
+              "giải pháp in tampon công nghiệp VNPIS",
+              "kho thiết bị in pad vnpis.com"
+            ],
+            "conversational_cta": [
+              "tham khảo các dòng máy in tampon cốc mực kín Ø90mm",
+              "nhận tư vấn cấu hình máy in tampon tự động cho xưởng sản xuất",
+              "xem video vận hành máy in tampon SE-125B chính hãng"
+            ],
+            "exact_match": [
+              "máy in tampon cốc mực kín",
+              "máy in tampon 1-4 màu"
+            ]
+          }
+        },
+        {
+          "route_id": "C2V_INDUSTRIAL_INKS",
+          "trigger_keywords": ["mực in chống nghẹt", "mực henkey", "dung môi pha loãng", "mực date hp45", "mực in công nghiệp", "khô mực", "cặn mực uv", "mực in", "súc rửa", "dung dịch ngâm rửa"],
+          "target_url": "https://vnpis.com/blog/muc-in-tampon-henkey-pet8000",
+          "anchors": {
+            "partial_match": [
+              "mực in công nghiệp Henkey 2 thành phần chính hãng",
+              "dung môi pha loãng và dung dịch chậm khô chuyên dụng",
+              "hộp mực in date TIJ HP45 không gây nghẹt béc",
+              "dòng mực in gốc dầu có độ lọc hạt siêu mịn nano"
+            ],
+            "brand_context": [
+              "Kho mực in và dung môi công nghiệp VNPIS",
+              "nhà phân phối mực Henkey VNPIS",
+              "tổng đại lý mực in vnpis.com"
+            ],
+            "conversational_cta": [
+              "chuyển sang sử dụng mực in chính hãng có chứng nhận RoHS",
+              "xem danh mục mực in công nghiệp bám dính cao trên nhựa PP PE",
+              "đặt mua mực in chống nghẹt đầu phun chính hãng VNPIS"
+            ],
+            "exact_match": [
+              "mực in tampon henkey pet8000",
+              "mực in công nghiệp henkey"
+            ]
+          }
+        },
+        {
+          "route_id": "C2V_TOOLING_CONSUMABLES",
+          "trigger_keywords": ["đầu pad silicon", "bản thép skd11", "vòng gốm ceramic", "dao gạt squeegee", "vật tư máy in", "phụ kiện máy in", "dao gạt", "bảo trì"],
+          "target_url": "https://vnpis.com/blog/bang-gia-phu-kien-may-in-tampon-chinh-hang",
+          "anchors": {
+            "partial_match": [
+              "phụ kiện đầu in tampon cao su silicon Shore 30A-70A",
+              "vòng gốm Ceramic Ring 92 HRA gạt sạch mực",
+              "bản khắc Cliché thép SKD11 độ sâu chuẩn xác",
+              "dao gạt mực Polyurethane chống mài mòn hóa chất"
+            ],
+            "brand_context": [
+              "Phụ tùng vật tư máy in chính hãng VNPIS",
+              "trung tâm vật tư chế bản in VNPIS",
+              "kho phụ kiện ngành in vnpis.com"
+            ],
+            "conversational_cta": [
+              "tham khảo bảng giá phụ tùng dao gạt và đầu pad silicon",
+              "đặt mua vật tư tiêu hao máy in tampon sẵn kho giao ngay",
+              "nhận catalogue phụ tùng vòng gốm và bản in thép VNPIS"
+            ],
+            "exact_match": [
+              "đầu in tampon silicon shore 30a 70a",
+              "phụ kiện máy in tampon chính hãng"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "vector_id": "VEC_CUUHO_TO_INAN",
+      "source_domain": "cuuhodauin.com",
+      "target_domain": "inanvnpis.com",
+      "name": "Production Continuity & Emergency Backlog Offset Bridge",
+      "trigger_contexts": [
+        "thời gian chờ phục hồi", "dừng chuyền sản xuất", "đơn hàng gấp",
+        "quá tải mùa cao điểm", "chống trễ hẹn khách hàng", "xưởng gia công ứng cứu",
+        "in gia công cấp tốc", "bảo toàn tiến độ giao hàng", "sự cố máy in dừng chuyền"
+      ],
+      "conversion_objective": "Hỗ trợ khách hàng gửi đơn hàng gia công cấp tốc tại xưởng OEM VNPIS để duy trì tiến độ giao hàng trong khi đầu in của máy đang được xử lý súc rửa tại phòng Lab.",
+      "routes": [
+        {
+          "route_id": "C2I_EMERGENCY_VDP",
+          "trigger_keywords": ["in vdp", "mã qr code", "barcode", "in date khẩn cấp", "in dữ liệu biến đổi", "dừng chuyền", "đơn hàng gấp", "đầu in ricoh", "ricoh gen5", "ricoh gen6", "epson i3200", "xp600"],
+          "target_url": "https://inanvnpis.com/blog/dich-vu-in-uv-du-lieu-bien-doi-vdp",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ in UV dữ liệu biến đổi VDP ứng cứu đơn hàng",
+              "xưởng gia công in mã QR Code barcode số nhảy cấp tốc",
+              "in gia công tem nhãn VDP công suất 50.000 sản phẩm/ngày",
+              "giải pháp in dữ liệu biến đổi chống đứt gãy chuỗi cung ứng"
+            ],
+            "brand_context": [
+              "Xưởng gia công in ấn VNPIS (inanvnpis.com)",
+              "hệ thống gia công in VDP inanvnpis.com",
+              "trung tâm in dữ liệu biến đổi inanvnpis.com"
+            ],
+            "conversational_cta": [
+              "ủy thác đơn hàng in UV VDP cho xưởng gia công VNPIS",
+              "liên hệ xưởng gia công để giữ đúng tiến độ giao hàng",
+              "chuyển file in sang xưởng OEM VNPIS để in trả hàng ngay trong 24h"
+            ],
+            "exact_match": [
+              "in uv dữ liệu biến đổi vdp",
+              "gia công in uv vdp"
+            ]
+          }
+        },
+        {
+          "route_id": "C2I_SCREEN_BACKLOG",
+          "trigger_keywords": ["in bao bì", "in màng pe pp", "in hộp carton", "in chai lọ gấp", "in lụa bao bì", "bao bì màng nhựa", "thông kênh", "nghẹt tia", "súc rửa siêu âm"],
+          "target_url": "https://inanvnpis.com/blog/gia-cong-in-lua-bao-bi-mang-nhua-pe-pp",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ gia công in lụa bao bì màng nhựa PE PP số lượng lớn",
+              "xưởng in lụa thùng carton và túi vải ứng cứu tiến độ",
+              "nhận in gia công bao bì công nghiệp tiêu chuẩn xuất khẩu",
+              "giải pháp in lụa bao bì số lượng lớn giao nhanh 48h"
+            ],
+            "brand_context": [
+              "Xưởng in bao bì công nghiệp inanvnpis.com",
+              "đối tác gia công in ấn B2B VNPIS",
+              "nhà máy gia công bao bì inanvnpis.com"
+            ],
+            "conversational_cta": [
+              "chuyển giao đơn hàng in bao bì sang xưởng gia công VNPIS",
+              "xem năng lực gia công in lụa 3 ca liên tục tại Bình Chánh",
+              "đặt gia công in bao bì để tránh gián đoạn hợp đồng khách hàng"
+            ],
+            "exact_match": [
+              "gia công in lụa bao bì",
+              "in lụa bao bì màng nhựa"
+            ]
+          }
+        },
+        {
+          "route_id": "C2I_PAD_PARTS",
+          "trigger_keywords": ["in nút bấm", "in linh kiện điện tử", "in đồ gia dụng", "in tampon gấp", "in pad linh kiện", "linh kiện nhựa", "phục hồi đầu in", "cứu hộ đầu in", "no cure no pay", "báo giá"],
+          "target_url": "https://inanvnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs",
+          "anchors": {
+            "partial_match": [
+              "gia công in tampon linh kiện phím bấm nhựa ABS cấp tốc",
+              "xưởng in pad vỏ thiết bị điện tử đáp ứng tiến độ gấp",
+              "dịch vụ in tampon chi tiết cơ khí đồ gia dụng B2B",
+              "nhận in pad gia công trên mọi biên dạng cong phức tạp"
+            ],
+            "brand_context": [
+              "Xưởng in tampon chuyên dụng inanvnpis.com",
+              "hệ thống máy in pad OEM inanvnpis.com",
+              "dịch vụ gia công linh kiện inanvnpis.com"
+            ],
+            "conversational_cta": [
+              "đặt gia công in tampon linh kiện trong thời gian bảo trì máy",
+              "tham khảo năng lực in linh kiện nhựa 50.000 pcs/ngày",
+              "gửi phôi linh kiện sang xưởng gia công VNPIS để in kịp giao hàng"
+            ],
+            "exact_match": [
+              "gia công in tampon linh kiện nhựa",
+              "in tampon linh kiện điện tử"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "vector_id": "VEC_INAN_TO_VNPIS",
+      "source_domain": "inanvnpis.com",
+      "target_domain": "vnpis.com",
+      "name": "Volume Scale & In-House Machinery ROI Bridge",
+      "trigger_contexts": [
+        "sản lượng lớn trên 100000", "tự đầu tư máy in", "tính toán roi máy in",
+        "điểm hòa vốn gia công", "chuyển giao công nghệ in", "lắp đặt dây chuyền tại nhà máy",
+        "máy in tampon tự động", "máy in lụa phẳng", "mua máy in chính hãng",
+        "tự chủ sản xuất", "khấu hao máy in"
+      ],
+      "conversion_objective": "Tư vấn khách hàng gia công đầu tư dây chuyền máy in tự động riêng khi sản lượng đạt ngưỡng tối ưu chi phí (trên 50.000 - 100.000 sản phẩm/tháng), kèm chuyển giao công nghệ trọn gói.",
+      "routes": [
+        {
+          "route_id": "I2V_ROTARY_PAD",
+          "trigger_keywords": ["dây chuyền mâm xoay", "máy in tampon tự động", "nạp phôi tự động", "tăng năng suất", "đầu tư máy in", "in tampon", "phím bấm", "linh kiện nhựa", "pad printing"],
+          "target_url": "https://vnpis.com/blog/day-chuyen-in-tampon-tu-dong-mam-xoay",
+          "anchors": {
+            "partial_match": [
+              "dây chuyền máy in tampon tự động mâm xoay tích hợp PLC",
+              "hệ thống in pad printing tự động nạp phôi cho nhà máy",
+              "giải pháp tự động hóa in ấn tampon nâng cao sản lượng",
+              "máy in pad mâm xoay 4-8 vị trí công suất 2.500 sản phẩm/giờ"
+            ],
+            "brand_context": [
+              "Giải pháp tự động hóa in ấn VNPIS (vnpis.com)",
+              "nhà cung cấp dây chuyền in tampon VNPIS",
+              "trung tâm chế tạo máy in vnpis.com"
+            ],
+            "conversational_cta": [
+              "tính toán bài toán tự đầu tư máy in tampon mâm xoay",
+              "tìm hiểu quy trình chuyển giao dây chuyền in tự động tận xưởng",
+              "nhận tư vấn bài toán ROI khi mua máy in tampon tự động"
+            ],
+            "exact_match": [
+              "dây chuyền in tampon tự động",
+              "máy in tampon mâm xoay tự động"
+            ]
+          }
+        },
+        {
+          "route_id": "I2V_SCREEN_MACHINERY",
+          "trigger_keywords": ["máy in lụa phẳng", "bàn hút chân không", "máy in lụa tròn", "tự in bao bì", "mua máy in lụa", "in lụa", "chai lọ", "hũ mỹ phẩm", "thủy tinh", "màng nhựa", "bao bì"],
+          "target_url": "https://vnpis.com/blog/may-in-lua-phang-ban-tu-dong",
+          "anchors": {
+            "partial_match": [
+              "máy in lụa phẳng bán tự động bàn hút chân không",
+              "máy in lụa trụ tròn 360 độ chuyên in chai lọ mỹ phẩm",
+              "thiết bị in lụa công nghiệp chính hãng bảo hành 12 tháng",
+              "dòng máy in lưới cơ điện chính xác cao cho xưởng bao bì"
+            ],
+            "brand_context": [
+              "Tổng kho máy in lụa VNPIS (vnpis.com)",
+              "nhà phân phối máy in lụa công nghiệp VNPIS",
+              "kho máy in lụa vnpis.com"
+            ],
+            "conversational_cta": [
+              "tham khảo thông số kỹ thuật máy in lụa phẳng bàn hút chân không",
+              "nhận báo giá máy in lụa chính hãng cho xưởng sản xuất",
+              "xem phân tích điểm hòa vốn khi tự trang bị máy in lụa tại chỗ"
+            ],
+            "exact_match": [
+              "máy in lụa phẳng bán tự động",
+              "máy in lụa công nghiệp"
+            ]
+          }
+        },
+        {
+          "route_id": "I2V_PAD_SERIES",
+          "trigger_keywords": ["máy in tampon 1 màu", "máy in tampon 2 màu", "máy in tampon 4 màu", "se-125b", "giá máy in tampon", "cốc mực kín", "in logo", "bình giữ nhiệt", "bút bi", "kim loại", "quà tặng"],
+          "target_url": "https://vnpis.com/blog/top-5-may-in-tampon-coc-muc-kin",
+          "anchors": {
+            "partial_match": [
+              "máy in tampon cốc mực kín 1-4 màu SE-125B",
+              "dòng máy in pad printing nhỏ gọn tiết kiệm mực",
+              "thiết bị in tampon công nghiệp tiêu chuẩn châu Âu",
+              "dòng máy in tampon để bàn phù hợp cho xưởng linh kiện"
+            ],
+            "brand_context": [
+              "Thiết bị in ấn công nghiệp VNPIS",
+              "đơn vị cung cấp máy in tampon VNPIS",
+              "tổng kho máy in vnpis.com"
+            ],
+            "conversational_cta": [
+              "xem top 5 máy in tampon cốc mực kín bán chạy nhất",
+              "tìm hiểu chi phí đầu tư máy in tampon cho doanh nghiệp vừa và nhỏ",
+              "yêu cầu chuyên gia VNPIS khảo sát và đề xuất dòng máy phù hợp"
+            ],
+            "exact_match": [
+              "máy in tampon cốc mực kín",
+              "máy in tampon 1-4 màu giá rẻ"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "vector_id": "VEC_INAN_TO_CUUHO",
+      "source_domain": "inanvnpis.com",
+      "target_domain": "cuuhodauin.com",
+      "name": "Customer Fleet Troubleshooting & Head Recovery Bridge",
+      "trigger_contexts": [
+        "máy in khách hàng bị nghẹt", "đầu in epson bị sọc", "đầu ricoh đứt tia",
+        "tự súc rửa bị hỏng", "sự cố đầu phun tại xưởng khách", "khắc phục nghẹt béc",
+        "phòng lab cứu hộ đầu in", "kiểm tra vi mạch piezo", "máy in phun bị sọc màu"
+      ],
+      "conversion_objective": "Hỗ trợ các nhà máy hoặc xưởng in đang gặp sự cố nghẹt đầu phun trên dàn máy của họ gửi đầu in đến Phòng Lab Cứu Hộ Đầu In VNPIS để chẩn đoán sóng xung và phục hồi vi mạch.",
+      "routes": [
+        {
+          "route_id": "I2C_EPSON_DEFECTS",
+          "trigger_keywords": ["epson i3200", "xp600", "đứt tia", "thông vách", "lệch màu", "sọc hình ảnh", "đầu in epson", "in uv", "vdp", "mã qr", "barcode", "dữ liệu biến đổi"],
+          "target_url": "https://cuuhodauin.com/kien-thuc/xu-ly-dau-in-epson-i3200-lech-tia-thong-vach",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ xử lý đầu in Epson i3200 bị lệch tia và thông vách",
+              "cứu hộ đầu in Epson XP600 bị nghẹt mực trắng DTF",
+              "phục hồi đầu phun Epson PrecisionCore công nghiệp",
+              "giải pháp xử lý sọc màu do tắc béc phun đầu in Epson"
+            ],
+            "brand_context": [
+              "Phòng Lab Cứu Hộ Đầu In VNPIS (cuuhodauin.com)",
+              "chuyên gia phục hồi đầu in cuuhodauin.com",
+              "trung tâm chẩn đoán đầu phun cuuhodauin.com"
+            ],
+            "conversational_cta": [
+              "gửi đầu in Epson bị lỗi đến phòng Lab để kiểm tra miễn phí",
+              "xem cách xử lý triệt để hiện tượng thông vách lọt kênh mực",
+              "tìm hiểu nguyên nhân đầu in Epson bị đứt nét khi in liên tục"
+            ],
+            "exact_match": [
+              "sửa đầu in epson i3200",
+              "cứu hộ đầu in epson i3200"
+            ]
+          }
+        },
+        {
+          "route_id": "I2C_RICOH_DEFECTS",
+          "trigger_keywords": ["ricoh gen5", "ricoh gen6", "khô mực uv", "mất tia", "đứt kênh ricoh", "đầu in ricoh", "corona", "plasma", "độ bám dính", "pp/pe", "astm d3359"],
+          "target_url": "https://cuuhodauin.com/kien-thuc/quy-trinh-cuu-ho-dau-in-ricoh-gen5",
+          "anchors": {
+            "partial_match": [
+              "quy trình súc rửa siêu âm đầu in Ricoh Gen5 nghẹt tia UV",
+              "phục hồi đầu in Ricoh Gen6 mất kênh giọt mịn 5pL",
+              "dịch vụ sửa chữa cụm heater đầu in Ricoh chuyên sâu",
+              "giải pháp thông béc đầu in Ricoh MH5420 bị đóng cặn mực UV"
+            ],
+            "brand_context": [
+              "Trung tâm cứu hộ đầu in Ricoh VNPIS",
+              "phòng Lab phục hồi đầu phun cuuhodauin.com",
+              "đội ngũ kỹ sư Cứu Hộ Đầu In VNPIS"
+            ],
+            "conversational_cta": [
+              "tham khảo quy trình 5 bước cứu hộ đầu in Ricoh Gen5",
+              "liên hệ kỹ sư phòng Lab để được tư vấn cứu hộ đầu in tận nơi",
+              "xem video chẩn đoán vi mạch đầu phun Ricoh trước khi phục hồi"
+            ],
+            "exact_match": [
+              "cứu hộ đầu in ricoh gen5",
+              "phục hồi đầu in ricoh gen6"
+            ]
+          }
+        },
+        {
+          "route_id": "I2C_LAB_POLICY",
+          "trigger_keywords": ["no cure no pay", "báo giá cứu hộ", "dung dịch súc rửa", "siêu âm kép", "bảo hành cứu hộ", "phòng lab", "súc rửa", "báo giá gia công", "bảng báo giá", "hợp đồng in"],
+          "target_url": "https://cuuhodauin.com/kien-thuc/bao-gia-phuc-hoi-dau-in-cong-nghiep",
+          "anchors": {
+            "partial_match": [
+              "dịch vụ súc rửa siêu âm tần số kép 28kHz/40kHz",
+              "dung dịch ngâm rửa bảo dưỡng đầu in VNPIS Flush Solution",
+              "cam kết phục hồi đầu in không đạt không tính phí",
+              "dịch vụ chẩn đoán đầu phun công nghiệp chuyên sâu"
+            ],
+            "brand_context": [
+              "Cam kết chất lượng tại cuuhodauin.com",
+              "chính sách bảo hành phòng Lab Cứu Hộ Đầu In VNPIS",
+              "dịch vụ uy tín cuuhodauin.com"
+            ],
+            "conversational_cta": [
+              "tìm hiểu chính sách cứu hộ đầu in No Cure No Pay",
+              "xem bảng giá phục hồi đầu in công nghiệp mới nhất",
+              "liên hệ hotline phòng Lab để đặt lịch test đầu in trong ngày"
+            ],
+            "exact_match": [
+              "báo giá phục hồi đầu in",
+              "phục hồi đầu in cuuhodauin.com"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "internal_linking_rules": {
+    "vnpis.com": {
+      "pillar_to_cluster": {
+        "rule": "Mỗi bài Pillar chính phải trỏ link đến toàn bộ 3-4 bài Sub-cluster trực thuộc trong trụ cột.",
+        "anchor_strategy": "Tên chi tiết của phân loại máy móc / vật tư"
+      },
+      "cluster_to_pillar": {
+        "rule": "Mỗi bài Sub-cluster phải chứa ít nhất 1 link ngữ cảnh ngược về Pillar Hub chính của danh mục.",
+        "anchor_strategy": "Danh mục giải pháp tổng thể (ví dụ: 'giải pháp máy in tampon tự động', 'hệ thống máy in UV Single Pass')"
+      },
+      "sibling_clusters": {
+        "rule": "Liên kết ngang giữa các bài viết trong cùng Pillar (ví dụ: bài máy in 1 màu trỏ sang bài máy in mâm xoay).",
+        "max_links": 2
+      }
+    },
+    "cuuhodauin.com": {
+      "pillar_to_cluster": {
+        "rule": "Pillar đầu in (Ricoh/Kyocera/Konica/Epson) trỏ về các bài lỗi kỹ thuật chi tiết (súc rửa siêu âm, sửa heater, đo piezo).",
+        "anchor_strategy": "Mã đầu in cụ thể + triệu chứng lỗi"
+      },
+      "cluster_to_pillar": {
+        "rule": "Bài viết lỗi chi tiết trỏ về Pillar tổng quan dòng đầu in và bảng giá phòng Lab.",
+        "anchor_strategy": "Dịch vụ cứu hộ dòng đầu in tương ứng"
+      },
+      "diagnostic_to_brand": {
+        "rule": "Các bài viết về kỹ thuật đo kiểm vi mạch (Pillar C5) trỏ về các bài ứng dụng thực tế trên từng dòng đầu in.",
+        "max_links": 2
+      }
+    },
+    "inanvnpis.com": {
+      "pillar_to_cluster": {
+        "rule": "Pillar dịch vụ gia công trỏ về các bài ứng dụng vật liệu cụ thể (nhựa ABS, thủy tinh, kim loại, bao bì PE).",
+        "anchor_strategy": "Dịch vụ gia công trên chất liệu tương ứng"
+      },
+      "cluster_to_pillar": {
+        "rule": "Bài ứng dụng chi tiết trỏ về Bảng báo giá B2B và Quy trình duyệt mẫu in test.",
+        "anchor_strategy": "Bảng báo giá gia công và quy trình tiếp nhận đơn hàng"
+      },
+      "case_study_bridges": {
+        "rule": "Mọi bài viết dịch vụ đều có 1 link trỏ đến bài Case Study thực tế (Thiên Long, Biti's, An Lạc).",
+        "max_links": 1
+      }
+    }
+  }
+}

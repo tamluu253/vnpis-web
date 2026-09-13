@@ -1,0 +1,896 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-08-23",
+  "domains": {
+    "vnpis.com": {
+      "domain_name": "vnpis.com",
+      "positioning": "Giải pháp Máy móc, Thiết bị In ấn Công nghiệp B2B, Dây chuyền Tự động hóa & Vật tư Chế bản Chính hãng",
+      "target_audience": "Nhà máy sản xuất, xưởng in quy mô lớn, kỹ sư cơ điện tử, trưởng phòng mua hàng B2B",
+      "url_base": "https://vnpis.com",
+      "pillars": [
+        {
+          "id": "pillar-v1-pad-printing",
+          "name": "Máy In Tampon & Hệ Thống Tự Động Hóa",
+          "slug": "may-in-tampon-tu-dong-hoa",
+          "sub_clusters": [
+            {
+              "name": "Máy In Tampon Cốc Mực Kín 1-4 Màu",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,000 - 3,500/tháng",
+              "primary_keywords": [
+                "máy in tampon cốc mực kín",
+                "máy in tampon 1 màu",
+                "máy in tampon 2 màu",
+                "máy in tampon 4 màu",
+                "máy in pad printing se-125b",
+                "báo giá máy in tampon công nghiệp"
+              ],
+              "secondary_keywords": [
+                "máy in tampon hj-100",
+                "máy in tampon servo",
+                "máy in pad cốc mực kín phi 90",
+                "máy in pad cho nhà máy",
+                "cung cấp máy in tampon tphcm"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Dây Chuyền In Tampon Tự Động Hóa Mâm Xoay",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "500 - 1,500/tháng",
+              "primary_keywords": [
+                "dây chuyền in tampon tự động",
+                "máy in tampon mâm xoay",
+                "máy in tampon nạp phôi tự động",
+                "hệ thống in pad tự động b2b"
+              ],
+              "secondary_keywords": [
+                "máy in tampon rotary table",
+                "dây chuyền in pad tích hợp plc",
+                "máy in tampon cánh tay robot",
+                "thiết bị in tampon băng chuyền"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Kỹ Thuật Vận Hành & Khắc Phục Sự Cố Máy In Tampon",
+              "target_intent": "Troubleshooting",
+              "search_volume_indicator": "800 - 2,000/tháng",
+              "primary_keywords": [
+                "20 lỗi máy in tampon và cách xử lý",
+                "chỉnh hành trình z máy in tampon",
+                "khắc phục lỗi lem mực máy in tampon",
+                "cách căn chỉnh máy in pad printing"
+              ],
+              "secondary_keywords": [
+                "lỗi bóng mờ máy in tampon",
+                "lực ép pad tampon biến dạng",
+                "bảo trì máy in tampon định kỳ",
+                "hướng dẫn cài đặt máy in pad"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-v2-screen-printing",
+          "name": "Máy In Lụa & Dây Chuyền Bán Tự Động / Tự Động",
+          "slug": "may-in-lua-cong-nghiep",
+          "sub_clusters": [
+            {
+              "name": "Máy In Lụa Phẳng Bán Tự Động Hút Chân Không",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,200 - 3,000/tháng",
+              "primary_keywords": [
+                "máy in lụa phẳng bán tự động",
+                "máy in lụa bàn hút chân không",
+                "máy in lụa công nghiệp phẳng",
+                "bán máy in lụa bán tự động"
+              ],
+              "secondary_keywords": [
+                "máy in lụa màng bopp pe",
+                "máy in lụa tấm pcb",
+                "máy in lụa bao bì carton",
+                "giá máy in lụa hút chân không"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Máy In Lụa Tròn Xoay 360 Độ Chai Lọ",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "800 - 2,200/tháng",
+              "primary_keywords": [
+                "máy in lụa tròn chai lọ",
+                "máy in lụa trụ tròn 360 độ",
+                "máy in lụa ly thủy tinh cốc nhựa",
+                "thiết bị in lụa hũ mỹ phẩm"
+              ],
+              "secondary_keywords": [
+                "máy in lụa bình giữ nhiệt tròn",
+                "máy in lụa trụ tròn bán tự động",
+                "cung cấp máy in lụa chai tròn",
+                "máy in lụa dạng ống trụ"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Thiết Bị Phụ Trợ Chế Bản In Lụa",
+              "target_intent": "Informational",
+              "search_volume_indicator": "600 - 1,800/tháng",
+              "primary_keywords": [
+                "máy căng khung lụa khí nén",
+                "máy chụp bản in lụa uv led",
+                "tủ sấy khung lụa công nghiệp",
+                "thiết bị chế bản in lụa"
+              ],
+              "secondary_keywords": [
+                "máy tráng keo chụp bản lụa",
+                "máy rửa khung in lụa tự động",
+                "đo lực căng khung lụa newton",
+                "dụng cụ chế bản in lưới"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-v3-single-pass-uv",
+          "name": "Hệ Thống Máy In UV Single Pass Tốc Độ Cao",
+          "slug": "may-in-uv-single-pass",
+          "sub_clusters": [
+            {
+              "name": "Máy In UV Single Pass Thùng Carton & Khay Giấy",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "700 - 2,500/tháng",
+              "primary_keywords": [
+                "máy in uv single pass thùng carton",
+                "máy in single pass bao bì giấy",
+                "báo giá máy in uv single pass",
+                "hệ thống in kỹ thuật số single pass"
+              ],
+              "secondary_keywords": [
+                "máy in thùng carton tốc độ cao 100m/p",
+                "máy in single pass sheet fed",
+                "máy in uv bao bì không cần bản in",
+                "công nghệ in single pass công nghiệp"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Máy In UV Single Pass Dạng Cuộn Roll-to-Roll",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "500 - 1,600/tháng",
+              "primary_keywords": [
+                "máy in uv single pass dạng cuộn",
+                "máy in cuộn roll to roll single pass",
+                "máy in tem nhãn cuộn single pass",
+                "máy in uv kỹ thuật số cuộn tốc độ cao"
+              ],
+              "secondary_keywords": [
+                "máy in nhãn vdp single pass",
+                "máy in cuộn công nghiệp uv led",
+                "thiết bị in single pass tem cuộn",
+                "dây chuyền in label single pass"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-v4-industrial-inks",
+          "name": "Mực In Công Nghiệp & Dung Môi Chuyên Dụng",
+          "slug": "muc-in-cong-nghiep-dung-moi",
+          "sub_clusters": [
+            {
+              "name": "Mực In Tampon Henkey & Phụ Gia Đóng Rắn",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,000 - 2,800/tháng",
+              "primary_keywords": [
+                "mực in tampon henkey pet8000",
+                "mực in tampon ppex cho nhựa pp",
+                "mực in tampon sapvc cho nhựa pvc",
+                "phân phối mực in tampon 2 thành phần",
+                "chất đóng rắn mực in tampon hardener"
+              ],
+              "secondary_keywords": [
+                "dung môi pha loãng mực tampon thinner",
+                "dung môi chậm khô mực tampon retarder",
+                "mực in tampon henkey chính hãng",
+                "báo giá mực in pad printing"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Mực In TIJ / CIJ & Hộp Mực Máy In Date",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,500 - 4,000/tháng",
+              "primary_keywords": [
+                "hộp mực tij 12.7mm hp45",
+                "mực in date nhanh khô hf200",
+                "mực in vỏ trứng thực phẩm ke01 he01",
+                "mực huỳnh quang chống giả hf901",
+                "dung môi máy in date cij mek ethanol"
+              ],
+              "secondary_keywords": [
+                "cartridge mực máy in date cầm tay",
+                "mực in date bám dính màng nhôm",
+                "mực in an toàn thực phẩm fda",
+                "nước rửa đầu máy in date cij cleaner"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Mực In Chịu Nhiệt PCB & Mực In Thủy Tinh Kháng Hóa Chất",
+              "target_intent": "Technical",
+              "search_volume_indicator": "600 - 1,700/tháng",
+              "primary_keywords": [
+                "mực in bo mạch pcb chịu nhiệt 260c t68cf",
+                "mực in không halogen cho mạch điện tử",
+                "mực in thủy tinh men gốm t33 kháng kiềm",
+                "mực lưu hóa cao su lốp xe twav"
+              ],
+              "secondary_keywords": [
+                "mực in mạch fpc kháng axit t38",
+                "mực in lụa chịu nhiệt hàn reflow",
+                "mực in kháng dung môi xylene t87b",
+                "mực in cao su nhiệt độ cao dzwav"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-v5-printing-consumables",
+          "name": "Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa",
+          "slug": "vat-tu-phu-kien-in-an",
+          "sub_clusters": [
+            {
+              "name": "Đầu In Tampon Cao Su Silicon",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "900 - 2,500/tháng",
+              "primary_keywords": [
+                "đầu in tampon silicon shore 30a 70a",
+                "cung cấp pad in tampon cao su",
+                "đầu in tampon hình nón chữ nhật",
+                "báo giá đầu in silicone pad printing"
+              ],
+              "secondary_keywords": [
+                "cục pad cao su máy in tampon",
+                "chọn độ cứng đầu pad in tampon",
+                "đầu tampon cao su chịu dầu mực",
+                "pad silicon chống tĩnh điện"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Bản Khắc Cliché Thép SKD11 & Polymer",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "800 - 2,200/tháng",
+              "primary_keywords": [
+                "bản thép cliche máy in tampon skd11",
+                "bản khắc polymer máy in pad",
+                "dịch vụ khắc bản cliche laser fiber",
+                "bán bản thép máy in tampon 10mm"
+              ],
+              "secondary_keywords": [
+                "độ sâu khắc bản cliche 20 25um",
+                "bản in tampon mỏng 0.5mm",
+                "vật tư bản khắc pad printing",
+                "phôi thép skd11 bản in pad"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Cốc Mực Kín & Vòng Gốm Ceramic 92 HRA",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "700 - 2,000/tháng",
+              "primary_keywords": [
+                "cốc mực kín máy in tampon phi 90",
+                "vòng gốm ceramic ring máy in pad 92 hra",
+                "cốc mực nam châm hút máy in tampon",
+                "phụ kiện cốc mực kín sealed ink cup"
+              ],
+              "secondary_keywords": [
+                "vòng gạt ceramic phi 60 phi 120",
+                "thay vòng gốm cốc mực tampon",
+                "vòng hợp kim carbide gạt mực pad",
+                "bộ cốc mực kín máy in pad"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Dao Gạt Mực Squeegee PU & Lưới In Thụy Sĩ",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "800 - 2,400/tháng",
+              "primary_keywords": [
+                "dao gạt mực squeegee pu 65 85 shore a",
+                "lưới in lụa thụy sĩ mesh count 80t 165t",
+                "khung nhôm căng lưới in lụa",
+                "báo giá dao gạt mực in lụa"
+              ],
+              "secondary_keywords": [
+                "lưỡi dao gạt mực polyurethane chống nở",
+                "lưới polyester căng khung in lụa",
+                "keo dán lưới in lụa 2 thành phần",
+                "vật tư căng khung in lưới"
+              ],
+              "target_url_pattern": "https://vnpis.com/blog/{slug}"
+            }
+          ]
+        }
+      ]
+    },
+    "cuuhodauin.com": {
+      "domain_name": "cuuhodauin.com",
+      "positioning": "Phòng Lab Cứu Hộ, Súc Rửa Sóng Siêu Âm Kép, Đo Kiểm Vi Mạch & Phục Hồi Đầu In Phun Công Nghiệp Cam Kết No Cure No Pay",
+      "target_audience": "Chủ xưởng in bạt/decal quảng cáo, xưởng in vải dệt may kỹ thuật số, nhà máy in bao bì carton, thợ kỹ thuật vận hành máy in uv",
+      "url_base": "https://cuuhodauin.com",
+      "pillars": [
+        {
+          "id": "pillar-c1-ricoh-rescue",
+          "name": "Cứu Hộ & Phục Hồi Đầu In Ricoh Gen5 / Gen6",
+          "slug": "cuu-ho-dau-in-ricoh-gen5-gen6",
+          "sub_clusters": [
+            {
+              "name": "Cứu Hộ Đầu In Ricoh Gen5 MH5420/5440 Nghẹt Tia",
+              "target_intent": "Technical",
+              "search_volume_indicator": "1,200 - 3,800/tháng",
+              "primary_keywords": [
+                "cứu hộ đầu in ricoh gen5",
+                "sửa đầu in ricoh gen5 nghẹt tia uv",
+                "phục hồi đầu in ricoh gen5 đứt tia",
+                "súc rửa siêu âm đầu in ricoh mh5420"
+              ],
+              "secondary_keywords": [
+                "đầu in ricoh gen5 bị khô mực",
+                "xử lý lệch tia ricoh gen5",
+                "thông tắc béc phun ricoh gen5",
+                "bảo dưỡng đầu phun ricoh gen5"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Phục Hồi Đầu In Ricoh Gen6 MH5320 Mất Kênh Giọt 5pL",
+              "target_intent": "Technical",
+              "search_volume_indicator": "800 - 2,500/tháng",
+              "primary_keywords": [
+                "phục hồi đầu in ricoh gen6",
+                "cứu hộ đầu in ricoh mh5320",
+                "sửa đầu in ricoh gen6 giọt 5pl mất kênh",
+                "thông nghẹt đầu phun ricoh gen6 uv"
+              ],
+              "secondary_keywords": [
+                "súc rửa đầu in ricoh gen6 sóng siêu âm",
+                "sửa lệch vòi phun ricoh gen6",
+                "khôi phục tia ricoh gen6 50khz",
+                "bảo trì đầu in ricoh gen6 chuyên sâu"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Sửa Chữa Cụm Gia Nhiệt Heater & Cảm Biến Đầu In Ricoh",
+              "target_intent": "Troubleshooting",
+              "search_volume_indicator": "500 - 1,600/tháng",
+              "primary_keywords": [
+                "sửa cụm gia nhiệt heater đầu in ricoh gen5",
+                "lỗi cảm biến nhiệt thermistor đầu in ricoh",
+                "khắc phục lỗi nhiệt độ đầu in ricoh gen5 gen6",
+                "sửa mạch sưởi đầu phun ricoh"
+              ],
+              "secondary_keywords": [
+                "đầu in ricoh báo lỗi heater error",
+                "thay cáp tín hiệu đầu in ricoh",
+                "chập mạch cảm biến nhiệt ricoh",
+                "kiểm tra điện trở thanh nhiệt ricoh"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-c2-kyocera-rescue",
+          "name": "Phục Hồi Đầu In Kyocera KJ4A / KJ4B Single Pass",
+          "slug": "phuc-hoi-dau-in-kyocera-kj4a-kj4b",
+          "sub_clusters": [
+            {
+              "name": "Cứu Hộ Đầu In Kyocera KJ4A Mực UV Tốc Độ Cao 64kHz",
+              "target_intent": "Technical",
+              "search_volume_indicator": "600 - 1,900/tháng",
+              "primary_keywords": [
+                "cứu hộ đầu in kyocera kj4a",
+                "phục hồi đầu in kyocera kj4a mực uv",
+                "súc rửa đầu in kyocera kj4a tốc độ cao",
+                "sửa đầu in kyocera kj4a đứt tia single pass"
+              ],
+              "secondary_keywords": [
+                "xử lý thông vách kyocera kj4a",
+                "thông nghẹt vòi phun kyocera 64khz",
+                "tẩy cặn mực uv đầu in kyocera",
+                "khôi phục béc phun kyocera kj4a"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Phục Hồi Đầu In Kyocera KJ4B Mực Nước Dệt May & Carton",
+              "target_intent": "Technical",
+              "search_volume_indicator": "500 - 1,700/tháng",
+              "primary_keywords": [
+                "cứu hộ đầu in kyocera kj4b",
+                "súc rửa đầu in kyocera kj4b mực nước",
+                "phục hồi đầu in kyocera kj4b máy in vải",
+                "thông nghẹt đầu phun kyocera kj4b pigment"
+              ],
+              "secondary_keywords": [
+                "tẩy cặn mực pigment đầu in kyocera",
+                "sửa đầu in kyocera máy in carton",
+                "khắc phục đứt tia kyocera kj4b reactive dye",
+                "ngâm dưỡng đầu in kyocera kj4b"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-c3-konica-seiko-rescue",
+          "name": "Cứu Hộ Đầu In Konica Minolta & Seiko",
+          "slug": "cuu-ho-dau-in-konica-seiko",
+          "sub_clusters": [
+            {
+              "name": "Súc Rửa Siêu Âm Đầu In Konica KM1024i SHE & KM512i LNB",
+              "target_intent": "Technical",
+              "search_volume_indicator": "900 - 2,700/tháng",
+              "primary_keywords": [
+                "cứu hộ đầu in konica 1024i",
+                "súc rửa đầu in konica 512i",
+                "sửa đầu in konica km1024i she đứt tia",
+                "phục hồi đầu phun konica km512i lnb mất áp lực"
+              ],
+              "secondary_keywords": [
+                "xử lý nghẹt tia đầu in konica bạt hiflex",
+                "súc rửa buồng mực đầu in konica 30pl",
+                "sửa đầu in konica máy in kính phẳng",
+                "tẩy cặn mực solvent đầu in konica"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Phục Hồi Đầu In Seiko SPT 510 / 1020 & Xaar 128/382",
+              "target_intent": "Technical",
+              "search_volume_indicator": "600 - 1,800/tháng",
+              "primary_keywords": [
+                "phục hồi đầu in seiko spt 510",
+                "cứu hộ đầu in seiko 1020",
+                "súc rửa đầu in xaar 128 382",
+                "sửa đầu in seiko spt đứt tia nghẹt mực"
+              ],
+              "secondary_keywords": [
+                "thông béc đầu in seiko máy quảng cáo",
+                "khắc phục chảy mực đầu in seiko 510",
+                "súc rửa siêu âm đầu phun xaar",
+                "bảo dưỡng đầu in seiko khổ lớn"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-c4-epson-rescue",
+          "name": "Cứu Hộ Đầu In Epson MicroTFP / PrecisionCore",
+          "slug": "cuu-ho-dau-in-epson-precisioncore",
+          "sub_clusters": [
+            {
+              "name": "Xử Lý Đầu In Epson i3200 (U1/E1/A1) Thông Vách Lệch Tia",
+              "target_intent": "Technical",
+              "search_volume_indicator": "1,500 - 4,500/tháng",
+              "primary_keywords": [
+                "cứu hộ đầu in epson i3200",
+                "sửa đầu in epson i3200 lệch tia thông vách",
+                "phục hồi đầu in epson i3200 u1 mực uv",
+                "thông nghẹt 3200 vòi phun epson i3200"
+              ],
+              "secondary_keywords": [
+                "sửa đầu in epson i3200-e1 eco solvent",
+                "xử lý đầu epson i3200 lọt kênh mực",
+                "súc rửa đầu in epson i3200-a1 chuyển nhiệt",
+                "đo áp suất buồng mực epson i3200"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Cứu Hộ Đầu In Epson XP600 (FA09050) & TX800 / F1080",
+              "target_intent": "Technical",
+              "search_volume_indicator": "1,200 - 3,600/tháng",
+              "primary_keywords": [
+                "cứu hộ đầu in epson xp600 fa09050",
+                "phục hồi đầu in xp600 máy in dtf",
+                "sửa đầu in epson tx800 f1080 nghẹt mực trắng",
+                "súc rửa đầu in xp600 uv mini"
+              ],
+              "secondary_keywords": [
+                "xử lý nghẹt tia mực trắng dtf đầu xp600",
+                "khắc phục đứt nét đầu in xp600",
+                "tẩy cặn mực uv đầu in tx800",
+                "cách ngâm đầu in xp600 không cháy mạch"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Phục Hồi Đầu In Epson DX5 / DX7 Máy In Decal Chuyển Nhiệt",
+              "target_intent": "Technical",
+              "search_volume_indicator": "800 - 2,400/tháng",
+              "primary_keywords": [
+                "phục hồi đầu in epson dx5",
+                "cứu hộ đầu in epson dx7",
+                "sửa đầu in epson dx5 bị tắc tia",
+                "thông vách đầu in epson dx5 dx7"
+              ],
+              "secondary_keywords": [
+                "súc rửa đầu in dx5 eco solvent",
+                "khắc phục đầu dx5 phun sương mờ nét",
+                "sửa đầu in dx7 máy chuyển nhiệt",
+                "thay màng mặt béc đầu in dx5"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-c5-lab-diagnostics",
+          "name": "Kỹ Thuật Chẩn Đoán Phòng Lab & Bảo Dưỡng Phòng Ngừa",
+          "slug": "ky-thuat-chan-doan-bao-duong-phong-lab",
+          "sub_clusters": [
+            {
+              "name": "Đo Kiểm Vi Mạch Thạch Anh Piezoelectric & Chập IC",
+              "target_intent": "Technical",
+              "search_volume_indicator": "700 - 2,100/tháng",
+              "primary_keywords": [
+                "đo trở kháng vi mạch piezo đầu in",
+                "kiểm tra điện dung thạch anh piezoelectric",
+                "chẩn đoán chập ic vi mạch đầu phun",
+                "đo kiểm tra ngắn mạch đầu in công nghiệp"
+              ],
+              "secondary_keywords": [
+                "đo xung kích hoạt thạch anh đầu phun",
+                "kiểm tra mạch drive ic đầu in",
+                "chẩn đoán cháy cuộn cảm đầu in",
+                "dụng cụ đo vi mạch đầu phun piezo"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Tinh Chỉnh Đồ Thị Xung Waveform & Điện Áp Drive Voltage",
+              "target_intent": "Technical",
+              "search_volume_indicator": "600 - 1,800/tháng",
+              "primary_keywords": [
+                "tinh chỉnh đồ thị xung waveform đầu in",
+                "cài đặt điện áp drive voltage đầu phun",
+                "tối ưu tia phun bằng hiệu chỉnh waveform",
+                "khắc phục cháy thạch anh do sai điện áp"
+              ],
+              "secondary_keywords": [
+                "nạp file waveform cho đầu in ricoh kyocera",
+                "chỉnh xung áp lực giọt mực pL",
+                "thay đổi xung đẩy và kéo push pull",
+                "tinh chỉnh tần số firing frequency"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            },
+            {
+              "name": "Súc Rửa Sóng Siêu Âm Tần Số Kép 28kHz/40kHz & Dung Dịch Flush",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,000 - 3,000/tháng",
+              "primary_keywords": [
+                "súc rửa siêu âm tần số kép 28khz 40khz",
+                "dung dịch ngâm rửa vnpis flush solution",
+                "báo giá dịch vụ phục hồi đầu in no cure no pay",
+                "quy trình ngâm bảo dưỡng đầu in nghỉ lễ"
+              ],
+              "secondary_keywords": [
+                "nước súc rửa đầu in chuyên dụng lab",
+                "bảo dưỡng xả mực đầu in dài ngày",
+                "kiểm tra béc phun kính hiển vi 500x",
+                "cam kết cứu hộ đầu in không được không tính tiền"
+              ],
+              "target_url_pattern": "https://cuuhodauin.com/kien-thuc/{slug}"
+            }
+          ]
+        }
+      ]
+    },
+    "inanvnpis.com": {
+      "domain_name": "inanvnpis.com",
+      "positioning": "Xưởng Gia Công In Ấn Công Nghiệp B2B & OEM Chuyên Sâu, In Tampon, In Lụa, In UV Lên Mọi Bề Mặt & Vật Liệu Khó Bám Dính",
+      "target_audience": "Doanh nghiệp sản xuất OEM/ODM, công ty điện tử, xưởng gia công đồ gia dụng, nhãn hàng quà tặng, đơn vị bao bì B2B",
+      "url_base": "https://inanvnpis.com",
+      "pillars": [
+        {
+          "id": "pillar-i1-pad-printing-service",
+          "name": "Gia Công In Tampon Linh Kiện & Bề Mặt Cong 3D",
+          "slug": "gia-cong-in-tampon-linh-kien",
+          "sub_clusters": [
+            {
+              "name": "Gia Công In Tampon Linh Kiện Nhựa ABS, PC, POM",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,200 - 3,500/tháng",
+              "primary_keywords": [
+                "gia công in tampon linh kiện nhựa",
+                "dịch vụ in tampon phím bấm nút điều khiển",
+                "xưởng in tampon vỏ nhựa abs pc pom tphcm",
+                "nhận in tampon linh kiện điện tử b2b"
+              ],
+              "secondary_keywords": [
+                "in tampon bề mặt cong lồi lõm",
+                "gia công in pad nhựa kỹ thuật",
+                "nhận in logo nút bấm cơ khí",
+                "xưởng gia công in pad linh kiện tphcm"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Gia Công In Tampon Thiết Bị Y Tế & Đồ Gia Dụng",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "700 - 2,000/tháng",
+              "primary_keywords": [
+                "gia công in tampon thiết bị y tế",
+                "dịch vụ in tampon đồ gia dụng chuẩn fda",
+                "nhận in logo dụng cụ y tế mực an toàn",
+                "xưởng in tampon đồ chơi trẻ em không chì"
+              ],
+              "secondary_keywords": [
+                "in tampon thân nhiệt kế ống tiêm",
+                "gia công in nắp nồi cơm ấm siêu tốc",
+                "in mực không độc hại thiết bị gia dụng",
+                "in pad đạt chuẩn rohs y tế"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Gia Công In Logo Lên Kim Loại, Bình Giữ Nhiệt & Bút Bi",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,500 - 4,200/tháng",
+              "primary_keywords": [
+                "gia công in logo bình giữ nhiệt kim loại",
+                "dịch vụ in tampon thân bút bi số lượng lớn",
+                "nhận in logo nhôm anod inox thép",
+                "xưởng gia công in kim loại bình nước quà tặng"
+              ],
+              "secondary_keywords": [
+                "in logo bút bi quà tặng doanh nghiệp",
+                "in tampon vỏ bình giữ nhiệt bám dính cao",
+                "in chi tiết kim loại gia công cơ khí",
+                "in logo bút bi thiên long số lượng lớn"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-i2-screen-printing-service",
+          "name": "Gia Công In Lụa Chai Lọ, Bao Bì & Dệt May",
+          "slug": "gia-cong-in-lua-chai-lo-bao-bi",
+          "sub_clusters": [
+            {
+              "name": "Gia Công In Lụa Tròn 360 Độ Chai Lọ Mỹ Phẩm & Thủy Tinh",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,400 - 4,000/tháng",
+              "primary_keywords": [
+                "gia công in lụa chai lọ mỹ phẩm",
+                "dịch vụ in lụa tròn 360 độ ly thủy tinh",
+                "xưởng in lụa hũ kem chai nhựa pet tphcm",
+                "nhận in lụa bình thủy tinh không tróc"
+              ],
+              "secondary_keywords": [
+                "in lụa chai serum mỹ phẩm cao cấp",
+                "in lụa chai nước hoa hũ son",
+                "in chữ lên thân chai tròn 360 độ",
+                "gia công in lụa cốc thủy tinh chịu nhiệt"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Gia Công In Lụa Bao Bì Màng PE/PP & Túi Vải",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,100 - 3,200/tháng",
+              "primary_keywords": [
+                "gia công in lụa bao bì màng nhựa pe pp",
+                "dịch vụ in lụa túi vải không dệt số lượng lớn",
+                "xưởng in lụa thùng carton hộp giấy b2b",
+                "nhận in lụa bao bì công nghiệp tphcm"
+              ],
+              "secondary_keywords": [
+                "in lụa túi zip bạc đáy đứng",
+                "in bao bì màng opp bám dính tốt",
+                "in túi vải quà tặng sự kiện",
+                "gia công in lụa hộp carton xuất khẩu"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Gia Công In Lụa Tagless Cổ Áo Thun & Đồ Dệt May",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "800 - 2,300/tháng",
+              "primary_keywords": [
+                "dịch vụ in lụa tagless nhãn cổ áo thun",
+                "gia công in nhãn sườn áo dệt may không cộm",
+                "xưởng in tampon nhãn mác quần áo bền giặt 50 lần",
+                "nhận in tagless xuất khẩu may mặc b2b"
+              ],
+              "secondary_keywords": [
+                "in nhãn chuyển nhiệt không may mác",
+                "in mực tagless afford kt1 co giãn tốt",
+                "gia công in nhãn cổ áo thể thao",
+                "in logo dệt may chống bong tróc"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-i3-uv-vdp-service",
+          "name": "Gia Công In UV Phẳng & Dữ Liệu Biến Đổi VDP",
+          "slug": "gia-cong-in-uv-du-lieu-bien-doi",
+          "sub_clusters": [
+            {
+              "name": "Gia Công In Mã QR Code & Barcode Dữ Liệu Biến Đổi VDP",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "900 - 2,800/tháng",
+              "primary_keywords": [
+                "dịch vụ in uv dữ liệu biến đổi vdp",
+                "gia công in mã qr code barcode số nhảy serial",
+                "nhận in mã truy xuất nguồn gốc bao bì",
+                "xưởng in biến đổi dữ liệu tem nhãn b2b"
+              ],
+              "secondary_keywords": [
+                "in số seri chống giả trên bao bì",
+                "in barcode biến đổi tốc độ cao",
+                "gia công in qr code chống tràn trên màng bopp",
+                "dịch vụ in date số lô variable data"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Gia Công In UV Quà Tặng Doanh Nghiệp, Gỗ & Mica",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,300 - 3,900/tháng",
+              "primary_keywords": [
+                "gia công in uv phẳng quà tặng doanh nghiệp",
+                "dịch vụ in uv nổi 3d phủ bóng varnish",
+                "xưởng in uv mica kỷ niệm chương cúp gỗ",
+                "nhận in uv ốp lưng sạc dự phòng tphcm"
+              ],
+              "secondary_keywords": [
+                "in uv trên da simili pu cao cấp",
+                "in tranh phẳng mica đèn led",
+                "in uv quà tặng b2b theo lô lớn",
+                "gia công in phủ bóng uv cục bộ"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Gia Công In Tem Nhãn Kim Loại & Nameplate Nhôm Anod",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "800 - 2,500/tháng",
+              "primary_keywords": [
+                "gia công in tem nhãn kim loại công nghiệp",
+                "dịch vụ in nameplate nhôm anod máy móc",
+                "nhận in bảng tên thiết bị chịu thời tiết",
+                "xưởng in tem nhôm tem inox máy b2b"
+              ],
+              "secondary_keywords": [
+                "in nhãn kim loại chống xước ngoài trời",
+                "gia công in bảng thông số kỹ thuật động cơ",
+                "in nameplate thiết bị tủ điện công nghiệp",
+                "in tem nhãn cơ khí chống bay màu"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-i4-surface-treatment-qc",
+          "name": "Xử Lý Bề Mặt Vật Liệu Khó Dính & Kiểm Định QA/QC",
+          "slug": "xu-ly-be-mat-kiem-dinh-qa-qc",
+          "sub_clusters": [
+            {
+              "name": "Dịch Vụ Xử Lý Bề Mặt Phôi Corona, Plasma & Quét Primer",
+              "target_intent": "Technical",
+              "search_volume_indicator": "700 - 2,000/tháng",
+              "primary_keywords": [
+                "dịch vụ xử lý bề mặt corona plasma tăng bám dính",
+                "xử lý hoạt hóa bề mặt nhựa pp pe trên 42 dynes",
+                "quét primer lót tăng bám dính mực kim loại kính",
+                "kỹ thuật xử lý bề mặt phôi trước khi in"
+              ],
+              "secondary_keywords": [
+                "đo bút thử sức căng bề mặt dyne test pen",
+                "tăng năng lượng bề mặt phôi in khó dính",
+                "xử lý ngọn lửa flame treatment nhựa ép",
+                "dung dịch lót primer chuyên dụng ngành in"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Thử Nghiệm Độ Bám Dính ASTM D3359 Cross-Hatch & QA/QC 100%",
+              "target_intent": "Technical",
+              "search_volume_indicator": "600 - 1,800/tháng",
+              "primary_keywords": [
+                "thử nghiệm độ bám dính mực in astm d3359",
+                "kiểm tra cross hatch tape test độ bền mực",
+                "quy trình qa qc kiểm soát 100 phần trăm đơn hàng in",
+                "thử nghiệm cọ xát cồn 90 độ mài mòn nét in"
+              ],
+              "secondary_keywords": [
+                "biên bản nghiệm thu chất lượng in ấn bbbg",
+                "kiểm định độ bền màu mực in công nghiệp",
+                "tiêu chuẩn xuất xưởng đơn hàng in b2b",
+                "test thử độ dính băng keo 3m trên nét in"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            }
+          ]
+        },
+        {
+          "id": "pillar-i5-capacity-case-studies",
+          "name": "Năng Lực Xưởng, Báo Giá Gia Công & Case Studies B2B",
+          "slug": "nang-luc-xuong-bao-gia-gia-cong",
+          "sub_clusters": [
+            {
+              "name": "Quy Trình Tiếp Nhận Bản Vẽ Vector & Duyệt Mẫu In Test",
+              "target_intent": "Informational",
+              "search_volume_indicator": "800 - 2,200/tháng",
+              "primary_keywords": [
+                "quy trình tiếp nhận mẫu in test duyệt pantone",
+                "tiêu chuẩn file thiết kế vector in tampon in lụa",
+                "thiết kế đồ gá chuyên dụng cho sản phẩm in cong",
+                "thời gian làm mẫu in test xưởng vnpis"
+              ],
+              "secondary_keywords": [
+                "duyệt màu in thực tế trên phôi nhựa kim loại",
+                "đồ gá jig in định vị chính xác",
+                "chuyển đổi file ai corel in lụa",
+                "hướng dẫn gửi mẫu in thử nghiệm tại xưởng"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Báo Giá Gia Công In Ấn B2B Theo Lô 1.000 - 1.000.000 Sản Phẩm",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "1,500 - 4,500/tháng",
+              "primary_keywords": [
+                "bảng báo giá gia công in ấn b2b số lượng lớn",
+                "báo giá gia công in tampon theo lô hàng",
+                "báo giá gia công in lụa chai lọ theo số lượng",
+                "chi phí in gia công oem sản phẩm công nghiệp"
+              ],
+              "secondary_keywords": [
+                "báo giá in ấn linh kiện hợp đồng dài hạn",
+                "chiết khấu gia công in ấn cho nhà máy",
+                "báo giá in logo quà tặng doanh nghiệp sỉ",
+                "hợp đồng gia công in ấn b2b mẫu"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            },
+            {
+              "name": "Case Studies Dự Án In Ấn Thiên Long, Biti's, An Lạc",
+              "target_intent": "Commercial",
+              "search_volume_indicator": "600 - 1,700/tháng",
+              "primary_keywords": [
+                "case study gia công in tampon bút bi thiên long",
+                "dự án gia công in logo giày dép bitis",
+                "case study in bao bì dữ liệu biến đổi an lạc",
+                "năng lực gia công in ấn công nghiệp vnpis bình chánh"
+              ],
+              "secondary_keywords": [
+                "đối tác in ấn dona standard mida mold",
+                "kinh nghiệm gia công in linh kiện xuất khẩu",
+                "năng lực xưởng in tampon 50000 sản phẩm một ngày",
+                "xưởng in công nghiệp chuẩn iso kdc đại phúc"
+              ],
+              "target_url_pattern": "https://inanvnpis.com/blog/{slug}"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
