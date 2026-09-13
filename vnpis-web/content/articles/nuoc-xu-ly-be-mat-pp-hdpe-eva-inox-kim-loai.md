@@ -1,5 +1,5 @@
 ---
-canonical: "https://inanvnpis.com/blog/nuoc-xu-ly-be-mat-pp-hdpe-eva-inox-kim-loai"
+canonical: "https://vnpis.com/blog/nuoc-xu-ly-be-mat-pp-hdpe-eva-inox-kim-loai"
 schema_type: "TechnicalArticle"
 publisher_mst: "0318266611"
 title: "Nước Xử Lý Bề Mặt PP, HDPE, EVA, INOX, Kim Loại: Tăng Độ Bám Dính Mực In 100%"
@@ -87,4 +87,4 @@ Nếu không xử lý bề mặt trước khi in, màng mực sẽ bị tróc r�
 * 🏢 **Công Ty TNHH VNPIS (In Ấn VNPIS)**
 * 📍 **Trụ sở chính:** Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh.
 * 📞 **Hotline/Zalo tư vấn kỹ thuật & báo giá 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Website:** [inanvnpis.com](https://inanvnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://inanvnpis.com/products/industrial-ink)
+* 🌐 **Website:** [inanvnpis.com](https://vnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://vnpis.com/muc-in-cij)

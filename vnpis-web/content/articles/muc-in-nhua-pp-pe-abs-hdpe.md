@@ -1,5 +1,5 @@
 ---
-canonical: "https://inanvnpis.com/blog/muc-in-nhua-pp-pe-abs-hdpe"
+canonical: "https://vnpis.com/blog/muc-in-nhua-pp-pe-abs-hdpe"
 schema_type: "TechnicalArticle"
 publisher_mst: "0318266611"
 title: "Bảng Giá & So Sánh Mực In Nhựa ABS, PP, PE, HDPE Mới Nhất 2026"
@@ -87,4 +87,4 @@ Quý khách hàng là xưởng gia công in ấn, nhà máy sản xuất linh ki
 * 🏢 **Công Ty TNHH VNPIS (Vật Tư In Ấn VNPIS)**
 * 📍 **Trụ sở chính:** Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh.
 * 📞 **Hotline/Zalo tư vấn kỹ thuật & báo giá 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Website:** [inanvnpis.com](https://inanvnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://inanvnpis.com/products/industrial-ink)
+* 🌐 **Website:** [inanvnpis.com](https://vnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://vnpis.com/muc-in-cij)

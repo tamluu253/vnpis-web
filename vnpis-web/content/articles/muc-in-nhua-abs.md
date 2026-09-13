@@ -1,5 +1,5 @@
 ---
-canonical: "https://inanvnpis.com/blog/muc-in-nhua-abs"
+canonical: "https://vnpis.com/blog/muc-in-nhua-abs"
 schema_type: "TechnicalArticle"
 publisher_mst: "0318266611"
 title: "Mực In ABS: Giải Pháp Bám Dính Siêu Cường Cho Nhựa Công Nghiệp"
@@ -106,4 +106,4 @@ Quý doanh nghiệp, xưởng in cần tư vấn giải pháp **mực in nhựa 
 * 🏢 **Công Ty TNHH VNPIS (Phần Vật Tư In Ấn VNPIS)**
 * 📍 **Trụ sở chính:** Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh.
 * 📞 **Hotline/Zalo tư vấn kỹ thuật & báo giá 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Website:** [inanvnpis.com](https://inanvnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://inanvnpis.com/products/industrial-ink)
+* 🌐 **Website:** [inanvnpis.com](https://vnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://vnpis.com/muc-in-cij)

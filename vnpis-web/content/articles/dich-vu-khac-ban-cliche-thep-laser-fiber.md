@@ -81,7 +81,7 @@ Nhằm loại bỏ triệt để các sai sót do yếu tố con người, VNPIS
 ### 🛠️ Quy Trình Chuẩn 5 Bước Kiểm Soát & Vận Hành dịch vụ khắc bản cliche laser fiber
 
 - [x] **Bước 1:** Kiểm tra độ sâu khắc bản thép Cliché SKD11 đạt chuẩn 20 - 25 µm bằng thiết bị đo độ nhám bề mặt; độ phẳng mài bóng gương Ra < 0.05 µm.
-- [x] **Bước 2:** Lựa chọn đầu in Tampon Silicon có hình dáng nón thoát khí, độ cứng Shore 38A - 45A phù hợp với biên dạng cong của linh kiện cần in. Quý khách có thể tham khảo thêm [dịch vụ in tampon mẫu thử linh kiện nhựa kỹ thuật](https://inanvnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs) để tối ưu hóa hiệu quả vận hành.
+- [x] **Bước 2:** Lựa chọn đầu in Tampon Silicon có hình dáng nón thoát khí, độ cứng Shore 38A - 45A phù hợp với biên dạng cong của linh kiện cần in. Quý khách có thể tham khảo thêm [dịch vụ in tampon mẫu thử linh kiện nhựa kỹ thuật](https://vnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs) để tối ưu hóa hiệu quả vận hành.
 - [x] **Bước 3:** Pha trộn mực in Henkey với chất đóng rắn Hardener theo tỷ lệ chính xác 10:1 (sai số cân điện tử < 0.1g), bổ sung dung môi chậm khô Retarder 10-15% duy trì độ nhớt 18.000 mPa·s.
 - [x] **Bước 4:** Cân chỉnh lực ép cốc mực kín với vòng gốm Ceramic Ring 92 HRA sát khít bề mặt bản in, triệt tiêu hoàn toàn hiện tượng kéo vệt mực mờ (ghosting).
 - [x] **Bước 5:** Kích hoạt xử lý bề mặt phôi bằng đầu khò lửa Corona hoặc Plasma lạnh đạt năng lượng bề mặt > 42 dynes/cm trước khi dập in để đảm bảo mực bám dính vĩnh viễn.
@@ -98,7 +98,7 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 ![Đo kiểm thực tế tại xưởng VNPIS](/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg)
 *Quy trình kiểm tra độ bám dính và sắc nét quang học tại Xưởng Kỹ Thuật VNPIS Bình Chánh.*
 
-> 📸 **Kho Tư Liệu Thực Tế Xưởng & Phòng Lab VNPIS:** Quý khách có thể xem thêm hình ảnh đo kiểm, thiết bị Cosota và video vận hành thực tế tại [Album Google Photos Kỹ Thuật VNPIS](https://photos.app.goo.gl/kPD1SGCep48iNQFj9).
+> 📸 **Kho Tư Liệu Thực Tế Xưởng & Phòng Lab VNPIS:** Quý khách có thể xem thêm hình ảnh đo kiểm, thiết bị VNPIS và video vận hành thực tế tại [Album Google Photos Kỹ Thuật VNPIS](https://photos.app.goo.gl/kPD1SGCep48iNQFj9).
 
 ## 7. Giải Đáp Các Câu Hỏi Thường Gặp Của Chuyên Gia & Khách Hàng B2B (FAQ)
 
@@ -108,7 +108,7 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 
 ### ❓ Câu hỏi 2: VNPIS có hỗ trợ chuyển giao công nghệ và chế tạo đồ gá in theo sản phẩm không?
 
-**Trả lời từ Kỹ Sư Trưởng VNPIS:** Có. Khi mua máy in tampon hoặc máy in lụa tại VNPIS, quý khách được chuyển giao công nghệ vận hành tận xưởng, đào tạo thợ in và được đội ngũ kỹ sư VNPIS thiết kế gia công đồ gá nhôm CNC/In 3D định vị Exact-Fit miễn phí cho sản phẩm đầu tiên. Quý khách có thể tham khảo thêm [gia công in lụa hũ mỹ phẩm thủy tinh chuẩn sắc nét](https://inanvnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh) để tối ưu hóa hiệu quả vận hành.
+**Trả lời từ Kỹ Sư Trưởng VNPIS:** Có. Khi mua máy in tampon hoặc máy in lụa tại VNPIS, quý khách được chuyển giao công nghệ vận hành tận xưởng, đào tạo thợ in và được đội ngũ kỹ sư VNPIS thiết kế gia công đồ gá nhôm CNC/In 3D định vị Exact-Fit miễn phí cho sản phẩm đầu tiên. Quý khách có thể tham khảo thêm [gia công in lụa hũ mỹ phẩm thủy tinh chuẩn sắc nét](https://vnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh) để tối ưu hóa hiệu quả vận hành.
 
 ### ❓ Câu hỏi 3: Giải pháp in UV Single Pass bao bì thùng carton có thay thế được công nghệ in flexo và offset không?
 

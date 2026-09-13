@@ -7,12 +7,12 @@ description: "Đầu in Ricoh GEN5 (MH5420/MH5440) chính hãng Nhật Bản –
 slug: "dau-in-ricoh-gen5-mh5420-mh5440"
 ---
 
-[![Kyocera KJ4Aser](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAABAQAAAAAzmykZAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACdFJOUwAAdpPNOAAAAAJiS0dEAAHdihOkAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH6QkYCDcE/FvIfgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDktMjRUMDg6NTQ6NTgrMDA6MDDA60/5AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTA5LTI0VDA4OjU0OjU4KzAwOjAwsbb3RQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNS0wOS0yNFQwODo1NTowNCswMDowMIYh2bQAAAAASUVORK5CYII=)](https://vnpis.com/mayin-phun-cong-nghiep/kyocera-kj4a.html)
- [Liên hệ](https://vnpis.com/lien-he.html "Kyocera KJ4Aser")
+[![Kyocera KJ4Aser](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAABAQAAAAAzmykZAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACdFJOUwAAdpPNOAAAAAJiS0dEAAHdihOkAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH6QkYCDcE/FvIfgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDktMjRUMDg6NTQ6NTgrMDA6MDDA60/5AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTA5LTI0VDA4OjU0OjU4KzAwOjAwsbb3RQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNS0wOS0yNFQwODo1NTowNCswMDowMIYh2bQAAAAASUVORK5CYII=)](https://vnpis.com/in-ky-thuat-so)
+ [Liên hệ](https://vnpis.com/contact "Kyocera KJ4Aser")
 
-### [Kyocera KJ4Aser](https://vnpis.com/mayin-phun-cong-nghiep/kyocera-kj4a.html)
+### [Kyocera KJ4Aser](https://vnpis.com/in-ky-thuat-so)
 
-[Liên hệ](https://vnpis.com/lien-he.html "Kyocera KJ4Aser")
+[Liên hệ](https://vnpis.com/contact "Kyocera KJ4Aser")
 
 ---
 
@@ -23,5 +23,5 @@ slug: "dau-in-ricoh-gen5-mh5420-mh5440"
 ## 📌 CÔNG TY TNHH VNPIS
 * 🏢 **Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.
 * 📞 **Hotline tư vấn thiết bị & báo giá vật tư 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/products/pad-printers) | [Máy in Lụa](https://vnpis.com/products/screen-printers) | [Mực in Công Nghiệp](https://vnpis.com/products/industrial-ink)
+* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/in-tampon) | [Máy in Lụa](https://vnpis.com/in-lua) | [Mực in Công Nghiệp](https://vnpis.com/muc-in-cij)
 * 🏭 *Cần dịch vụ gia công in ấn phôi nhựa/bao bì? Tham khảo tại:* [vnpis.com](https://vnpis.com)

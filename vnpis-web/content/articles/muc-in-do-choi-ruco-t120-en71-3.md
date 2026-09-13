@@ -10,7 +10,7 @@ code: "T120"
 mediaExt: "null"
 ---
 
-Trong sản xuất đồ chơi trẻ em (lục lạc, núm ngậm, xe mô hình nhựa), tiêu chuẩn an toàn là yếu tố sống còn vì trẻ em thường có thói quen ngậm, cắn đồ chơi. **Ruco T120** là dòng mực in Tampon/Lụa chuyên dụng đạt chuẩn khắt khe **EN71-3 (Toy Safety Standard)** của Châu Âu.
+Trong sản xuất đồ chơi trẻ em (lục lạc, núm ngậm, xe mô hình nhựa), tiêu chuẩn an toàn là yếu tố sống còn vì trẻ em thường có thói quen ngậm, cắn đồ chơi. **Ruco T120** là dòng mực in Tampon/Lụa chuyên dụng đạt chuẩn khắt khe **EN71-3 (Toy Safety Standard)** của Châu u.
 
 ## Đặc tính của Ruco T120
 - **An toàn tuyệt đối (Low Migration)**: Hạn chế tối đa sự thôi nhiễm các hóa chất độc hại, kim loại nặng từ màng mực vào cơ thể người khi tiếp xúc qua đường miệng.
@@ -29,5 +29,5 @@ Chọn Ruco T120 là bạn đang chọn sự yên tâm tuyệt đối cho thươ
 ## 📌 CÔNG TY TNHH VNPIS
 * 🏢 **Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.
 * 📞 **Hotline tư vấn thiết bị & báo giá vật tư 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/products/pad-printers) | [Máy in Lụa](https://vnpis.com/products/screen-printers) | [Mực in Công Nghiệp](https://vnpis.com/products/industrial-ink)
+* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/in-tampon) | [Máy in Lụa](https://vnpis.com/in-lua) | [Mực in Công Nghiệp](https://vnpis.com/muc-in-cij)
 * 🏭 *Cần dịch vụ gia công in ấn phôi nhựa/bao bì? Tham khảo tại:* [vnpis.com](https://vnpis.com)

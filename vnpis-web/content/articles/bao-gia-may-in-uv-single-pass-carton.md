@@ -94,11 +94,11 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 Đội ngũ ứng cứu kỹ thuật VNPIS do Kỹ Sư Trưởng Lưu Trọng Tâm trực tiếp chỉ đạo đã có mặt tại hiện trường trong vòng 6 giờ. Qua đo kiểm chuyên sâu bằng kính hiển vi và bút đo Dyne, chúng tôi phát hiện 2 nguyên nhân cốt lõi:
 1. Năng lượng bề mặt của lớp mạ crom chỉ đạt 34 dynes/cm (dưới ngưỡng tối thiểu 42 dynes/cm) do dư lượng dầu bôi trơn khuôn ép.
 2. Sử dụng đầu in silicon thông thường có độ cứng Shore 60A quá cao làm kẹt bóng khí tại góc bo R = 1.2 mm.
-**Giải pháp khắc phục của VNPIS:** Tích hợp đầu khò Plasma lạnh xử lý online đạt 46 dynes/cm, chuyển sang sử dụng Silicon Pad hình nón Shore 40A và mực chuyên dụng Henkey PET8000 pha Hardener 8000B tỷ lệ 10:1. Kết quả sau 4 giờ tinh chỉnh: Tỷ lệ lỗi giảm xuống **0.02%**, độ bám dính đạt chuẩn ASTM D3359 5B sau khi test cồn 90 độ 200 lần, giúp nhà máy kịp tiến độ giao hàng xuất khẩu. Quý khách có thể tham khảo thêm [thử nghiệm độ bám dính mực in ASTM D3359 tại xưởng](https://inanvnpis.com/blog/xu-ly-corona-plasma-tang-bam-dinh-nhua-pp-pe) để tối ưu hóa hiệu quả vận hành.
+**Giải pháp khắc phục của VNPIS:** Tích hợp đầu khò Plasma lạnh xử lý online đạt 46 dynes/cm, chuyển sang sử dụng Silicon Pad hình nón Shore 40A và mực chuyên dụng Henkey PET8000 pha Hardener 8000B tỷ lệ 10:1. Kết quả sau 4 giờ tinh chỉnh: Tỷ lệ lỗi giảm xuống **0.02%**, độ bám dính đạt chuẩn ASTM D3359 5B sau khi test cồn 90 độ 200 lần, giúp nhà máy kịp tiến độ giao hàng xuất khẩu. Quý khách có thể tham khảo thêm [thử nghiệm độ bám dính mực in ASTM D3359 tại xưởng](https://vnpis.com/blog/xu-ly-corona-plasma-tang-bam-dinh-nhua-pp-pe) để tối ưu hóa hiệu quả vận hành.
 ![Đo kiểm thực tế tại xưởng VNPIS](/images/machinery/industrial-uv-single-pass-corrugated-vnpis.jpg)
 *Quy trình kiểm tra độ bám dính và sắc nét quang học tại Xưởng Kỹ Thuật VNPIS Bình Chánh.*
 
-> 📸 **Kho Tư Liệu Thực Tế Xưởng & Phòng Lab VNPIS:** Quý khách có thể xem thêm hình ảnh đo kiểm, thiết bị Cosota và video vận hành thực tế tại [Album Google Photos Kỹ Thuật VNPIS](https://photos.app.goo.gl/kPD1SGCep48iNQFj9).
+> 📸 **Kho Tư Liệu Thực Tế Xưởng & Phòng Lab VNPIS:** Quý khách có thể xem thêm hình ảnh đo kiểm, thiết bị VNPIS và video vận hành thực tế tại [Album Google Photos Kỹ Thuật VNPIS](https://photos.app.goo.gl/kPD1SGCep48iNQFj9).
 
 ## 7. Giải Đáp Các Câu Hỏi Thường Gặp Của Chuyên Gia & Khách Hàng B2B (FAQ)
 

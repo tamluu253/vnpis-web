@@ -18,7 +18,7 @@ Tagless là công nghệ in thông số, logo, size trực tiếp lên mặt tro
 Afford KT1 vượt trội ở các điểm:
 - **Cảm giác tay mềm (Soft-hand feel)**: Thẩm thấu sâu vào sợi vải, không tạo màng dày cứng.
 - **Tuân thủ hóa chất**: Không chứa Phthalate, PVC, đáp ứng Oeko-Tex Standard 100.
-- **Tiết kiệm chi phí**: Giá thành cạnh tranh so với các dòng mực Châu Âu khác, đặc biệt khi sản xuất số lượng lớn.
+- **Tiết kiệm chi phí**: Giá thành cạnh tranh so với các dòng mực Châu u khác, đặc biệt khi sản xuất số lượng lớn.
 
 
 ---
@@ -30,5 +30,5 @@ Afford KT1 vượt trội ở các điểm:
 ## 📌 CÔNG TY TNHH VNPIS
 * 🏢 **Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.
 * 📞 **Hotline tư vấn thiết bị & báo giá vật tư 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/products/pad-printers) | [Máy in Lụa](https://vnpis.com/products/screen-printers) | [Mực in Công Nghiệp](https://vnpis.com/products/industrial-ink)
+* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/in-tampon) | [Máy in Lụa](https://vnpis.com/in-lua) | [Mực in Công Nghiệp](https://vnpis.com/muc-in-cij)
 * 🏭 *Cần dịch vụ gia công in ấn phôi nhựa/bao bì? Tham khảo tại:* [vnpis.com](https://vnpis.com)

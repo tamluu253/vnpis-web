@@ -18,7 +18,7 @@ Là thương hiệu máy in cao cấp, Meichao mang đến những thông số k
 - **Cốc mực chuẩn GMP**: Hệ cốc kín 100% không rò rỉ dung môi ra môi trường, đảm bảo không khí phòng sạch (Clean room ISO 7, ISO 8) không bị ô nhiễm chéo.
 - **Vật liệu chế tạo máy**: Thân máy đúc hợp kim cứng cáp, các chi tiết được mạ chống rỉ sét, chịu được hóa chất lau chùi vệ sinh sát khuẩn hàng ngày.
 
-Kết hợp máy in MC với dòng mực in y tế **Ruco T200 (Đức)**, doanh nghiệp của bạn đã có trong tay chuỗi dây chuyền in ống tiêm đạt chuẩn xuất khẩu Châu Âu.
+Kết hợp máy in MC với dòng mực in y tế **Ruco T200 (Đức)**, doanh nghiệp của bạn đã có trong tay chuỗi dây chuyền in ống tiêm đạt chuẩn xuất khẩu Châu u.
 
 ---
 **💡 VNPIS - TỔNG KHO MÁY IN TAMPON CÔNG NGHIỆP TẠI VIỆT NAM**
@@ -40,5 +40,5 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 ## 📌 CÔNG TY TNHH VNPIS
 * 🏢 **Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP. Hồ Chí Minh.
 * 📞 **Hotline tư vấn thiết bị & báo giá vật tư 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/products/pad-printers) | [Máy in Lụa](https://vnpis.com/products/screen-printers) | [Mực in Công Nghiệp](https://vnpis.com/products/industrial-ink)
+* 🌐 **Hệ sinh thái B2B:** [vnpis.com](https://vnpis.com) | [Máy in Tampon](https://vnpis.com/in-tampon) | [Máy in Lụa](https://vnpis.com/in-lua) | [Mực in Công Nghiệp](https://vnpis.com/muc-in-cij)
 * 🏭 *Cần dịch vụ gia công in ấn phôi nhựa/bao bì? Tham khảo tại:* [vnpis.com](https://vnpis.com)

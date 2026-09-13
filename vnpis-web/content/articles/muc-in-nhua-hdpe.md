@@ -1,5 +1,5 @@
 ---
-canonical: "https://inanvnpis.com/blog/muc-in-nhua-hdpe"
+canonical: "https://vnpis.com/blog/muc-in-nhua-hdpe"
 schema_type: "TechnicalArticle"
 publisher_mst: "0318266611"
 title: "Mực In HDPE: Giải Pháp Bám Dính Chuyên Dụng In Can, Chai Lọ & Ống Nhựa HDPE"
@@ -90,4 +90,4 @@ Dành cho các máy in phun date liên tục (CIJ Printer) in mã vạch, số m
 * 🏢 **Công Ty TNHH VNPIS (In Ấn VNPIS)**
 * 📍 **Trụ sở chính:** Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh.
 * 📞 **Hotline/Zalo tư vấn kỹ thuật & báo giá 24/7:** **Mr. Tâm: 0987 453 866**
-* 🌐 **Website:** [inanvnpis.com](https://inanvnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://inanvnpis.com/products/industrial-ink)
+* 🌐 **Website:** [inanvnpis.com](https://vnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://vnpis.com/muc-in-cij)
