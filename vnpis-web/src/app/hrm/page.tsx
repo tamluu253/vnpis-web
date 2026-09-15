@@ -84,7 +84,7 @@ const INITIAL_DATA: Record<string, CompanyData> = {
     id: 'vnpis',
     name: 'Công Ty TNHH VNPIS',
     tagline: 'Chuyên Gia Giải Pháp In Ấn Công Nghiệp (MST: 0315801557)',
-    logo: '/images/vnpis-logo.png',
+    logo: '/icon.png',
     office: 'Tầng 7, 60 Nguyễn Văn Thủ, P. Đa Kao, Q.1 | Demo Center: 62 Trần Thị Nơi, Q.8, TP.HCM',
     wifiSsid: 'VNPIS-DEMO-CENTER',
     gpsCoords: '10.7412° N, 106.6781° E',
@@ -339,7 +339,7 @@ export default function HrmPortalPage() {
                 companyId === 'vnpis' ? 'bg-blue-600 text-white shadow-md' : 'text-slate-400 hover:text-white hover:bg-slate-800'
               }`}
             >
-              <img src="https://vnpis.com/images/vnpis-logo.png" className="w-5 h-5 object-contain" alt="VNPIS" />
+              <img src="https://vnpis.com/icon.png" className="w-5 h-5 object-contain" alt="VNPIS" />
               VNPIS Co.
             </button>
           </div>

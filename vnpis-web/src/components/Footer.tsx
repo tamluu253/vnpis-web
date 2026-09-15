@@ -12,7 +12,7 @@ export default function Footer() {
           {/* Column 1: Company Info */}
           <div className="lg:col-span-1">
             <Link href="/" className="inline-block mb-6 bg-white p-2 rounded-lg">
-              <img src="/images/vnpis-logo.png" alt="VNPIS Logo" className="h-10 w-auto" />
+              <img src="/icon.png" alt="VNPIS Logo" className="h-10 w-auto" />
             </Link>
             <p className="mb-6 text-sm leading-relaxed text-slate-400">
               VNPIS là nhà cung cấp hàng đầu về Giải pháp In Công nghiệp, Máy in tampon 1 màu, In Dữ liệu Biến đổi, Mã QR và Tự động hóa cho các nhà máy sản xuất tại Việt Nam.

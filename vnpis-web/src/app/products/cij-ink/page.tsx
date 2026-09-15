@@ -101,7 +101,7 @@ export default function CIJInkPage() {
             <div className="lg:w-1/2 relative">
               <div className="aspect-square rounded-2xl overflow-hidden bg-slate-800 border border-slate-700 shadow-2xl relative">
                  <video 
-                   src="/media/cij-glass-test.mp4" 
+                   src="/media/blog/muc-in-chai-thuy-tinh-uot-lanh.mp4" 
                    poster="/images/hero-bg.jpg"
                    autoPlay 
                    loop 
@@ -253,7 +253,7 @@ export default function CIJInkPage() {
                 "description": "Video thử nghiệm thực tế độ bám dính mực in phun CIJ VNPIS trên vỏ chai thủy tinh đọng sương lạnh trong ngành sản xuất đồ uống.",
                 "thumbnailUrl": "https://vnpis.com/images/hero-bg.jpg",
                 "uploadDate": "2026-01-01T08:00:00+07:00",
-                "contentUrl": "https://vnpis.com/media/cij-glass-test.mp4",
+                "contentUrl": "https://vnpis.com/media/blog/muc-in-chai-thuy-tinh-uot-lanh.mp4",
                 "embedUrl": "https://vnpis.com/products/cij-ink"
               },
               {

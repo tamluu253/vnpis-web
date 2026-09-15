@@ -108,11 +108,11 @@ export default function BlogList({ initialData }: { initialData: any[] }) {
     if (item.mediaExt === 'jpg') return `/media/blog/${item.slug}.jpg`;
     
     const cat = getArticleSeoCategory(item);
-    if (cat === 'IN_TAMPON' || cat === 'VAT_TU_TAMPON') return '/images/pad-printing-cups.jpg';
-    if (cat === 'IN_LUA' || cat === 'VAT_TU_LUA') return '/images/screen-printing-bags.jpg';
-    if (cat === 'IN_KTS') return '/images/qr-code-printing.jpg';
+    if (cat === 'IN_TAMPON' || cat === 'VAT_TU_TAMPON') return '/images/pad-printing-cups.webp';
+    if (cat === 'IN_LUA' || cat === 'VAT_TU_LUA') return '/images/screen-printing-bags.webp';
+    if (cat === 'IN_KTS') return '/images/qr-code-printing.webp';
     
-    return '/images/pad-printing-cups.jpg';
+    return '/images/pad-printing-cups.webp';
   };
 
   // Helper to get badge label

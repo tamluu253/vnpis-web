@@ -26,7 +26,7 @@ export default function DuAnPage() {
                   src={`/images/portfolio/vnpis-in-gia-cong-${item}.jpg`} 
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
-                    (e.target as HTMLImageElement).src = '/images/blog-placeholder.jpg';
+                    (e.target as HTMLImageElement).src = '/images/blog-placeholder.webp';
                   }}
                 />
               </div>

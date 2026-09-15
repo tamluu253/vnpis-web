@@ -57,7 +57,7 @@ export default function InLuaPage() {
         {/* Hero Banner Image */}
         <div className="mb-16 rounded-3xl overflow-hidden shadow-lg border border-slate-200 max-w-4xl mx-auto">
           <img 
-            src="/images/screen-printing-bags.jpg" 
+            src="/images/screen-printing-bags.webp" 
             alt="Xưởng gia công in lụa bao bì túi nilon vải thun VNPIS" 
             className="w-full h-auto object-cover"
           />

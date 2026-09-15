@@ -57,7 +57,7 @@ export default function InTamponPage() {
         {/* Hero Banner Image */}
         <div className="mb-16 rounded-3xl overflow-hidden shadow-lg border border-slate-200 max-w-4xl mx-auto">
           <img 
-            src="/images/pad-printing-cups.jpg" 
+            src="/images/pad-printing-cups.webp" 
             alt="Xưởng gia công in tampon pad printing đa bề mặt cong lõm VNPIS" 
             className="w-full h-auto object-cover"
           />

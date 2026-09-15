@@ -10,7 +10,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "110 kg",
     "power": "220V / 50Hz / 50W",
-    "image": "/images/screen-printers/hj/hs-260p-user.jpg"
+    "image": "/images/screen-printers/hj/hs-260p-quotation.webp"
   },
   {
     "model": "HS-350P",
@@ -23,7 +23,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "145 kg",
     "power": "220V / 50Hz / 60W",
-    "image": "/images/screen-printers/hj/hs-350p-user.jpg"
+    "image": "/images/screen-printers/hj/hs-350p-quotation.webp"
   },
   {
     "model": "HS-500P",
@@ -36,7 +36,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "180 kg",
     "power": "220V / 50Hz / 60W",
-    "image": "/images/screen-printers/hj/hs-350p_2.jpeg"
+    "image": "/images/pad-printers/hj/Cosota_Vietnam_BBG_M_y_in_l_a_kh__250_v__350mm_11Jan2023_image3.webp"
   },
   {
     "model": "HS-600P",
@@ -49,7 +49,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "220 kg",
     "power": "220V / 50Hz / 75W",
-    "image": "/images/screen-printers/hj/hs-600p.jpg"
+    "image": "/images/pad-printers/hj/hs-600p.jpg"
   },
   {
     "model": "HS-1300PE",
@@ -62,7 +62,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "450 kg",
     "power": "220V / 50Hz / 120W",
-    "image": "/images/screen-printers/hj/hs-70100p.jpg"
+    "image": "/images/pad-printers/hj/hs-70100p.jpg"
   },
   {
     "model": "HS-260R",
@@ -75,7 +75,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "125 kg",
     "power": "220V / 50Hz / 50W",
-    "image": "/images/screen-printers/hj/hs-260pme-2r.jpg"
+    "image": "/images/pad-printers/hj/hs-260pme-2r.jpg"
   },
   {
     "model": "HS-500R",
@@ -88,6 +88,6 @@
     "airPressure": "5 - 7 bar",
     "weight": "190 kg",
     "power": "220V / 50Hz / 60W",
-    "image": "/images/screen-printers/hj/hs-90120.jpg"
+    "image": "/images/pad-printers/hj/hs-90120.jpg"
   }
 ]

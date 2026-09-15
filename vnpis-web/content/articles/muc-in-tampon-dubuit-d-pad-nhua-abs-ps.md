@@ -16,7 +16,7 @@ Trong ngành công nghiệp in ấn, việc tìm kiếm một dòng mực bám d
 
 ## Tại sao chọn Dubuit D-PAD cho đồ nhựa?
 
-![Hình ảnh minh họa quy trình in gia công Hộ Kinh Doanh VNPIS Solutions](/images/pad-printing-cups.jpg)
+![Hình ảnh minh họa quy trình in gia công Hộ Kinh Doanh VNPIS Solutions](/images/pad-printing-cups.webp)
 
 Dubuit D-PAD là dòng mực gốc dung môi (solvent-based) 1 thành phần hoặc 2 thành phần (khi pha thêm chất đóng rắn) mang lại độ linh hoạt cực cao. Mực sở hữu các ưu điểm:
 - **Độ bóng cao (High Gloss)**: Giúp sản phẩm sau khi in có bề mặt mướt, sang trọng.

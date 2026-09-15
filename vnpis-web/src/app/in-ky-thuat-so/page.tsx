@@ -57,7 +57,7 @@ export default function InKyThuatSoPage() {
         {/* Hero Banner Image */}
         <div className="mb-16 rounded-3xl overflow-hidden shadow-lg border border-slate-200 max-w-4xl mx-auto">
           <img 
-            src="/images/qr-code-printing.jpg" 
+            src="/images/qr-code-printing.webp" 
             alt="Dịch vụ in biến đổi dữ liệu kỹ thuật số VDP in mã QR biến đổi VNPIS" 
             className="w-full h-auto object-cover"
           />

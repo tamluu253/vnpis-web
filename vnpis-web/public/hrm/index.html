@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Hệ Thống Quản Lý Nhân Sự & Chấm Công - VNPIS & Cosota Vietnam</title>
+  
+  <!-- PWA Web App Meta Tags -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#1e40af">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" id="favicon" href="https://vnpis.com/images/vnpis-logo.png" type="image/png">
+  
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => console.log('PWA ServiceWorker registered successfully:', reg.scope))
+          .catch(err => console.log('ServiceWorker registration failed:', err));
+      });
+    }
+  </script>
+  
+  <!-- Google Fonts & Font Awesome Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-vnpis mode-mobile">
+
+  <!-- Top Global Portal Switcher (For Demo & Enterprise Control) -->
+  <header class="global-switcher">
+    <div class="brand-select-group">
+      <span class="switcher-label"><i class="fa-solid fa-building-flag"></i> Chọn Doanh Nghiệp:</span>
+      <button class="company-btn active" id="btn-switch-vnpis" onclick="switchCompany('vnpis')">
+        <img src="https://vnpis.com/images/vnpis-logo.png" alt="VNPIS Logo" class="mini-logo">
+        <span>VNPIS Co.</span>
+      </button>
+      <button class="company-btn" id="btn-switch-cosota" onclick="switchCompany('cosota')">
+        <img src="https://media.loveitopcdn.com/5274/chatgpt-image-15-13-01-8-thg-5-2026-1.png" alt="Cosota Logo" class="mini-logo">
+        <span>Cosota Vietnam</span>
+      </button>
+    </div>
+
+    <div class="view-mode-group">
+      <button class="mode-btn active" id="btn-mode-mobile" onclick="switchViewMode('mobile')">
+        <i class="fa-solid fa-mobile-screen-button"></i> <span>Giao diện Nhân Viên (Mobile)</span>
+      </button>
+      <button class="mode-btn" id="btn-mode-desktop" onclick="switchViewMode('desktop')">
+        <i class="fa-solid fa-laptop-code"></i> <span>Quản Trị Admin (Desktop)</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Application Wrapper -->
+  <div class="app-viewport">
+    
+    <!-- MOBILE APP SIMULATOR CONTAINER -->
+    <div class="mobile-device-frame">
+      <div class="mobile-screen">
+        <!-- Phone Status Bar -->
+        <div class="phone-status-bar">
+          <span class="status-time" id="status-time-clock">09:41</span>
+          <div class="phone-notch"></div>
+          <div class="status-icons">
+            <i class="fa-solid fa-signal"></i>
+            <i class="fa-solid fa-wifi"></i>
+            <i class="fa-solid fa-battery-three-quarters"></i>
+          </div>
+        </div>
+
+        <!-- App Header -->
+        <div class="app-header">
+          <div class="user-profile-summary">
+            <div class="avatar-container" onclick="openPwaInstallPrompt()">
+              <img id="user-avatar" src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80" alt="Avatar">
+              <span class="status-indicator online"></span>
+            </div>
+            <div class="user-details">
+              <span class="greeting">Xin chào, 👋</span>
+              <h3 class="user-name" id="user-name-display">Nguyễn Văn An</h3>
+              <span class="user-role-badge" id="user-role-display">Kỹ sư Máy in Tampon</span>
+            </div>
+          </div>
+          <div class="app-header-actions">
+            <button class="icon-btn" onclick="openPwaInstallPrompt()" title="Thêm vào Màn hình chính (PWA)">
+              <i class="fa-solid fa-download"></i>
+            </button>
+            <button class="icon-btn badge-container" onclick="switchTab('notifications')">
+              <i class="fa-regular fa-bell"></i>
+              <span class="badge" id="notif-count">3</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Office & GPS Status Widget -->
+        <div class="location-banner">
+          <div class="loc-icon"><i class="fa-solid fa-location-dot"></i></div>
+          <div class="loc-info">
+            <strong id="company-office-name">Văn phòng chính VNPIS - TPHCM</strong>
+            <span id="wifi-status-text"><i class="fa-solid fa-wifi"></i> Wifi: <b>VNPIS-5G-OFFICE</b> (Hợp lệ)</span>
+          </div>
+          <button class="refresh-loc-btn" onclick="verifyLocation()"><i class="fa-solid fa-rotate"></i></button>
+        </div>
+
+        <!-- Tab Contents -->
+        <main class="mobile-content-area">
+          
+          <!-- TAB 1: HOME & CHECK-IN -->
+          <section id="tab-home" class="tab-page active">
+            
+            <!-- Quick Attendance Card -->
+            <div class="checkin-hero-card">
+              <div class="hero-card-header">
+                <span class="today-date" id="current-full-date">Thứ Ba, 10/09/2026</span>
+                <span class="shift-tag" id="current-shift-tag">Ca Sáng: 08:00 - 17:00</span>
+              </div>
+
+              <div class="clock-display">
+                <h1 id="live-digital-clock">08:15:32</h1>
+                <span class="checkin-status-text success" id="today-checkin-state"><i class="fa-solid fa-circle-check"></i> Đã Check-in lúc 07:55 AM</span>
+              </div>
+
+              <div class="checkin-actions">
+                <button class="btn-checkin" id="btn-do-checkin" onclick="startCheckInProcess('checkin')">
+                  <i class="fa-solid fa-camera"></i>
+                  <span>CHECK-IN</span>
+                </button>
+                <button class="btn-checkout" id="btn-do-checkout" onclick="startCheckInProcess('checkout')">
+                  <i class="fa-solid fa-right-from-bracket"></i>
+                  <span>CHECK-OUT</span>
+                </button>
+              </div>
+
+              <div class="attendance-summary-pills">
+                <div class="pill">
+                  <span class="pill-title">Giờ vào</span>
+                  <strong id="time-in-val">07:55 AM</strong>
+                </div>
+                <div class="pill">
+                  <span class="pill-title">Giờ ra</span>
+                  <strong id="time-out-val">--:--</strong>
+                </div>
+                <div class="pill">
+                  <span class="pill-title">Tổng giờ</span>
+                  <strong id="total-hours-val">7.5 giờ</strong>
+                </div>
+              </div>
+            </div>
+
+            <!-- Quick Access Modules -->
+            <div class="section-title">
+              <h4>Dịch vụ nhanh</h4>
+            </div>
+            <div class="quick-services-grid">
+              <div class="service-item" onclick="switchTab('leave')">
+                <div class="s-icon bg-blue"><i class="fa-solid fa-file-signature"></i></div>
+                <span>Xin nghỉ phép</span>
+              </div>
+              <div class="service-item" onclick="switchTab('tasks')">
+                <div class="s-icon bg-orange"><i class="fa-solid fa-list-check"></i></div>
+                <span>Báo cáo ca</span>
+              </div>
+              <div class="service-item" onclick="switchTab('chat')">
+                <div class="s-icon bg-purple"><i class="fa-solid fa-comments"></i></div>
+                <span>Chat nội bộ</span>
+              </div>
+              <div class="service-item" onclick="switchTab('news')">
+                <div class="s-icon bg-green"><i class="fa-solid fa-bullhorn"></i></div>
+                <span>Thông báo</span>
+              </div>
+            </div>
+
+            <!-- Today Tasks Preview -->
+            <div class="section-title flex-between">
+              <h4>Công việc trong ca</h4>
+              <a href="#" onclick="switchTab('tasks')">Xem tất cả <i class="fa-solid fa-chevron-right"></i></a>
+            </div>
+            <div class="task-list-preview" id="home-tasks-container">
+              <!-- Rendered via JS -->
+            </div>
+
+          </section>
+
+          <!-- TAB 2: LEAVE & SHIFT REQUESTS -->
+          <section id="tab-leave" class="tab-page">
+            <div class="page-title-bar">
+              <h2>Đơn Xin Nghỉ & Đổi Ca</h2>
+              <button class="btn-primary-sm" onclick="openLeaveFormModal()"><i class="fa-solid fa-plus"></i> Tạo đơn mới</button>
+            </div>
+
+            <div class="leave-tabs">
+              <button class="l-tab active" onclick="filterLeaveHistory('all')">Tất cả</button>
+              <button class="l-tab" onclick="filterLeaveHistory('pending')">Chờ duyệt</button>
+              <button class="l-tab" onclick="filterLeaveHistory('approved')">Đã duyệt</button>
+            </div>
+
+            <div class="leave-history-list" id="leave-history-container">
+              <!-- Rendered via JS -->
+            </div>
+          </section>
+
+          <!-- TAB 3: SHIFT TASKS & PHOTO REPORTING -->
+          <section id="tab-tasks" class="tab-page">
+            <div class="page-title-bar">
+              <h2>Báo Cáo Hình Ảnh Theo Ca</h2>
+              <span class="sub-text">Báo cáo tiến độ & ảnh chụp thực tế</span>
+            </div>
+
+            <div class="shift-task-cards" id="shift-tasks-container">
+              <!-- Rendered via JS -->
+            </div>
+          </section>
+
+          <!-- TAB 4: INTERNAL CHAT -->
+          <section id="tab-chat" class="tab-page">
+            <div class="chat-header-bar">
+              <div class="chat-target-info">
+                <i class="fa-solid fa-users-gear text-primary"></i>
+                <div>
+                  <strong id="chat-channel-name">Kênh Nội Bộ VNPIS - Kỹ Thuật</strong>
+                  <span class="online-status"><i class="fa-solid fa-circle"></i> 12 thành viên online</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="chat-messages-scroll" id="chat-messages-container">
+              <!-- Rendered via JS -->
+            </div>
+
+            <div class="chat-input-bar">
+              <button class="btn-attach" onclick="triggerChatPhotoUpload()"><i class="fa-solid fa-paperclip"></i></button>
+              <input type="text" id="chat-input-field" placeholder="Nhập tin nhắn..." onkeypress="handleChatKeyPress(event)">
+              <button class="btn-send" onclick="sendChatMessage()"><i class="fa-solid fa-paper-plane"></i></button>
+            </div>
+          </section>
+
+          <!-- TAB 5: ANNOUNCEMENTS & RULES -->
+          <section id="tab-news" class="tab-page">
+            <div class="page-title-bar">
+              <h2>Bảng Tin Nội Bộ</h2>
+              <span class="sub-text">Nội quy & thông tin tập trung từ Ban Quản Lý</span>
+            </div>
+
+            <div class="news-feed-list" id="news-feed-container">
+              <!-- Rendered via JS -->
+            </div>
+          </section>
+
+          <!-- TAB 6: NOTIFICATIONS -->
+          <section id="tab-notifications" class="tab-page">
+            <div class="page-title-bar">
+              <h2>Thông Báo Hệ Thống</h2>
+            </div>
+            <div class="notif-list" id="notif-list-container">
+              <!-- Rendered via JS -->
+            </div>
+          </section>
+
+        </main>
+
+        <!-- Bottom Navigation Bar -->
+        <nav class="bottom-nav">
+          <button class="nav-item active" data-tab="home" onclick="switchTab('home')">
+            <i class="fa-solid fa-house"></i>
+            <span>Trang chủ</span>
+          </button>
+          <button class="nav-item" data-tab="leave" onclick="switchTab('leave')">
+            <i class="fa-solid fa-calendar-minus"></i>
+            <span>Đơn xin nghỉ</span>
+          </button>
+          <button class="nav-item" data-tab="tasks" onclick="switchTab('tasks')">
+            <i class="fa-solid fa-camera-retro"></i>
+            <span>Báo cáo ca</span>
+          </button>
+          <button class="nav-item" data-tab="chat" onclick="switchTab('chat')">
+            <i class="fa-solid fa-comments"></i>
+            <span>Chat</span>
+          </button>
+          <button class="nav-item" data-tab="news" onclick="switchTab('news')">
+            <i class="fa-solid fa-newspaper"></i>
+            <span>Bảng tin</span>
+          </button>
+        </nav>
+      </div>
+    </div>
+
+
+    <!-- DESKTOP ADMIN DASHBOARD CONTAINER (ADMIN VIEW) -->
+    <div class="desktop-admin-view hidden">
+      <aside class="admin-sidebar">
+        <div class="sidebar-header">
+          <img id="admin-logo-img" src="https://vnpis.com/images/vnpis-logo.png" alt="Company Logo">
+          <div class="admin-company-title">
+            <h3 id="admin-company-name">VNPIS HRM Portal</h3>
+            <span class="badge-admin">Admin Dashboard</span>
+          </div>
+        </div>
+
+        <nav class="sidebar-menu">
+          <a class="menu-link active" onclick="switchAdminSection('overview')"><i class="fa-solid fa-chart-pie"></i> Tổng quan công ca</a>
+          <a class="menu-link" onclick="switchAdminSection('attendance')"><i class="fa-solid fa-fingerprint"></i> Nhật ký Chấm công</a>
+          <a class="menu-link" onclick="switchAdminSection('approvals')"><i class="fa-solid fa-check-double"></i> Duyệt đơn nghỉ (3)</a>
+          <a class="menu-link" onclick="switchAdminSection('task-reports')"><i class="fa-solid fa-images"></i> Duyệt Báo cáo ảnh</a>
+          <a class="menu-link" onclick="switchAdminSection('employees')"><i class="fa-solid fa-users"></i> Danh sách Nhân sự</a>
+          <a class="menu-link" onclick="switchAdminSection('payroll')"><i class="fa-solid fa-sack-dollar"></i> Thống kê Lương</a>
+        </nav>
+
+        <div class="admin-sidebar-footer">
+          <div class="admin-user-info">
+            <i class="fa-solid fa-user-shield"></i>
+            <div>
+              <strong>Quản Lý Nhân Sự</strong>
+              <small id="admin-user-email">admin@vnpis.com</small>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <main class="admin-main-content">
+        <header class="admin-top-bar">
+          <div class="search-box">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input type="text" placeholder="Tìm kiếm nhân viên, ca làm, đơn từ...">
+          </div>
+          <div class="admin-top-actions">
+            <span class="office-badge" id="admin-office-label"><i class="fa-solid fa-building"></i> Trụ sở chính TPHCM</span>
+            <button class="btn-secondary" onclick="exportExcelReport()"><i class="fa-solid fa-file-excel"></i> Xuất Excel</button>
+          </div>
+        </header>
+
+        <div class="admin-content-body" id="admin-dynamic-body">
+          <!-- Overview Stats Grid -->
+          <div class="stats-grid">
+            <div class="stat-card">
+              <div class="stat-icon blue"><i class="fa-solid fa-users"></i></div>
+              <div class="stat-meta">
+                <span class="label">Tổng Nhân Viên</span>
+                <h3 id="stat-total-emp">48 N.Viên</h3>
+                <span class="sub text-success">100% Đang hoạt động</span>
+              </div>
+            </div>
+
+            <div class="stat-card">
+              <div class="stat-icon green"><i class="fa-solid fa-user-check"></i></div>
+              <div class="stat-meta">
+                <span class="label">Đã Check-in Hôm Nay</span>
+                <h3 id="stat-checkedin">42/48</h3>
+                <span class="sub text-success">Đúng giờ: 39 | Muộn: 3</span>
+              </div>
+            </div>
+
+            <div class="stat-card">
+              <div class="stat-icon orange"><i class="fa-solid fa-clock-rotate-left"></i></div>
+              <div class="stat-meta">
+                <span class="label">Đơn Chờ Duyệt</span>
+                <h3>3 Đơn</h3>
+                <span class="sub text-warning">Cần xử lý trong ngày</span>
+              </div>
+            </div>
+
+            <div class="stat-card">
+              <div class="stat-icon purple"><i class="fa-solid fa-list-check"></i></div>
+              <div class="stat-meta">
+                <span class="label">Báo Cáo Bằng Ảnh</span>
+                <h3>18/20 Ca</h3>
+                <span class="sub text-primary">Tỉ lệ hoàn thành: 90%</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Pending Approvals & Live Check-in Log -->
+          <div class="admin-two-col">
+            
+            <!-- Quick Approve List -->
+            <div class="card-box">
+              <div class="card-header">
+                <h3><i class="fa-solid fa-clipboard-check text-warning"></i> Duyệt Đơn Đột Xuất / Xin Nghỉ Tức Thì</h3>
+                <span class="tag-count">3 Đơn mới</span>
+              </div>
+              <div class="table-responsive">
+                <table class="admin-table">
+                  <thead>
+                    <tr>
+                      <th>Nhân viên</th>
+                      <th>Loại đơn</th>
+                      <th>Thời gian</th>
+                      <th>Lý do</th>
+                      <th>Thao tác</th>
+                    </tr>
+                  </thead>
+                  <tbody id="admin-pending-leaves-tbody">
+                    <!-- Rendered via JS -->
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- Live Check-in Monitor -->
+            <div class="card-box">
+              <div class="card-header">
+                <h3><i class="fa-solid fa-camera text-primary"></i> Nhật Ký Chấm Công GPS/Selfie</h3>
+                <button class="btn-icon" onclick="refreshAdminLogs()"><i class="fa-solid fa-rotate-right"></i></button>
+              </div>
+              <div class="checkin-feed" id="admin-live-checkin-feed">
+                <!-- Rendered via JS -->
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </main>
+    </div>
+
+  </div>
+
+
+  <!-- MODALS & POPUPS -->
+  
+  <!-- Modal: Camera Selfie Check-in Simulator -->
+  <div class="modal-overlay hidden" id="modal-checkin">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 id="checkin-modal-title">Xác thực Check-in Chấm Công</h3>
+        <button class="close-btn" onclick="closeModal('modal-checkin')">&times;</button>
+      </div>
+      <div class="modal-body text-center">
+        
+        <div class="camera-simulator">
+          <img id="camera-feed-preview" src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80" alt="Selfie preview">
+          
+          <div class="camera-overlay-frame">
+            <div class="face-guideline"></div>
+            <div class="live-stamp">
+              <span id="stamp-time">10/09/2026 08:15:32 AM</span>
+              <span id="stamp-coords">GPS: 10.7289° N, 106.6663° E</span>
+              <span id="stamp-wifi">Wifi: VNPIS-5G-OFFICE (Pass)</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="verification-checks">
+          <div class="check-item success"><i class="fa-solid fa-wifi"></i> Wifi Văn Phòng: <b>Đã khớp</b></div>
+          <div class="check-item success"><i class="fa-solid fa-location-crosshairs"></i> Vị trí GPS: <b>Khoảng cách 8m (Hợp lệ)</b></div>
+        </div>
+
+        <button class="btn-capture-submit" onclick="confirmCheckIn()"><i class="fa-solid fa-camera"></i> CHỤP ẢNH & XÁC NHẬN</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Leave Form Submission -->
+  <div class="modal-overlay hidden" id="modal-leave-form">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>Tạo Đơn Xin Nghỉ / Đổi Ca</h3>
+        <button class="close-btn" onclick="closeModal('modal-leave-form')">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="form-create-leave" onsubmit="handleLeaveFormSubmit(event)">
+          <div class="form-group">
+            <label>Loại đơn:</label>
+            <select id="leave-type-select">
+              <option value="Nghỉ phép năm">Nghỉ phép năm (Có lương)</option>
+              <option value="Đi muộn / Về sớm">Xin đi muộn / về sớm</option>
+              <option value="Nghỉ ốm / Việc riêng">Nghỉ ốm / Việc riêng</option>
+              <option value="Xin đổi ca">Đổi ca làm việc với đồng nghiệp</option>
+            </select>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label>Từ ngày:</label>
+              <input type="date" id="leave-start-date" required value="2026-09-11">
+            </div>
+            <div class="form-group">
+              <label>Đến ngày:</label>
+              <input type="date" id="leave-end-date" required value="2026-09-11">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label>Lý do nghỉ phép:</label>
+            <textarea id="leave-reason-text" rows="3" placeholder="Nhập lý do chi tiết..." required>Có việc gia đình đột xuất cần giải quyết vào ca sáng.</textarea>
+          </div>
+
+          <button type="submit" class="btn-submit-full"><i class="fa-solid fa-paper-plane"></i> GỬI ĐƠN CHO QUẢN LÝ DUYỆT</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: PWA Instruction Guide -->
+  <div class="modal-overlay hidden" id="modal-pwa-guide">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>Cài đặt App lên Điện thoại Android / iPhone</h3>
+        <button class="close-btn" onclick="closeModal('modal-pwa-guide')">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="pwa-steps-list">
+          <div class="pwa-step">
+            <div class="step-num">1</div>
+            <div>
+              <strong>Đối với iPhone (Safari):</strong>
+              <p>Nhấp vào biểu tượng <b>Chia sẻ <i class="fa-solid fa-share-from-square"></i></b> bên dưới trình duyệt Safari, sau đó chọn <b>"Thêm vào Màn hình chính" (Add to Home Screen)</b>.</p>
+            </div>
+          </div>
+          <div class="pwa-step">
+            <div class="step-num">2</div>
+            <div>
+              <strong>Đối với Android (Chrome):</strong>
+              <p>Nhấp vào menu <b>3 chấm <i class="fa-solid fa-ellipsis-vertical"></i></b> ở góc trên bên phải, chọn <b>"Cài đặt ứng dụng"</b> hoặc <b>"Thêm vào Màn hình chính"</b>.</p>
+            </div>
+          </div>
+        </div>
+        <div class="pwa-benefit-box">
+          <i class="fa-solid fa-shield-halved text-success"></i> Ứng dụng sẽ hoạt động mượt mà như App native từ App Store, không mất dung lượng tải về!
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

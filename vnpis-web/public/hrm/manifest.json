@@ -1,0 +1,24 @@
+{
+  "name": "VNPIS HRM - Quản Lý Nhân Sự & Chấm Công",
+  "short_name": "VNPIS HRM",
+  "description": "Ứng dụng chấm công Wifi & GPS, duyệt đơn xin nghỉ, báo cáo ca và chat nội bộ VNPIS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://vnpis.com/images/vnpis-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://vnpis.com/images/vnpis-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

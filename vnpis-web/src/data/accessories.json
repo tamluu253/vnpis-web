@@ -9,7 +9,7 @@
         "Độ đàn hồi & bật nảy mực nhanh",
         "Ứng dụng in logo tròn, bề mặt lồi/lõm"
       ],
-      "image": "/images/products/pads/pad_shape_1_p1.jpg",
+      "image": "/images/products/pads/pad_shape_1_p1.webp",
       "models": [
         {
           "code": "R01 / EN-R31",
@@ -70,7 +70,7 @@
         "Chống méo biên ký tự",
         "Màng mực phủ đều trên vùng in chữ nhật"
       ],
-      "image": "/images/products/pads/pad_shape_2_p1.jpg",
+      "image": "/images/products/pads/pad_shape_2_p1.webp",
       "models": [
         {
           "code": "Q01 / EN-Q23",
@@ -131,7 +131,7 @@
         "Độ dẻo DAI không đứt gãy",
         "In dải họa tiết dài không bị đứt đoạn"
       ],
-      "image": "/images/products/pads/pad_shape_3_p2.jpg",
+      "image": "/images/products/pads/pad_shape_3_p2.webp",
       "models": [
         {
           "code": "L01",
@@ -231,7 +231,7 @@
         "Tuổi thọ 1-2 triệu lần in",
         "Dành cho sản xuất hàng loạt"
       ],
-      "image": "/images/products/plates/plate-steel-thick.jpg"
+      "image": "/images/products/plates/plate-steel-thick.webp"
     },
     {
       "id": "plate-steel-thin",
@@ -242,7 +242,7 @@
         "Cần đế nam châm",
         "Tiết kiệm chi phí"
       ],
-      "image": "/images/products/plates/plate-steel-thin.jpg"
+      "image": "/images/products/plates/plate-steel-thin.webp"
     },
     {
       "id": "plate-polymer",
@@ -253,7 +253,7 @@
         "Tuổi thọ 10,000 - 50,000 lần",
         "Linh hoạt cho in mẫu"
       ],
-      "image": "/images/products/plates/plate-polymer.jpg"
+      "image": "/images/products/plates/plate-polymer.webp"
     }
   ],
   "accessories": [
@@ -273,7 +273,7 @@
         "Kín khí tiết kiệm mực",
         "Nhôm nguyên khối CNC"
       ],
-      "image": "/images/products/accessories/ink-cups.jpg"
+      "image": "/images/products/accessories/ink-cups.webp"
     },
     {
       "id": "acc-ceramic-ring",
@@ -338,7 +338,7 @@
         "Thép Thụy Điển chống mài mòn",
         "Gạt mực phẳng đều"
       ],
-      "image": "/images/products/accessories/doctor-blade.jpg"
+      "image": "/images/products/accessories/doctor-blade.webp"
     },
     {
       "id": "acc-tray-liner",
@@ -352,7 +352,7 @@
         "Không tốn thời gian rửa khay",
         "Chống rò rỉ dung môi"
       ],
-      "image": "/images/products/accessories/tray-liners.jpg"
+      "image": "/images/products/accessories/tray-liners.webp"
     }
   ],
   "additives": [
@@ -369,7 +369,7 @@
         "Tốc độ khô linh hoạt",
         "Không làm xỉn màu mực"
       ],
-      "image": "/images/products/additives/solvent.jpg"
+      "image": "/images/products/additives/solvent.webp"
     },
     {
       "id": "add-primer",

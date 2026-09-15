@@ -15,7 +15,7 @@ Như đã biết, nhựa PP/PE cực kỳ khó bám mực và thường phải t
 
 ## Giải pháp tiết kiệm chi phí cho doanh nghiệp
 
-![Hình ảnh minh họa quy trình in gia công Hộ Kinh Doanh VNPIS Solutions](/images/pad-printing-cups.jpg)
+![Hình ảnh minh họa quy trình in gia công Hộ Kinh Doanh VNPIS Solutions](/images/pad-printing-cups.webp)
 
 - Bỏ qua công đoạn xử lý bề mặt, tiết kiệm nhân công, thời gian và tiền mua thiết bị khò lửa.
 - **Bám dính chắc chắn**: Sau khi in và để khô tự nhiên, thử nghiệm Test băng keo (Tape test 3M) cho thấy mực hoàn toàn không bị tróc.

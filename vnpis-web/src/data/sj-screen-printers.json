@@ -10,7 +10,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "95 kg (1.21 m³)",
     "power": "220V / 50Hz / 50W",
-    "image": "/images/screen-printers/sj/b5_mn300_a.png",
+    "image": "/images/pad-printers/sj/mn300_a.webp",
     "video": "/media/machines/sj/sj-factory-demo-1.mp4",
     "videoTitle": "Video Thực Tế Xưởng: In Lụa 360° Chai Lọ Mỹ Phẩm MN300-A"
   },
@@ -25,7 +25,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "120 kg (1.22 m³)",
     "power": "220V / 50Hz / 50W",
-    "image": "/images/screen-printers/sj/b6_mn400_a.png",
+    "image": "/images/pad-printers/sj/mn400_a.webp",
     "video": "/media/machines/sj/sj-factory-demo-2.mp4",
     "videoTitle": "Video Thực Tế Xưởng: Vận Hành Máy In Lụa Tròn 400mm MN400-A"
   },
@@ -40,7 +40,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "130 kg (1.25 m³)",
     "power": "220V / 50Hz / 50W",
-    "image": "/images/screen-printers/sj/b3_s_400t.png",
+    "image": "/images/pad-printers/sj/s_400t.webp",
     "video": "/media/machines/sj/sj-s400t-cap.mp4",
     "videoTitle": "Video Thực Tế Xưởng: In Lụa Phẳng Nắp Chai / Nắp Hộp S-400T"
   },
@@ -55,7 +55,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "140 kg (1.22 m³)",
     "power": "220V / 50Hz / 75W",
-    "image": "/images/screen-printers/sj/b7_sls_400_2h.png",
+    "image": "/images/pad-printers/sj/sls_400_2h.webp",
     "video": "/media/machines/sj/sj-sls400-2h-ruler.mp4",
     "videoTitle": "Video Thực Tế Xưởng: In Thước Thủy / Thước Vuông SLS-400-2H"
   },
@@ -70,7 +70,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "90 kg (0.83 m³)",
     "power": "220V / 50Hz / 45W",
-    "image": "/images/screen-printers/sj/b9_ss_250_3.png",
+    "image": "/images/screen-printers/sj/b9_ss_250_3.webp",
     "video": "/media/machines/sj/sj-ss250-3-paper-cup.mp4",
     "videoTitle": "Video Thực Tế Xưởng: In 360° Cốc Giấy / Cốc Nhựa SS-250-3"
   },
@@ -85,7 +85,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "80 kg (0.56 m³)",
     "power": "220V / 50Hz / 40W",
-    "image": "/images/screen-printers/sj/b1_sld_200.png"
+    "image": "/images/pad-printers/sj/sld_200.webp"
   },
   {
     "model": "SS-400-3",
@@ -98,7 +98,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "135 kg (1.15 m³)",
     "power": "220V / 50Hz / 60W",
-    "image": "/images/screen-printers/sj/b10_ss_400_3.png"
+    "image": "/images/pad-printers/sj/ss_400_3.webp"
   },
   {
     "model": "SS-500-3",
@@ -111,7 +111,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "150 kg (1.20 m³)",
     "power": "220V / 50Hz / 60W",
-    "image": "/images/screen-printers/sj/b11_ss_500_3.png"
+    "image": "/images/screen-printers/sj/b11_ss_500_3.webp"
   },
   {
     "model": "SS-600-3",
@@ -124,7 +124,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "175 kg (1.30 m³)",
     "power": "220V / 50Hz / 75W",
-    "image": "/images/screen-printers/sj/b12_ss_600_3.png"
+    "image": "/images/screen-printers/sj/b12_ss_600_3.webp"
   },
   {
     "model": "MN-800",
@@ -137,7 +137,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "260 kg (2.71 m³)",
     "power": "220V / 50Hz / 120W",
-    "image": "/images/screen-printers/sj/b13_mn800.png"
+    "image": "/images/screen-printers/sj/b13_mn800.webp"
   },
   {
     "model": "MN-1000",
@@ -150,7 +150,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "340 kg (3.10 m³)",
     "power": "220V / 50Hz / 150W",
-    "image": "/images/screen-printers/sj/b14_mn1000.png"
+    "image": "/images/screen-printers/sj/b14_mn1000.webp"
   },
   {
     "model": "MN-1200",
@@ -163,7 +163,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "420 kg (3.52 m³)",
     "power": "220V / 50Hz / 180W",
-    "image": "/images/screen-printers/sj/b15_mn1200.png"
+    "image": "/images/screen-printers/sj/b14_mn1000.webp"
   },
   {
     "model": "S-200L",
@@ -176,7 +176,7 @@
     "airPressure": "5 - 7 bar",
     "weight": "75 kg (0.83 m³)",
     "power": "220V / 50Hz / 40W",
-    "image": "/images/screen-printers/sj/b2_s_200l.png"
+    "image": "/images/pad-printers/sj/s_200l.webp"
   },
   {
     "model": "SS-AG-200",
@@ -189,6 +189,6 @@
     "airPressure": "5 - 7 bar",
     "weight": "85 kg (0.92 m³)",
     "power": "220V / 50Hz / 45W",
-    "image": "/images/screen-printers/sj/b4_ss_ag_200.jpg"
+    "image": "/images/pad-printers/sj/ss_ag_200.webp"
   }
 ]

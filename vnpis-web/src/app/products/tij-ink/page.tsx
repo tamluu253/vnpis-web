@@ -95,7 +95,7 @@ export default function TIJInkPage() {
             </div>
             <div className="md:w-1/2 bg-slate-900 relative min-h-[300px]">
               <video 
-                src="/media/tij-chips-bag-test.mp4" 
+                src="/media/blog/muc-in-tij-bao-bi-bim-bim-snack.mp4" 
                 autoPlay 
                 loop 
                 muted 

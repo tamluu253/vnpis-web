@@ -6,7 +6,7 @@
     "plateSize": "N/A",
     "printArea": "130x130mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/ht_50.png"
+    "image": "/images/pad-printers/sj/ht_50.webp"
   },
   {
     "model": "H200-CS",
@@ -15,7 +15,7 @@
     "plateSize": "N/A",
     "printArea": "150x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h200_cs.png"
+    "image": "/images/pad-printers/sj/h200_cs.webp"
   },
   {
     "model": "H200-D",
@@ -24,7 +24,7 @@
     "plateSize": "N/A",
     "printArea": "150x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h200_d.png"
+    "image": "/images/pad-printers/sj/h200_d.webp"
   },
   {
     "model": "HD250Z",
@@ -33,7 +33,7 @@
     "plateSize": "150x250mm",
     "printArea": "120x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/hd250z.png"
+    "image": "/images/pad-printers/sj/hd250z.webp"
   },
   {
     "model": "HT2040",
@@ -42,7 +42,7 @@
     "plateSize": "N/A",
     "printArea": "350x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/ht2040.png"
+    "image": "/images/pad-printers/sj/ht2040.webp"
   },
   {
     "model": "HT100",
@@ -51,7 +51,7 @@
     "plateSize": "N/A",
     "printArea": "100x150mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/ht100.png"
+    "image": "/images/pad-printers/sj/ht100.webp"
   },
   {
     "model": "HT3040",
@@ -60,7 +60,7 @@
     "plateSize": "N/A",
     "printArea": "350x300mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/ht3040.png"
+    "image": "/images/pad-printers/sj/ht3040.webp"
   },
   {
     "model": "H168",
@@ -69,7 +69,7 @@
     "plateSize": "N/A",
     "printArea": "100x160mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h168.png"
+    "image": "/images/pad-printers/sj/h168.webp"
   },
   {
     "model": "HYD-200-150",
@@ -78,7 +78,7 @@
     "plateSize": "100x150mm",
     "printArea": "70x120mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/hyd_200_150.png"
+    "image": "/images/pad-printers/sj/hyd_200_150.webp"
   },
   {
     "model": "H168S",
@@ -87,7 +87,7 @@
     "plateSize": "N/A",
     "printArea": "100x160mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h168s.png"
+    "image": "/images/pad-printers/sj/h168s.webp"
   },
   {
     "model": "H195",
@@ -96,7 +96,7 @@
     "plateSize": "N/A",
     "printArea": "150x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h195.png"
+    "image": "/images/pad-printers/sj/h195.webp"
   },
   {
     "model": "H195S",
@@ -105,7 +105,7 @@
     "plateSize": "N/A",
     "printArea": "150x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h195s.png"
+    "image": "/images/pad-printers/sj/h195s.webp"
   },
   {
     "model": "H195L",
@@ -114,7 +114,7 @@
     "plateSize": "N/A",
     "printArea": "150x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h195l.png"
+    "image": "/images/pad-printers/sj/h195l.webp"
   },
   {
     "model": "H200-A",
@@ -123,6 +123,6 @@
     "plateSize": "N/A",
     "printArea": "150x200mm",
     "speed": "Liên hệ",
-    "image": "/images/pad-printers/sj/h200_a.png"
+    "image": "/images/pad-printers/sj/h200_a.webp"
   }
 ]

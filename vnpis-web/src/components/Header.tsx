@@ -31,7 +31,7 @@ export default function Header() {
   const [activeMenu, setActiveMenu] = useState<string | null>(null);
   const [currentLang, setCurrentLang] = useState<string>('vi');
 
-  const [logoSrc, setLogoSrc] = useState('/images/vnpis-logo.png');
+  const [logoSrc, setLogoSrc] = useState('/icon.png');
   const [logoAlt, setLogoAlt] = useState('VNPIS Logo');
 
   useEffect(() => {
