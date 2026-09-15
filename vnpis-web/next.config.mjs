@@ -72,11 +72,6 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: '/products/screen-printers',
-        destination: '/in-lua',
-        permanent: true,
-      },
-      {
         source: '/products/cij-printers',
         destination: '/muc-in-cij',
         permanent: true,
@@ -249,21 +244,6 @@ const nextConfig = {
       {
         source: '/industries/:path*',
         destination: '/',
-        permanent: true,
-      },
-      {
-        source: '/products/pad-printers',
-        destination: '/in-tampon',
-        permanent: true,
-      },
-      {
-        source: '/products/pad-printers/:path*',
-        destination: '/in-tampon',
-        permanent: true,
-      },
-      {
-        source: '/products/screen-printers/:path*',
-        destination: '/in-lua',
         permanent: true,
       },
       {

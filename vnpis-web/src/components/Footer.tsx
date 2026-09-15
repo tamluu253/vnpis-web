@@ -93,6 +93,7 @@ export default function Footer() {
         <div className="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center text-sm text-slate-500">
           <p>&copy; {new Date().getFullYear()} VNPIS Industrial Solutions. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
+            <Link href="/hrm" className="hover:text-emerald-400 font-semibold text-emerald-300">Cổng Nhân Sự HRM</Link>
             <Link href="/privacy-policy" className="hover:text-slate-300">Chính sách bảo mật</Link>
             <Link href="/terms-of-service" className="hover:text-slate-300">Điều khoản dịch vụ</Link>
             <Link href="/sitemap.xml" className="hover:text-slate-300">Sitemap</Link>
