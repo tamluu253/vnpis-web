@@ -109,7 +109,7 @@ export default function Home() {
               <div className="w-14 h-14 bg-yellow-100 text-yellow-600 rounded-xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <Settings className="w-7 h-7" />
               </div>
-              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-yellow-600 transition-colors">6. Printing Service</h3>
+              <h3 className="text-2xl font-bold text-slate-900 mb-2 group-hover:text-yellow-600 transition-colors">6. Dịch Vụ In Gia Công</h3>
               <div className="flex text-yellow-400 mb-4 text-lg">★★★★★</div>
               <p className="text-slate-600 mb-6 leading-relaxed flex-grow">Mỏ vàng dịch vụ của VNPIS. Bao gồm in QR, barcode, UV, tampon, lụa, cho thuê máy, và đặc biệt là In Dữ Liệu Biến Đổi Tận Nơi.</p>
               <div className="flex items-center text-yellow-600 font-bold mt-auto">
@@ -128,7 +128,7 @@ export default function Home() {
               <h2 className="text-3xl md:text-4xl font-bold mb-6">Tại sao các nhà máy lớn chọn VNPIS?</h2>
               <div className="w-20 h-1 bg-orange-500 mb-8" />
               <p className="text-lg text-slate-300 mb-10 leading-relaxed">
-                Với gần 20 năm kinh nghiệm trong ngành in công nghiệp và 2 năm chính thức hoạt động dưới thương hiệu VNPIS, chúng tôi hiện có hơn 100 doanh nghiệp B2B đang kết nối và hợp tác, luôn thấu hiểu áp lực vận hành và tiêu chuẩn khắt khe của các nhà máy sản xuất.
+                Với gần 20 năm kinh nghiệm trong ngành in công nghiệp và tự động hóa sản xuất, VNPIS đã triển khai thành công hơn 500 giải pháp cho hơn 100 doanh nghiệp B2B và nhà máy FDI tại Việt Nam, luôn thấu hiểu áp lực vận hành và tiêu chuẩn khắt khe của các dây chuyền sản xuất.
               </p>
               <div className="space-y-6">
                 {[
@@ -151,8 +151,8 @@ export default function Home() {
                   <div className="text-slate-400">Năm Kinh Nghiệm In C.Nghiệp</div>
                 </div>
                 <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 text-center">
-                  <div className="text-5xl font-bold text-orange-400 mb-2">2+</div>
-                  <div className="text-slate-400">Năm Chính Thức Với VNPIS</div>
+                  <div className="text-5xl font-bold text-orange-400 mb-2">500+</div>
+                  <div className="text-slate-400">Dự Án In & Tự Động Hóa</div>
                 </div>
                 <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 text-center">
                   <div className="text-5xl font-bold text-green-400 mb-2">100+</div>

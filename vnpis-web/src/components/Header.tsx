@@ -112,10 +112,6 @@ export default function Header() {
       href: '/about',
     },
     {
-      name: 'Cổng HRM',
-      href: '/hrm',
-    },
-    {
       name: 'Liên Hệ',
       href: '/contact',
     },
