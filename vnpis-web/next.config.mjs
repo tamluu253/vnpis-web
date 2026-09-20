@@ -17,6 +17,21 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/products/consumables/inks',
+        destination: '/products/consumables',
+        permanent: true,
+      },
+      {
+        source: '/in-tampon/hj',
+        destination: '/products/pad-printers/hj',
+        permanent: true,
+      },
+      {
+        source: '/in-tampon/mc',
+        destination: '/products/pad-printers/mc',
+        permanent: true,
+      },
+      {
         source: '/kien-thuc/index',
         destination: '/blog',
         permanent: true,
