@@ -1,13 +1,4 @@
-import { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  alternates: {
-    canonical: 'https://vnpis.com/so-tay-in-pad',
-  },
-};
-
-"use client";
-
+'use client';
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   ArrowRight, 

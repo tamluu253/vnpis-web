@@ -1,12 +1,4 @@
-import { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  alternates: {
-    canonical: 'https://vnpis.com/products/consumables',
-  },
-};
-
-"use client";
+'use client';
 export const dynamicParams = true;
 
 import React, { useState, useMemo } from 'react';

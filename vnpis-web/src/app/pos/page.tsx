@@ -1,11 +1,3 @@
-import { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  alternates: {
-    canonical: 'https://vnpis.com/pos',
-  },
-};
-
 'use client';
 export const dynamicParams = true;
 
