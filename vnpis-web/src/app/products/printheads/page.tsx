@@ -1,3 +1,11 @@
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/printheads',
+  },
+};
+
 "use client";
 export const dynamicParams = true;
 

@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, CheckCircle2, Clock, Wrench, PiggyBank, Settings, Phone } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/services/machine-rental',
+  },
   title: 'Cho Thuê Máy In Công Nghiệp | Machine Rental | VNPIS',
   description: 'Dịch vụ cho thuê máy in công nghiệp (CIJ, TIJ, UV, Máy in Pad) theo tháng/quý/năm. Không cần lo bảo trì, tiết kiệm chi phí đầu tư ban đầu.',
 };

@@ -6,6 +6,9 @@ import Image from 'next/image';
 import hjScreenPrinters from '@/data/hj-screen-printers.json';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/screen-printers/hj',
+  },
   title: 'Catalog Máy In Lụa HJ (7 Models) | VNPIS',
   description: 'Danh mục chi tiết 7 model máy in lụa công nghiệp chính hãng HJ chuẩn hình ảnh và thông số kỹ thuật.',
 };

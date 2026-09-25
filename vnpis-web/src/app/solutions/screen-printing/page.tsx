@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, CheckCircle2, Factory, Palette, Settings, Droplet, Cog, Phone } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/solutions/screen-printing',
+  },
   title: 'Screen Printing | Giải Pháp In Lụa Công Nghiệp | VNPIS',
   description: 'Hệ sinh thái in lụa (Screen Printing) công nghiệp VNPIS. Cung cấp máy in lụa tự động, bán tự động, mực in lụa UV/Solvent cao cấp và dịch vụ gia công.',
 };

@@ -2,6 +2,9 @@ export const dynamicParams = true;
 import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/services/variable-data-service',
+  },
   title: 'Variable Data Service | VNPIS Industrial Solutions',
   description: 'Enterprise solutions for Variable Data Service by VNPIS.',
 };

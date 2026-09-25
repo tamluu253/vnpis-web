@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, CheckCircle2, Factory, ShieldCheck, Cog, Droplet, Users, Phone } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/solutions/pad-printing',
+  },
   title: 'Pad Printing | Giải Pháp In Tampon Trọn Gói | VNPIS',
   description: 'Hệ sinh thái Pad Printing (In Tampon) toàn diện từ VNPIS: Máy in, mực in chuyên dụng, silicone pad, bản in thép/polymer, hóa chất và dịch vụ chuyển giao.',
 };

@@ -2,6 +2,9 @@ export const dynamicParams = true;
 ﻿import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/services/industrial-printing',
+  },
   title: 'Industrial Printing | VNPIS Industrial Solutions',
   description: 'Enterprise solutions for Industrial Printing by VNPIS.',
 };

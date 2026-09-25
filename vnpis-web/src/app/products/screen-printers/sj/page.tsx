@@ -6,6 +6,9 @@ import Image from 'next/image';
 import sjScreenPrinters from '@/data/sj-screen-printers.json';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/screen-printers/sj',
+  },
   title: 'Catalog Máy In Lụa Sanjin SJ (Full Video Xưởng & Specs) | VNPIS',
   description: 'Catalog 14 model máy in lụa Sanjin SJ chính hãng. Tích hợp video quay thực tế xưởng vận hành in 360 độ chai lọ, nắp hộp, cốc giấy, thước phẳng.',
 };

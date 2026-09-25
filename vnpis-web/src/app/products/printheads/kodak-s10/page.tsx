@@ -2,6 +2,9 @@ export const dynamicParams = true;
 import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/printheads/kodak-s10',
+  },
   title: 'Kodak S10 | VNPIS Industrial Solutions',
   description: 'Enterprise solutions for Kodak S10 by VNPIS.',
 };

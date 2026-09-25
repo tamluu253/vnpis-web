@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, PlayCircle } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/videos',
+  },
   title: 'Video Demo Máy In Công Nghiệp | VNPIS',
   description: 'Thư viện video thực tế các dự án in công nghiệp VNPIS: UV Single Pass, Pad Printing, Máy in Date, TIJ. Xem máy hoạt động thực tế trước khi đầu tư.',
 };

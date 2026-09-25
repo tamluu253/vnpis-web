@@ -6,6 +6,9 @@ import SpecialInksCatalog from '@/components/products/SpecialInksCatalog';
 import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/cij-ink',
+  },
   title: 'Mực In Phun Công Nghiệp CIJ | Tương Thích & Tiết Kiệm | VNPIS',
   description: 'Giải pháp mực in CIJ tương thích hoàn hảo cho Videojet, Domino, Linx, Markem-Imaje. Khô nhanh, bám dính siêu việt, chống chịu nhiệt độ cao.',
 };

@@ -6,6 +6,9 @@ import Link from 'next/link';
 import { CheckCircle, PhoneCall, ArrowRight, Zap, ShieldCheck, Factory } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/solutions/uv-single-pass-printing',
+  },
   title: 'Giải Pháp In KTS UV Single Pass Tốc Độ Cao | VNPIS',
   description: 'Công nghệ in UV Single Pass in dữ liệu biến đổi, thùng carton, bao bì với tốc độ lên tới 80m/phút. Giải pháp tự động hóa tối ưu chi phí cho nhà máy B2B.',
 };

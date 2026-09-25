@@ -2,6 +2,9 @@ export const dynamicParams = true;
 import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/pad-printing/machines',
+  },
   title: 'Machines | VNPIS Industrial Solutions',
   description: 'Enterprise solutions for Machines by VNPIS.',
 };

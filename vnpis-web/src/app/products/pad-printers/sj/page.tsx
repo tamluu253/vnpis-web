@@ -6,6 +6,9 @@ import Image from 'next/image';
 import sjPrinters from '@/data/sj-printers.json';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/pad-printers/sj',
+  },
   title: 'Catalog Máy In Pad SJ | VNPIS',
   description: 'Danh mục chi tiết toàn bộ các model máy in pad của hãng SJ (SanJin) (Từ 1 màu cơ bản đến 8 màu tự động)',
 };

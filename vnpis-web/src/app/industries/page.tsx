@@ -4,6 +4,9 @@ import { Apple, Pill, Shirt, Package, Cpu, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/industries',
+  },
   title: 'Các Ngành Nghề Ứng Dụng | VNPIS - Giải Pháp In Ấn Công Nghiệp',
   description: 'Khám phá các giải pháp in ấn công nghiệp, mã hóa dữ liệu biến đổi và truy xuất nguồn gốc chuyên biệt cho ngành Thực phẩm, Dược phẩm, May mặc, Bao bì, Điện tử.',
 };

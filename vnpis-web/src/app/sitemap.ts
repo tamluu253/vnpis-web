@@ -32,6 +32,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }));
 
   const coreServices = [
+    '/products',
+    '/services',
+    '/solutions',
     '/in-tampon',
     '/in-lua',
     '/muc-in-cij',

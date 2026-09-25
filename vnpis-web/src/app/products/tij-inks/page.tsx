@@ -3,6 +3,9 @@ import React from 'react';
 import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/tij-inks',
+  },
   title: 'Hộp Mực TIJ Tương Thích VNPIS | In Mã QR Tốc Độ Cao, Không Mờ',
   description: 'Hộp mực in nhiệt TIJ tương thích hoàn hảo. Tốc độ khô cực nhanh, in mã vạch và QR code độ phân giải cao trên bao bì nilon, giấy, bìa carton.',
 };

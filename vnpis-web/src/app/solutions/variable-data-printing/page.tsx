@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, QrCode, Zap, CheckCircle2, Factory, Package, Barcode, ScanLine } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/solutions/variable-data-printing',
+  },
   title: 'Variable Data Printing | Giải Pháp In Dữ Liệu Biến Đổi | VNPIS',
   description: 'Chuyên gia số 1 về in Dữ Liệu Biến Đổi (VDP). In mã QR Code định danh, Barcode, Serial Number tốc độ cao trực tiếp trên dây chuyền sản xuất.',
 };

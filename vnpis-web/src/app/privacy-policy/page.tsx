@@ -5,6 +5,9 @@ import Footer from '@/components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/privacy-policy',
+  },
   title: 'Chính Sách Bảo Mật | VNPIS',
   description: 'Chính sách bảo mật thông tin khách hàng và dữ liệu doanh nghiệp tại Công ty TNHH VNPIS.',
 };

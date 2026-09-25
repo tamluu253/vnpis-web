@@ -6,6 +6,9 @@ import Image from 'next/image';
 import hjPrinters from '@/data/hj-printers.json';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/pad-printers/hj',
+  },
   title: 'Catalog Máy In Pad HJ | VNPIS',
   description: 'Danh mục chi tiết toàn bộ các model máy in pad công nghiệp chính hãng HJ chuẩn thông số kỹ thuật nhà máy.',
 };

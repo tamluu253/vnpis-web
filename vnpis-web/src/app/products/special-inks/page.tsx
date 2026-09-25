@@ -7,6 +7,9 @@ import ConsultationForm from '@/components/ui/ConsultationForm';
 
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/special-inks',
+  },
   title: 'Mực In CIJ, TIJ Đặc Biệt | VNPIS - Giải Pháp In Phun Công Nghiệp',
   description: 'Chuyên cung cấp các dòng mực in CIJ, TIJ đặc biệt: mực tàng hình, mực chịu nhiệt, mực thực phẩm in trứng, mực kháng cồn, kháng lưu hóa.',
 };

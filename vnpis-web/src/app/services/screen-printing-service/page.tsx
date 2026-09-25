@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, CheckCircle2, Factory, PackageCheck, Truck, Droplet } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/services/screen-printing-service',
+  },
   title: 'Dịch Vụ In Gia Công Lụa (Screen Printing Service) | VNPIS',
   description: 'Nhận gia công in lụa công nghiệp số lượng lớn. In trên mọi bề mặt: nhựa, thủy tinh, kim loại. Chất lượng cao, cam kết độ bám dính, đáp ứng tiến độ khắt khe.',
 };

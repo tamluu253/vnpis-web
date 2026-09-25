@@ -6,6 +6,9 @@ import Image from 'next/image';
 import mcPrinters from '@/data/mc-printers.json';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/pad-printers/mc',
+  },
   title: 'Catalog Máy In Pad Meichao (MC) | VNPIS',
   description: 'Danh mục các dòng máy in pad chất lượng cao của hãng Meichao (MC series).',
 };

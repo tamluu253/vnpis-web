@@ -6,6 +6,9 @@ import Image from 'next/image';
 import sjHotStamping from '@/data/sj-hotstamping.json';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/hot-stamping/sj',
+  },
   title: 'Catalog Máy Ép Nhũ SJ | VNPIS',
   description: 'Danh mục chi tiết toàn bộ các model máy ép nhũ (Hot Stamping) của hãng SJ.',
 };

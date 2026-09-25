@@ -1,3 +1,11 @@
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/dbg',
+  },
+};
+
 export const dynamicParams = true;
 export const dynamic = 'force-dynamic';
 import React from 'react';

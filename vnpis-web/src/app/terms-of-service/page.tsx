@@ -5,6 +5,9 @@ import Footer from '@/components/Footer';
 import Link from 'next/link';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/terms-of-service',
+  },
   title: 'Điều Khoản Dịch Vụ | VNPIS',
   description: 'Điều khoản sử dụng dịch vụ và chính sách cung cấp thiết bị, vật tư in công nghiệp tại VNPIS.',
 };

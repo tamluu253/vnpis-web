@@ -6,6 +6,9 @@ import SpecialInksCatalog from '@/components/products/SpecialInksCatalog';
 import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/tij-ink',
+  },
   title: 'Mực In Nhiệt TIJ (Thermal Inkjet) | Độ Phân Giải Cao | VNPIS',
   description: 'Mực in TIJ chất lượng cao dùng cho hộp mực 12.7mm, 25.4mm. In barcode, QR code siêu nét 600dpi, bám chắc trên thùng carton, bao bì màng, hộp giấy.',
 };

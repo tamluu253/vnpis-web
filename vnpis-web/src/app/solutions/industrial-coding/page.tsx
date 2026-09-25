@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, CheckCircle2, BarChart3, Clock, Settings, Package, Cpu } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/solutions/industrial-coding',
+  },
   title: 'Industrial Coding | In Date, Lô, Barcode Công Nghiệp | VNPIS',
   description: 'Giải pháp in phun công nghiệp (Industrial Coding & Marking) cho dây chuyền sản xuất: In Date, Số Lô, Barcode bằng công nghệ CIJ và TIJ.',
 };

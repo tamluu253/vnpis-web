@@ -38,6 +38,9 @@ const screenPrinters = [
 ];
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/screen-printers',
+  },
   title: 'Máy In Lụa (Screen Printing) Công Nghiệp | SJ, HJ',
   description: 'Tổng hợp danh mục máy in lụa công nghiệp chính hãng SJ, HJ. Bán tự động, in lụa tròn 360 độ chai lọ, bàn hút chân không.',
 };

@@ -2,6 +2,9 @@ export const dynamicParams = true;
 import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/epson-printheads',
+  },
   title: 'Epson Printheads | VNPIS Industrial Solutions',
   description: 'Enterprise solutions for Epson Printheads by VNPIS.',
 };

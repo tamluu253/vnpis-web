@@ -5,6 +5,9 @@ import { Layers, ArrowRight } from 'lucide-react';
 import ConsultationForm from '@/components/ui/ConsultationForm';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/hot-stamping',
+  },
   title: 'Máy Ép Nhũ (Hot Stamping) | SJ',
   description: 'Tổng hợp các dòng máy ép nhũ nóng, ép kim (Hot Stamping) chất lượng cao từ SJ.',
 };

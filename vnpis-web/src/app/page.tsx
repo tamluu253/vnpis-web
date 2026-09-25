@@ -1,3 +1,11 @@
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com',
+  },
+};
+
 export const dynamicParams = true;
 import React from 'react';
 import Link from 'next/link';

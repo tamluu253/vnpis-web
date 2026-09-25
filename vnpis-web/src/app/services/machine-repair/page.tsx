@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { ArrowRight, Wrench, Settings, Cog, CheckCircle2, ShieldCheck, Phone } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/services/machine-repair',
+  },
   title: 'Bảo Trì & Sửa Chữa Máy In (Machine Repair) | VNPIS',
   description: 'Dịch vụ sửa chữa, bảo trì máy in phun công nghiệp CIJ (Videojet, Domino, Linx), máy in lụa, máy in tampon. Đội ngũ kỹ sư >10 năm kinh nghiệm xử lý sự cố.',
 };

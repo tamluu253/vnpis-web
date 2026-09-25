@@ -3,6 +3,9 @@ import React from 'react';
 import LandingPage from '@/components/templates/LandingPage';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/cij-inks',
+  },
   title: 'Mực In CIJ Tương Thích VNPIS | Bám Dính Cao, Chịu Nhiệt, Chống Cồn',
   description: 'Giải pháp mực in phun liên tục CIJ VNPIS tương thích 100% với máy Hitachi, Videojet, Leibinger. Mực in cáp điện, mực đông lạnh, mực chịu nhiệt 300 độ C.',
 };

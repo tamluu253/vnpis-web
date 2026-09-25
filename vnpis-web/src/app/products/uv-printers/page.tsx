@@ -6,6 +6,9 @@ import { ArrowRight, CheckCircle2, Factory, Zap, Settings, ShieldCheck, Eye, Lay
 import uvPrinters from '@/data/uv-printers.json';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/uv-printers',
+  },
   title: 'Máy In UV Single Pass (Máy Cấp Tờ Rời & Máy Cuộn Camera Inspection) | VNPIS',
   description: 'Hệ thống máy in UV Single Pass dạng cấp tờ rời tự động và dạng cuộn tích hợp Camera Inspection kiểm phẩm mã QR/Barcode 100%. Tốc độ 150m/phút.',
 };

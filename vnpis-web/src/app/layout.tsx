@@ -12,9 +12,6 @@ const fontMain = Plus_Jakarta_Sans({ subsets: ['latin', 'vietnamese'], variable:
 
 export const metadata = {
   metadataBase: new URL('https://vnpis.com'),
-  alternates: {
-    canonical: '/',
-  },
   title: {
     default: 'VNPIS | Giải Pháp In Ấn Công Nghiệp Toàn Diện',
     template: '%s | VNPIS - Giải Pháp In Ấn Công Nghiệp Toàn Diện',

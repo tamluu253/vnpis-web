@@ -40,6 +40,9 @@ const padPrinters = [
 ];
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products/pad-printers',
+  },
   title: 'Máy In Pad (Tampography) Công Nghiệp | SJ, MC, HJ, DL',
   description: 'Tổng hợp các model máy in Pad 1 màu, 2 màu, 4 màu tự động từ các nhà cung cấp uy tín: SJ, MC, HJ, DL.',
 };

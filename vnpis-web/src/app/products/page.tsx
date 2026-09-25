@@ -4,6 +4,9 @@ import Link from 'next/link';
 import { Package, ArrowRight, Printer, Droplet, ScanLine, Tag, Zap } from 'lucide-react';
 
 export const metadata = {
+  alternates: {
+    canonical: 'https://vnpis.com/products',
+  },
   title: 'Danh Mục Sản Phẩm | VNPIS',
   description: 'Khám phá các giải pháp thiết bị công nghiệp, máy in, mực in và hệ thống RFID từ VNPIS.',
 };
