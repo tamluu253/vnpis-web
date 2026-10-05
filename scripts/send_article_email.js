@@ -4,8 +4,13 @@ let nodemailer;
 try {
     nodemailer = require('nodemailer');
 } catch (e) {
-    nodemailer = null;
+    try {
+        nodemailer = require(path.join(process.cwd(), 'vnpis-web', 'node_modules', 'nodemailer'));
+    } catch (e2) {
+        nodemailer = null;
+    }
 }
+
 
 async function sendArticleNotification(articleFilePath, recipientEmail = process.env.TARGET_EMAIL || "info@vnpis.com") {
     if (!fs.existsSync(articleFilePath)) {
