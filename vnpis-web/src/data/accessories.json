@@ -553,7 +553,7 @@
         "Thoa tạo màng siêu mỏng",
         "Phù hợp tiêu chuẩn xuất khẩu"
       ],
-      "image": "/images/products/additives/primer.jpg"
+      "image": "/images/products/additives/primer.webp"
     },
     {
       "id": "add-retarder",
@@ -567,7 +567,7 @@
         "Giữ màng mực dẻo mượt",
         "Không gây biến đổi sắc màu"
       ],
-      "image": "/images/products/additives/retarder.jpg"
+      "image": "/images/products/additives/retarder.webp"
     },
     {
       "id": "add-hardener",
@@ -582,7 +582,7 @@
         "Chống trầy xước tuyệt đối",
         "Bảo vệ màng mực siêu bền"
       ],
-      "image": "/images/products/additives/hardener.jpg"
+      "image": "/images/products/additives/hardener.webp"
     }
   ]
 }
