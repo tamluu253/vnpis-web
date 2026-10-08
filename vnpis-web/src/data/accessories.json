@@ -259,55 +259,224 @@
   "accessories": [
     {
       "id": "acc-ink-cup",
-      "name": "Cốc Mực (Sealed Ink Cup)",
-      "desc": "Đa dạng các loại cốc mực: Cốc nhựa, cốc nhôm nguyên khối, cốc có từ tính (nam châm) hoặc cốc không từ tính. Nhận gia công theo bản vẽ.",
+      "name": "Cốc Mực Kín (Sealed Ink Cups)",
+      "keyword": "cốc mực in tampon",
+      "material": "Hợp kim nhôm nguyên khối Anodized CNC, Nam châm Neodymium vĩnh cửu, Nhựa POM",
+      "desc": "Cốc mực kín công nghiệp cho máy in tampon (pad printing): Thân nhôm CNC nguyên khối anodize chống ăn mòn hóa chất, đáy tích hợp nam châm lực hút cực mạnh (Strong Magnetic Force) ép đều mép dao xuống khuôn in. Ngăn chặn triệt để bay hơi dung môi, giữ độ nhớt mực ổn định và tiết kiệm mực in đến 40%. Đầy đủ dòng cốc nhôm tiêu chuẩn, cốc khảm sứ chống dính (Embedded ceramic) chuyên dụng cho mực kim loại quý và cốc mực kẹp gioăng chữ U không cần keo dán.",
+      "image": "/images/products/accessories/ink-cups.webp",
+      "gallery": [
+        "/images/products/accessories/ink-cups.webp",
+        "/images/products/accessories/ink-cup-90x82.webp",
+        "/images/products/accessories/ink-cup-100x90.webp",
+        "/images/products/accessories/ink-cup-embedded.webp",
+        "/images/products/accessories/ink-cup-u-seal.webp",
+        "/images/products/accessories/ink-cup-variants-grid.webp"
+      ],
       "sizes": [
         "Ø60mm",
-        "Ø90mm",
+        "Ø70mm",
+        "Ø80mm",
+        "Ø90mm (/90×82/)",
+        "Ø100mm (/100×90/)",
+        "Ø110mm",
+        "Ø120mm",
         "Ø130mm",
+        "Ø140mm",
         "Ø150mm",
-        "Gia công theo yêu cầu"
+        "Ø160mm",
+        "Ø200mm"
       ],
       "features": [
-        "Chống bay hơi dung môi",
-        "Kín khí tiết kiệm mực",
-        "Nhôm nguyên khối CNC"
+        "Nhôm nguyên khối CNC chống ăn mòn, Anodize màu thẩm mỹ (bạc, xanh dương, vàng, đen)",
+        "Nam châm vĩnh cửu lực hút mạnh (Strong Magnetic Force) chống xì mực và ổn định áp lực",
+        "Tiết kiệm đến 40% mực in và chống bay hơi dung môi",
+        "Tích hợp van thông hơi, núm điều áp xả khí tiện lợi",
+        "Có dòng Cốc khảm sứ chống bám dính mực quý & Cốc gioăng chữ U thay thế không cần keo"
       ],
-      "image": "/images/products/accessories/ink-cups.webp"
+      "categories": [
+        {
+          "type": "Cốc Mực Nhôm Từ Tính Tiêu Chuẩn (Standard Magnetic Cups)",
+          "desc": "Thân nhôm CNC cao cấp, đế nam châm phân bổ đều quanh chu vi, có núm xoay điều chỉnh áp lực gạt mực.",
+          "specs": "Quy cách: Ø60mm, Ø90mm (/90×82/), Ø100mm (/100×90/), Ø130mm, Ø150mm"
+        },
+        {
+          "type": "Cốc Mực Khảm Sứ Chống Bám Dính (Embedded Ceramic Ink Cup)",
+          "desc": "Toàn bộ lòng trong cốc được tráng gốm sứ Zirconia siêu trơn, mực chỉ tiếp xúc với sứ, không dính thành cốc, tiết kiệm mực kim loại quý và dễ rửa sạch.",
+          "specs": "Mã 32×24 A TYPE (Lưỡi Ø30mm) & Mã 80×65 A TYPE (Lưỡi Ø78mm)"
+        },
+        {
+          "type": "Cốc Mực Dùng Gioăng Chữ U Không Cần Keo (U-Shaped Sealing Ring Cup)",
+          "desc": "Chuyên dụng cho máy Wing Long Tampo Cabinet, Rongrong Tampo micro-cabinet. Kẹp vòng dao bằng gioăng cao su chữ U, thay thế trong 10 giây mà không cần keo dán phức tạp.",
+          "specs": "Quy cách: 65×60×5.2, 95×90×5.2, 95×90×6, 125×120×6, 135×130×6, 140×135×6, 185×180×6, 195×190×6, 247×242×6mm"
+        }
+      ]
     },
     {
       "id": "acc-ceramic-ring",
-      "name": "Vòng Gốm Gạt Mực (Ceramic Ring)",
-      "desc": "Vòng gốm siêu cứng gắn trên cốc mực. Chịu mài mòn cực tốt, gạt sạch mực thừa trên bề mặt khuôn thép mà không làm xước khuôn.",
+      "name": "Vòng Sứ Gạt Mực (Ceramic Ring)",
+      "keyword": "vòng sứ gạt mực",
+      "material": "Gốm Zirconia cao cấp (Premium Zirconia Ceramic)",
+      "desc": "Vòng sứ gạt mực (Ceramic Ring) chuyên dụng cho cốc mực kín máy in Tampon (Pad printing). Chế tác từ vật liệu Zirconia siêu cứng với độ bóng bề mặt lưỡi cực cao, gạt sạch 100% mực thừa trên bề mặt khuôn in thép hoặc polymer mà không gây trầy xước, kéo dài tuổi thọ khuôn in gấp nhiều lần.",
+      "image": "/images/products/accessories/ceramic-ring.webp",
+      "gallery": [
+        "/images/products/accessories/ceramic-ring.webp",
+        "/images/products/accessories/carbide-ceramic-pair.webp",
+        "/images/products/accessories/blade-edges.webp"
+      ],
       "sizes": [
+        "Ø47mm",
         "Ø60mm",
+        "Ø65mm",
+        "Ø70mm",
+        "Ø80mm",
         "Ø90mm",
+        "Ø100mm",
+        "Ø110mm",
+        "Ø120mm",
         "Ø130mm",
-        "Ø150mm"
+        "Ø140mm",
+        "Ø150mm",
+        "Ø160mm",
+        "Ø180mm",
+        "Ø200mm",
+        "Ø210mm"
       ],
       "features": [
-        "Gốm Zirconia siêu cứng",
-        "Độ bóng bề mặt lưỡi cực cao",
-        "Chống xước bản thép"
+        "Gốm Zirconia siêu cứng, chống mài mòn hóa chất và mực in",
+        "Độ bóng bề mặt lưỡi cực cao, gạt sạch phẳng không để lại vệt xước trên khuôn",
+        "Chống trầy xước và kéo dài tuổi thọ khuôn in thép / polymer",
+        "Đầy đủ 6 biên dạng vát lưỡi gạt (AP-1 đến AP-6)",
+        "Đáp ứng mọi quy cách từ Ø47mm đến Ø210mm và nhận gia công theo bản vẽ"
       ],
-      "image": "/images/products/accessories/ceramic-ring.jpg"
+      "bladeProfiles": [
+        { "code": "AP-1", "name": "Vát 1 cạnh góc vuông ngoài (Single right angle outward blade)" },
+        { "code": "AP-2", "name": "Vát chữ V 1 mặt (Single V shape blade) - Tiêu chuẩn phổ biến nhất" },
+        { "code": "AP-3", "name": "Vát đôi chữ V 2 mặt (Double V shape blade)" },
+        { "code": "AP-4", "name": "Vát đôi góc vuông ngoài (Double right angle outward blade)" },
+        { "code": "AP-5", "name": "Vát góc nhỏ bản lớn (Single the largest of the small blade)" },
+        { "code": "AP-6", "name": "Vát 1 cạnh góc vuông trong (Single right angle inner blade)" }
+      ],
+      "models": [
+        "Φ47 × Φ42 × 5.0/8 mm",
+        "Φ60 × Φ53 × 10/13 mm",
+        "Φ65 × Φ58 × 10/12 mm",
+        "Φ65 × Φ60 × 5.2/6 mm",
+        "Φ70 × Φ60 × 12/13 mm",
+        "Φ74 × Φ70 × 9 mm",
+        "Φ80 × Φ70 × 12/14 mm",
+        "Φ90 × Φ80 × 12/13 mm",
+        "Φ90 × Φ82 × 12/14 mm",
+        "Φ94 × Φ90 × 9 mm",
+        "Φ95 × Φ90 × 5.2/6 mm",
+        "Φ96 × Φ90 × 8/10 mm",
+        "Φ100 × Φ90 × 12/14 mm",
+        "Φ110 × Φ100 × 12/14 mm",
+        "Φ112.5 × Φ88.5 × 14 mm",
+        "Φ113 × Φ100 × 14 mm",
+        "Φ120 × Φ110 × 12/14 mm",
+        "Φ125 × Φ115 × 12/14 mm",
+        "Φ130 × Φ120 × 12/14 mm",
+        "Φ135 × Φ125 × 12/14 mm",
+        "Φ136 × Φ120 × 16/17 mm",
+        "Φ140 × Φ130 × 12/14 mm",
+        "Φ140 × Φ135 × 6 mm",
+        "Φ150 × Φ140 × 12/14 mm",
+        "Φ160 × Φ150 × 12/14 mm",
+        "Φ170 × Φ160 × 12/14 mm",
+        "Φ180 × Φ170 × 12/14 mm",
+        "Φ190 × Φ180 × 12/14 mm",
+        "Φ200 × Φ190 × 12/14 mm",
+        "Φ201 × Φ189 × 12/16 mm",
+        "Φ210 × Φ200 × 12/14 mm"
+      ]
     },
     {
       "id": "acc-tungsten-ring",
       "name": "Vòng Thép Gạt Mực (Tungsten Ring)",
-      "desc": "Làm từ thép Tungsten Carbide nguyên khối, chống mẻ vỡ khi va đập, tuổi thọ cao hơn gốm khi dùng với khuôn thép dày.",
+      "keyword": "vòng thép gạt mực",
+      "material": "Thép hợp kim Vonfram (Tungsten Carbide)",
+      "desc": "Vòng thép gạt mực Tungsten Carbide (Carbide Ink Cup Rings) gia công từ hợp kim Vonfram nguyên khối siêu bền, chịu va đập cực tốt mà không lo nứt mẻ như vòng sứ khi thao tác vệ sinh. Khả năng chống mòn vượt trội, tối ưu cho máy in tampon tốc độ cao, ca sản xuất lớn liên tục và kết hợp hoàn hảo cùng khuôn thép dày 10mm.",
+      "image": "/images/products/accessories/tungsten-ring.webp",
+      "gallery": [
+        "/images/products/accessories/tungsten-ring.webp",
+        "/images/products/accessories/carbide-ceramic-pair.webp",
+        "/images/products/accessories/blade-edges.webp"
+      ],
       "sizes": [
+        "Ø33mm",
+        "Ø44mm",
+        "Ø55mm",
         "Ø60mm",
+        "Ø65mm",
+        "Ø70mm",
+        "Ø80mm",
         "Ø90mm",
-        "Ø130mm",
-        "Ø150mm"
+        "Ø100mm",
+        "Ø120mm",
+        "Ø135mm",
+        "Ø140mm",
+        "Ø155mm",
+        "Ø165mm",
+        "Ø185mm",
+        "Ø200mm",
+        "Ø220mm",
+        "Ø247mm"
       ],
       "features": [
-        "Thép Tungsten Carbide",
-        "Chống va đập nứt vỡ",
-        "Bền bỉ cho ca sản xuất lớn"
+        "Hợp kim Tungsten Carbide nguyên khối chống nứt vỡ và chịu va đập tuyệt đối",
+        "Độ bền cơ học vượt bậc, không mẻ góc khi rơi hoặc tháo lắp",
+        "Tối ưu cho ca in lớn liên tục và kết hợp cùng khuôn thép dày 10mm",
+        "Đầy đủ 6 biên dạng vát lưỡi gạt (AP-1 đến AP-6)",
+        "Quy cách siêu đa dạng từ mini Ø33mm đến đại công nghiệp Ø247mm"
       ],
-      "image": "/images/products/accessories/tungsten-ring.jpg"
+      "bladeProfiles": [
+        { "code": "AP-1", "name": "Vát 1 cạnh góc vuông ngoài (Single right angle outward blade)" },
+        { "code": "AP-2", "name": "Vát chữ V 1 mặt (Single V shape blade) - Tiêu chuẩn phổ biến nhất" },
+        { "code": "AP-3", "name": "Vát đôi chữ V 2 mặt (Double V shape blade)" },
+        { "code": "AP-4", "name": "Vát đôi góc vuông ngoài (Double right angle outward blade)" },
+        { "code": "AP-5", "name": "Vát góc nhỏ bản lớn (Single the largest of the small blade)" },
+        { "code": "AP-6", "name": "Vát 1 cạnh góc vuông trong (Single right angle inner blade)" }
+      ],
+      "models": [
+        "Φ33 × Φ28 × 5.5 mm",
+        "Φ44 × Φ37 × 9 mm",
+        "Φ46 × Φ42 × 12 mm",
+        "Φ55 × Φ50 × 5.5/8 mm",
+        "Φ60 × Φ53 × 10/12 mm",
+        "Φ65 × Φ60 × 5.2/6 mm",
+        "Φ70 × Φ60 × 12 mm",
+        "Φ74 × Φ70 × 9 mm",
+        "Φ80 × Φ70 × 12 mm",
+        "Φ85 × Φ80 × 6.5 mm",
+        "Φ90 × Φ80 × 12 mm",
+        "Φ90 × Φ82 × 12/14 mm",
+        "Φ94 × Φ90 × 9 mm",
+        "Φ95 × Φ90 × 5.2/6 mm",
+        "Φ96 × Φ90 × 8/10 mm",
+        "Φ100 × Φ90 × 12/14 mm",
+        "Φ105 × Φ100 × 5.2/6 mm",
+        "Φ115 × Φ110 × 5.2/6 mm",
+        "Φ120 × Φ110 × 12/14 mm",
+        "Φ125 × Φ120 × 5.2/6 mm",
+        "Φ135 × Φ125 × 12/14 mm",
+        "Φ135 × Φ130 × 5.2/6 mm",
+        "Φ136 × Φ126 × 14 mm",
+        "Φ140 × Φ130 × 12/14 mm",
+        "Φ140 × Φ135 × 6 mm",
+        "Φ147 × Φ142 × 6 mm",
+        "Φ155 × Φ150 × 5.2/6 mm",
+        "Φ165 × Φ155 × 12/14 mm",
+        "Φ165 × Φ160 × 5.2/6 mm",
+        "Φ175 × Φ165 × 12/14 mm",
+        "Φ185 × Φ180 × 5.2/6 mm",
+        "Φ190 × Φ180 × 12/16 mm",
+        "Φ190 × Φ185 × 5.2/6 mm",
+        "Φ192 × Φ180 × 12/16 mm",
+        "Φ195 × Φ190 × 5.2/6 mm",
+        "Φ200 × Φ190 × 12/14 mm",
+        "Φ220 × Φ210 × 12/16 mm",
+        "Φ247 × Φ242 × 5.2/6 mm"
+      ]
     },
     {
       "id": "acc-double-material-ring",
@@ -324,7 +493,7 @@
         "Lưỡi Tungsten gạt cực sạch",
         "Tối ưu chi phí thay thế"
       ],
-      "image": "/images/products/accessories/double-material-ring.jpg"
+      "image": "/images/products/accessories/carbide-ceramic-pair.webp"
     },
     {
       "id": "acc-doctor-blade",

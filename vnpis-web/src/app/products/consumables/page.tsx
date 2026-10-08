@@ -3,7 +3,7 @@ export const dynamicParams = true;
 
 import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
-import { ArrowLeft, ArrowRight, CheckCircle2, ShieldAlert, Package, Layers, CircleDot, Settings, Droplet, Beaker } from 'lucide-react';
+import { ArrowLeft, ArrowRight, CheckCircle2, ShieldAlert, Package, Layers, CircleDot, Settings, Droplet, Beaker, ChevronDown, ChevronUp, Image as ImageIcon } from 'lucide-react';
 import inksData from '@/data/inks.json';
 import accessoriesData from '@/data/accessories.json';
 
@@ -22,6 +22,9 @@ type TabType = 'inks' | 'pads' | 'plates' | 'accessories' | 'additives';
 export default function ConsumablesPage() {
   const [activeTab, setActiveTab] = useState<TabType>('inks');
   const [selectedMaterial, setSelectedMaterial] = useState<string>('Tất cả');
+  const [activeGallery, setActiveGallery] = useState<Record<string, string>>({});
+  const [expandedModels, setExpandedModels] = useState<Record<string, boolean>>({});
+  const [expandedProfiles, setExpandedProfiles] = useState<Record<string, boolean>>({});
 
   // Logic lọc cho Mực in
   const allMaterials = useMemo(() => {
@@ -352,52 +355,189 @@ export default function ConsumablesPage() {
              <div className="bg-emerald-900 rounded-3xl p-8 md:p-10 text-white shadow-xl relative overflow-hidden">
               <div className="relative z-10 max-w-3xl">
                 <div className="inline-flex items-center gap-2 px-3 py-1 bg-emerald-500/20 border border-emerald-400/30 rounded-full text-emerald-300 text-xs font-bold uppercase tracking-wider mb-4">
-                  VNPIS Premium Spare Parts
+                  VNPIS Premium Spare Parts & Rings
                 </div>
                 <h2 className="text-3xl md:text-4xl font-black mb-4 flex items-center">
                   <Settings className="w-8 h-8 mr-3 text-emerald-400"/> Linh Kiện & Phụ Kiện Tiêu Hao
                 </h2>
-                <p className="text-emerald-100 text-lg leading-relaxed">
-                  Đảm bảo máy in luôn vận hành mượt mà với các phụ kiện thay thế chuẩn Châu Âu: Cốc mực sealed cup nhôm nguyên khối, Vòng gốm Zirconia, Vòng gạt thép Tungsten Carbide, Dao gạt Thụy Điển và Tấm lót khay mực dùng 1 lần.
+                <p className="text-emerald-100 text-lg leading-relaxed mb-4">
+                  Phụ kiện cốc mực và vòng gạt công nghiệp đạt chuẩn quốc tế: <strong className="text-white">Vòng sứ gạt mực</strong> Zirconia siêu phẳng chống xước bản thép, <strong className="text-white">Vòng thép gạt mực</strong> Tungsten Carbide siêu bền chống mẻ vỡ va đập, Cốc mực nhôm nguyên khối từ tính lực hút mạnh, Cốc khảm sứ chống hao mực quý, Dao gạt Thụy Điển và Tấm lót khay mực dùng 1 lần.
                 </p>
+                <div className="flex flex-wrap gap-3 text-xs font-bold">
+                  <span className="bg-emerald-800/60 px-3.5 py-1.5 rounded-lg border border-emerald-700/50">✓ Đầy đủ quy cách Ø33mm đến Ø247mm</span>
+                  <span className="bg-emerald-800/60 px-3.5 py-1.5 rounded-lg border border-emerald-700/50">✓ 6 kiểu biên dạng lưỡi gạt AP-1 ~ AP-6</span>
+                  <span className="bg-emerald-800/60 px-3.5 py-1.5 rounded-lg border border-emerald-700/50">✓ Nhận gia công theo bản vẽ kỹ thuật</span>
+                </div>
               </div>
             </div>
             
-            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {accessoriesData.accessories.map(item => (
-                <div key={item.id} className="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 hover:shadow-xl transition-all group flex flex-col justify-between">
-                  <div>
-                    <div className="w-full h-52 bg-slate-50 rounded-xl overflow-hidden border border-slate-200 mb-6 p-4 flex items-center justify-center">
-                      <img src={item.image} alt={item.name} className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300" />
-                    </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2">{item.name}</h3>
-                    <p className="text-slate-600 mb-4 text-sm leading-relaxed">{item.desc}</p>
-                    
-                    {item.features && (
-                      <div className="space-y-1.5 mb-4">
-                        {item.features.map((f, i) => (
-                          <div key={i} className="flex items-center text-xs font-semibold text-emerald-800 bg-emerald-50 px-2.5 py-1 rounded-md">
-                            <CheckCircle2 className="w-3.5 h-3.5 mr-1.5 text-emerald-600 shrink-0" /> {f}
-                          </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              {accessoriesData.accessories.map((item: any) => {
+                const currentImg = activeGallery[item.id] || item.image;
+                const isModelsOpen = !!expandedModels[item.id];
+                const isProfilesOpen = !!expandedProfiles[item.id];
+
+                return (
+                  <div key={item.id} className="bg-white rounded-2xl p-6 shadow-sm border border-slate-200 hover:shadow-xl transition-all group flex flex-col justify-between">
+                    <div>
+                      {/* Main Image */}
+                      <div className="w-full h-56 bg-slate-50 rounded-xl overflow-hidden border border-slate-200 mb-3 p-3 flex items-center justify-center relative">
+                        <img 
+                          src={currentImg} 
+                          alt={item.name} 
+                          className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-300" 
+                        />
+                        {item.keyword && (
+                          <span className="absolute top-2.5 left-2.5 px-2.5 py-1 rounded-md text-[11px] font-black bg-emerald-600 text-white shadow-sm">
+                            {item.keyword}
+                          </span>
+                        )}
+                      </div>
+
+                      {/* Image Gallery Switcher (if multiple images) */}
+                      {item.gallery && item.gallery.length > 1 && (
+                        <div className="flex gap-2 mb-4 overflow-x-auto pb-1.5 hide-scrollbar">
+                          {item.gallery.map((gImg: string, gIdx: number) => {
+                            const isSelected = currentImg === gImg;
+                            return (
+                              <button
+                                key={gIdx}
+                                type="button"
+                                onClick={() => setActiveGallery(prev => ({ ...prev, [item.id]: gImg }))}
+                                className={`w-12 h-12 rounded-lg border p-1 bg-white shrink-0 overflow-hidden transition-all ${
+                                  isSelected 
+                                    ? 'border-emerald-600 ring-2 ring-emerald-400 shadow-sm' 
+                                    : 'border-slate-200 opacity-60 hover:opacity-100 hover:border-slate-300'
+                                }`}
+                                title={`Xem hình ảnh ${gIdx + 1}`}
+                              >
+                                <img src={gImg} alt={`${item.name} ${gIdx + 1}`} className="w-full h-full object-contain" />
+                              </button>
+                            );
+                          })}
+                        </div>
+                      )}
+
+                      {/* Title & Material */}
+                      <div className="mb-3">
+                        <h3 className="text-xl font-bold text-slate-900 mb-1">{item.name}</h3>
+                        {item.material && (
+                          <p className="text-xs font-semibold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-md border border-emerald-100 inline-block mb-1">
+                            {item.material}
+                          </p>
+                        )}
+                      </div>
+
+                      <p className="text-slate-600 mb-4 text-sm leading-relaxed">{item.desc}</p>
+                      
+                      {/* Features */}
+                      {item.features && (
+                        <div className="space-y-1.5 mb-4">
+                          {item.features.map((f: string, i: number) => (
+                            <div key={i} className="flex items-start text-xs font-semibold text-emerald-900 bg-emerald-50/70 p-2 rounded-lg border border-emerald-100">
+                              <CheckCircle2 className="w-3.5 h-3.5 mr-2 text-emerald-600 shrink-0 mt-0.5" />
+                              <span>{f}</span>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Categories breakdown (for Ink Cups) */}
+                      {item.categories && item.categories.length > 0 && (
+                        <div className="mb-4 space-y-2 border-t border-slate-100 pt-3">
+                          <span className="text-xs font-bold text-slate-400 uppercase block mb-1">Các dòng cốc mực chính:</span>
+                          {item.categories.map((cat: any, cIdx: number) => (
+                            <div key={cIdx} className="bg-slate-50 border border-slate-200 rounded-lg p-2.5 text-xs">
+                              <div className="font-bold text-slate-900 mb-1">{cat.type}</div>
+                              <p className="text-slate-600 mb-1 leading-snug">{cat.desc}</p>
+                              <div className="text-[11px] font-semibold text-emerald-700">{cat.specs}</div>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Common Sizes Badges */}
+                      <div className="flex flex-wrap gap-1.5 pt-3 border-t border-slate-100 mb-4">
+                        <span className="text-xs font-bold text-slate-400 uppercase w-full mb-1">Quy cách phổ biến:</span>
+                        {item.sizes.map((sz: string, i: number) => (
+                          <span key={i} className="inline-block px-2.5 py-1 bg-slate-100 text-slate-800 text-xs font-bold rounded-lg border border-slate-200">
+                            {sz}
+                          </span>
                         ))}
                       </div>
-                    )}
 
-                    <div className="flex flex-wrap gap-1.5 pt-3 border-t border-slate-100 mb-6">
-                      <span className="text-xs font-bold text-slate-400 uppercase w-full mb-1">Quy cách phổ biến:</span>
-                      {item.sizes.map((sz, i) => (
-                        <span key={i} className="inline-block px-2.5 py-1 bg-slate-100 text-slate-800 text-xs font-bold rounded-lg border border-slate-200">
-                          {sz}
-                        </span>
-                      ))}
+                      {/* Blade Profiles Expandable (AP-1 ~ AP-6) */}
+                      {item.bladeProfiles && item.bladeProfiles.length > 0 && (
+                        <div className="mb-4 border border-slate-200 rounded-xl overflow-hidden bg-slate-50">
+                          <button
+                            type="button"
+                            onClick={() => setExpandedProfiles(prev => ({ ...prev, [item.id]: !isProfilesOpen }))}
+                            className="w-full flex items-center justify-between p-3 text-xs font-bold text-slate-800 hover:bg-slate-100 transition-colors"
+                          >
+                            <span className="flex items-center">
+                              <ImageIcon className="w-3.5 h-3.5 mr-1.5 text-emerald-600" />
+                              6 Kiểu Biên Dạng Lưỡi Gạt (AP-1 ~ AP-6)
+                            </span>
+                            {isProfilesOpen ? <ChevronUp className="w-4 h-4 text-slate-500" /> : <ChevronDown className="w-4 h-4 text-slate-500" />}
+                          </button>
+                          
+                          {isProfilesOpen && (
+                            <div className="p-3 border-t border-slate-200 bg-white space-y-2">
+                              {item.bladeProfiles.map((p: any, pIdx: number) => (
+                                <div key={pIdx} className="text-xs flex items-start justify-between gap-2 border-b border-slate-100 pb-1.5 last:border-b-0">
+                                  <span className="font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded shrink-0">{p.code}</span>
+                                  <span className="text-slate-700 text-right leading-tight">{p.name}</span>
+                                </div>
+                              ))}
+                              <button
+                                type="button"
+                                onClick={() => setActiveGallery(prev => ({ ...prev, [item.id]: '/images/products/accessories/blade-edges.webp' }))}
+                                className="w-full mt-2 py-1.5 text-center text-xs font-bold text-emerald-700 bg-emerald-50 hover:bg-emerald-100 rounded-lg transition-colors border border-emerald-200 flex items-center justify-center gap-1"
+                              >
+                                Xem sơ đồ góc vát AP-1 ~ AP-6 trên hình
+                              </button>
+                            </div>
+                          )}
+                        </div>
+                      )}
+
+                      {/* Full Dimensions Model List Expandable */}
+                      {item.models && item.models.length > 0 && (
+                        <div className="mb-6 border border-slate-200 rounded-xl overflow-hidden bg-slate-50">
+                          <button
+                            type="button"
+                            onClick={() => setExpandedModels(prev => ({ ...prev, [item.id]: !isModelsOpen }))}
+                            className="w-full flex items-center justify-between p-3 text-xs font-bold text-slate-800 hover:bg-slate-100 transition-colors"
+                          >
+                            <span>Danh Mục Quy Cách Kỹ Thuật ({item.models.length} Kích Thước)</span>
+                            {isModelsOpen ? <ChevronUp className="w-4 h-4 text-slate-500" /> : <ChevronDown className="w-4 h-4 text-slate-500" />}
+                          </button>
+
+                          {isModelsOpen && (
+                            <div className="p-3 border-t border-slate-200 bg-white max-h-64 overflow-y-auto">
+                              <p className="text-[11px] text-slate-500 font-semibold mb-2">Đường kính ngoài (OD) × Đường kính trong (ID) × Chiều cao (H):</p>
+                              <div className="grid grid-cols-2 gap-1.5">
+                                {item.models.map((m: string, mIdx: number) => (
+                                  <div key={mIdx} className="bg-slate-50 hover:bg-emerald-50 text-slate-700 hover:text-emerald-900 border border-slate-200 rounded px-2 py-1 text-[11px] font-mono font-medium transition-colors">
+                                    {m}
+                                  </div>
+                                ))}
+                              </div>
+                            </div>
+                          )}
+                        </div>
+                      )}
                     </div>
-                  </div>
 
-                  <Link href="/contact" className="inline-flex items-center justify-center w-full py-3 bg-emerald-700 hover:bg-emerald-800 text-white font-bold rounded-xl transition-colors shadow-md text-sm">
-                    Tư Vấn & Báo Giá Phụ Kiện Này <ArrowRight className="w-4 h-4 ml-2"/>
-                  </Link>
-                </div>
-              ))}
+                    <Link 
+                      href="/contact" 
+                      className="inline-flex items-center justify-center w-full py-3.5 bg-emerald-700 hover:bg-emerald-800 text-white font-bold rounded-xl transition-colors shadow-md text-sm mt-2"
+                    >
+                      Tư Vấn & Báo Giá {item.name.split('(')[0].trim()} <ArrowRight className="w-4 h-4 ml-2"/>
+                    </Link>
+                  </div>
+                );
+              })}
             </div>
           </div>
         )}
