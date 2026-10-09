@@ -67,12 +67,12 @@ export default function ArticleContactCTA({ title, slug }: { title?: string; slu
               <div>
                 <div className="flex items-center justify-between mb-2">
                   <span className="text-amber-300 font-extrabold text-sm uppercase tracking-wider">
-                    {!isScreenPrinting ? '★ Chuyên Viên Ưu Tiên Tampon & KTS' : 'Kỹ Thuật Tampon & KTS'}
+                    {!isScreenPrinting ? '★ Chuyên viên ưu tiên tampon và kỹ thuật số' : 'Chuyên viên tampon và kỹ thuật số'}
                   </span>
                   <span className="text-xs bg-emerald-500/80 px-2 py-0.5 rounded text-white font-bold">Online</span>
                 </div>
                 <h4 className="text-xl font-black text-white mb-1">Mr. Tâm</h4>
-                <p className="text-xs text-blue-200 mb-3">Tư vấn in Tampon ly tô chén, in QR code &amp; mực in</p>
+                <p className="text-xs text-blue-200 mb-3">Tư vấn in tampon (pad print), in kỹ thuật số (dữ liệu biến đổi) và vật tư in</p>
               </div>
               
               <div className="flex items-center gap-2 mt-2">
