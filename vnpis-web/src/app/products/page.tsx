@@ -1,7 +1,7 @@
 export const dynamicParams = true;
 import React from 'react';
 import Link from 'next/link';
-import { Package, ArrowRight, Printer, Droplet, ScanLine, Tag, Zap } from 'lucide-react';
+import { Package, ArrowRight, Printer, Droplet, ScanLine, Tag, Zap, Settings } from 'lucide-react';
 
 export const metadata = {
   alternates: {
@@ -12,6 +12,12 @@ export const metadata = {
 };
 
 const productCategories = [
+  {
+    title: 'Cốc Mực, Vòng Gạt & Vật Tư In Tampon',
+    description: 'Cốc mực kín nam châm CNC, vòng sứ Zirconia siêu phẳng, vòng thép Tungsten chống mẻ, tấm lót khay mực dùng 1 lần, mực in Dubuit và đầu in silicone.',
+    href: '/products/consumables',
+    icon: <Settings className="w-10 h-10 text-emerald-500" />
+  },
   {
     title: 'Mực In CIJ/TIJ Đặc Biệt',
     description: 'Mực dùng cho máy in phun CIJ/TIJ nhưng có đặc tính chuyên dụng: kháng dung môi, chịu nhiệt độ cao, bám dính siêu việt trên thủy tinh, cáp điện, kim loại.',

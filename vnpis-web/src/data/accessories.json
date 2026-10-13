@@ -219,6 +219,25 @@
           "img": "/images/products/pads/pad_shape_31_p3.jpg"
         }
       ]
+    },
+    {
+      "id": "pad-series-a",
+      "name": "Đầu In Silicone & Khuôn Đúc Hút Định Hình Dòng A (A Series)",
+      "desc": "Đầu in silicone tròn tiêu chuẩn công nghiệp A Series được đúc chuẩn xác từ khuôn vỉ nhựa định hình chân không (Blister Mold). Bề mặt tiếp xúc vuốt thoát bọt khí tối ưu, phù hợp in nắp chai, linh kiện điện tử, đồ gia dụng và bề mặt cong tròn.",
+      "features": [
+        "Đúc từ khuôn vỉ định hình siêu nhẵn",
+        "Thoát bọt khí tâm nón tuyệt đối",
+        "Bảo toàn kích thước & độ đàn hồi cao"
+      ],
+      "image": "/images/products/pads/pad_4a_80.png",
+      "models": [
+        {
+          "code": "4A-80",
+          "size": "Ø 80 x 58 mm",
+          "type": "Tròn vát nón công nghiệp (Khuôn 4A)",
+          "img": "/images/products/pads/pad_4a_80.png"
+        }
+      ]
     }
   ],
   "plates": [

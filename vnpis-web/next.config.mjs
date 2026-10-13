@@ -17,8 +17,43 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/products/consumables/accessories',
+        destination: '/products/consumables/coc-muc-vong-gat-muc',
+        permanent: true,
+      },
+      {
+        source: '/products/consumables/coc-muc',
+        destination: '/products/consumables/coc-muc-vong-gat-muc',
+        permanent: true,
+      },
+      {
+        source: '/products/consumables/vong-gat-muc',
+        destination: '/products/consumables/coc-muc-vong-gat-muc',
+        permanent: true,
+      },
+      {
+        source: '/products/consumables/tam-lot-khay-muc',
+        destination: '/products/consumables/coc-muc-vong-gat-muc',
+        permanent: true,
+      },
+      {
         source: '/products/consumables/inks',
-        destination: '/products/consumables',
+        destination: '/products/consumables/muc-in',
+        permanent: true,
+      },
+      {
+        source: '/products/consumables/pads',
+        destination: '/products/consumables/dau-in-silicone',
+        permanent: true,
+      },
+      {
+        source: '/products/consumables/plates',
+        destination: '/products/consumables/khuon-in',
+        permanent: true,
+      },
+      {
+        source: '/products/consumables/additives',
+        destination: '/products/consumables/phu-gia-dung-moi',
         permanent: true,
       },
       {

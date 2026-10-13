@@ -1,5 +1,11 @@
 *
 !.gitignore
 !.github/
+!.github/**
 !vnpis-web/
 !vnpis-web/**
+!scripts/
+!scripts/**
+!vnpis_marketing/
+!vnpis_marketing/**
+

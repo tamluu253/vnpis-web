@@ -81,7 +81,8 @@ export default function Header() {
         { name: 'TIJ Ink', href: '/products/tij-ink' },
         { name: 'Special Inks', href: '/products/special-inks' },
         { name: 'Printheads', href: '/products/printheads' },
-        { name: 'Printing Consumables', href: '/products/consumables' },
+        { name: 'Cốc Mực & Vòng Gạt Mực', href: '/products/consumables/coc-muc-vong-gat-muc' },
+        { name: 'Vật Tư In Tampon & Lụa', href: '/products/consumables' },
       ]
     },
     {
