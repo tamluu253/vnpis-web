@@ -33,7 +33,6 @@ export const CONSUMABLE_TABS: TabItem[] = [
     href: '/products/consumables/coc-muc-vong-gat-muc',
     icon: Settings,
     activeColorClass: 'bg-emerald-600 text-white border-emerald-600 shadow-lg shadow-emerald-500/20',
-    badge: 'Hot SEO',
   },
   {
     id: 'inks',
