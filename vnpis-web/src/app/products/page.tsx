@@ -25,9 +25,9 @@ const productCategories = [
     icon: <Droplet className="w-10 h-10 text-purple-500" />
   },
   {
-    title: 'Hệ Thống Kho RFID (SME)',
-    description: 'Hệ thống kiểm kho tự động siêu tốc 1000 sản phẩm/5 phút. Trọn gói thiết bị, thẻ tag và phần mềm.',
-    href: '/products/rfid-warehouse-sme',
+    title: 'Hệ Thống Đọc Barcode & RFID',
+    description: 'Thiết bị đọc mã vạch công nghiệp, máy quét 1D/2D tốc độ cao và giải pháp nhận diện tự động cho nhà máy.',
+    href: '/products/barcode-readers',
     icon: <ScanLine className="w-10 h-10 text-orange-500" />
   },
   {

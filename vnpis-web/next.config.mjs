@@ -67,6 +67,16 @@ const nextConfig = {
         permanent: true,
       },
       {
+        source: '/kien-thuc/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/kien-thuc',
+        destination: '/blog',
+        permanent: true,
+      },
+      {
         source: '/kien-thuc/index',
         destination: '/blog',
         permanent: true,
@@ -74,6 +84,36 @@ const nextConfig = {
       {
         source: '/kien-thuc/index.html',
         destination: '/blog',
+        permanent: true,
+      },
+      {
+        source: '/tin-tuc/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/bai-viet/:slug',
+        destination: '/blog/:slug',
+        permanent: true,
+      },
+      {
+        source: '/ebook-in-pad',
+        destination: '/so-tay-in-pad',
+        permanent: true,
+      },
+      {
+        source: '/products/cij-printers',
+        destination: '/products/cij-ink',
+        permanent: true,
+      },
+      {
+        source: '/products/rfid-warehouse-sme',
+        destination: '/products/consumables',
+        permanent: true,
+      },
+      {
+        source: '/products/tij-printers',
+        destination: '/products/tij-ink',
         permanent: true,
       },
       {

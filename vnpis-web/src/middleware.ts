@@ -38,6 +38,31 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(new URL('/blog', request.url), 301);
   }
 
+  // Handle legacy blog paths: /kien-thuc, /tin-tuc, /bai-viet
+  for (const prefix of ['/kien-thuc', '/tin-tuc', '/bai-viet']) {
+    if (pathname === prefix || pathname === `${prefix}/`) {
+      return NextResponse.redirect(new URL('/blog', request.url), 301);
+    }
+    if (pathname.startsWith(`${prefix}/`)) {
+      const slug = pathname.slice(prefix.length + 1);
+      return NextResponse.redirect(new URL(`/blog/${slug}`, request.url), 301);
+    }
+  }
+
+  // Handle other legacy redirects
+  if (pathname === '/ebook-in-pad' || pathname === '/ebook-in-pad/') {
+    return NextResponse.redirect(new URL('/so-tay-in-pad', request.url), 301);
+  }
+  if (pathname === '/products/cij-printers' || pathname === '/products/cij-printers/') {
+    return NextResponse.redirect(new URL('/products/cij-ink', request.url), 301);
+  }
+  if (pathname === '/products/rfid-warehouse-sme' || pathname === '/products/rfid-warehouse-sme/') {
+    return NextResponse.redirect(new URL('/products/consumables', request.url), 301);
+  }
+  if (pathname === '/products/tij-printers' || pathname === '/products/tij-printers/') {
+    return NextResponse.redirect(new URL('/products/tij-ink', request.url), 301);
+  }
+
   // Handle legacy san-pham & dich-vu paths
   if (pathname.startsWith('/san-pham/')) {
     return NextResponse.redirect(new URL('/products', request.url), 301);
