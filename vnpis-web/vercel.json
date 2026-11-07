@@ -18,7 +18,6 @@
     { "source": "/mayin-phun-cong-nghiep", "destination": "/in-ky-thuat-so", "permanent": true },
     { "source": "/industries/(.*)", "destination": "/", "permanent": true },
     { "source": "/products/industrial-ink/(.*)", "destination": "/muc-in-cij", "permanent": true },
-    { "source": "/products/printheads/(.*)", "destination": "/in-ky-thuat-so", "permanent": true },
     { "source": "/kien-thuc/(.*)", "destination": "/blog/$1", "permanent": true },
     { "source": "/kien-thuc", "destination": "/blog", "permanent": true },
     { "source": "/tin-tuc/(.*)", "destination": "/blog/$1", "permanent": true },
