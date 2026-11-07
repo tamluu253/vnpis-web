@@ -35,6 +35,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/products',
     '/products/printheads',
     '/products/printheads/brother-gtx',
+    '/products/sk-dtg-solution',
     '/services',
     '/solutions',
     '/in-tampon',

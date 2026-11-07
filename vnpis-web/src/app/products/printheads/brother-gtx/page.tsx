@@ -556,6 +556,35 @@ export default function BrotherGtxPrintheadPage() {
             </div>
           </div>
         </div>
+
+        {/* Banner S.K DTG Combo & Free PrintFlow */}
+        <div className="bg-gradient-to-r from-emerald-950 via-teal-900 to-slate-900 rounded-3xl p-8 border border-emerald-500/30 text-white shadow-xl flex flex-col md:flex-row items-center justify-between gap-6">
+          <div className="max-w-3xl">
+            <div className="flex flex-wrap items-center gap-2 mb-3">
+              <span className="px-3 py-1 bg-emerald-500 text-slate-950 font-black text-xs rounded-full uppercase tracking-wider">
+                COMBO ĐỘC QUYỀN VNPIS x S.K
+              </span>
+              <span className="px-3 py-1 bg-white/10 text-emerald-300 font-bold text-xs rounded-full">
+                MIỄN PHÍ BẢN QUYỀN PRINTFLOW
+              </span>
+            </div>
+            <h3 className="text-2xl font-black mb-2 text-white">
+              Sử Dụng Trọn Bộ Hóa Chất S.K – Tặng Phần Mềm Quản Lý Xưởng SK PrintFlow
+            </h3>
+            <p className="text-slate-300 text-sm leading-relaxed">
+              Khi xưởng của bạn sử dụng đồng bộ <strong>Nước phủ vải S.K (Dark / Light)</strong>, <strong>Dung dịch vệ sinh CSX-GTX4</strong> và <strong>Mực in DTG chính hãng</strong> do VNPIS phân phối: Đầu in Brother GTX được bảo hành 1 năm 1 đổi 1 và xưởng được <strong>miễn phí 100% chi phí phần mềm quản lý sản xuất SK PrintFlow</strong> (Quản lý đơn, mã QR từng công đoạn, tự động đẩy lệnh in sang máy Brother GTX, tracking đơn hàng trực tuyến cho khách).
+            </p>
+          </div>
+          <div className="flex-shrink-0">
+            <Link
+              href="/products/sk-dtg-solution"
+              className="inline-flex items-center justify-center px-6 py-3.5 bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black rounded-xl transition-all shadow-lg text-sm group"
+            >
+              Xem Chi Tiết Combo S.K
+              <ExternalLink className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
+            </Link>
+          </div>
+        </div>
       </section>
 
       {/* 5. 1:1 REPLACEMENT WORKFLOW */}
