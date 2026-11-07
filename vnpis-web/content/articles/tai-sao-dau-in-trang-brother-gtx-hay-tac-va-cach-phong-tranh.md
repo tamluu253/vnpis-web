@@ -95,7 +95,7 @@ Trong trường hợp đầu in trắng đã bị tắc hoàn toàn không thể
 
 * **Phương án đầu in trắng Refurbished VNPIS:** Chỉ **1.650 USD** *(~42.160.000 VNĐ)*.
   * Cam kết độ phủ tia $\ge 99\%$ tia xả dày dặn.
-  * Áp dụng chính sách **bảo hành 2 năm 1 đổi 1** khi tham gia chương trình [thu cũ đổi mới đầu in Brother DTG](https://vnpis.com/blog/quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis).
+  * Áp dụng chính sách **bảo hành 1 năm 1 đổi 1** khi tham gia chương trình [thu cũ đổi mới đầu in Brother DTG](https://vnpis.com/blog/quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis) (xác minh online và gửi ngay không cần chờ).
 * **Phương án đầu in trắng OEM New:** Dành cho xưởng cần phụ tùng mới 100% nguyên hộp (Liên hệ nhận báo giá cập nhật).
 
 Xem chi tiết bảng giá tại: [Bảng Giá Đầu In Brother DTG Mới Nhất](https://vnpis.com/blog/bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang).

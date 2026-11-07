@@ -49,14 +49,14 @@ export default function PrintheadsPage() {
                   <Sparkles className="w-3.5 h-3.5 text-blue-400" /> MỚI RA MẮT
                 </span>
                 <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold border border-emerald-400/30">
-                  <ShieldCheck className="w-3.5 h-3.5" /> BẢO HÀNH 2 NĂM 1 ĐỔI 1
+                  <ShieldCheck className="w-3.5 h-3.5" /> BẢO HÀNH 1 NĂM 1 ĐỔI 1
                 </span>
               </div>
               <h2 className="text-2xl md:text-3xl font-black mb-2 tracking-tight">
                 Đầu In Máy In Brother DTG: GTX • GTXpro • GTXpro Bulk
               </h2>
               <p className="text-slate-300 text-sm md:text-base leading-relaxed">
-                Đầu in màu &amp; trắng chính hãng. Tùy chọn <strong>Refurbished (&ge; 99% tia, chỉ từ 1.550 USD / 39.525.000 VNĐ)</strong> hoặc <strong>OEM New mới 100%</strong>. Áp dụng chính sách bảo hành 2 năm 1 đổi 1 thu cũ đổi mới.
+                Đầu in màu &amp; trắng chính hãng. Tùy chọn <strong>Refurbished (&ge; 99% tia, chỉ từ 1.550 USD / 39.525.000 VNĐ)</strong> hoặc <strong>OEM New mới 100%</strong>. Bảo hành 1 năm 1 đổi 1 – gửi online video &amp; tracking là nhận ngay đầu mới, không cần chờ!
               </p>
             </div>
             <div className="flex-shrink-0">

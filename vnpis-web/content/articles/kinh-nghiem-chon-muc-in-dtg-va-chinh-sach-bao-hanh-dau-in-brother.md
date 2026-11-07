@@ -100,7 +100,7 @@ flowchart LR
 Hãy biến chi phí đầu in bất định thành một khoản ngân sách sản xuất cố định, có thể dự báo và kiểm soát 100%:
 
 * **Xem trang sản phẩm:** [Đầu In Máy In Brother DTG (GTX / GTXpro / GTXpro Bulk)](https://vnpis.com/products/printheads/brother-gtx)
-* **Bảng giá chi tiết:** [Bảng Giá Đầu In Brother DTG & Chính Sách 2 Năm 1 Đổi 1](https://vnpis.com/blog/bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang)
+* **Bảng giá chi tiết:** [Bảng Giá Đầu In Brother DTG & Chính Sách 1 Năm 1 Đổi 1](https://vnpis.com/blog/bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang)
 * **Quy trình đổi trả:** [Quy Trình Thu Cũ Đổi Mới Đầu In Brother GTX](https://vnpis.com/blog/quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis)
 * **Hotline hỗ trợ vật tư & kỹ thuật 24/7:** **0987 453 866**
 * **Văn phòng & Lab Kỹ thuật:** VNPIS, TP. Hồ Chí Minh

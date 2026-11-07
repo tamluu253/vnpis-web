@@ -26,7 +26,7 @@ export const metadata = {
     canonical: 'https://vnpis.com/products/printheads/brother-gtx',
   },
   title: 'Đầu In Máy In Brother DTG (GTX / GTXpro / GTXpro Bulk) | VNPIS',
-  description: 'Đầu in Brother DTG chính hãng cho máy in áo thun Brother GTX, GTXpro, GTXpro Bulk. Tùy chọn Refurbished (≥99% tia, bảo hành 2 năm 1 đổi 1) và OEM New 100%. Hỗ trợ kỹ thuật chuyên sâu.',
+  description: 'Đầu in Brother DTG chính hãng cho máy in áo thun Brother GTX, GTXpro, GTXpro Bulk. Tùy chọn Refurbished (≥99% tia, bảo hành 1 năm 1 đổi 1) và OEM New 100%. Hỗ trợ kỹ thuật chuyên sâu.',
 };
 
 export default function BrotherGtxPrintheadPage() {
@@ -50,7 +50,7 @@ export default function BrotherGtxPrintheadPage() {
               <Printer className="w-3.5 h-3.5" /> BROTHER DTG SERIES
             </span>
             <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold border border-emerald-400/30">
-              <ShieldCheck className="w-3.5 h-3.5" /> BẢO HÀNH 2 NĂM 1 ĐỔI 1
+              <ShieldCheck className="w-3.5 h-3.5" /> BẢO HÀNH 1 NĂM 1 ĐỔI 1
             </span>
             <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-orange-500/20 text-orange-300 text-xs font-bold border border-orange-400/30">
               <RefreshCw className="w-3.5 h-3.5" /> CHƯƠNG TRÌNH THU CŨ ĐỔI MỚI
@@ -80,7 +80,7 @@ export default function BrotherGtxPrintheadPage() {
               href="#warranty-policy" 
               className="inline-flex items-center justify-center px-6 py-3.5 text-sm md:text-base font-bold text-slate-900 bg-white rounded-xl hover:bg-slate-100 transition-colors"
             >
-              Chính Sách Bảo Hành 2 Năm
+              Chính Sách Bảo Hành 1 Năm
             </a>
             <a 
               href="#contact" 
@@ -177,7 +177,7 @@ export default function BrotherGtxPrintheadPage() {
                   <div>
                     <span className="text-xs font-bold text-blue-900 uppercase block tracking-wider">Chính sách bảo hành:</span>
                     <p className="text-sm font-bold text-blue-800">
-                      2 năm 1 đổi 1 <span className="font-normal text-blue-700">(Điều kiện bắt buộc: Thu hồi lại đầu in cũ)</span>
+                      1 năm 1 đổi 1 <span className="font-normal text-blue-700">(Điều kiện bắt buộc: Thu hồi lại đầu in cũ)</span>
                     </p>
                   </div>
                 </div>
@@ -235,7 +235,7 @@ export default function BrotherGtxPrintheadPage() {
                   <div>
                     <span className="text-xs font-bold text-indigo-900 uppercase block tracking-wider">Chính sách bảo hành:</span>
                     <p className="text-sm font-bold text-indigo-800">
-                      2 năm 1 đổi 1 <span className="font-normal text-indigo-700">(Điều kiện bắt buộc: Thu hồi lại đầu in cũ)</span>
+                      1 năm 1 đổi 1 <span className="font-normal text-indigo-700">(Điều kiện bắt buộc: Thu hồi lại đầu in cũ)</span>
                     </p>
                   </div>
                 </div>
@@ -376,7 +376,7 @@ export default function BrotherGtxPrintheadPage() {
                     </span>
                   </td>
                   <td className="p-4 font-semibold text-slate-800">
-                    2 năm 1 đổi 1 <br />
+                    1 năm 1 đổi 1 <br />
                     <span className="text-xs text-slate-500 font-normal">(Điều kiện: Thu cũ đổi lại)</span>
                   </td>
                 </tr>
@@ -395,7 +395,7 @@ export default function BrotherGtxPrintheadPage() {
                     </span>
                   </td>
                   <td className="p-4 font-semibold text-slate-800">
-                    2 năm 1 đổi 1 <br />
+                    1 năm 1 đổi 1 <br />
                     <span className="text-xs text-slate-500 font-normal">(Điều kiện: Thu cũ đổi lại)</span>
                   </td>
                 </tr>
@@ -564,14 +564,15 @@ export default function BrotherGtxPrintheadPage() {
           <div className="absolute right-0 top-0 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl pointer-events-none"></div>
 
           <div className="max-w-3xl mb-10">
-            <span className="inline-block px-3 py-1 bg-blue-500/20 text-blue-300 text-xs font-bold rounded-full mb-3 uppercase tracking-wider border border-blue-400/30">
-              MINH BẠCH & NHANH CHÓNG
+            <span className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-300 text-xs font-bold rounded-full mb-3 uppercase tracking-wider border border-emerald-400/30">
+              QUY TRÌNH TIÊN PHONG – TIẾT KIỆM DOWNTIME
             </span>
             <h2 className="text-2xl md:text-3xl font-black mb-3">
-              Quy Trình Đổi 1:1 – Một Đầu In Lỗi Gửi Về, Một Đầu In Tốt Gửi Lại
+              Quy Trình Đổi 1:1 Siêu Tốc – Gửi Ngay Đầu Mới, Không Cần Chờ
             </h2>
-            <p className="text-slate-300 text-sm md:text-base">
-              Chúng tôi tối giản quy trình tiếp nhận để rút ngắn tối đa thời gian dừng máy (downtime) cho xưởng in của bạn.
+            <p className="text-slate-300 text-sm md:text-base leading-relaxed">
+              Khách hàng chỉ cần quay tư liệu theo chuẩn VNPIS gửi online và cung cấp mã tracking đóng gói gửi hàng. 
+              Kỹ thuật viên VNPIS xác minh xong là <strong>xuất kho gửi ngay đầu in mới trả khách lập tức, không cần chờ đầu in cũ về đến kho</strong>!
             </p>
           </div>
 
@@ -580,9 +581,9 @@ export default function BrotherGtxPrintheadPage() {
               <div className="w-10 h-10 rounded-xl bg-blue-500 text-white font-black text-lg flex items-center justify-center mb-4 shadow-lg shadow-blue-500/30">
                 1
               </div>
-              <h4 className="text-lg font-bold mb-2 text-white">Bước 1: Trả Đầu In Lỗi</h4>
+              <h4 className="text-lg font-bold mb-2 text-white">Bước 1: Quay Tư Liệu Online</h4>
               <p className="text-slate-300 text-sm leading-relaxed">
-                Khách hàng đóng gói cẩn thận đầu in bị sự cố và gửi về trung tâm dịch vụ kỹ thuật của VNPIS.
+                Khách hàng quay video/ảnh hiện trạng đầu in, video test tia Nozzle Check và ngoại quan theo đúng quy trình hướng dẫn gửi online về cho VNPIS (qua Zalo kỹ thuật).
               </p>
             </div>
 
@@ -590,9 +591,9 @@ export default function BrotherGtxPrintheadPage() {
               <div className="w-10 h-10 rounded-xl bg-indigo-500 text-white font-black text-lg flex items-center justify-center mb-4 shadow-lg shadow-indigo-500/30">
                 2
               </div>
-              <h4 className="text-lg font-bold mb-2 text-white">Bước 2: Kiểm Tra & Xác Minh</h4>
+              <h4 className="text-lg font-bold mb-2 text-white">Bước 2: Đóng Gói & Gửi Mã Tracking</h4>
               <p className="text-slate-300 text-sm leading-relaxed">
-                Kỹ thuật viên VNPIS kiểm tra tình trạng thực tế, đo kiểm tia và xác minh điều kiện bảo hành theo chương trình áp dụng.
+                Khách hàng quay video đóng gói an toàn và gửi mã vận đơn (Tracking bill chuyển phát hoặc phiếu gửi xe) cho VNPIS xác nhận đã gửi hàng lỗi đi.
               </p>
             </div>
 
@@ -600,9 +601,9 @@ export default function BrotherGtxPrintheadPage() {
               <div className="w-10 h-10 rounded-xl bg-emerald-500 text-white font-black text-lg flex items-center justify-center mb-4 shadow-lg shadow-emerald-500/30">
                 3
               </div>
-              <h4 className="text-lg font-bold mb-2 text-white">Bước 3: Đổi 1:1 Giao Hàng</h4>
+              <h4 className="text-lg font-bold mb-2 text-white">Bước 3: Gửi Ngay Không Cần Chờ</h4>
               <p className="text-slate-300 text-sm leading-relaxed">
-                Ngay khi yêu cầu được duyệt, VNPIS gửi lại đầu in thay thế đã qua kiểm định hoạt động hoàn hảo cho khách hàng.
+                Kỹ thuật VNPIS xác minh online tư liệu và mã tracking. Duyệt xong là xuất kho gửi ngay đầu in mới/đạt chuẩn trả khách lập tức mà không cần chờ đầu cũ về đến nơi!
               </p>
             </div>
           </div>

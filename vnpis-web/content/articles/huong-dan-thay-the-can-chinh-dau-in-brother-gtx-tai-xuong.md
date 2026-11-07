@@ -115,7 +115,7 @@ Mỗi đầu in Brother chính hãng đều mang một dải mã vạch chứa t
 Nếu xưởng của bạn chưa có kỹ thuật viên cứng tay nghề hoặc e ngại rủi ro chập cháy bo mạch đắt tiền, **VNPIS cung cấp dịch vụ giao hàng, lắp đặt và cân chỉnh đầu in tận nơi trên toàn quốc**:
 - Hướng dẫn chuyển giao kỹ thuật tận xưởng cho thợ in.
 - Đo kiểm chất lượng bản in thực tế trước khi bàn giao.
-- Áp dụng đầy đủ chính sách **bảo hành 2 năm 1 đổi 1** độc quyền.
+- Áp dụng đầy đủ chính sách **bảo hành 1 năm 1 đổi 1** độc quyền.
 
 * **Hotline hỗ trợ kỹ thuật 24/7:** **0987 453 866**
 * **Trang sản phẩm:** [Đầu In Brother DTG (GTX / GTXpro / GTXpro Bulk)](https://vnpis.com/products/printheads/brother-gtx)

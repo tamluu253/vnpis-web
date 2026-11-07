@@ -89,8 +89,8 @@ Thay vì phải chi ra số tiền lớn từ 2.400 – 2.800 USD để mua mộ
 * **Mức giá siêu tiết kiệm:** 
   * **Đầu in màu (Color):** Chỉ **1.550 USD** *(39.525.000 VNĐ)*.
   * **Đầu in trắng (White):** Chỉ **1.650 USD** *(42.160.000 VNĐ)*.
-* **Chính sách bảo hành 2 năm 1 đổi 1:** Khi tham gia chương trình thu hồi đầu cũ, quý khách được cấp chứng nhận bảo hành 2 năm, an tâm tuyệt đối về chất lượng.
-* **Thời gian đáp ứng nhanh:** Có sẵn hàng tại kho, hỗ trợ ship hỏa tốc toàn quốc giúp xưởng khôi phục dây chuyền sản xuất ngay trong ngày.
+* **Chính sách bảo hành 1 năm 1 đổi 1:** Khi tham gia chương trình thu hồi đầu cũ, quý khách được cấp chứng nhận bảo hành 1 năm, an tâm tuyệt đối về chất lượng.
+* **Thời gian đáp ứng siêu tốc:** Xác minh video online và mã tracking gửi hàng là VNPIS gửi ngay đầu in mới trả khách, không cần chờ đầu cũ về kho!
 
 ---
 
