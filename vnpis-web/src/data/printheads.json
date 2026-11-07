@@ -1,5 +1,24 @@
 [
   {
+    "brandId": "brother",
+    "brandName": "BROTHER",
+    "country": "Nhật Bản (Japan)",
+    "description": "Thương hiệu hàng đầu thế giới về công nghệ in áo thun dệt may trực tiếp (DTG). Giải pháp đầu in chuyên dụng cho Brother GTX, GTXpro và GTXpro Bulk tối ưu năng suất và tiết kiệm chi phí.",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/20px-Flag_of_Japan.svg.png",
+    "products": [
+      {
+        "id": "brother-gtx",
+        "name": "Đầu in Brother DTG (GTX / GTXpro / GTXpro Bulk)",
+        "type": "Mực Dệt May (Textile Pigment)",
+        "dropSize": "Variable Drop (Đa kích thước)",
+        "frequency": "Công nghiệp tốc độ cao",
+        "desc": "Đầu in chính hãng cho máy in Brother DTG GTX, GTXpro, GTXpro Bulk. Tùy chọn Refurbished đủ ≥99% tia, bảo hành 2 năm 1 đổi 1 (thu cũ đổi mới) và OEM New 100%.",
+        "href": "/products/printheads/brother-gtx",
+        "image": "https://cdn-icons-png.flaticon.com/512/3253/3253004.png"
+      }
+    ]
+  },
+  {
     "brandId": "ricoh",
     "brandName": "RICOH",
     "country": "Nhật Bản (Japan)",

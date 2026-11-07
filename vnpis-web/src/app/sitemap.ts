@@ -33,6 +33,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const coreServices = [
     '/products',
+    '/products/printheads',
+    '/products/printheads/brother-gtx',
     '/services',
     '/solutions',
     '/in-tampon',
@@ -68,7 +70,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
-  return [
+  const allEntries: MetadataRoute.Sitemap = [
     {
       url: `${DOMAIN}`,
       lastModified: new Date(),
@@ -85,4 +87,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...pillarEntries,
     ...blogEntries,
   ];
+
+  // Deduplicate entries by URL to ensure pristine crawl graph
+  const seenUrls = new Set<string>();
+  const uniqueEntries: MetadataRoute.Sitemap = [];
+
+  for (const entry of allEntries) {
+    if (!seenUrls.has(entry.url)) {
+      seenUrls.add(entry.url);
+      uniqueEntries.push(entry);
+    }
+  }
+
+  return uniqueEntries;
 }

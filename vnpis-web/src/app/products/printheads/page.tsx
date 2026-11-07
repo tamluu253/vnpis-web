@@ -3,7 +3,7 @@ export const dynamicParams = true;
 
 import React from 'react';
 import Link from 'next/link';
-import { ArrowLeft, ArrowRight, Printer, Cpu, Droplet, Activity } from 'lucide-react';
+import { ArrowLeft, ArrowRight, Printer, Cpu, Droplet, Activity, Sparkles, ShieldCheck } from 'lucide-react';
 import printheadsData from '@/data/printheads.json';
 
 export default function PrintheadsPage() {
@@ -32,7 +32,7 @@ export default function PrintheadsPage() {
           </div>
           
           <p className="text-lg text-slate-400 max-w-3xl leading-relaxed">
-            Danh mục các dòng đầu phun công nghiệp chính hãng hiệu suất cao. Giải pháp in ấn kỹ thuật số sắc nét, siêu tốc từ Ricoh, Epson, Kyocera và HP.
+            Danh mục các dòng đầu phun công nghiệp chính hãng hiệu suất cao. Giải pháp in ấn kỹ thuật số sắc nét, siêu tốc từ Brother, Ricoh, Epson, Kyocera và HP.
           </p>
         </div>
       </div>
@@ -40,6 +40,37 @@ export default function PrintheadsPage() {
       {/* Main Content */}
       <div className="container mx-auto px-4 -mt-8 relative z-20">
         
+        {/* Featured Banner: Brother DTG */}
+        <div className="bg-gradient-to-r from-blue-950 via-slate-900 to-indigo-950 rounded-3xl p-6 md:p-8 text-white shadow-xl border border-blue-500/30 mb-12 relative overflow-hidden">
+          <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 relative z-10">
+            <div className="max-w-3xl">
+              <div className="flex flex-wrap items-center gap-2 mb-3">
+                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-500/30 text-blue-300 text-xs font-bold border border-blue-400/30">
+                  <Sparkles className="w-3.5 h-3.5 text-blue-400" /> MỚI RA MẮT
+                </span>
+                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-bold border border-emerald-400/30">
+                  <ShieldCheck className="w-3.5 h-3.5" /> BẢO HÀNH 2 NĂM 1 ĐỔI 1
+                </span>
+              </div>
+              <h2 className="text-2xl md:text-3xl font-black mb-2 tracking-tight">
+                Đầu In Máy In Brother DTG: GTX • GTXpro • GTXpro Bulk
+              </h2>
+              <p className="text-slate-300 text-sm md:text-base leading-relaxed">
+                Đầu in màu &amp; trắng chính hãng. Tùy chọn <strong>Refurbished (&ge; 99% tia, chỉ từ 1.550 USD / 39.525.000 VNĐ)</strong> hoặc <strong>OEM New mới 100%</strong>. Áp dụng chính sách bảo hành 2 năm 1 đổi 1 thu cũ đổi mới.
+              </p>
+            </div>
+            <div className="flex-shrink-0">
+              <Link 
+                href="/products/printheads/brother-gtx"
+                className="inline-flex items-center justify-center px-6 py-3.5 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-xl transition-all shadow-lg shadow-blue-600/30 text-sm md:text-base group"
+              >
+                Xem Báo Giá &amp; Chính Sách
+                <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" />
+              </Link>
+            </div>
+          </div>
+        </div>
+
         {/* Brands Listing */}
         <div className="space-y-16 mt-16">
           {printheadsData.map(brand => (
