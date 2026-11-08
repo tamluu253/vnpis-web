@@ -11,7 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_33.jpg
+image: /images/real_photos/vnpis_workshop_photo_37.jpg
 ---
 
 Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siết chặt quản lý chuỗi cung ứng bằng các tiêu chuẩn xanh, tiêu biểu là **ZDHC (Zero Discharge of Hazardous Chemicals)**. Việc sử dụng nguyên vật liệu đạt ZDHC Level 3 là bắt buộc.
@@ -43,8 +43,9 @@ Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siế
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-![Hình ảnh thực tế vận hành và thiết bị Mực In Tampon Đạt Chuẩn ZDHC Level 3 - Afford KT1 tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_33.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Đầu in silicone màu đỏ chuyên dụng cho máy in tampon công nghiệp tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_37.jpg)
+*Kỹ thuật viên VNPIS kiểm tra đầu in silicone (tampon in) màu đỏ dùng trong máy in tampon công nghiệp*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -61,11 +62,6 @@ Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siế
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Mực In Tampon Đạt Chuẩn ZDHC Level 3 - Afford KT1 tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_73.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

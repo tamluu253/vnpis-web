@@ -10,7 +10,7 @@ code: DOD-MASTER
 author: Kỹ sư Trưởng Xưởng In VNPIS
 canonical: >-
   https://vnpis.com/blog/muc-in-phun-cong-nghiep-dod-cho-vat-lieu-xay-dung-va-ong-dan
-image: /images/real_photos/vnpis_workshop_photo_24.jpg
+image: /images/real_photos/vnpis_workshop_photo_31.jpg
 ---
 
 # Mực In Phun Công Nghiệp DOD Cho Vật Liệu Xây Dựng, Ống Dẫn & Bao Bì Khổ Lớn
@@ -30,6 +30,11 @@ image: /images/real_photos/vnpis_workshop_photo_24.jpg
 | **Thùng Phuy Sắt, Tấm Thép Kết Cấu** | Hóa chất, cầu đường, giàn giáo xây dựng | **DOD-MT Chịu Dầu Mỡ** | Kháng hóa chất, chống gỉ sét, chịu nhiệt ngoài trời |
 
 ---
+
+
+
+![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
+*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
 
 ## 2. Vì Sao Ngành Công Nghiệp Nặng Cần Sử Dụng Đầu In & Mực DOD?
 - **Khoảng cách bắn xa (Lên tới 30mm - 50mm):** Giúp đầu phun tránh hoàn toàn va chạm khi phôi in bị cong vênh, rung lắc mạnh trên dây chuyền đùn ống hoặc cán thép.
@@ -55,10 +60,6 @@ VNPIS thiết kế và lắp đặt trọn gói hệ thống đầu in DOD 7 van
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
-
-![Hình ảnh thực tế vận hành và thiết bị Mực In Phun Công Nghiệp DOD Cho Vật Liệu Xây Dựng, Ống Dẫn & Bao Bì Khổ Lớn tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_24.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

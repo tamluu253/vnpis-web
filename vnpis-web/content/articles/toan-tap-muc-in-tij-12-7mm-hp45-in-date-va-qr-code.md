@@ -9,7 +9,7 @@ category: MỰC IN CÔNG NGHIỆP
 code: TIJ-MASTER
 author: Kỹ sư Trưởng Xưởng In VNPIS
 canonical: 'https://vnpis.com/blog/toan-tap-muc-in-tij-12-7mm-hp45-in-date-va-qr-code'
-image: /images/real_photos/vnpis_workshop_photo_02.jpg
+image: /images/real_photos/vnpis_workshop_photo_31.jpg
 ---
 
 # Toàn Tập Hộp Mực Nhiệt TIJ 12.7mm HP45: Ứng Dụng In Date & Mã QR Code Biến Đổi
@@ -29,6 +29,11 @@ image: /images/real_photos/vnpis_workshop_photo_02.jpg
 | **Khả năng chống nước** | Có thể bị lem nếu gặp nước trực tiếp | Chống nước, chống cồn nhẹ, pass test cọ xát |
 
 ---
+
+
+
+![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
+*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
 
 ## 2. Các Yếu Tố Quyết Định Chất Lượng Bản In Mã QR Bằng Máy TIJ
 

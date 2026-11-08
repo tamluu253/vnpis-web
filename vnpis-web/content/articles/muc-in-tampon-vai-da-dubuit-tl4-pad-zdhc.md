@@ -12,7 +12,7 @@ category: Dubuit
 code: TL4-PAD
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_32.jpg
+image: /images/real_photos/vnpis_workshop_photo_57.jpg
 ---
 
 Xu hướng in mác trực tiếp lên cổ áo (Tagless Label) thay vì dùng mác vải đang thống trị ngành may mặc thời trang và thể thao. **Dubuit TL4-PAD** chính là "vũ khí" bí mật giúp các hãng thời trang đạt được điều này.
@@ -47,8 +47,9 @@ Xu hướng in mác trực tiếp lên cổ áo (Tagless Label) thay vì dùng m
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-![Hình ảnh thực tế vận hành và thiết bị Mực In Tampon Cho Vải & Da Dubuit TL4-PAD (Đạt ZDHC Level 3) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_32.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_57.jpg)
+*Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -65,11 +66,6 @@ Xu hướng in mác trực tiếp lên cổ áo (Tagless Label) thay vì dùng m
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Mực In Tampon Cho Vải & Da Dubuit TL4-PAD (Đạt ZDHC Level 3) tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_72.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

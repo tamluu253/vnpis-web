@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-03
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_14.jpg
+image: /images/real_photos/vnpis_workshop_photo_73.jpg
 ---
 
 Công nghệ in lụa có tính ứng dụng đa dạng nhờ vào sự phong phú của hệ thống mực in. Tại VNPIS, chúng tôi chọn lọc và phân phối các dòng mực in lụa chất lượng cao nhất, phục vụ cho nhiều ngành công nghiệp khắt khe.
@@ -44,8 +44,9 @@ Tất cả mực in đều có đầy đủ chứng chỉ an toàn môi trườn
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
-![Hình ảnh thực tế vận hành và thiết bị Các Dòng Mực In Lụa Cao Cấp: Mực UV, Mực Plastisol, Mực Ép Kim tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_14.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
+*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 
@@ -55,11 +56,6 @@ Tất cả mực in đều có đầy đủ chứng chỉ an toàn môi trườn
 4. **Căn chỉnh độ hở Off-contact & Tốc độ gạt mực:**
    * Điều chỉnh song song tuyệt đối giữa lưỡi gạt và mặt bàn in phẳng hoặc trục lăn xoay tròn.
    * Lực gạt mực phân bổ đều 2 đầu xilanh khí nén, triệt tiêu hiện tượng dồn mực làm đậm nhạt không đồng đều.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Các Dòng Mực In Lụa Cao Cấp: Mực UV, Mực Plastisol, Mực Ép Kim tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_54.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục Sự Cố Kỹ Thuật Thường Gặp Trong In Lụa
 
 * **Lỗi bít mắt lưới (Screen Clogging):** Do mực in khô quá nhanh trên khung lụa khi nhiệt độ xưởng cao. *Khắc phục:* Bổ sung 5-10% dung môi chậm khô chuyên dụng, dùng giẻ mềm tẩm chất tẩy nhẹ lau thông mắt lưới.

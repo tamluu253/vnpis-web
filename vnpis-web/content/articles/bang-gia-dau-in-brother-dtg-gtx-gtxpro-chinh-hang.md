@@ -30,7 +30,6 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang
-image: /images/real_photos/vnpis_workshop_photo_05.jpg
 ---
 
 # Bảng Giá Đầu In Máy In Brother DTG (GTX, GTXpro, GTXpro Bulk) & Chính Sách 1 Năm 1 Đổi 1

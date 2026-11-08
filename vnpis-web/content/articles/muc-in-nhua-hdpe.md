@@ -11,7 +11,6 @@ category: Mực in HDPE
 code: HDPE-INK
 mediaExt: jpg
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_17.jpg
 ---
 
 Nhựa HDPE (High-Density Polyethylene - Polyethylene mật độ cao) sở hữu độ bền cơ học cao, chịu lực va đập trơn trượt và khả năng kháng hóa chất vượt trội. Nhựa HDPE là sự lựa chọn hàng đầu sản xuất **can chứa hóa chất, chai lọ thuốc bảo vệ thực vật, chai dầu nhớt, nắp bình nước tinh khiết 20L, ống nước công nghiệp HDPE, thùng phuy nhựa và bao bì dược phẩm**.

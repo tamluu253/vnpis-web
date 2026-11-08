@@ -11,7 +11,7 @@ code: CIJ-ALL
 author: Kỹ sư Trưởng Xưởng In VNPIS
 canonical: >-
   https://vnpis.com/blog/cam-nang-chon-muc-in-cij-cho-moi-vat-lieu-va-nganh-cong-nghiep
-image: /images/real_photos/vnpis_workshop_photo_10.jpg
+image: /images/real_photos/vnpis_workshop_photo_31.jpg
 ---
 
 # Cẩm Nang Chọn Mực In CIJ Cho Mọi Bề Mặt Vật Liệu & Tiêu Chuẩn Ngành Công Nghiệp
@@ -34,6 +34,11 @@ Dưới đây là bảng thông số kỹ thuật tiêu chuẩn được kiểm 
 | **Vỏ Trứng, Bao Bì Thực Phẩm Trực Tiếp** | Chăn nuôi gia cầm, Thực phẩm sạch | **KE01 / HE01 Food Grade** | Cồn Ethanol tinh khiết chuẩn FDA | Tuyệt đối an toàn khi tiếp xúc trực tiếp thực phẩm |
 
 ---
+
+
+
+![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
+*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
 
 ## 2. Các Tiêu Chuẩn Kỹ Thuật Bắt Buộc Khi Lựa Chọn Mực CIJ Cho Dây Chuyền
 

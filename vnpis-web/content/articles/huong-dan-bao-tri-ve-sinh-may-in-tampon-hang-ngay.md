@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-MAINTENANCE
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_30.jpg
+image: /images/real_photos/vnpis_workshop_photo_75.jpg
 ---
 
 Máy in tampon là thiết bị cơ khí - khí nén hoạt động liên tục với cường độ cao và tiếp xúc trực tiếp với hóa chất (mực in gốc dung môi). Do đó, **vệ sinh và bảo trì hàng ngày** là yếu tố sống còn để máy không bị hỏng vặt.
@@ -22,6 +22,11 @@ Máy in tampon là thiết bị cơ khí - khí nén hoạt động liên tục 
 - Dùng dung môi rửa mực (Washing solvent) chuyên dụng và giẻ sạch để lau rửa bên trong cốc.
 - **Lưu ý vòng gốm (Ceramic ring)**: Rất dễ vỡ! Tuyệt đối không dùng vật cứng bằng kim loại cạy hoặc chà xát vào viền gốm, nếu viền bị mẻ sẽ dẫn đến gạt mực không sạch.
 - Rửa sạch bản thép khắc bằng dung môi, thoa một lớp dầu bảo quản mỏng chống rỉ sét.
+
+
+
+![Quá trình in ấn công nghiệp trên bề mặt quả bóng bằng máy in tampon tại nhà máy VNPIS](/images/real_photos/vnpis_workshop_photo_75.jpg)
+*Kỹ thuật viên đang kiểm tra quả bóng được cố định trên bàn gá của máy in tampon tại xưởng VNPIS.*
 
 ## 2. Bảo quản đầu in Silicone (Pad)
 - Dùng băng keo trong dính lấy đi phần mực thừa và bụi bẩn bám trên cục pad. Tuyệt đối không dùng dung môi mạnh để chà xát pad vì sẽ làm mất đi lớp dầu tự nhiên, khiến pad bị chai cứng và giảm tuổi thọ.
@@ -63,10 +68,6 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
-
-![Hình ảnh thực tế vận hành và thiết bị Hướng Dẫn Bảo Trì Và Vệ Sinh Máy In Tampon Hàng Ngày Đúng Cách tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_30.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
 Để đảm bảo nét in không bị biến dạng, nhòe cạnh hoặc bong tróc khi đưa vào dây chuyền đóng gói thương mại, đội ngũ kỹ thuật VNPIS tuân thủ nghiêm ngặt quy trình 4 bước:
@@ -82,11 +83,6 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Hướng Dẫn Bảo Trì Và Vệ Sinh Máy In Tampon Hàng Ngày Đúng Cách tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_70.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

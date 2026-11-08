@@ -30,7 +30,6 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: kinh-nghiem-chon-muc-in-dtg-va-chinh-sach-bao-hanh-dau-in-brother
-image: /images/real_photos/vnpis_workshop_photo_38.jpg
 ---
 
 # Kinh Nghiệm Chọn Mực In DTG Cho Brother GTX & Quyền Lợi Gói Bảo Hành Đầu In Miễn Phí Tại VNPIS

@@ -28,7 +28,6 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis
-image: /images/real_photos/vnpis_workshop_photo_74.jpg
 ---
 
 # Quy Trình Thu Cũ Đổi Mới Đầu In Brother GTX Tiết Kiệm Đến 50% Chi Phí: Hướng Dẫn Chi Tiết A-Z

@@ -8,7 +8,7 @@ category: KỸ THUẬT IN LỤA
 code: ART-SCREEN-GLASS
 author: Chuyên Gia In Ấn VNPIS
 mediaExt: webp
-image: /images/real_photos/vnpis_workshop_photo_40.jpg
+image: /images/real_photos/vnpis_workshop_photo_20.jpg
 canonical: 'https://vnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh'
 ---
 
@@ -29,6 +29,11 @@ Khác với in phẳng, chai lọ thủy tinh có hình trụ tròn hoặc hình
 - **Dao gạt mực (Squeegee)**: Dùng lưỡi gạt Polyurethane (PU) độ cứng **75 - 85 Shore A**, vát cạnh 45 độ hoặc bo tròn nhẹ để gạt mực đều trên đường cong chai.
 
 ---
+
+
+
+![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
+*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
 
 ## 2. Giải Pháp Mực In Lụa Cho Thủy Tinh
 

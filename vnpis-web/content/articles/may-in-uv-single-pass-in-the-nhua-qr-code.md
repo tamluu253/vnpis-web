@@ -10,7 +10,6 @@ date: '2026-07-15'
 category: UV
 code: UV-SP-01
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_59.jpg
 ---
 
 Công nghệ in UV Single Pass đang thay đổi hoàn toàn cục diện ngành in ấn kỹ thuật số công nghiệp. Thay vì đầu in phải chạy qua chạy lại nhiều lần (multi-pass) như máy in UV phẳng thông thường, đầu in Single Pass được xếp cố định theo khổ in, và sản phẩm chỉ cần lướt qua MỘT LẦN duy nhất là hoàn thiện.
@@ -39,10 +38,6 @@ VNPIS tự hào là đơn vị tiên phong cung cấp hệ thống máy in UV Si
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
-
-![Hình ảnh thực tế vận hành và thiết bị Máy In UV Single Pass In Thẻ Nhựa, Dữ Liệu Biến Đổi Tốc Độ Siêu Tốc tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_59.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

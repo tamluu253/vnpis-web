@@ -10,7 +10,6 @@ date: '2026-07-15'
 category: UV
 code: UV-SP-03
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_60.jpg
 ---
 
 Một trong những ưu điểm vĩ đại nhất của công nghệ in UV Single Pass là khả năng "Plug and Play" (cắm là chạy). Thay vì mua một chiếc máy in cồng kềnh độc lập, bạn hoàn toàn có thể mua nguyên cụm đầu in UV Single Pass để gắn thẳng lên băng tải dây chuyền đóng gói đang có sẵn tại nhà máy.
@@ -39,10 +38,6 @@ Tiết kiệm không gian nhà xưởng, tối ưu luồng công việc (workflo
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
-
-![Hình ảnh thực tế vận hành và thiết bị Dịch Vụ Lắp Đặt Máy In UV Single Pass Trực Tiếp Tại Chuyền Sản Xuất tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_60.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

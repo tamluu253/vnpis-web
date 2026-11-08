@@ -30,7 +30,6 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: tai-sao-dau-in-trang-brother-gtx-hay-tac-va-cach-phong-tranh
-image: /images/real_photos/vnpis_workshop_photo_80.jpg
 ---
 
 # Tại Sao Đầu In Trắng Brother DTG (GTX / GTXpro) Rất Dễ Tắc & Bí Quyết Kéo Dài Tuổi Thọ Gấp 3 Lần

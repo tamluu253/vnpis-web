@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-VS-SCREEN
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_76.jpg
+image: /images/real_photos/vnpis_workshop_photo_36.jpg
 ---
 
 In lụa (Screen Printing) và In Tampon (Pad Printing) là hai trụ cột của ngành in công nghiệp. Nhiều người lầm tưởng chúng có thể thay thế hoàn toàn cho nhau, nhưng thực chất mỗi công nghệ sinh ra để thống trị một mảng vật liệu riêng biệt.
@@ -60,8 +60,9 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
-![Hình ảnh thực tế vận hành và thiết bị So Sánh In Lụa Và In Tampon: Khi Nào Nên Dùng Công Nghệ Nào? tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_76.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Đo kích thước đầu in silicone màu xanh lá bằng thước kẹp tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_36.jpg)
+*Kỹ thuật viên đang dùng thước kẹp đo kích thước thực tế của đầu in silicone màu xanh lá cây tại xưởng VNPIS.*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 
@@ -71,11 +72,6 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 4. **Căn chỉnh độ hở Off-contact & Tốc độ gạt mực:**
    * Điều chỉnh song song tuyệt đối giữa lưỡi gạt và mặt bàn in phẳng hoặc trục lăn xoay tròn.
    * Lực gạt mực phân bổ đều 2 đầu xilanh khí nén, triệt tiêu hiện tượng dồn mực làm đậm nhạt không đồng đều.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm So Sánh In Lụa Và In Tampon: Khi Nào Nên Dùng Công Nghệ Nào? tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_36.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục Sự Cố Kỹ Thuật Thường Gặp Trong In Lụa
 
 * **Lỗi bít mắt lưới (Screen Clogging):** Do mực in khô quá nhanh trên khung lụa khi nhiệt độ xưởng cao. *Khắc phục:* Bổ sung 5-10% dung môi chậm khô chuyên dụng, dùng giẻ mềm tẩm chất tẩy nhẹ lau thông mắt lưới.

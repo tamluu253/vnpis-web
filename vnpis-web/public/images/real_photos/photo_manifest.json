@@ -1,642 +1,1249 @@
 [
   {
-    "id": "photo_1",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone màu hồng (pad printed pad)",
+      "Cốc mực từ tính (sealed magnetic ink cup)",
+      "Bản in thép cliché",
+      "Xi lanh khí nén xoay SMC gá sản phẩm",
+      "Phôi linh kiện trụ tròn trên bàn gá"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật in tampon trên bề mặt cong tròn",
+      "Cấu tạo máy in tampon cốc mực từ tính kín",
+      "Thiết kế bàn gá xoay tự động cho máy in pad printing"
+    ],
+    "caption": "Cận cảnh cụm đầu in silicone màu hồng, cốc mực kín và hệ thống gá xoay tự động trên máy in tampon công nghiệp tại xưởng VNPIS.",
+    "alt": "Máy in tampon công nghiệp sử dụng đầu in silicone màu hồng và cốc mực từ tính in linh kiện dạng hình trụ",
     "fileName": "vnpis_workshop_photo_01.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_01.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczONQYF0rjxQ85aAsVIxOf0gNzU8GsDEAo3nQ4mVRBPhFuGIti-yeKPgndhCRgGuJFOvoyb5lBgdu6SQWG72e7UrIrIa16tqowxlSur9w0vCf8dSPfIW",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #1",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_01.jpg"
   },
   {
-    "id": "photo_2",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Máy in tampon để bàn",
+      "Bảng điều khiển Easy Print",
+      "Bàn gá cơ khí điều chỉnh T-slot",
+      "Trục nâng hạ định vị bàn in",
+      "Phụ tùng và vật tư xưởng in"
+    ],
+    "suitable_topics": [
+      "Cấu tạo và nguyên lý hoạt động máy in tampon mini",
+      "Dịch vụ in tampon linh kiện điện tử và đồ gia dụng",
+      "Thiết bị in pad printing công nghiệp tại VNPIS",
+      "Hướng dẫn canh chỉnh bàn gá máy in tampon"
+    ],
+    "caption": "Máy in tampon (pad printing) để bàn dòng Easy Print với hệ thống bàn gá cơ khí điều chỉnh đa hướng tại xưởng VNPIS.",
+    "alt": "Máy in tampon để bàn Easy Print tích hợp bảng điều khiển điện tử và bàn gá định vị sản phẩm tại xưởng in VNPIS",
     "fileName": "vnpis_workshop_photo_02.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_02.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOQaxP1731AdGHX0uPVKNlKVfwyi0BhKxEH5HG8UMoX4hDxO55UZr-C1_Am1cqzKZv-CuPXE6HKjLEKFvLfhWKB4Bqrwjvkg-97pkVujsBho3nMOFXz",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #2",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_02.jpg"
   },
   {
-    "id": "photo_3",
-    "fileName": "vnpis_workshop_photo_03.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_03.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczM2E7Sg3IwBXrdSQdfgrrkin1IMYY7GZ60tCCYuVSH2iB6tnMCpkPR9ECkGBer_tC146PTLfBeOFMugBZ8Z62anUrSKoSkDKh4Rj_b9jDyN_abgcQCB",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #3",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_4",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone màu hồng (silicone pad)",
+      "Đế gỗ cố định đầu tampon",
+      "Bàn làm việc inox/máy in"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật lựa chọn đầu in silicone tampon",
+      "Quy trình bảo quản và vệ sinh đầu tampon in ấn",
+      "Vật tư linh kiện máy in tampon công nghiệp VNPIS"
+    ],
+    "caption": "Cận cảnh đầu in silicone màu hồng dạng hình khối vòm gắn trên đế gỗ dùng cho máy in tampon tại xưởng VNPIS.",
+    "alt": "Đầu in silicone màu hồng chuyên dụng cho công nghệ in tampon pad printing tại VNPIS",
     "fileName": "vnpis_workshop_photo_04.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_04.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMvqIbFiiq9VTxII-xH1vlEQvrOJ5gGYNdrfKSN4Rx-yxmh9nP7hvzBh4PG9fL60g8Yu4IGNJTrxlGWus1MmCxCS_NpDyuzEnU23-dhtrCIuf5yUoQR",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #4",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_04.jpg"
   },
   {
-    "id": "photo_5",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone màu hồng (pad in tampon)",
+      "Lỗi bề mặt bọt khí / rỗ lỗ trên cục pad"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật in tampon (Pad Printing)",
+      "Nguyên nhân và cách khắc phục lỗi rỗ bề mặt đầu in silicone",
+      "Tiêu chuẩn chọn lựa và bảo quản pad in silicone công nghiệp"
+    ],
+    "caption": "Kiểm tra thực tế đầu in silicone màu hồng (tampon pad) bị hiện tượng bọt khí rỗ bề mặt sau 2 giờ vận hành tại xưởng in.",
+    "alt": "Cận cảnh đầu in silicone màu hồng dùng cho máy in tampon pad printing bị khuyết tật lỗ bề mặt",
     "fileName": "vnpis_workshop_photo_05.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_05.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMfG38ViwwTbAHBFvpRsvxhunuimVqeZfzqYrMmkamzot-092jf5XzGxt02LqR58_VqXm5ejlyAMfQrV_0nFkHXowQddZgs4NdTwIXFI1oMZrNz67bM",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #5",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_05.jpg"
   },
   {
-    "id": "photo_6",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "đầu in tampon dạng vòm tròn",
+      "đế gỗ gắn đầu silicon tampon",
+      "bàn làm việc kim loại"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật lựa chọn đầu in silicone cho máy in tampon",
+      "Độ cứng và hình dạng đầu in tampon trong công nghiệp",
+      "Vật tư linh kiện in tampon VNPIS",
+      "Cách bảo quản và vệ sinh đầu silicon in pad printing"
+    ],
+    "caption": "Cận cảnh các đầu in silicone màu hồng dạng vòm tròn gắn đế gỗ chuyên dụng cho máy in tampon tại xưởng VNPIS.",
+    "alt": "Cụm các đầu in silicone màu hồng hình tròn tròn đế gỗ phục vụ công nghệ in tampon pad printing VNPIS",
     "fileName": "vnpis_workshop_photo_06.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_06.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczN-bZgmpM1nNMCYHG0eCIb2rDA4NY65N-vAQEgg453mfWyDWZEYW0JKHzCugvZlWIsUGHpqbnO3Fv-ZWyaqyJI8J5xCf-a_OXU8D4vwa6A5yYjYpQMe",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #6",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_06.jpg"
   },
   {
-    "id": "photo_7",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone (nấm tampon) dạng tròn màu hồng",
+      "Đầu in silicone dạng khối chữ nhật bo cong màu hồng",
+      "Đế gỗ gá đầu in tampon"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn lựa chọn hình dáng và độ cứng đầu in silicone tampon",
+      "Quy trình bảo quản và xử lý bề mặt đầu in silicone",
+      "Ứng dụng kỹ thuật in Tampon (Pad Printing) trên bề mặt cong và gồ gề"
+    ],
+    "caption": "Các cụm đầu in silicone (nấm tampon) màu hồng dạng tròn và chữ nhật gắn đế gỗ dùng cho máy in tampon tại xưởng kỹ thuật VNPIS.",
+    "alt": "Cận cảnh các đầu in silicone màu hồng dùng trong công nghệ in tampon với nhiều hình dạng khác nhau tại VNPIS",
     "fileName": "vnpis_workshop_photo_07.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_07.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPnCGCdQkhsV5PhNmVVeCpwOOxNd1s5ZeLwEmcM6wwV4xylc-ULxO_RAGpeRawn6oyCFl5UX0JxJVciYJeuRvI7PjpghSMl6rQW9PUBICZuTowGTiNX",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #7",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_07.jpg"
   },
   {
-    "id": "photo_8",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone in tampon màu vàng dạng chữ nhật bề mặt cong",
+      "Đầu in silicone in tampon màu xanh lá cây dạng vòm tròn và chữ nhật",
+      "Đế gỗ gá đầu in silicone"
+    ],
+    "suitable_topics": [
+      "Phân loại hình dáng và độ cứng của đầu in silicone pad printing",
+      "Kỹ thuật lựa chọn cục in silicone phù hợp với bề mặt sản phẩm",
+      "Quy trình bảo dưỡng và vệ sinh đầu in silicone trong máy in tampon"
+    ],
+    "caption": "Các mẫu đầu in silicone (silicone pad) chuyên dụng cho máy in tampon với kiểu dáng vòm tròn và bề mặt cong hình chữ nhật tại xưởng VNPIS.",
+    "alt": "Các loại đầu in silicone in tampon màu vàng và màu xanh lá cây với nhiều kích thước, hình dáng vòm tròn và hình chữ nhật gắn trên đế gỗ tại xưởng in VNPIS.",
     "fileName": "vnpis_workshop_photo_08.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_08.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOog5gt0sIZx5IvtkKr2c8APf0s6h_S0wzl1NFYIOt8Yz0JArRH4FKHOm7pX0mXooJfFnz-UhP3buMs2HMkvLC8N_Hm_obUTdmz3YPqXGITVeX_bw3g",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #8",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_08.jpg"
   },
   {
-    "id": "photo_9",
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "chi tiết nhựa hình tai thỏ",
+      "mẫu sản phẩm nhựa in màu hồng hoàn thiện"
+    ],
+    "suitable_topics": [
+      "In tampon trên bề mặt nhựa định hình phức tạp",
+      "Gia công in ấn linh kiện nhựa đồ chơi và phụ kiện",
+      "Dịch vụ in pad printing sản phẩm nhựa theo yêu cầu"
+    ],
+    "caption": "Mẫu chi tiết nhựa hình tai thỏ được in trang trí màu hồng sắc nét bằng công nghệ in tampon tại xưởng VNPIS.",
+    "alt": "Mẫu chi tiết nhựa tai thỏ màu trắng in màu hồng hoàn thiện bằng máy in tampon",
     "fileName": "vnpis_workshop_photo_09.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_09.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOJVZmPUbfzFlQ0NNBFKcwEtu50-F2Al8D3ZBQj3nk6dGsrvnvN5lPuRdkjF0RkW3WA7QX88QmDd3O1sinZ_eucOpJnI00hePFDhMatEmzkDyPigJCf",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #9",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_09.jpg"
   },
   {
-    "id": "photo_10",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "đầu in silicone",
+      "đầu in tampon",
+      "pad printing silicone pad"
+    ],
+    "suitable_topics": [
+      "Linh kiện máy in tampon",
+      "Đầu in silicone in công nghiệp",
+      "Vật tư ngành in tampon VNPIS"
+    ],
+    "caption": "Đầu in silicone màu hồng dùng cho máy in tampon được đặt trong thùng carton tại kho VNPIS",
+    "alt": "Đầu in silicone màu hồng chuyên dụng cho máy in tampon tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_10.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_10.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMZ499r1Begrf4grG7R8W5WS2yEVnlGixjIAiv8iIaKYwofUm6JnFEhXwvX6o3WTuoVYcJT43gi2btOFLxnCjAMcI3Yb3HtOojMQMLi3LY_Y1siQ6K2",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #10",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_10.jpg"
   },
   {
-    "id": "photo_11",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone màu đỏ (cục tampon)",
+      "Thước kẹp cơ khí (vernier caliper)",
+      "Bàn gá/bàn thao tác inox"
+    ],
+    "suitable_topics": [
+      "Kiểm tra kích thước kỹ thuật đầu in silicone tampon",
+      "Quy trình chọn đầu in pad printing phù hợp",
+      "Bảo dưỡng và quản lý thông số vật tư in tampon VNPIS"
+    ],
+    "caption": "Đo kích thước bề rộng đầu in silicone tampon màu đỏ bằng thước kẹp cơ khí tại xưởng kỹ thuật VNPIS.",
+    "alt": "Kỹ sư đo kích thước cục silicone in tampon màu đỏ bằng thước kẹp cơ khí chính xác tại xưởng in VNPIS",
     "fileName": "vnpis_workshop_photo_11.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_11.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPLepSS7jpn5mjjbPeZ79MtjRMyeqtqoQ1ytxcqNS1Gc5B_nZbAgODDXwJVvgePVR6enu13J4Ynes4D71ihIAptl9YwaUV_wbjHorKRE_wKc2ziDVs6",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #11",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_11.jpg"
   },
   {
-    "id": "photo_12",
-    "fileName": "vnpis_workshop_photo_12.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_12.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMObxgkPcM5YVBWkHAngTu1I1wW_pDxcTyuQTFUsDFefmJ-xtAMYi92iS_4i4wIHIEYec_3jS2juJ7avGz9bS-1fwPas2xNHlgsdgYG1BwI9xU-GZjx",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #12",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_13",
-    "fileName": "vnpis_workshop_photo_13.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_13.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNQeuGLcmCXcaKQI4mRiX-aGGNCjkoVWhqwkfRKZG83JapvIG53IXZ9tTR-JJC8hlPb9Comu62Tt0xxN7La5wa3SZlzrj9xKhaJIjB24BgmoVaUpd3O",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #13",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_14",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "đầu in silicone",
+      "thước kẹp điện tử",
+      "bàn gá in tampon"
+    ],
+    "suitable_topics": [
+      "Kiểm tra chất lượng đầu in tampon",
+      "Đo đạc kích thước đầu in silicone VNPIS",
+      "Kỹ thuật in tampon công nghiệp"
+    ],
+    "caption": "Kỹ thuật viên đang dùng thước kẹp điện tử đo kích thước của đầu in silicone màu hồng tại xưởng VNPIS.",
+    "alt": "Đo đạc kích thước đầu in silicone dùng trong máy in tampon công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_14.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_14.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOQurfHnas4-hR83MFhbxUvUaViIbn8xFkAo5AhGCsFp2yfHAxljz7qh2snpLEpWYzm4efvaLXTkVndH_hWqvdxvCxC5o0cqfw3gyKsL-wxdmYDXqfv",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #14",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_14.jpg"
   },
   {
-    "id": "photo_15",
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "ống gen co nhiệt",
+      "ký hiệu CE",
+      "mã sản phẩm in date",
+      "linh kiện điện tử"
+    ],
+    "suitable_topics": [
+      "In date ống gen co nhiệt",
+      "Giải pháp mã hóa linh kiện điện tử",
+      "Ứng dụng in phun công nghiệp"
+    ],
+    "caption": "Sản phẩm ống gen co nhiệt màu đen đã được in thông số kỹ thuật và ký hiệu CE hoàn thiện tại xưởng VNPIS",
+    "alt": "Ống gen co nhiệt điện tử in mã số và ký hiệu CE hoàn thiện tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_15.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_15.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOkKuINemaHk2_uh6pRg0cbaczz8OFa7bXxYe5fhuuBxCnmNZmkZ04dHW7FEZvg6nMDzJdJEWJHMvrPSITuoxYzrZjx4m_CJ1ZfppBG7_cvfc6sPAnn",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #15",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_15.jpg"
   },
   {
-    "id": "photo_16",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone màu hồng",
+      "bàn gá in",
+      "kỹ thuật viên vận hành"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon tại xưởng",
+      "Kỹ thuật in tampon trên bề mặt vải và vật liệu đặc biệt",
+      "Đội ngũ kỹ thuật viên in ấn công nghiệp VNPIS"
+    ],
+    "caption": "Kỹ thuật viên VNPIS đang vận hành máy in tampon với đầu in silicone tại xưởng sản xuất.",
+    "alt": "Kỹ thuật viên VNPIS đang vận hành máy in tampon và đầu in silicone tại xưởng",
     "fileName": "vnpis_workshop_photo_16.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_16.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNBV2NDMLw-FAyzIgRj4sqWQwJhISLw078m_9-xlPmnX6DHNSOdQI-vgcoLCx_ikJPogEIpzuxGz5udDTwbr297NVwtUi-rcTSEl_Zeodhspu_gYntN",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #16",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_16.jpg"
   },
   {
-    "id": "photo_17",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Cốc mực từ tính máy in tampon (magnetic ink cup)",
+      "Vòng dao gạt mực bằng sứ (ceramic ring)",
+      "Vòng dao gạt mực bằng hợp kim thép",
+      "Lõi nam châm vĩnh cửu giữ chén mực"
+    ],
+    "suitable_topics": [
+      "Cấu tạo và nguyên lý hoạt động của cốc mực từ tính máy in tampon",
+      "Hướng dẫn chọn vòng dao gạt mực ceramic cho chén mực in tampo",
+      "Phụ tùng thay thế và linh kiện máy in tampon công nghiệp VNPIS"
+    ],
+    "caption": "Các mẫu cốc mực từ tính chuyên dụng cho máy in tampon trang bị vòng gạt mực bằng sứ ceramic và thép hợp kim chịu mòn tại VNPIS.",
+    "alt": "Cốc mực từ tính máy in tampon trang bị vòng gạt mực ceramic và hợp kim thép chuyên dụng",
     "fileName": "vnpis_workshop_photo_17.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_17.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMUJ_SZUmUuAZtbDAAenzlpQEWMN9XcnG22EbOMKdvD8gaYNFEfHnbWB2zrOG9_0t1Ugl2Ru5g936etUMKt4TgzL6mXdr3Czvc4BwGSxtdC9kOtzKGI",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #17",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_17.jpg"
   },
   {
-    "id": "photo_18",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone tampon màu hồng hình chữ nhật",
+      "thước kẹp điện tử",
+      "đế gỗ gắn đầu in tampon",
+      "bàn thao tác cơ khí inox"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật kiểm tra kích thước và độ cứng đầu in silicone tampon",
+      "Hướng dẫn lựa chọn cục in silicone phù hợp với bề mặt sản phẩm",
+      "Quy trình sản xuất và chế tạo cục in tampon tại VNPIS"
+    ],
+    "caption": "Kỹ thuật viên VNPIS dùng thước kẹp điện tử kiểm tra kích thước đầu in silicone (tampon) màu hồng đạt 48.9mm.",
+    "alt": "Đo kích thước chiều rộng 48.9mm của cục in silicone màu hồng bằng thước kẹp điện tử tại xưởng in tampon VNPIS",
     "fileName": "vnpis_workshop_photo_18.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_18.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOCIfXFbU2MK1qs9NmpNwYN-78b9rVugH9ghFzn9OQodoc1CPNSkX7WCXMv7_HUkMYBi8kUhZS4cUYKY_Brg9qH3j0fBNLs8zJUMbJcoMTQqvcR0azC",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #18",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_18.jpg"
   },
   {
-    "id": "photo_19",
-    "fileName": "vnpis_workshop_photo_19.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_19.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNTO4aU6NdXLD8ZTXJCXVQ_3K87XVFqvmq7FdHtFf7CZN1Aym-Dsido95lB7QEvmDMiIW_NgjIbcTdCIOZRGnKrwIVVOPiDJhES87ZtW54odPQMfRUR",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #19",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_20",
+    "category": "SCREEN_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "khung in lụa gỗ",
+      "máng tráng keo",
+      "keo chụp bản"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật căng khung in lụa",
+      "Quy trình chụp bản in lụa công nghiệp"
+    ],
+    "caption": "Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS",
+    "alt": "Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS",
     "fileName": "vnpis_workshop_photo_20.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_20.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPbnCNvQ9hiH_pD5B2e4_wGE3zj8BEGWSLl0IQJ5g8IXi1A2M71u-mivUk9VEuZShyaZ-mbz3pA36rxeYte_HsSwhaJlYPEfvKEWjqbINLxjqq3v6m3",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #20",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_20.jpg"
   },
   {
-    "id": "photo_21",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "thước kẹp cơ khí",
+      "đầu tampon in"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn chọn kích thước đầu in tampon",
+      "Kiểm tra và bảo dưỡng đầu in silicone in tampon",
+      "Các loại đầu gôm in tampon chuyên dụng tại VNPIS"
+    ],
+    "caption": "Đo kích thước đầu in silicone (tampon) chuyên dụng phục vụ công nghệ in tampon tại xưởng VNPIS",
+    "alt": "Kỹ thuật viên đo kích thước đầu in silicone tampon tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_21.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_21.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMetvEeBphUmydW7YNRbUfdydX3rGsAMSEVLTIrZL6F1k_9NNYUyvnIn_g-7tEuJuN3u2cqT8VYy5HtC-ssLz7Tup5YAmrvQmMO51pjXSt3-3hLDg0Q",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #21",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_21.jpg"
   },
   {
-    "id": "photo_22",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.85,
+    "specific_items": [
+      "linh kiện máy in tampon",
+      "trục định vị cơ khí",
+      "vít điều chỉnh"
+    ],
+    "suitable_topics": [
+      "bảo dưỡng máy in tampon",
+      "phụ tùng thiết bị in công nghiệp"
+    ],
+    "caption": "Chi tiết cơ khí và linh kiện điều chỉnh dùng trong cụm gá hoặc đầu in của máy in tampon tại xưởng VNPIS.",
+    "alt": "Linh kiện cơ khí chính xác dùng cho máy in tampon tại xưởng kỹ thuật VNPIS",
     "fileName": "vnpis_workshop_photo_22.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_22.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNWE9toq3vLFuyPxGEckJj8Aa4v6A7DnOTd8QSYp1qUz_5WTRlGhFy62Y-8MuLy-d9C8QY8w8Al05mOIu5LqxfwSNw7BSv-P5_WiQ5IAbdnVbWGZlTw",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #22",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_22.jpg"
   },
   {
-    "id": "photo_23",
-    "fileName": "vnpis_workshop_photo_23.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_23.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMwP0tQ4HHOoskNi_YcYPKWV5_KG048RYnABXQHM3syIsCiC7u6lL3p_aVBMgkQFXfydACNnBV9Sl-z1a5jNP-8K6CrWVaL2jhhOv061SWVeTbWAcIP",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #23",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_24",
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực đen SUA INK 1kg",
+      "lọ chất tăng bám Hardener B05 100g",
+      "nhãn mác VNPIS"
+    ],
+    "suitable_topics": [
+      "Mực in công nghiệp",
+      "Chất tăng bám hardener",
+      "Vật tư in tampon in lụa VNPIS"
+    ],
+    "caption": "Bộ sản phẩm mực đen SUA INK 1kg và chất tăng bám Hardener B05 100g của VNPIS dùng cho công nghệ in công nghiệp.",
+    "alt": "Can mực đen công nghiệp SUA INK và chất tăng bám VNPIS tại kho xưởng",
     "fileName": "vnpis_workshop_photo_24.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_24.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPCLBcNZJb8XQnIKM_03oGlYFS8IMM7fLKgy_I6K68BgSkSM0q7MFU3VlBUjX_wxuQFgiwztnyRgsbFxYd82aIvwvtsalPBI1TT3k2vTZF1LHmHyWnN",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #24",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_24.jpg"
   },
   {
-    "id": "photo_25",
-    "fileName": "vnpis_workshop_photo_25.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_25.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNfKH6KHh-ekGiIBmDEVXOXf2ZsdxSfzLPHfO0cvz2GCWO-Flr2py1FD7cCHKnMsF2gg5o4nXVuiqLuvSFGIhHcxe_HJrxKSAd9xeJI1dcjGNVqUjLu",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #25",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_26",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "thước kẹp cơ khí",
+      "bàn gá in tampon"
+    ],
+    "suitable_topics": [
+      "Kiểm tra kích thước đầu in tampon",
+      "Kỹ thuật chọn đầu in silicone trong in ấn công nghiệp",
+      "Bảo dưỡng và đo đạc linh kiện máy in tampon tại VNPIS"
+    ],
+    "caption": "Kỹ thuật viên đang dùng thước kẹp để đo kích thước thực tế của đầu in silicone hồng dùng trong máy in tampon tại xưởng VNPIS.",
+    "alt": "Đo kích thước đầu in silicone máy in tampon bằng thước kẹp cơ khí tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_26.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_26.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPMKw198dmfZn8anssQhT2izN2WdpeocHMXiSNsQ9GjROFODXyd3q_5SXzpHF8-ofVs2UVIVg9Lj8uZ7yDH2kWH87RNMJ-tUEB41ZmzDukQ0cb69y8n",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #26",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_26.jpg"
   },
   {
-    "id": "photo_27",
-    "fileName": "vnpis_workshop_photo_27.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_27.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOIIkHpho4oeG-FZbWYC7_JruDrQcabFNGoXViqpP-EWCnZSt1OSJ7hhbBJbJBNBajsSoTSQtmpLwHUt16xgSrAwBfdPzO3GUV2HCHQOJlzkkHpiTtH",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #27",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.92,
+    "specific_items": [
+      "thẻ test màu mực in (drawdown strip)",
+      "vệt mực in thử nghiệm độ phủ và tông màu",
+      "thước kim loại quy đổi kích thước"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật pha phối màu mực in công nghiệp",
+      "Quy trình kiểm tra tông màu và độ bám dính của mực in",
+      "Phương pháp test mực in tampon và mực in lụa trước khi sản xuất"
+    ],
+    "caption": "Mẫu test màu mực in công nghiệp trên thẻ thử nghiệm giúp kiểm tra độ phủ, sắc độ và chất lượng mực tại xưởng VNPIS.",
+    "alt": "Thẻ test màu mực in công nghiệp tông đỏ cam và thước đo quy đổi kỹ thuật tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_23.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_23.jpg"
   },
   {
-    "id": "photo_28",
-    "fileName": "vnpis_workshop_photo_28.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_28.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPoM4Z5C1UzJhg-Lv9-zCZmEXNrJcW8uHYJ2gn1xg7CIgApyfbfd1P7JYARDaxjcZZW7YEC4FxC5M6rmOoF8LmsxbntpK6XFRXOTnbwhwsoUugMp1VA",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #28",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone in tampon hình chữ nhật",
+      "đế gỗ gá đầu tampon"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật lựa chọn đầu in silicone tampon phù hợp",
+      "Quy trình bảo quản và vệ sinh đầu tampon silicone",
+      "Công nghệ in tampon trên các bề mặt định hình phức tạp"
+    ],
+    "caption": "Cụm đầu in silicone màu xanh lá cây dạng hình chữ nhật chuyên dụng cho máy in tampon tại xưởng VNPIS.",
+    "alt": "Cận cảnh 3 đầu in silicone tampon màu xanh chữ nhật gắn đế gỗ dùng trong công nghệ in tampon công nghiệp tại VNPIS",
+    "fileName": "vnpis_workshop_photo_25.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_25.jpg"
   },
   {
-    "id": "photo_29",
-    "fileName": "vnpis_workshop_photo_29.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_29.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMAEpEBT9JQQnXqr0b9_xvA7IqcojXaWeVRQ87eBgBo8JUwKWhOU3daFv2JJH1Buwlm8DzIxsUrHuQuBeEd-lRH2dIs4sNw4vFkQudWu-ry-MgL0zEw",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #29",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_30",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad printing silicon pad",
+      "đế gỗ đầu in tampon"
+    ],
+    "suitable_topics": [
+      "Lựa chọn đầu in silicone phù hợp cho máy in tampon",
+      "Cách bảo quản và vệ sinh đầu in tampon công nghiệp"
+    ],
+    "caption": "Các đầu in silicone (tampon pad) màu hồng chuyên dụng gắn trên đế gỗ tại xưởng VNPIS",
+    "alt": "Đầu in silicone màu hồng dùng cho máy in tampon công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_30.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_30.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOGIO0SEvGkkrLTC50jJUWPiJCeT_3bAHTzgbZr8aFTJAnCz9Wwlmvrgw0B_sCrEBBpGhIqo-Mv2qoMMWBwfusn3j3NiuNuU9QGSNydMWciid24g_M-",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #30",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_30.jpg"
   },
   {
-    "id": "photo_31",
+    "category": "CIJ_TIJ_CODING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "Carton Inkjet Coding Machine",
+      "Inkjet Printing unit",
+      "High-Speed Variable Code Printing conveyor"
+    ],
+    "suitable_topics": [
+      "Máy in date công nghiệp cho thùng carton",
+      "Hệ thống in mã vạch tốc độ cao trên dây chuyền",
+      "Giải pháp in phun công nghiệp VNPIS"
+    ],
+    "caption": "Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS",
+    "alt": "May in phun cong nghiep carton code high speed variable code printing VNPIS",
     "fileName": "vnpis_workshop_photo_31.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_31.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOY7kkWERqr5QEkcdwy8jAENijYJACHNq7ftYzSdH-RQwZfFJxecvI_3YhJZs8hIUT1aSn2BTwAkGCjE5HbGIAgGd6CyN0yShYrkV6R6kjf7aHKguYX",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #31",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_31.jpg"
   },
   {
-    "id": "photo_32",
-    "fileName": "vnpis_workshop_photo_32.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_32.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMXDlK5ySNbEPq05JypHS04ZD6L275ZYewS2HQozAAh-jcNcmDQEQcKvw6hbpsOisayabenb29JLH-OM1Q0y0vxrxqSGY2zxrN8nava54JrXMOZ-9CZ",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #32",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "vỏ phím điều khiển nhựa đen",
+      "biểu tượng in sắc nét (Bluetooth, mũi tên, biểu tượng người dùng)",
+      "nút in START/STOP hai màu trắng và đỏ"
+    ],
+    "suitable_topics": [
+      "In ấn linh kiện điện tử và thiết bị y tế",
+      "Kỹ thuật in tampon (Pad Printing) trên bề mặt nhựa nhám",
+      "In ký hiệu phím bấm và mặt nạ thiết bị"
+    ],
+    "caption": "Sản phẩm mẫu mặt điều khiển thiết bị nhựa đen được in ký hiệu và chữ nhãn nét cao hoàn thiện tại xưởng VNPIS.",
+    "alt": "Cận cảnh vỏ bảng điều khiển thiết bị điện tử nhựa đen in ký hiệu phím bấm sắc nét bằng công nghệ in pad công nghiệp tại VNPIS",
+    "fileName": "vnpis_workshop_photo_28.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_28.jpg"
   },
   {
-    "id": "photo_33",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone màu xanh lá",
+      "Tampon in pad tròn và vuông",
+      "Đế gỗ/nhựa cố định tampon"
+    ],
+    "suitable_topics": [
+      "Cấu tạo và phân loại đầu in tampon silicone",
+      "Lựa chọn tampon phù hợp cho từng bề mặt in",
+      "Bảo quản và vệ sinh đầu in pad printing"
+    ],
+    "caption": "Hai đầu in silicone (tampon) màu xanh lá cây dùng trong công nghệ in tampon (pad printing) tại xưởng VNPIS.",
+    "alt": "Đầu in silicone màu xanh lá chuyên dụng cho máy in tampon tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_33.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_33.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPU3S559_GHLfG8neZc5hdBgz_Ss6sId1srS0up-zgSP8fl6b_9DE26Lm_nhNlx-0fjJ03W6_VJ_EcB1o83h31i972dfjZh9KvsSgvi3rRKovdzrPDz",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #33",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_33.jpg"
   },
   {
-    "id": "photo_34",
-    "fileName": "vnpis_workshop_photo_34.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_34.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczML9xTTu2FMReqxsROP811JvGpXLIlcOEUUOOPP0b1Db0uxoziU-HIvsq_ESn-g9-69MDO7KyGK8IoQAh7lRwQXAN5NEwVtwx636O4zCj3jUCOaBKcu",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #34",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_35",
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "khay nhựa định hình",
+      "linh kiện nhựa đúc"
+    ],
+    "suitable_topics": [
+      "sản phẩm nhựa công nghiệp",
+      "gia công in ấn linh kiện nhựa"
+    ],
+    "caption": "Sản phẩm mẫu khay nhựa định hình được chụp tại xưởng VNPIS",
+    "alt": "Sản phẩm mẫu khay nhựa công nghiệp hoàn thiện tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_35.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_35.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNvSQimtdOasUjW2Ps-e-94-d0_fRFRyj9XE3G_gccgrzYs366arC6DI-sXQXIwFaoCJ1cCoUlqHUG4XC_RZb8EGnRSBsgItSgeP9aFL_HTChMQhd9U",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #35",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_35.jpg"
   },
   {
-    "id": "photo_36",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "đầu in silicone",
+      "thước kẹp cơ khí"
+    ],
+    "suitable_topics": [
+      "Kiểm tra kích thước đầu in tampon",
+      "Kỹ thuật đo đạc bảo dưỡng phụ kiện in ấn",
+      "Đầu in silicone in tampon"
+    ],
+    "caption": "Kỹ thuật viên đang dùng thước kẹp đo kích thước thực tế của đầu in silicone màu xanh lá cây tại xưởng VNPIS.",
+    "alt": "Đo kích thước đầu in silicone màu xanh lá bằng thước kẹp tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_36.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_36.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOsOzBTCRV8fGEdTH4RNMm2X2IbqS5hJCamWtEM5C1lwrc_lDubH-k93JuYdt5v4PbWr9BfBNrQg6LGgJHh6rtHg5KdbZ_k_USHlfWXuQebTmY6SJrn",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #36",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_36.jpg"
   },
   {
-    "id": "photo_37",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone màu hồng (silicone pad)",
+      "Đế gá đầu in tampon",
+      "Mặt bàn thao tác xưởng in"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật lựa chọn đầu in silicone cho máy in tampon",
+      "Quy trình bảo dưỡng và vệ sinh đầu in pad printing",
+      "Tối ưu độ đàn hồi silicone pad trong in công nghiệp"
+    ],
+    "caption": "Cận cảnh đầu in silicone màu hồng dạng khối hình vuông dùng cho máy in tampon tại xưởng kỹ thuật VNPIS.",
+    "alt": "Đầu in silicone màu hồng chuyên dụng cho kỹ thuật in tampon pad printing công nghiệp",
+    "fileName": "vnpis_workshop_photo_34.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_34.jpg"
+  },
+  {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "tampon in",
+      "pad printing silicone pad",
+      "đế gỗ đầu in tampon"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn chọn đầu in silicone cho máy in tampon",
+      "Phân loại các loại đầu in tampon VNPIS",
+      "Bảo quản và vệ sinh đầu in tampon công nghiệp"
+    ],
+    "caption": "Kỹ thuật viên VNPIS kiểm tra đầu in silicone (tampon in) màu đỏ dùng trong máy in tampon công nghiệp",
+    "alt": "Đầu in silicone màu đỏ chuyên dụng cho máy in tampon công nghiệp tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_37.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_37.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMPCvkznqYtNme3SIeEZ-A618cjypMXuTR_ZZHXtOicQ37NUzCjAXk18Xp0LcovokDqtiETP3-FR4v58Hx7gKdJ-SgJxJbKid2m-ElQV92uUxve_nO1",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #37",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_37.jpg"
   },
   {
-    "id": "photo_38",
     "fileName": "vnpis_workshop_photo_38.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_38.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPq4J4CsXuez5rAm3_2afzxBHLUUW16vxyhmrmrb1D0tOwahIS4oOqVJcir4xceQKHSw8i-ezog-usBtV-Z8xud9fXwYkEBcv17wgoVYom0T5yelSpE",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #38",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   {
-    "id": "photo_39",
-    "fileName": "vnpis_workshop_photo_39.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_39.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOgqBWCTyVt5ycWL0GrMyx2SHDOCNRYK2XRg4caS5KEe5W3xGt5NqE-D3TOzBP7oy2Mt-hzj9Nv4iBywVt7vYoJ49V3IUkqTTpEqXiBsHdbX_zVfFbz",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #39",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_40",
-    "fileName": "vnpis_workshop_photo_40.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_40.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczM-V-72zRT-nF0GiLI0kgJTpUbusb_eOvXPD2r5DsZ3dqIY2Bqwz6mHfQWB5H1ymWvqyWv9ys6EwqG6z_2BZGIR0igzDsd1ljm5VmFF1g8ByHAehiYh",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #40",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_41",
-    "fileName": "vnpis_workshop_photo_41.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_41.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMhD2C-mVW6mBrTR65oyE6DgHjtzPexcmONl4P62wlJAzbUtfhHCRm2pundifgSCeaouh7YS5pHrwHG8joK5ymgJkmDddMooAKWB1Yz02OJl3yhUfzH",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #41",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_42",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "bản in thép cliché",
+      "khuôn chứa mực",
+      "cốc mực từ tính"
+    ],
+    "suitable_topics": [
+      "Cấu tạo và vai trò của bản in thép cliché trong in tampon",
+      "Bảo dưỡng và vệ sinh chén mực máy in tampon công nghiệp"
+    ],
+    "caption": "Bản in thép cliché và các phụ kiện dùng trong hệ thống in tampon tại xưởng VNPIS",
+    "alt": "Bản in thép cliché và linh kiện máy in tampon công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_42.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_42.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNb4Qbl_xmPoofPDgn1BLuuLh7efiNriiQ0mjNUCXNwXgD-arHpOHVskdzydhR8XxSKzLoTyCOkuemjM7e1BJzOOQXJZDscW6-7zadq5b3xVdjJ1plC",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #42",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_42.jpg"
   },
   {
-    "id": "photo_43",
+    "fileName": "vnpis_workshop_photo_32.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_32.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "linh kiện nhựa",
+      "phím bấm",
+      "chi tiết in ký hiệu"
+    ],
+    "suitable_topics": [
+      "Sản phẩm in ấn công nghiệp",
+      "In ký hiệu lên linh kiện nhựa",
+      "Gia công in ấn chi tiết điện tử"
+    ],
+    "caption": "Sản phẩm linh kiện nhựa được in ký hiệu sắc nét tại xưởng VNPIS",
+    "alt": "Linh kiện nhựa hoàn thiện với ký hiệu in sắc nét bằng công nghệ in công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_43.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_43.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPHrdBLoXuhAEt2O1r6MlAWPyOpH45D0rVcovuCFCup84u-sE4FjjmWTfV0T2h8dH8a1e4Kv2CWQiedPOZphIbH0aRAfcH7TVA3e0ghoUUR0k8l_xYT",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #43",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_43.jpg"
   },
   {
-    "id": "photo_44",
-    "fileName": "vnpis_workshop_photo_44.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_44.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNYXJyDe8ajU79yPcCJZQhPijGNdBkJYQv5_krgrWAxjXozdwrvnJUJ4HBlsoIbdhPbY9dHIAdsNeLWyhfasYgwSBtPco2Jn8HxM2IL0APEOpfvO1qe",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #44",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_45",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in tampon",
+      "đế gỗ đầu in"
+    ],
+    "suitable_topics": [
+      "Lựa chọn độ cứng đầu in silicone",
+      "Bảo dưỡng đầu in tampon",
+      "Kỹ thuật in tampon công nghiệp"
+    ],
+    "caption": "Đầu in silicone màu hồng chuyên dụng cho máy in tampon tại xưởng VNPIS, hiển thị rõ thông số độ cứng trên thân pad.",
+    "alt": "Đầu in silicone màu hồng dùng trong kỹ thuật in tampon công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_45.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_45.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMz6LG2heVRo2I_E0iNJ6FyLCFBFhZxa5jhcjtB1C_JR4l4GM1UPbRbtz-bsOMHuzsaLQtRvYusT8RRO1Xk13d_vK11aVEZvThT0__0sp7UXJErg5AN",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #45",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_45.jpg"
   },
   {
-    "id": "photo_46",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone màu đỏ (cục tampon)",
+      "Đế gá cục in",
+      "Bàn thao tác kim loại"
+    ],
+    "suitable_topics": [
+      "Vật tư máy in tampon",
+      "Cấu tạo và đặc tính đầu in silicone pad printing",
+      "Kỹ thuật chọn cục tampon phù hợp với bề mặt sản phẩm",
+      "Bảo dưỡng và bảo quản đầu in silicone VNPIS"
+    ],
+    "caption": "Cận cảnh đầu in silicone (cục tampon) màu đỏ dạng khối vòm chữ nhật chuyên dụng cho máy in tampon tại xưởng VNPIS.",
+    "alt": "Đầu in silicone màu đỏ dùng cho máy in tampon pad printing công nghiệp tại VNPIS",
+    "fileName": "vnpis_workshop_photo_41.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_41.jpg"
+  },
+  {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "Pantone color guide",
+      "Pantone 2300 C",
+      "Pantone 2301 C",
+      "vết mực in thử nghiệm",
+      "cốc đo độ nhớt / dung môi"
+    ],
+    "suitable_topics": [
+      "Pha chế màu mực in công nghiệp",
+      "Kiểm tra độ chuẩn màu Pantone trong in ấn",
+      "Quy trình kiểm soát chất lượng mực in VNPIS"
+    ],
+    "caption": "Quá trình pha chế và kiểm tra màu mực in công nghiệp đối chiếu với bảng màu chuẩn Pantone tại xưởng VNPIS",
+    "alt": "Kiểm tra và đối chiếu màu mực in công nghiệp với bảng màu Pantone tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_46.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_46.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNOwLWou341BSs4D7WKX-wfiU0_uU60C4lQf9aUv-ngzmaoPqM0OrdPQUIxKgQaNrSrMij1yGToAbeCx7dgZWWzmaqPnfyDLXi_qUNdOINR9M-tcGa5",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #46",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_46.jpg"
   },
   {
-    "id": "photo_47",
-    "fileName": "vnpis_workshop_photo_47.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_47.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczND7NqSAcv8Y-RlJjmkKiyOK0u2R2fggqFVaStnw7g0cDoWR-BMPPGsYxQaR4znMUtZu4CscyMwzR-xB1UAaO8qNL9HvXH3hd8Ud4n0zO_ZclFC-lWk",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #47",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_48",
     "fileName": "vnpis_workshop_photo_48.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_48.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNjhbdm3H752JUkACrS1D3rTsNfrKwgToNxp_UfuzVXJzJwsBHIYemny20GZ9rsLPMtx9U4I9T42Lft-VYIcFFI5g04LUuKuctLrWk5jzFut5bYwiFm",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #48",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   {
-    "id": "photo_49",
+    "fileName": "vnpis_workshop_photo_44.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_44.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "bàn gá in tampon",
+      "đồ gá nhôm",
+      "khuôn gá định vị sản phẩm"
+    ],
+    "suitable_topics": [
+      "Thiết kế và gia công bàn gá in tampon",
+      "Đồ gá định vị chuyên dụng cho in ấn công nghiệp",
+      "Quy trình chuẩn bị gá in tại xưởng VNPIS"
+    ],
+    "caption": "Các chi tiết đồ gá và bàn gá định vị bằng nhôm gia công chính xác dùng trong quy trình in tampon tại xưởng VNPIS.",
+    "alt": "Bàn gá in tampon và đồ gá nhôm định vị sản phẩm tại xưởng kỹ thuật in ấn VNPIS",
     "fileName": "vnpis_workshop_photo_49.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_49.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPjAk6D1OUx3JtJb945vmVhLKhA5YElyiULnQPNH9mQUG1EUbEphWKl15Yy-o2u2lK_z28SxLYbvPxWPs-ArzqUxyoTIkY5IxpNk1gEaTDvWkCCD10U",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #49",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_49.jpg"
   },
   {
-    "id": "photo_50",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in tampon",
+      "bản đế gỗ đầu in tampon"
+    ],
+    "suitable_topics": [
+      "Lựa chọn đầu in silicone cho máy in tampon",
+      "Phân loại và bảo quản đầu in tampon tại xưởng VNPIS",
+      "Đặc tính kỹ thuật của đầu in tampon màu hồng"
+    ],
+    "caption": "Hàng đầu in silicone (pad in tampon) màu hồng gắn đế gỗ được xếp gọn gàng tại xưởng VNPIS phục vụ cho quy trình in tampon công nghiệp.",
+    "alt": "Các đầu in silicone màu hồng dùng trong máy in tampon công nghiệp tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_51.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_51.jpg"
+  },
+  {
+    "fileName": "vnpis_workshop_photo_47.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_47.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "đầu in silicone",
+      "thước kẹp cơ khí"
+    ],
+    "suitable_topics": [
+      "Kiểm tra kích thước đầu in tampon",
+      "Bảo dưỡng và đo đạc đầu in silicone",
+      "Kỹ thuật in tampon công nghiệp tại VNPIS"
+    ],
+    "caption": "Sử dụng thước kẹp cơ khí để đo kích thước thực tế của đầu in silicone màu xanh lá dùng trong máy in tampon tại xưởng VNPIS.",
+    "alt": "Đo kích thước đầu in tampon silicone bằng thước kẹp cơ khí tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_52.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_52.jpg"
+  },
+  {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad printing silicone pad",
+      "đế gá đầu in tampon"
+    ],
+    "suitable_topics": [
+      "Lựa chọn đầu in silicone phù hợp cho máy in tampon",
+      "Bảo dưỡng và vệ sinh đầu in pad printing tại xưởng VNPIS"
+    ],
+    "caption": "Đầu in silicone màu hồng dùng trong công nghệ in tampon tại xưởng VNPIS",
+    "alt": "Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại VNPIS",
+    "fileName": "vnpis_workshop_photo_54.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_54.jpg"
+  },
+  {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "bàn gá in tampon",
+      "cụm gá kẹp",
+      "vít điều chỉnh độ cao",
+      "núm xoay khóa"
+    ],
+    "suitable_topics": [
+      "Thiết kế và chế tạo bàn gá in tampon",
+      "Hướng dẫn căn chỉnh đồ gá in ấn công nghiệp",
+      "Phụ kiện máy in tampon VNPIS"
+    ],
+    "caption": "Đồ gá điều chỉnh cơ khí dùng cho máy in tampon tại xưởng VNPIS, hỗ trợ cố định và định vị sản phẩm chính xác trong quá trình in.",
+    "alt": "Cụm bàn gá cơ khí và vít điều chỉnh độ cao dùng trong kỹ thuật in tampon tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_55.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_55.jpg"
+  },
+  {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "linh kiện điện tử",
+      "vỏ thiết bị điện nhựa trắng",
+      "chữ in thông số kỹ thuật"
+    ],
+    "suitable_topics": [
+      "In ấn trên linh kiện điện tử",
+      "Giải pháp in tampon trên bề mặt nhựa",
+      "In chữ thông số kỹ thuật công nghiệp"
+    ],
+    "caption": "Các sản phẩm vỏ linh kiện điện tử bằng nhựa màu trắng đã được in thông số kỹ thuật hoàn thiện tại xưởng VNPIS.",
+    "alt": "Sản phẩm linh kiện điện tử nhựa trắng in chữ sắc nét tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_56.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_56.jpg"
+  },
+  {
     "fileName": "vnpis_workshop_photo_50.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_50.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNV-Xpz4f0GE7UvCFFj9a1QTEjNiAPbQhZmfLoA8muSdS853UzMbHGC4dDV1ZqXuvDCcjhPl-Pj8xftpFJWN9ZHSswRY88i0uSrtzDFUW7rbR6AuuVg",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #50",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   {
-    "id": "photo_51",
-    "fileName": "vnpis_workshop_photo_51.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_51.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPmKgC7m4jev5n2xPuIEo2g--iEyr6iHtIG5p93Ry30mtIZZf24Z1_GTRgKbJaVjotoSvW35sJOlJuR_WwfBhaAfr59TfXj-wTjWbZHC8XfzafNbjs5",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #51",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_52",
-    "fileName": "vnpis_workshop_photo_52.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_52.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczM0Qir2zAWCPgXgCmvU8EBZvj-bICoPVj40Ui7Xb52_0twOYRY0wANtJkGoBb3J3inOYnAJh0JsFJ2poTQ60LjuCQex55QvmhluID9iABpCEXHWQKUX",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #52",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_53",
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.96,
+    "specific_items": [
+      "Cây màu chuẩn Pantone (Pantone Color Guide)",
+      "Thẻ quết mẫu mực in (Ink drawdown test swatch)",
+      "Mực in công nghiệp màu xanh tím sẫm"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật pha mực và so màu mực in công nghiệp",
+      "Quy trình kiểm soát chất lượng màu in theo chuẩn Pantone",
+      "Phương pháp test mực in quết tay (Ink Drawdown Test)"
+    ],
+    "caption": "Kỹ thuật viên VNPIS thực hiện so sánh màu mực in quết mẫu thực tế với cây màu chuẩn Pantone (PANTONE 533 C / 534 C) để đảm bảo độ chính xác màu sắc.",
+    "alt": "Thao tác so sánh độ chuẩn màu mực in trên thẻ quết mẫu với quạt màu Pantone tại xưởng in VNPIS",
     "fileName": "vnpis_workshop_photo_53.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_53.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNcBOH7PWA4TnFDQ6YWr-xiyMPTuKwIFBtneuzMU9uO_qZxo5LvAEPtpdYQ9nJEByLFEZh-kt9YrTHWwQ72-hjJoCunOlDjxaG6az0mxPD31JRylQBl",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #53",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_53.jpg"
   },
   {
-    "id": "photo_54",
-    "fileName": "vnpis_workshop_photo_54.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_54.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNvHQuAqMrKVhu7qLzPBRFVA1v984rVLZQkhI2KwV5Pnf-xuFkgFK7vxjUG0h1SY7J7qbELQFA7n8oco1OZPNoDwL_IiDY8BEfd4r8Tb_HkpCovvo3V",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #54",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_55",
-    "fileName": "vnpis_workshop_photo_55.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_55.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczODmRfr-3Btt-9ljDquEZTPwiDuJJsRUCxRGWreQy-YAVqb-D6DZnFittdz7zD99Nl9WB1A112cgp1fwd_YoMqg9ymmrBwpb3AHbq0guqinaGDPvO_h",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #55",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_56",
-    "fileName": "vnpis_workshop_photo_56.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_56.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPufVoh_NG4tj8jMfMgagmPNmCVDl7E7DZpa3jwgrjPud6_zsziaD_OgprvnOAvxlufjgv99U2SeD6I-U7ullKQUnHZ4Thh26dTwkaTwxUqpAbAsDlx",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #56",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_57",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad printing pad",
+      "bàn gá"
+    ],
+    "suitable_topics": [
+      "Cấu tạo và ứng dụng của đầu in silicone trong công nghệ in tampon",
+      "Lựa chọn đầu in pad printing phù hợp cho bề mặt cong",
+      "Bảo dưỡng và vệ sinh đầu in tampon VNPIS"
+    ],
+    "caption": "Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS",
+    "alt": "Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_57.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_57.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNB3u0U2uQOXwia3zRMEJ0xaEEM_A6CVXrabtlZ2svIE0Xz983fQrfgHGkl7W-H8-n1YUUcZ_CuzWok7SP9abdZCR6HLWTwg0v5xvrVGaY0GgxYpLlo",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #57",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_57.jpg"
   },
   {
-    "id": "photo_58",
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.88,
+    "specific_items": [
+      "linh kiện nhựa trắng",
+      "mẫu test mực in",
+      "bề mặt gỗ xưởng in"
+    ],
+    "suitable_topics": [
+      "Kiểm tra độ bám dính mực in công nghiệp",
+      "Quy trình test mẫu in tại VNPIS"
+    ],
+    "caption": "Hai mẫu linh kiện nhựa trắng được test độ bám dính mực in công nghiệp trên bàn làm việc tại xưởng VNPIS.",
+    "alt": "Test mẫu linh kiện nhựa in ấn công nghiệp tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_60.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_60.jpg"
+  },
+  {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "bản in thép cliché",
+      "bàn gá kẹp sản phẩm",
+      "máy in tampon công nghiệp",
+      "cơ cấu gá đặt gia công"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Kỹ thuật gá đặt sản phẩm in pad printing",
+      "Cấu tạo đầu in silicone và cliché"
+    ],
+    "caption": "Cận cảnh đầu in silicone màu hồng và bàn gá sản phẩm trên máy in tampon tại xưởng VNPIS",
+    "alt": "May in tampon cong nghiep dang van hanh voi dau in silicone va ban ga san pham tai xuong VNPIS",
+    "fileName": "vnpis_workshop_photo_62.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_62.jpg"
+  },
+  {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "chai nhựa trắng chứa hóa chất",
+      "chất đóng rắn tăng bám Hardener L05",
+      "dung dịch phụ gia in ấn công nghiệp VNPIS"
+    ],
+    "suitable_topics": [
+      "Hóa chất phụ gia in ấn",
+      "Chất tăng độ bám dính mực in",
+      "Vật tư tiêu hao ngành in VNPIS"
+    ],
+    "caption": "Hai chai nhựa chứa chất đóng rắn tăng bám (Hardener L05) dùng trong quy trình pha chế mực in công nghiệp tại xưởng VNPIS",
+    "alt": "Chai chứa chất tăng bám Hardener L05 và hóa chất phụ gia in ấn công nghiệp tại kho VNPIS",
+    "fileName": "vnpis_workshop_photo_64.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_64.jpg"
+  },
+  {
     "fileName": "vnpis_workshop_photo_58.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_58.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMgzzJO5vWR4WEkIEJZkvU1OcSan4niv1SbGIt_pQVMoFvXyCT_EhPD2gIvP_fdR1eoGhtKNV1oCC3PZ3V11OVvFWGikDT8A6Hl6z-TVSUCzE5qAfBp",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #58",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   {
-    "id": "photo_59",
-    "fileName": "vnpis_workshop_photo_59.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_59.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNn29MhCkJ4FOT1XFx3LJSllsnhGVEtjdH1EA10-8Nvw_VSqNNtmj6k_OIAPq3agBViV1fozpTOR3tFBMe13kH-ZmQMg5O8LLuCQRRT59Q-y6U4df3i",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #59",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_60",
-    "fileName": "vnpis_workshop_photo_60.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_60.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMkvhcTZC7ly-6ESwaFDpMp_bPTfOqfb1BiLMpL7M-3QihjmH7nJoXkQLjvEoKH-XFQ3S4-fv-PFtl2c1TBrvkfrCzczAnnT4YGpJ7omtMn8ngKlHtH",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #60",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_61",
-    "fileName": "vnpis_workshop_photo_61.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_61.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPQDUSx2O3rKq64WDMnMqKGIHa217kzYXsDt1filYoC2L5pi8wtLhw-bReiPG-IWILnIHdit8vzA_fYtGp27u95STX5BMxbFJYuNuJzRtE5neSsBzD3",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #61",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_62",
-    "fileName": "vnpis_workshop_photo_62.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_62.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOSdfTFsw0CW8MS51h5O3GFBtyKxBINtzkakhxdUw2LOG2AUEDj992qYv5fIvv6R85vl4k8HkvDMuCT63-F0V1ccc3s2djbcDuX_5SmBjdOWJAZRyB6",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #62",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_63",
-    "fileName": "vnpis_workshop_photo_63.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_63.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOTSvI6qRd868qmtrX1gkzgoZ-rdn4LM7hGibpHbqF8Jd62Db7WsehBxKZk6Kwy9BedQUOisAwwXlEcz4R0Mw52NLrMaHn0gbC8RVMjA_U0Cu3as6bY",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #63",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_64",
-    "fileName": "vnpis_workshop_photo_64.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_64.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPpB34Uot2Wg0g7d79EkHkoQJzsJMYGHYxWm7tCdgNdKk7HJo9a3eAj0p0lHWW8x1a6QOkWD2h8bL02nFr8PPurW5GnAtxuo9gMUgOJdbzJIi6gvGC6",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #64",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_65",
-    "fileName": "vnpis_workshop_photo_65.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_65.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPrrZ7_2M0vkt-hnxDJ1Ilg29qsC5iZb491OFa77TyZKkOijXhRZBTHhtth5V1NVXlxFJ2nfW7iQQ8FwV5H_j0tUn3fcNTmDWCPoPPJBB7uY_j2uMJh",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #65",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_66",
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "quả bóng in họa tiết",
+      "sản phẩm in hoàn thiện",
+      "bàn gá thủ công"
+    ],
+    "suitable_topics": [
+      "Quy trình in ấn sản phẩm đồ chơi và quà tặng",
+      "Ứng dụng công nghệ in trên bề mặt cầu tròn",
+      "Sản phẩm hoàn thiện tại xưởng VNPIS"
+    ],
+    "caption": "Sản phẩm bóng đồ chơi được in màu họa tiết hoàn thiện tại xưởng VNPIS",
+    "alt": "Sản phẩm quả bóng in họa tiết thủ công hoàn thiện tại xưởng in công nghiệp VNPIS",
     "fileName": "vnpis_workshop_photo_66.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_66.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMdBmhY15bXWST4tRn4AR2NNlqCwCXKnpJGkzcGvRf_yICC6W5PAMF7tJhHbT9G0l68FWqpjJxjqd6s8x3kGLrZnQ5g7tuEp_r4xWBtitCPzsrkyxGi",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #66",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_66.jpg"
   },
   {
-    "id": "photo_67",
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "cây quạt màu Pantone",
+      "mẫu mực in",
+      "bề mặt thử mực"
+    ],
+    "suitable_topics": [
+      "Pha chế và quản lý màu sắc mực in công nghiệp",
+      "Kiểm tra độ chuẩn màu Pantone trong in ấn"
+    ],
+    "caption": "Quá trình kiểm tra và so sánh mã màu Pantone với mẫu mực in thực tế tại xưởng VNPIS.",
+    "alt": "So sánh mã màu Pantone chuẩn với mẫu mực in công nghiệp tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_69.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_69.jpg"
+  },
+  {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "Sản phẩm in tampon",
+      "Linh kiện nhựa",
+      "Chi tiết in biểu tượng tam giác"
+    ],
+    "suitable_topics": [
+      "Công nghệ in tampon trên linh kiện nhựa",
+      "Sản phẩm gia công in ấn tại VNPIS"
+    ],
+    "caption": "Sản phẩm linh kiện nhựa hoàn thiện với hình in biểu tượng sắc nét bằng công nghệ in tampon tại xưởng VNPIS",
+    "alt": "Sản phẩm linh kiện nhựa được in ấn hoàn thiện chi tiết sắc nét tại VNPIS",
+    "fileName": "vnpis_workshop_photo_70.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_70.jpg"
+  },
+  {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "Hũ mực in",
+      "Mẫu vải thử nghiệm",
+      "Nhãn mã màu mực",
+      "Túi nilon đựng vật tư"
+    ],
+    "suitable_topics": [
+      "Pha chế màu mực in công nghiệp",
+      "Kiểm tra độ bám dính mực trên vải",
+      "Quản lý vật tư mực in và dung môi"
+    ],
+    "caption": "Các hũ mực in công nghiệp kèm theo nhãn mã màu và các mẫu vải thử nghiệm đặt trên bàn làm việc tại xưởng VNPIS",
+    "alt": "Hũ mực in công nghiệp và mẫu vải thử nghiệm màu tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_71.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_71.jpg"
+  },
+  {
+    "category": "SCREEN_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "máng tráng keo",
+      "máng nhôm tráng keo in lụa"
+    ],
+    "suitable_topics": [
+      "hướng dẫn sử dụng máng tráng keo in lụa",
+      "phụ kiện ngành in lụa"
+    ],
+    "caption": "Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS",
+    "alt": "Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in",
+    "fileName": "vnpis_workshop_photo_73.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_73.jpg"
+  },
+  {
     "fileName": "vnpis_workshop_photo_67.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_67.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMDMQ3Yi1OLls_aio154FOVmmsaBivazAlqiCZpq3VZMKlQXMoxcvm13ZzKHVuTUixWGo794ThVWZ55E-dErPYi6wUWEsU4ZJ4PXa9guZSOsktwqjNd",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #67",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   {
-    "id": "photo_68",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "quả bóng",
+      "gá đỡ bóng",
+      "bàn gá máy in tampon"
+    ],
+    "suitable_topics": [
+      "Quy trình in logo lên bề mặt cong",
+      "Giải pháp in tampon cho đồ chơi thể thao",
+      "Kỹ thuật in ấn VNPIS"
+    ],
+    "caption": "Kỹ thuật viên đang kiểm tra quả bóng được cố định trên bàn gá của máy in tampon tại xưởng VNPIS.",
+    "alt": "Quá trình in ấn công nghiệp trên bề mặt quả bóng bằng máy in tampon tại nhà máy VNPIS",
+    "fileName": "vnpis_workshop_photo_75.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_75.jpg"
+  },
+  {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in tampon",
+      "bàn gỗ gắn đầu in"
+    ],
+    "suitable_topics": [
+      "Lựa chọn đầu in silicone phù hợp cho máy in tampon",
+      "Đặc tính kỹ thuật của đầu in tampon tại VNPIS",
+      "Hướng dẫn bảo quản và vệ sinh pad in"
+    ],
+    "caption": "Cận cảnh đầu in silicone màu hồng dùng trong công nghệ in tampon tại xưởng VNPIS",
+    "alt": "Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại VNPIS",
+    "fileName": "vnpis_workshop_photo_76.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_76.jpg"
+  },
+  {
     "fileName": "vnpis_workshop_photo_68.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_68.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOfA5bSX4nr3pT5ZcGWTmP_NyG_KUK90hShZc1qKj-Gf1Q_bCGs5iCh7ZodBXeTgHc1JdUgcKMH-DBx6N0r-ylSpETfSIOFVClFkIIsJNJG90-vDcuB",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #68",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   {
-    "id": "photo_69",
-    "fileName": "vnpis_workshop_photo_69.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_69.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMt4z1tASGmx2Arg19YBW2EcYFNpO0wLPlDlDPwErMXyd3dQMEK1D1zBqzgP_6AopjB6hUMXFEb6CC9SM59OJzfZOa9MJkrTI2m_XxK8JENvh7xQtaU",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #69",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_70",
-    "fileName": "vnpis_workshop_photo_70.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_70.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczN2qKtSVFrM02qZzo3S8YbOSq50fHb08X6zf8lH2bddUUIrhSqkvL9JHeRHDPqAGh3zKMX4QfE7qfBjl8J1yuLSAXnZyx8vHD1G5URFB221zQDhcRAo",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #70",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_71",
-    "fileName": "vnpis_workshop_photo_71.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_71.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNqAys0G68PjmC_PD16JNdVigaq6ZlDJMxazhEJ-KxARoeS1EHBw4TqJKU6l8ERTIzadKcvxHGGJNlJL0av_vSs_plzGPadRPjAU2FFHgjPpXMGzj7f",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #71",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_72",
-    "fileName": "vnpis_workshop_photo_72.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_72.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczOVntRzF9k2QHJyh13zrtBwIiJxesr5fKuWUZMvA5c5Ha4N4qirlXmF5-KK1Fc6ynwFPuQ1kFjoh-gUK2VqopddFnk77SXrTc0rWJPT8dZlwBNlyg-3",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #72",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_73",
-    "fileName": "vnpis_workshop_photo_73.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_73.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczPyqb14TgYU4CsbwY0LlTRQTzknnJfG2a2BmNbPGfdrgkJRgxjjiVqFeCjNzpf_Fcydkd1ktGksbGNIXtr3YDMRQ5wL0s8g-EUgSXKrtZQdnhR1aHAT",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #73",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_74",
-    "fileName": "vnpis_workshop_photo_74.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_74.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczODLYRea3ObelNDIA31Gb_wFaDD0e6Hd795e2drm5qEwMuYPQ7N9u0UATO3s22VGDgcJmkEhjBAARL5nG6Tf0mu49X41BifdZYMUHwEz7Qo9EEW8ESe",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #74",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_75",
-    "fileName": "vnpis_workshop_photo_75.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_75.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMsItncPkbZnXm8MEplDglZ1lF_yvpG0UBxou8wsX6SR88017FWxq6qxZMUemDm3r-Qt0ZWxWBSeoX6f_VF65NrJFr0B650Z919boKRw6Y7dv6tluZH",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #75",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_76",
-    "fileName": "vnpis_workshop_photo_76.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_76.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczNPGWnLQIqEINCNyAquzwzVv00NyDOioVx3ITRPClyEA7dAhRon8jBAKXq-TMALEu-rRAC10uoHahLW930Q1IPMSAbO5yYcqzZzgDM9Z2b7vODW2YWH",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #76",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_77",
-    "fileName": "vnpis_workshop_photo_77.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_77.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMS1FjWEfTkWFJGqigVh84p2_YFQI4szaC65p5Ws0aUsjIPv6559Bw9VS8iFv4VkweYN3vAtIyfDNJylCopIFOUY8q0BjsaAy8JVaoj1_ElYL3cZgKV",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #77",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_78",
-    "fileName": "vnpis_workshop_photo_78.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_78.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMW3kOvp6vzbSK2Ugzb0VlnvbOqeekGnU9gifQYCucmi5GuSwbAj8kBPhaWGLDMzzb0pVhD5YX7tAKdgSF9BSxE9fy0Yy-2sRtTGuYJ9F9q2er44K7J",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #78",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
-  },
-  {
-    "id": "photo_79",
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "linh kiện nhựa",
+      "chi tiết tai thỏ mô hình",
+      "sản phẩm in sẵn"
+    ],
+    "suitable_topics": [
+      "ứng dụng in tampon trên nhựa",
+      "quy trình kiểm tra sản phẩm sau in",
+      "gia công chi tiết nhựa"
+    ],
+    "caption": "Các chi tiết nhựa hình tai thỏ đã được hoàn thiện bề mặt với phần lòng trong được in màu hồng nổi bật.",
+    "alt": "Các chi tiết nhựa hình tai thỏ đã in màu hoàn thiện, sản phẩm mẫu tại xưởng VNPIS.",
     "fileName": "vnpis_workshop_photo_79.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_79.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMKuVHdobEWwfc2JRXDRVv34DYv3WJi0fHuJKgoSpz_aDlHKXv1FDW1e8T4kHzapF0LAweYQ-0GYje5xeaeJ8bmwbX2wHeW8V0qemKTMVLO5ua1NhLS",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #79",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_79.jpg"
   },
   {
-    "id": "photo_80",
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Thước kẹp điện tử",
+      "Đầu in silicone in tampon",
+      "Đế gá kim loại đệm in tampon",
+      "Mẫu đệm silicone OLD và NEW"
+    ],
+    "suitable_topics": [
+      "Kiểm tra kích thước và độ cứng đệm in silicone tampon",
+      "Quy trình chế tạo đầu in silicone cho máy in tampon tại VNPIS",
+      "Tối ưu hóa hình dạng đệm in tampon trong in kỹ thuật công nghiệp"
+    ],
+    "caption": "Đo kiểm kích thước độ dày đệm in silicone tampon (phân loại mẫu OLD và NEW) bằng thước kẹp điện tử tại xưởng VNPIS.",
+    "alt": "Đo kích thước độ dày đệm in silicone tampon màu nâu bằng thước kẹp điện tử chính xác tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_80.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_80.jpg",
-    "rawUrl": "https://lh3.googleusercontent.com/pw/AP1GczMkaj1UA1ENG8Viij4rai5YnjurmuAxPquQ-74stzMyEeirgHweqbZO7j2ZuN_Vu7KBfez1eQU2ml91piJ9zQCQeEJ-GSiwjeFgqYYQF6a-B7WJNnjk",
-    "alt": "Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #80",
-    "caption": "Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)"
+    "webPath": "/images/real_photos/vnpis_workshop_photo_80.jpg"
   }
 ]

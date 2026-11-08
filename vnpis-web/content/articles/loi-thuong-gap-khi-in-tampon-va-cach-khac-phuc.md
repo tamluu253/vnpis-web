@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-TROUBLESHOOT
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_41.jpg
+image: /images/real_photos/vnpis_workshop_photo_80.jpg
 ---
 
 Trong quá trình vận hành máy in tampon, thợ in thường xuyên đối mặt với các lỗi hình ảnh do môi trường, tỷ lệ pha mực hoặc phần cứng gây ra. Dưới đây là "bệnh án" của các lỗi phổ biến và cách "kê toa" từ chuyên gia VNPIS.
@@ -20,6 +20,11 @@ Trong quá trình vận hành máy in tampon, thợ in thường xuyên đối m
 - **Triệu chứng**: Trên bề mặt màng mực in ra xuất hiện các lỗ chấm li ti li ti như bị kim đâm.
 - **Nguyên nhân**: Mực pha quá đặc; hoặc do cục pad lấy mực quá nhanh tạo ra bong bóng khí.
 - **Cách khắc phục**: Pha thêm dung môi chậm khô (Slow Thinner) để giảm độ nhớt. Thay đổi cục pad có độ cong (Apex) vát nhọn hơn để đẩy không khí ra ngoài khi ép xuống khuôn.
+
+
+
+![Đo kích thước độ dày đệm in silicone tampon màu nâu bằng thước kẹp điện tử chính xác tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_80.jpg)
+*Đo kiểm kích thước độ dày đệm in silicone tampon (phân loại mẫu OLD và NEW) bằng thước kẹp điện tử tại xưởng VNPIS.*
 
 ## 2. Lỗi dính râu mực (Stringing / Kéo tơ)
 - **Triệu chứng**: Nét in bị kéo thành những sợi tơ mảnh (râu) dính trên sản phẩm.
@@ -62,10 +67,6 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
-
-![Hình ảnh thực tế vận hành và thiết bị Các Lỗi Thường Gặp Khi In Tampon (Pad Printing) Và Cách Khắc Phục Nhanh tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_41.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
 Để đảm bảo nét in không bị biến dạng, nhòe cạnh hoặc bong tróc khi đưa vào dây chuyền đóng gói thương mại, đội ngũ kỹ thuật VNPIS tuân thủ nghiêm ngặt quy trình 4 bước:
@@ -81,11 +82,6 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Các Lỗi Thường Gặp Khi In Tampon (Pad Printing) Và Cách Khắc Phục Nhanh tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_01.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: SCREEN
 code: SCREEN-02
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_43.jpg
+image: /images/real_photos/vnpis_workshop_photo_73.jpg
 ---
 
 Trong ngành công nghiệp điện tử và công nghệ cao, [**máy in lụa**](/products/screen-printers) phẳng đóng vai trò cực kỳ quan trọng. Chúng được sử dụng để in các lớp mực dẫn điện, phủ xanh bảo vệ bo mạch PCB, hoặc in các họa tiết siêu nét lên kính cường lực, màn hình cảm ứng.
@@ -42,8 +42,9 @@ Nếu bạn đang tìm kiếm giải pháp in lụa công nghệ cao cho dây ch
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
-![Hình ảnh thực tế vận hành và thiết bị Máy In Lụa Phẳng Chuyên Dụng In Bo Mạch Điện Tử PCB, Kính Cường Lực tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_43.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
+*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 
@@ -53,11 +54,6 @@ Nếu bạn đang tìm kiếm giải pháp in lụa công nghệ cao cho dây ch
 4. **Căn chỉnh độ hở Off-contact & Tốc độ gạt mực:**
    * Điều chỉnh song song tuyệt đối giữa lưỡi gạt và mặt bàn in phẳng hoặc trục lăn xoay tròn.
    * Lực gạt mực phân bổ đều 2 đầu xilanh khí nén, triệt tiêu hiện tượng dồn mực làm đậm nhạt không đồng đều.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Máy In Lụa Phẳng Chuyên Dụng In Bo Mạch Điện Tử PCB, Kính Cường Lực tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_03.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục Sự Cố Kỹ Thuật Thường Gặp Trong In Lụa
 
 * **Lỗi bít mắt lưới (Screen Clogging):** Do mực in khô quá nhanh trên khung lụa khi nhiệt độ xưởng cao. *Khắc phục:* Bổ sung 5-10% dung môi chậm khô chuyên dụng, dùng giẻ mềm tẩm chất tẩy nhẹ lau thông mắt lưới.

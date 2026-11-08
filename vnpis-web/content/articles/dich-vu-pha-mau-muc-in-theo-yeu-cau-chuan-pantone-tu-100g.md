@@ -11,7 +11,6 @@ code: PHA MÀU PANTONE
 author: VNPIS Industrial Equipment & Solutions
 canonical: >-
   https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g
-image: /images/real_photos/vnpis_workshop_photo_22.jpg
 ---
 
 # Dịch Vụ Pha Màu Mực In Theo Yêu Cầu Từ 100g Chuẩn Pantone | Công Nghệ 3NH ST-700D Plus

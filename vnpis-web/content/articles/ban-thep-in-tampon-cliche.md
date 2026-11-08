@@ -11,7 +11,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-01
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_03.jpg
+image: /images/real_photos/vnpis_workshop_photo_25.jpg
 ---
 
 Bản thép (Cliche) là linh hồn của phương pháp in tampon. Một bản thép bị ăn mòn không đều hoặc độ sâu không chuẩn sẽ khiến mực lên không đều, nhòe nét hoặc mờ lợt. Thay vì sử dụng phương pháp ăn mòn axit truyền thống gây ô nhiễm và thiếu chính xác, [**VNPIS**](/) áp dụng công nghệ khắc bản thép bằng tia Laser Fiber tiên tiến nhất.
@@ -43,8 +43,9 @@ Bạn chỉ cần gửi file vector (AI, Corel), VNPIS sẽ gia công và giao b
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-![Hình ảnh thực tế vận hành và thiết bị Bản Thép In Tampon (Cliche) Khắc Laser | Bán Bàn In Pad Giá Rẻ tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_03.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Cận cảnh 3 đầu in silicone tampon màu xanh chữ nhật gắn đế gỗ dùng trong công nghệ in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_25.jpg)
+*Cụm đầu in silicone màu xanh lá cây dạng hình chữ nhật chuyên dụng cho máy in tampon tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -61,11 +62,6 @@ Bạn chỉ cần gửi file vector (AI, Corel), VNPIS sẽ gia công và giao b
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Bản Thép In Tampon (Cliche) Khắc Laser | Bán Bàn In Pad Giá Rẻ tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_43.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

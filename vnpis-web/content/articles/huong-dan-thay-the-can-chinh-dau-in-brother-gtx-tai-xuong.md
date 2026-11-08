@@ -30,7 +30,6 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: huong-dan-thay-the-can-chinh-dau-in-brother-gtx-tai-xuong
-image: /images/real_photos/vnpis_workshop_photo_33.jpg
 ---
 
 # Hướng Dẫn Từng Bước Tự Thay Thế & Căn Chỉnh Đầu In Máy In Brother GTX, GTXpro Chuẩn Kỹ Sư
@@ -54,10 +53,6 @@ Trước khi tiến hành, hãy chuẩn bị đầy đủ các thiết bị sau 
 6. **Găng tay cao su y tế (Nitrile Gloves):** Chống dính mực và dầu mỡ tay lên bề mặt nozzle.
 
 ---
-
-![Hình ảnh thực tế vận hành và thiết bị Hướng Dẫn Từng Bước Tự Thay Thế & Căn Chỉnh Đầu In Máy In Brother GTX, GTXpro Chuẩn Kỹ Sư tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_33.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình 6 Bước Thay Thế Đầu In Chuẩn Kỹ Thuật VNPIS
 
 ```mermaid

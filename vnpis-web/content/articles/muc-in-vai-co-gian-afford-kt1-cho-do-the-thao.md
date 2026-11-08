@@ -11,7 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_61.jpg
+image: /images/real_photos/vnpis_workshop_photo_23.jpg
 ---
 
 Quần áo thể thao (Gym, Yoga, Đồ bơi) thường được may từ các loại vải có độ co giãn cực cao như Spandex, Lycra pha Polyester. In nhãn lên các chất liệu này thường gặp lỗi nứt gãy (Cracking) khi bị kéo giãn. **Afford KT1** chính là cứu tinh của bạn.
@@ -42,8 +42,9 @@ Khi được pha trộn đúng tỷ lệ với chất đóng rắn (Hardener), A
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
 
-![Hình ảnh thực tế vận hành và thiết bị Mực In Vải Co Giãn Afford KT1 - Lựa Chọn Hoàn Hảo Cho Đồ Thể Thao tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_61.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Thẻ test màu mực in công nghiệp tông đỏ cam và thước đo quy đổi kỹ thuật tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_23.jpg)
+*Mẫu test màu mực in công nghiệp trên thẻ thử nghiệm giúp kiểm tra độ phủ, sắc độ và chất lượng mực tại xưởng VNPIS.*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

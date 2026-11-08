@@ -13,7 +13,6 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: draft
 draft: true
-image: /images/real_photos/vnpis_workshop_photo_15.jpg
 mediaExt: .jpg
 tags:
   - mực in bo mạch pcb chịu nhiệt 260c t68cf

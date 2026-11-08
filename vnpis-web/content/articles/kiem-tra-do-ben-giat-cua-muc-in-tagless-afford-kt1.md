@@ -11,7 +11,6 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_37.jpg
 ---
 
 Khác với mực in trên bao bì nhựa chỉ chịu ma sát khô, mực in trên vải phải đối mặt với thử thách khắc nghiệt nhất: **Máy giặt và bột giặt công nghiệp**. **Afford KT1** được sinh ra để chiến thắng thử thách này.
@@ -43,10 +42,6 @@ Theo tiêu chuẩn ISO, nhãn in bằng Afford KT1 được thử nghiệm:
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
-
-![Hình ảnh thực tế vận hành và thiết bị Kiểm Tra Độ Bền Giặt (Wash Fastness) Của Mực In Tagless Afford KT1 tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_37.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

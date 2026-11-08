@@ -10,7 +10,6 @@ date: '2026-07-15'
 category: UV
 code: UV-SP-02
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_58.jpg
 ---
 
 Trong ngành F&B, việc nhập ly giấy, hộp bã mía, hộp xốp in sẵn logo đòi hỏi số lượng (MOQ) cực kỳ lớn từ nhà máy. Để giải quyết bài toán cá nhân hóa bao bì cho các chuỗi quán ăn nhỏ, máy in UV Single Pass ra đời như một vị cứu tinh.
@@ -39,10 +38,6 @@ Không cần làm bản kẽm, không lo tồn kho bao bì. Đầu tư một má
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
-
-![Hình ảnh thực tế vận hành và thiết bị Ứng Dụng Máy In UV Single Pass In Ly Giấy, Hộp Đựng Thức Ăn Nhanh tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_58.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

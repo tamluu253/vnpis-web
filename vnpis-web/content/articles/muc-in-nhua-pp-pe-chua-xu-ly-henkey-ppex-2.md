@@ -10,7 +10,7 @@ category: Henkey
 code: PPEX-2
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_19.jpg
+image: /images/real_photos/vnpis_workshop_photo_30.jpg
 ---
 
 Như đã biết, nhựa PP/PE cực kỳ khó bám mực và thường phải tốn kém chi phí trang bị hệ thống xử lý lửa (Flame) hoặc Corona. Tuy nhiên, **Henkey PPEX-2** ra đời để phá vỡ quy tắc này. Đây là dòng mực ma thuật có thể **bám dính TRỰC TIẾP lên nhựa PP/PE CHƯA XỬ LÝ (Untreated PP/PE)**.
@@ -51,8 +51,9 @@ Như đã biết, nhựa PP/PE cực kỳ khó bám mực và thường phải t
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
 
-![Hình ảnh thực tế vận hành và thiết bị Mực In Nhựa PP/PE Chưa Xử Lý Henkey PPEX-2 tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_19.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Đầu in silicone màu hồng dùng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_30.jpg)
+*Các đầu in silicone (tampon pad) màu hồng chuyên dụng gắn trên đế gỗ tại xưởng VNPIS*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

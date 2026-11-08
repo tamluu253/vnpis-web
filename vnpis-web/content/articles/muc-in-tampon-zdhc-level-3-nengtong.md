@@ -11,7 +11,7 @@ category: Nengtong
 code: NT Pad Series
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_34.jpg
+image: /images/real_photos/vnpis_workshop_photo_54.jpg
 ---
 
 **Nengtong NT Pad Series** là giải pháp mực in Tampon chuyên nghiệp từ Trung Quốc, đặc biệt tập trung phục vụ cho các nhà máy gia công hàng may mặc, giày da xuất khẩu cho các thương hiệu lớn.
@@ -47,8 +47,9 @@ Liên hệ [**VNPIS**](/) - Đại lý phân phối chính thức mực in Nengt
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-![Hình ảnh thực tế vận hành và thiết bị Mực In Tampon ZDHC Level 3 Nengtong Cho Ngành May Mặc, Da Giày tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_34.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_54.jpg)
+*Đầu in silicone màu hồng dùng trong công nghệ in tampon tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -65,11 +66,6 @@ Liên hệ [**VNPIS**](/) - Đại lý phân phối chính thức mực in Nengt
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Mực In Tampon ZDHC Level 3 Nengtong Cho Ngành May Mặc, Da Giày tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_74.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

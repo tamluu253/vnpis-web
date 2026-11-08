@@ -286,39 +286,80 @@ function locateMediaAssets(articleData, options = {}) {
       altText = `Xưởng gia công in ấn B2B VNPIS Bình Chánh công suất 100.000 sản phẩm/ngày`;
     }
   } else {
-    // vnpis.com
-    if (kw.includes('tampon') || kw.includes('coc muc') || kw.includes('cosota')) {
-      primaryImage = '/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg';
-      altText = `Máy in tampon cốc mực kín VNPIS SE-125B chuyển giao tận xưởng`;
-    } else if (kw.includes('lua') || kw.includes('screen')) {
+    // vnpis.com: Intelligently match to real products and synced photos
+    const manifestPath = path.resolve(WORKSPACE_ROOT, 'vnpis-web/public/images/real_photos/photo_manifest.json');
+    let realPhotos = [];
+    if (fs.existsSync(manifestPath)) {
+      try { realPhotos = JSON.parse(fs.readFileSync(manifestPath, 'utf8')); } catch { /* ignore */ }
+    }
+    const photoPick = realPhotos.length > 0 
+      ? realPhotos[Math.abs(articleData.title ? articleData.title.length : 0) % realPhotos.length]
+      : null;
+
+    if (kw.includes('dau in tampon') || kw.includes('silicon') || kw.includes('shore')) {
+      primaryImage = '/images/products/pads/pad_01.jpg';
+      altText = `Đầu in tampon cao su silicon chịu dầu VNPIS đa dạng độ cứng Shore 30A-70A`;
+    } else if (kw.includes('cliche') || kw.includes('ban thep') || kw.includes('skd11')) {
+      primaryImage = '/images/products/plates/plate-steel-thick.webp';
+      altText = `Bản thép khắc cliché in tampon SKD11 độ sâu 20-25um VNPIS`;
+    } else if (kw.includes('coc muc') || kw.includes('vong gom') || kw.includes('ceramic') || kw.includes('dao gat')) {
+      primaryImage = '/images/products/accessories/ceramic-ring.webp';
+      altText = `Vòng gốm Ceramic Ring 92 HRA và cốc mực kín phi 90mm máy in pad VNPIS`;
+    } else if (kw.includes('retarder') || kw.includes('thinner') || kw.includes('dung moi') || kw.includes('dong ran')) {
+      primaryImage = '/images/products/additives/retarder.webp';
+      altText = `Dung môi pha mực in tampon và chất đóng rắn chuyên dụng VNPIS`;
+    } else if (kw.includes('single pass') || kw.includes('carton') || kw.includes('khay giay')) {
+      primaryImage = '/images/products/uv-sheet-feeder.webp';
+      altText = `Hệ thống máy in UV Single Pass bao bì thùng carton VNPIS tốc độ cao`;
+    } else if (kw.includes('lua') || kw.includes('screen') || kw.includes('squeegee') || kw.includes('luoi')) {
       primaryImage = '/images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg';
-      altText = `Máy in lụa hút chân không phẳng bán tự động VNPIS`;
-    } else if (kw.includes('single pass') || kw.includes('carton')) {
-      primaryImage = '/images/machinery/industrial-uv-single-pass-corrugated-vnpis.jpg';
-      altText = `Máy in UV Single Pass bao bì thùng carton tốc độ cao 100m/phút`;
-    } else if (kw.includes('muc') || kw.includes('henkey') || kw.includes('tij')) {
+      altText = `Máy in lụa phẳng bàn hút chân không và máy in lụa tròn VNPIS`;
+    } else if (kw.includes('tampon') || kw.includes('pad printing') || kw.includes('se-125b')) {
+      primaryImage = '/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg';
+      altText = `Máy in tampon 1-4 màu cốc mực kín VNPIS chuyển giao công nghệ tận xưởng`;
+    } else if (kw.includes('muc') || kw.includes('henkey') || kw.includes('tij') || kw.includes('cij')) {
       primaryImage = '/images/consumables/henkey-industrial-inks-tij-cartridges.jpg';
-      altText = `Mực in công nghiệp Henkey PET8000 PPEX và mực TIJ HP45 chính hãng`;
+      altText = `Mực in công nghiệp Henkey PET8000 PPEX và hộp mực TIJ HP45 chính hãng VNPIS`;
+    } else if (photoPick) {
+      primaryImage = photoPick.webPath;
+      altText = `${articleData.title || 'Kỹ thuật in ấn'} - Ảnh thực tế tại Xưởng VNPIS Bình Chánh`;
     } else {
       primaryImage = '/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg';
       altText = `Hệ sinh thái thiết bị & giải pháp in ấn công nghiệp B2B VNPIS`;
     }
   }
 
+  // Pick inline workshop photo from real_photos manifest
+  const manifestPath = path.resolve(WORKSPACE_ROOT, 'vnpis-web/public/images/real_photos/photo_manifest.json');
+  let realPhotosList = [];
+  if (fs.existsSync(manifestPath)) {
+    try { realPhotosList = JSON.parse(fs.readFileSync(manifestPath, 'utf8')); } catch { /* ignore */ }
+  }
+  const inlineIndex = Math.abs((articleData.title || '').length * 7) % (realPhotosList.length || 1);
+  const inlinePhoto = realPhotosList.length > 0 ? realPhotosList[inlineIndex] : null;
+
+  const inlineImages = inlinePhoto ? [
+    {
+      url: inlinePhoto.webPath,
+      alt: `${articleData.primary_keyword || 'Kỹ thuật in ấn'} - Đo kiểm và vận hành thực tế tại xưởng VNPIS`,
+      caption: `Quy trình kiểm tra kỹ thuật thực tế tại Xưởng VNPIS Bình Chánh (Hotline: 0987 453 866)`
+    }
+  ] : [
+    {
+      url: primaryImage,
+      alt: `${articleData.primary_keyword || 'Kỹ thuật in'} - Chi tiết kiểm tra thực tế tại xưởng VNPIS`,
+      caption: 'Ảnh chụp đo kiểm thực tế tại Xưởng Kỹ Thuật VNPIS Bình Chánh'
+    }
+  ];
+
   return {
     primaryImage,
-    mediaExt,
+    mediaExt: path.extname(primaryImage) || '.jpg',
     altText,
     googlePhotosAlbumUrl,
     cosotaImagesAvailable: 71,
-    caption: `${altText} - Hotline hỗ trợ kỹ thuật: 0987 453 866`,
-    inlineImages: [
-      {
-        url: primaryImage.replace(/\.jpg$/, '-detail-1.jpg'),
-        alt: `${articleData.primary_keyword || 'Kỹ thuật in'} - Chi tiết kiểm tra thực tế tại xưởng VNPIS`,
-        caption: 'Ảnh chụp đo kiểm thực tế tại Xưởng Kỹ Thuật VNPIS Bình Chánh'
-      }
-    ]
+    caption: `${altText} - Hotline hỗ trợ kỹ thuật 24/7: 0987 453 866`,
+    inlineImages
   };
 }
 
@@ -340,8 +381,8 @@ function buildArticleFrontmatter(meta) {
   const canonical = meta.canonical || meta.target_url || `${domainDefaults.canonical_prefix}${meta.slug}`;
   const schemaType = meta.schema_type || domainDefaults.schema_type || 'TechnicalArticle';
   const publisherMst = meta.publisher_mst || domainDefaults.publisher_mst || '0318266611';
-  const status = 'draft';
-  const draft = true;
+  const status = meta.status !== undefined ? meta.status : 'published';
+  const draft = meta.draft !== undefined ? meta.draft : false;
   const image = meta.image || meta.primaryImage || '/images/blog-placeholder.jpg';
   const mediaExt = meta.mediaExt || path.extname(image) || '.jpg';
 

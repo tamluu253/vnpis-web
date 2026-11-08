@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-TECH
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_71.jpg
+image: /images/real_photos/vnpis_workshop_photo_37.jpg
 ---
 
 Khi mua sắm thiết bị, câu hỏi khiến nhiều chủ xưởng đau đầu nhất là: **"Nên đầu tư máy in tampon hệ thống Cốc mực kín hay Khay mực hở?"**. Cả hai đều có những ưu điểm riêng phục vụ cho từng mục đích sản xuất.
@@ -24,6 +24,11 @@ Khi mua sắm thiết bị, câu hỏi khiến nhiều chủ xưởng đau đầ
 - **Nhược điểm**: 
   - Mực bay hơi dung môi rất nhanh ra ngoài không khí, dẫn đến khô đặc mực, bắt buộc thợ in phải châm thêm dung môi liên tục (khoảng 30 phút/lần).
   - Không gian xưởng bị ám mùi hóa chất nặng nề.
+
+
+
+![Đầu in silicone màu đỏ chuyên dụng cho máy in tampon công nghiệp tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_37.jpg)
+*Kỹ thuật viên VNPIS kiểm tra đầu in silicone (tampon in) màu đỏ dùng trong máy in tampon công nghiệp*
 
 ## 2. Hệ thống Cốc Mực Kín (Sealed Ink Cup)
 Công nghệ tiên tiến đang thống trị 90% thị trường máy in tampon hiện nay.
@@ -66,10 +71,6 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
-
-![Hình ảnh thực tế vận hành và thiết bị Nên Chọn Máy In Tampon Cốc Mực Kín (Ink Cup) Hay Khay Mực Hở (Open Tray)? tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_71.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
 Để đảm bảo nét in không bị biến dạng, nhòe cạnh hoặc bong tróc khi đưa vào dây chuyền đóng gói thương mại, đội ngũ kỹ thuật VNPIS tuân thủ nghiêm ngặt quy trình 4 bước:
@@ -85,11 +86,6 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Nên Chọn Máy In Tampon Cốc Mực Kín (Ink Cup) Hay Khay Mực Hở (Open Tray)? tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

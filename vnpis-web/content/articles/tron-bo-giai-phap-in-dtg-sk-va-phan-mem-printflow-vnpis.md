@@ -30,7 +30,6 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: tron-bo-giai-phap-in-dtg-sk-va-phan-mem-printflow-vnpis
-image: /images/real_photos/vnpis_workshop_photo_04.jpg
 ---
 
 # Trọn Bộ Giải Pháp In DTG Đồng Bộ S.K Bangkok & Phần Mềm Quản Lý Xưởng SK PrintFlow Miễn Phí

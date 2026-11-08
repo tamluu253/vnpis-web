@@ -29,7 +29,6 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: so-sanh-dau-in-brother-dtg-refurbished-va-oem-new
-image: /images/real_photos/vnpis_workshop_photo_75.jpg
 ---
 
 # So Sánh Đầu In Brother DTG Refurbished Và OEM New: Nên Mua Loại Nào Cho Xưởng In Áo Thun?

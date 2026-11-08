@@ -13,7 +13,6 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: draft
 draft: true
-image: /images/real_photos/vnpis_workshop_photo_08.jpg
 mediaExt: .jpg
 tags:
   - máy in uv single pass thùng carton

@@ -11,7 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/real_photos/vnpis_workshop_photo_24.jpg
 ---
 
 Bạn đang tìm giải pháp in logo thương hiệu, size giày lên miếng lót giày hay mặt trong của túi xách giả da? Bề mặt da tổng hợp (PU/PVC Leather) chứa nhiều dầu hóa dẻo khiến mực in rất dễ bong tróc. **Afford KT1** là "khắc tinh" của vật liệu này.
@@ -45,8 +45,9 @@ Afford KT1 - Đa dụng, mạnh mẽ và là trợ thủ đắc lực cho ngành
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-![Hình ảnh thực tế vận hành và thiết bị Mực In Tampon Bám Cực Tốt Trên Da Tổng Hợp (PU Leather) - Afford KT1 tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Can mực đen công nghiệp SUA INK và chất tăng bám VNPIS tại kho xưởng](/images/real_photos/vnpis_workshop_photo_24.jpg)
+*Bộ sản phẩm mực đen SUA INK 1kg và chất tăng bám Hardener B05 100g của VNPIS dùng cho công nghệ in công nghiệp.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -63,11 +64,6 @@ Afford KT1 - Đa dụng, mạnh mẽ và là trợ thủ đắc lực cho ngành
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Mực In Tampon Bám Cực Tốt Trên Da Tổng Hợp (PU Leather) - Afford KT1 tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_71.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.

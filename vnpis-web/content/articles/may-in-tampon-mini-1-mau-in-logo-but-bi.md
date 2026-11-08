@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-02
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_56.jpg
+image: /images/real_photos/vnpis_workshop_photo_17.jpg
 ---
 
 Thị trường quà tặng doanh nghiệp đang phát triển mạnh mẽ, trong đó bút bi in logo là sản phẩm phổ biến nhất. Để đáp ứng nhu cầu in ấn số lượng lớn trong thời gian ngắn, máy in tampon mini 1 màu giá rẻ chính là "vũ khí" bí mật của các xưởng gia công.
@@ -42,8 +42,9 @@ Nếu bạn đang muốn khởi nghiệp ngành quà tặng với số vốn m�
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-![Hình ảnh thực tế vận hành và thiết bị In Logo Lên Bút Bi Siêu Tốc Với Máy In Tampon Mini 1 Màu Giá Rẻ tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_56.jpg)
-*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+
+![Cốc mực từ tính máy in tampon trang bị vòng gạt mực ceramic và hợp kim thép chuyên dụng](/images/real_photos/vnpis_workshop_photo_17.jpg)
+*Các mẫu cốc mực từ tính chuyên dụng cho máy in tampon trang bị vòng gạt mực bằng sứ ceramic và thép hợp kim chịu mòn tại VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -60,11 +61,6 @@ Nếu bạn đang muốn khởi nghiệp ngành quà tặng với số vốn m�
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
-
-
-![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm In Logo Lên Bút Bi Siêu Tốc Với Máy In Tampon Mini 1 Màu Giá Rẻ tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_16.jpg)
-*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
-
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
 * **Hiện tượng xuất hiện chấm bọt khí (Pinholes):** Thường do đầu silicone bị khô dầu, mực pha quá đặc hoặc lực ép quá mạnh ép bẹp góc thoát khí. *Cách xử lý:* Thêm 3% dung môi chậm khô Retarder, lau sạch đầu pad bằng dung môi rửa nhẹ, giảm áp suất ép Z xuống 0.5 Bar.
