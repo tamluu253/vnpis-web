@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tampon-kinh-kim-loai-dubuit-mg-pad"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Tampon Kính & Kim Loại Dubuit MG-PAD (Siêu Bám Dính)"
-description: "Giải quyết triệt để bài toán bong tróc mực trên Thủy tinh và Kim loại với dòng mực in Tampon Dubuit MG-PAD (Pháp). Mực cần sấy nhiệt để đạt độ kháng hóa chất tối đa."
-date: "2026-07-17T03:34:04.870Z"
-category: "Dubuit"
-code: "MG-PAD"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tampon-kinh-kim-loai-dubuit-mg-pad'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In Tampon Kính & Kim Loại Dubuit MG-PAD (Siêu Bám Dính)
+description: >-
+  Giải quyết triệt để bài toán bong tróc mực trên Thủy tinh và Kim loại với dòng
+  mực in Tampon Dubuit MG-PAD (Pháp). Mực cần sấy nhiệt để đạt độ kháng hóa chất
+  tối đa.
+date: '2026-07-17T03:34:04.870Z'
+category: Dubuit
+code: MG-PAD
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Thủy tinh (Kính) và Kim loại là những bề mặt có sức căng bề mặt rất thấp, nhẵn bóng khiến mực in thông thường không thể bám dính. **Dubuit MG-PAD** được sinh ra để chuyên trị hai vật liệu "khó nhằn" này.

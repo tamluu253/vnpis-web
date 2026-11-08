@@ -1,12 +1,17 @@
-﻿---
-title: "Hướng Dẫn Chọn Lưới Lụa Thụy Sĩ (Mesh Count 80T - 165T) Chuẩn Nhà Máy - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)"
-keywords: "lưới in lụa mesh count, chọn lưới in lụa, vải lụa căng khung, vật tư in lụa b2b"
-date: "2027-06-18"
-author: "VNPIS Equipment Engineering Team"
-category: "Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ"
-canonical: "https://vnpis.com/blog/week_45_vnpis_03"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
+---
+title: Hướng Dẫn Chọn Lưới Lụa Thụy Sĩ (Mesh Count 80T - 165T) Chuẩn Nhà Máy
+keywords: >-
+  lưới in lụa mesh count, chọn lưới in lụa, vải lụa căng khung, vật tư in lụa
+  b2b
+date: '2027-06-18'
+author: VNPIS Equipment Engineering Team
+category: 'Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ'
+canonical: 'https://vnpis.com/blog/week_45_vnpis_03'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+description: >-
+  Trong ngành sản xuất và gia công in ấn công nghiệp 2026, bên cạnh thiết bị máy
+  móc hiện đại, việc trang bị Trọn bộ Combo Vật tư in Tampon Pad...
 ---
 
 # Hướng Dẫn Chọn Lưới Lụa Thụy Sĩ (Mesh Count 80T - 165T) Chuẩn Nhà Máy - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)

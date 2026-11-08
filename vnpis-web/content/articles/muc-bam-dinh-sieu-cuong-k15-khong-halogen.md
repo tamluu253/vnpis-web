@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-bam-dinh-sieu-cuong-k15-khong-halogen"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực Bám Dính Siêu Cường K15: Tuân Thủ Tiêu Chuẩn Halogen-Free"
-description: "K15 không chỉ bám dính siêu việt trên nhựa và kim loại mà còn hoàn toàn không chứa Halogen, đáp ứng các chuẩn xuất khẩu EU khắt khe nhất."
-date: "2026-07-08T08:40:08.101Z"
-category: "CIJ"
-code: "K15"
-mediaExt: "mp4"
+---
+canonical: 'https://vnpis.com/blog/muc-bam-dinh-sieu-cuong-k15-khong-halogen'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực Bám Dính Siêu Cường K15: Tuân Thủ Tiêu Chuẩn Halogen-Free'
+description: >-
+  K15 không chỉ bám dính siêu việt trên nhựa và kim loại mà còn hoàn toàn không
+  chứa Halogen, đáp ứng các chuẩn xuất khẩu EU khắt khe nhất.
+date: '2026-07-08T08:40:08.101Z'
+category: CIJ
+code: K15
+mediaExt: mp4
+author: VNPIS Engineering Team
 ---
 
 

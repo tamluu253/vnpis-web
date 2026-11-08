@@ -1,30 +1,33 @@
 ---
-title: "Dung Môi MEK & Ethanol Tinh Khiết Dùng Cho Máy In Date Phun CIJ Liên Tục"
+title: Dung Môi MEK & Ethanol Tinh Khiết Dùng Cho Máy In Date Phun CIJ Liên Tục
 keywords:
-  - "dung môi máy in date cij mek ethanol"
-  - "hộp mực tij 12.7mm hp45"
-  - "mực in date nhanh khô hf200"
-  - "mực in vỏ trứng thực phẩm ke01 he01"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Mực In Công Nghiệp & Dung Môi Chuyên Dụng"
-canonical: "https://vnpis.com/blog/dung-moi-mek-ethanol-cho-may-in-date-cij"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - dung môi máy in date cij mek ethanol
+  - hộp mực tij 12.7mm hp45
+  - mực in date nhanh khô hf200
+  - mực in vỏ trứng thực phẩm ke01 he01
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Mực In Công Nghiệp & Dung Môi Chuyên Dụng
+canonical: 'https://vnpis.com/blog/dung-moi-mek-ethanol-cho-may-in-date-cij'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/vnpis-industrial-printing-solutions-showcase.jpg
+mediaExt: .jpg
 tags:
-  - "dung môi máy in date cij mek ethanol"
-  - "hộp mực tij 12.7mm hp45"
-  - "mực in date nhanh khô hf200"
-  - "mực in vỏ trứng thực phẩm ke01 he01"
-  - "vnpis.com"
-  - "VNPIS"
+  - dung môi máy in date cij mek ethanol
+  - hộp mực tij 12.7mm hp45
+  - mực in date nhanh khô hf200
+  - mực in vỏ trứng thực phẩm ke01 he01
+  - vnpis.com
+  - VNPIS
 wordCount: 3419
-domain: "vnpis.com"
-slug: "dung-moi-mek-ethanol-cho-may-in-date-cij"
+domain: vnpis.com
+slug: dung-moi-mek-ethanol-cho-may-in-date-cij
+description: >-
+  Hệ sinh thái thiết bị & giải pháp in ấn công nghiệp B2B VNPIS Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Dung Môi MEK & Ethanol Tinh Khiết Dùng Cho Máy In Date Phun CIJ Liên Tục

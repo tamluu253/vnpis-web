@@ -1,29 +1,35 @@
 ---
-title: "Kinh Nghiệm Chọn Mực In DTG Cho Brother GTX & Quyền Lợi Gói Bảo Hành Đầu In Miễn Phí Tại VNPIS"
-description: "Cẩm nang hướng dẫn lựa chọn mực in dệt may DTG chuẩn Oeko-Tex cho máy in Brother GTX, cảnh báo tác hại của mực trôi nổi và đặc quyền gói bảo hành đầu in miễn phí trọn đời tại VNPIS."
+title: >-
+  Kinh Nghiệm Chọn Mực In DTG Cho Brother GTX & Quyền Lợi Gói Bảo Hành Đầu In
+  Miễn Phí Tại VNPIS
+description: >-
+  Cẩm nang hướng dẫn lựa chọn mực in dệt may DTG chuẩn Oeko-Tex cho máy in
+  Brother GTX, cảnh báo tác hại của mực trôi nổi và đặc quyền gói bảo hành đầu
+  in...
 keywords:
-  - "mực in dtg brother gtx"
-  - "chọn mực máy in áo thun"
-  - "bảo hành đầu in brother có mua mực"
-  - "mực in dệt may an toàn oeko-tex"
-  - "mực brother innobella chính hãng"
-date: "2026-11-07"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Vật Tư & Hóa Chất In Công Nghiệp"
-canonical: "https://vnpis.com/blog/kinh-nghiem-chon-muc-in-dtg-va-chinh-sach-bao-hanh-dau-in-brother"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - mực in dtg brother gtx
+  - chọn mực máy in áo thun
+  - bảo hành đầu in brother có mua mực
+  - mực in dệt may an toàn oeko-tex
+  - mực brother innobella chính hãng
+date: '2026-11-07'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Vật Tư & Hóa Chất In Công Nghiệp
+canonical: >-
+  https://vnpis.com/blog/kinh-nghiem-chon-muc-in-dtg-va-chinh-sach-bao-hanh-dau-in-brother
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
 tags:
-  - "mực in dtg brother gtx"
-  - "chọn mực máy in áo thun"
-  - "bảo hành đầu in brother có mua mực"
-  - "Brother GTX"
-  - "vnpis.com"
-  - "VNPIS"
-domain: "vnpis.com"
-slug: "kinh-nghiem-chon-muc-in-dtg-va-chinh-sach-bao-hanh-dau-in-brother"
+  - mực in dtg brother gtx
+  - chọn mực máy in áo thun
+  - bảo hành đầu in brother có mua mực
+  - Brother GTX
+  - vnpis.com
+  - VNPIS
+domain: vnpis.com
+slug: kinh-nghiem-chon-muc-in-dtg-va-chinh-sach-bao-hanh-dau-in-brother
 ---
 
 # Kinh Nghiệm Chọn Mực In DTG Cho Brother GTX & Quyền Lợi Gói Bảo Hành Đầu In Miễn Phí Tại VNPIS

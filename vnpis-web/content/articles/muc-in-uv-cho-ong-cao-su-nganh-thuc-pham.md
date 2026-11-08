@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-uv-cho-ong-cao-su-nganh-thuc-pham"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In UV Siêu Bám Dính Cho Bề Mặt Ống Cao Su (Ngành Thực Phẩm)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính siêu bám dính chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành thực phẩm. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.145Z"
-category: "UV"
-code: "PRG-120"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-uv-cho-ong-cao-su-nganh-thuc-pham'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In UV Siêu Bám Dính Cho Bề Mặt Ống Cao Su (Ngành Thực Phẩm)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính siêu bám dính
+  chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành thực
+  phẩm....
+date: '2026-07-08T08:40:08.145Z'
+category: UV
+code: PRG-120
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

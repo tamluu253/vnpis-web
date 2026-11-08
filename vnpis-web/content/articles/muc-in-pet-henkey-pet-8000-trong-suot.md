@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-pet-henkey-pet-8000-trong-suot"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Pet Henkey PET-8000 Trong Suốt, Độ Bóng Cao"
-description: "Dòng mực chuyên dụng cho nhựa PET, PETG, màng bọc bảo vệ. Henkey PET-8000 sở hữu màng mực trong vắt, độ bóng láng như gương và chống trầy xước."
-date: "2026-07-17T03:34:04.880Z"
-category: "Henkey"
-code: "PET-8000"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-pet-henkey-pet-8000-trong-suot'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In Pet Henkey PET-8000 Trong Suốt, Độ Bóng Cao'
+description: >-
+  Dòng mực chuyên dụng cho nhựa PET, PETG, màng bọc bảo vệ. Henkey PET-8000 sở
+  hữu màng mực trong vắt, độ bóng láng như gương và chống trầy xước.
+date: '2026-07-17T03:34:04.880Z'
+category: Henkey
+code: PET-8000
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Nhựa PET (Polyethylene Terephthalate) được sử dụng rỗng rãi làm chai nước suối, ly nhựa trà sữa, hộp nhựa trong suốt định hình. Đặc điểm của bao bì PET là độ trong suốt cao, do đó mực in lên PET cũng phải có độ bóng láng (Glossy) để tôn lên vẻ đẹp sản phẩm. **Henkey PET-8000** là sự lựa chọn số 1.

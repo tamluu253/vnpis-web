@@ -1,12 +1,15 @@
-﻿---
-canonical: "https://vnpis.com/blog/may-in-uv-single-pass-in-ly-giay-hop-xop"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Ứng Dụng Máy In UV Single Pass In Ly Giấy, Hộp Đựng Thức Ăn Nhanh"
-description: "Máy in UV Single Pass thay thế in offset để in logo full màu trực tiếp lên ly giấy, hộp xốp, hộp bã mía số lượng ít với chi phí cực rẻ."
-date: "2026-07-15"
-category: "UV"
-code: "UV-SP-02"
+---
+canonical: 'https://vnpis.com/blog/may-in-uv-single-pass-in-ly-giay-hop-xop'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Ứng Dụng Máy In UV Single Pass In Ly Giấy, Hộp Đựng Thức Ăn Nhanh'
+description: >-
+  Máy in UV Single Pass thay thế in offset để in logo full màu trực tiếp lên ly
+  giấy, hộp xốp, hộp bã mía số lượng ít với chi phí cực rẻ.
+date: '2026-07-15'
+category: UV
+code: UV-SP-02
+author: VNPIS Engineering Team
 ---
 
 Trong ngành F&B, việc nhập ly giấy, hộp bã mía, hộp xốp in sẵn logo đòi hỏi số lượng (MOQ) cực kỳ lớn từ nhà máy. Để giải quyết bài toán cá nhân hóa bao bì cho các chuỗi quán ăn nhỏ, máy in UV Single Pass ra đời như một vị cứu tinh.

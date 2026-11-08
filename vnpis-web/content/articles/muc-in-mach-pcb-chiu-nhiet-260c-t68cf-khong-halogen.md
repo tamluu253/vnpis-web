@@ -1,30 +1,33 @@
 ---
-title: "Cung Cấp Mực Chịu Nhiệt Độ Hàn 260°C T68CF & Mực Không Halogen Cho Mạch PCB"
+title: Cung Cấp Mực Chịu Nhiệt Độ Hàn 260°C T68CF & Mực Không Halogen Cho Mạch PCB
 keywords:
-  - "mực in bo mạch pcb chịu nhiệt 260c t68cf"
-  - "mực in không halogen cho mạch điện tử"
-  - "mực in thủy tinh men gốm t33 kháng kiềm"
-  - "mực lưu hóa cao su lốp xe twav"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Mực In Công Nghiệp & Dung Môi Chuyên Dụng"
-canonical: "https://vnpis.com/blog/muc-in-mach-pcb-chiu-nhiet-260c-t68cf-khong-halogen"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - mực in bo mạch pcb chịu nhiệt 260c t68cf
+  - mực in không halogen cho mạch điện tử
+  - mực in thủy tinh men gốm t33 kháng kiềm
+  - mực lưu hóa cao su lốp xe twav
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Mực In Công Nghiệp & Dung Môi Chuyên Dụng
+canonical: 'https://vnpis.com/blog/muc-in-mach-pcb-chiu-nhiet-260c-t68cf-khong-halogen'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/vnpis-industrial-printing-solutions-showcase.jpg
+mediaExt: .jpg
 tags:
-  - "mực in bo mạch pcb chịu nhiệt 260c t68cf"
-  - "mực in không halogen cho mạch điện tử"
-  - "mực in thủy tinh men gốm t33 kháng kiềm"
-  - "mực lưu hóa cao su lốp xe twav"
-  - "vnpis.com"
-  - "VNPIS"
+  - mực in bo mạch pcb chịu nhiệt 260c t68cf
+  - mực in không halogen cho mạch điện tử
+  - mực in thủy tinh men gốm t33 kháng kiềm
+  - mực lưu hóa cao su lốp xe twav
+  - vnpis.com
+  - VNPIS
 wordCount: 3430
-domain: "vnpis.com"
-slug: "muc-in-mach-pcb-chiu-nhiet-260c-t68cf-khong-halogen"
+domain: vnpis.com
+slug: muc-in-mach-pcb-chiu-nhiet-260c-t68cf-khong-halogen
+description: >-
+  Hệ sinh thái thiết bị & giải pháp in ấn công nghiệp B2B VNPIS Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Cung Cấp Mực Chịu Nhiệt Độ Hàn 260°C T68CF & Mực Không Halogen Cho Mạch PCB

@@ -1,13 +1,18 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-uv-cho-thep-khong-gi-nganh-do-uong"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In UV Chuẩn FDA Thực Phẩm Cho Bề Mặt Thép Không Gỉ (Ngành Đồ Uống)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính chuẩn fda thực phẩm chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của ngành đồ uống. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.152Z"
-category: "UV"
-code: "PRG-127"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-uv-cho-thep-khong-gi-nganh-do-uong'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In UV Chuẩn FDA Thực Phẩm Cho Bề Mặt Thép Không Gỉ (Ngành Đồ
+  Uống)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính chuẩn fda thực phẩm
+  chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của ngành đồ...
+date: '2026-07-08T08:40:08.152Z'
+category: UV
+code: PRG-127
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

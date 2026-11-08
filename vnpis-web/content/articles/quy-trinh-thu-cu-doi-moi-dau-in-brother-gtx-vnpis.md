@@ -1,29 +1,33 @@
 ---
-title: "Quy Trình Thu Cũ Đổi Mới Đầu In Brother GTX Tiết Kiệm Đến 50% Chi Phí: Hướng Dẫn Chi Tiết A-Z"
-description: "Cẩm nang hướng dẫn chi tiết chương trình Trade-in thu cũ đổi mới đầu in máy in Brother DTG (GTX, GTXpro, GTXpro Bulk) tại VNPIS. Tiết kiệm 50% chi phí, bảo hành 1 năm 1 đổi 1 và quy trình gửi ngay không cần chờ."
+title: >-
+  Quy Trình Thu Cũ Đổi Mới Đầu In Brother GTX Tiết Kiệm Đến 50% Chi Phí: Hướng
+  Dẫn Chi Tiết A-Z
+description: >-
+  Cẩm nang hướng dẫn chi tiết chương trình Trade-in thu cũ đổi mới đầu in máy in
+  Brother DTG (GTX, GTXpro, GTXpro Bulk) tại VNPIS. Tiết kiệm 50% chi phí,...
 keywords:
-  - "thu cũ đổi mới đầu in brother gtx"
-  - "trade-in đầu in brother dtg"
-  - "đổi đầu in brother hỏng"
-  - "giá thu hồi đầu in brother gtx cũ"
-  - "thay đầu in brother gtx"
-date: "2026-11-07"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Dịch Vụ Kỹ Thuật & Bảo Trì"
-canonical: "https://vnpis.com/blog/quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - thu cũ đổi mới đầu in brother gtx
+  - trade-in đầu in brother dtg
+  - đổi đầu in brother hỏng
+  - giá thu hồi đầu in brother gtx cũ
+  - thay đầu in brother gtx
+date: '2026-11-07'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Dịch Vụ Kỹ Thuật & Bảo Trì
+canonical: 'https://vnpis.com/blog/quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
 tags:
-  - "thu cũ đổi mới đầu in brother gtx"
-  - "trade-in đầu in brother dtg"
-  - "đổi đầu in brother hỏng"
-  - "Brother GTX"
-  - "vnpis.com"
-  - "VNPIS"
-domain: "vnpis.com"
-slug: "quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis"
+  - thu cũ đổi mới đầu in brother gtx
+  - trade-in đầu in brother dtg
+  - đổi đầu in brother hỏng
+  - Brother GTX
+  - vnpis.com
+  - VNPIS
+domain: vnpis.com
+slug: quy-trinh-thu-cu-doi-moi-dau-in-brother-gtx-vnpis
 ---
 
 # Quy Trình Thu Cũ Đổi Mới Đầu In Brother GTX Tiết Kiệm Đến 50% Chi Phí: Hướng Dẫn Chi Tiết A-Z

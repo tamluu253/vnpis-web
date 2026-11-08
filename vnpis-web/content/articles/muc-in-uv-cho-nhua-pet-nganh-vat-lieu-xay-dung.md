@@ -1,13 +1,19 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-uv-cho-nhua-pet-nganh-vat-lieu-xay-dung"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In UV Khô Siêu Tốc 0.1s Cho Bề Mặt Nhựa PET (Ngành Vật Liệu Xây Dựng)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính khô siêu tốc 0.1s chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành vật liệu xây dựng. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.161Z"
-category: "UV"
-code: "PRG-131"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-uv-cho-nhua-pet-nganh-vat-lieu-xay-dung'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In UV Khô Siêu Tốc 0.1s Cho Bề Mặt Nhựa PET (Ngành Vật Liệu Xây
+  Dựng)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính khô siêu tốc 0.1s
+  chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành vật
+  liệu...
+date: '2026-07-08T08:40:08.161Z'
+category: UV
+code: PRG-131
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

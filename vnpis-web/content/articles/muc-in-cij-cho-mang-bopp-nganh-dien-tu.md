@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-cij-cho-mang-bopp-nganh-dien-tu"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In CIJ Chống Trầy Xước Cho Bề Mặt Màng BOPP (Ngành Điện Tử)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính chống trầy xước chuyên dụng cho bề mặt màng bopp trong dây chuyền sản xuất của ngành điện tử. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.180Z"
-category: "CIJ"
-code: "PRG-140"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-cij-cho-mang-bopp-nganh-dien-tu'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In CIJ Chống Trầy Xước Cho Bề Mặt Màng BOPP (Ngành Điện Tử)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính chống trầy xước
+  chuyên dụng cho bề mặt màng bopp trong dây chuyền sản xuất của ngành điện
+  tử....
+date: '2026-07-08T08:40:08.180Z'
+category: CIJ
+code: PRG-140
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

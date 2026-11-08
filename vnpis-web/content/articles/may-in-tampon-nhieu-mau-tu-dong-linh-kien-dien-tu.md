@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/may-in-tampon-nhieu-mau-tu-dong-linh-kien-dien-tu"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Máy In Tampon Nhiều Màu Tự Động Cho Linh Kiện Điện Tử"
-description: "Máy in tampon nhiều màu (2-6 màu) sử dụng bàn trượt Servo hoặc mâm xoay Rotary là giải pháp hoàn hảo để in logo nhiều màu lên vỏ tivi, laptop, vi mạch điện tử."
-date: "2026-07-18T00:41:17.444Z"
-category: "Máy In Tampon (PAD)"
-code: "PAD-MULTICOLOR"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/may-in-tampon-nhieu-mau-tu-dong-linh-kien-dien-tu'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Máy In Tampon Nhiều Màu Tự Động Cho Linh Kiện Điện Tử
+description: >-
+  Máy in tampon nhiều màu (2-6 màu) sử dụng bàn trượt Servo hoặc mâm xoay Rotary
+  là giải pháp hoàn hảo để in logo nhiều màu lên vỏ tivi, laptop, vi mạch điện
+  tử.
+date: '2026-07-18T00:41:17.444Z'
+category: Máy In Tampon (PAD)
+code: PAD-MULTICOLOR
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Khi thiết kế nhãn mác cho các sản phẩm linh kiện điện tử cao cấp (vỏ tivi, laptop, router wifi), các kỹ sư thường yêu cầu logo nhiều màu sắc, hoặc các biểu tượng cảnh báo với nhiều màu riêng biệt trên cùng một mặt phẳng. Để giải bài toán này, **Máy in tampon nhiều màu tự động** là công cụ đắc lực nhất.

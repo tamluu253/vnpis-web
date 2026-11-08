@@ -1,30 +1,33 @@
 ---
-title: "Hướng Dẫn Tinh Chỉnh Hành Trình Z & Lực Ép Tampon Tránh Lỗi Biến Dạng Nét In"
+title: Hướng Dẫn Tinh Chỉnh Hành Trình Z & Lực Ép Tampon Tránh Lỗi Biến Dạng Nét In
 keywords:
-  - "chỉnh hành trình z máy in tampon"
-  - "khắc phục lỗi lem mực máy in tampon"
-  - "cách căn chỉnh máy in pad printing"
-  - "lỗi bóng mờ máy in tampon"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Máy In Tampon & Hệ Thống Tự Động Hóa"
-canonical: "https://vnpis.com/blog/chinh-hanh-trinh-z-luc-ep-tampon"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - chỉnh hành trình z máy in tampon
+  - khắc phục lỗi lem mực máy in tampon
+  - cách căn chỉnh máy in pad printing
+  - lỗi bóng mờ máy in tampon
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Máy In Tampon & Hệ Thống Tự Động Hóa
+canonical: 'https://vnpis.com/blog/chinh-hanh-trinh-z-luc-ep-tampon'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "chỉnh hành trình z máy in tampon"
-  - "khắc phục lỗi lem mực máy in tampon"
-  - "cách căn chỉnh máy in pad printing"
-  - "lỗi bóng mờ máy in tampon"
-  - "vnpis.com"
-  - "VNPIS"
+  - chỉnh hành trình z máy in tampon
+  - khắc phục lỗi lem mực máy in tampon
+  - cách căn chỉnh máy in pad printing
+  - lỗi bóng mờ máy in tampon
+  - vnpis.com
+  - VNPIS
 wordCount: 3440
-domain: "vnpis.com"
-slug: "chinh-hanh-trinh-z-luc-ep-tampon"
+domain: vnpis.com
+slug: chinh-hanh-trinh-z-luc-ep-tampon
+description: >-
+  Máy in tampon cốc mực kín VNPIS SE 125B chuyển giao tận xưởng Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Hướng Dẫn Tinh Chỉnh Hành Trình Z & Lực Ép Tampon Tránh Lỗi Biến Dạng Nét In

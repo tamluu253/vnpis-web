@@ -1,13 +1,17 @@
 ---
-canonical: "https://vnpis.com/blog/muc-in-lua-tren-vai-polyester-afford-kt1"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Lụa Trên Vải Polyester | Mực In Vải Cao Cấp Bám Dính Siêu Cường | VNPIS"
-description: "Mực in lụa trên vải polyester, thun co giãn chuyên dụng. Khắc phục triệt để nhiễm màu (Dye migration), bám dính siêu bền, an toàn giặt sấy. Hotline: 0987 453 866."
-date: "2026-07-18T00:19:10.785Z"
-category: "Afford"
-code: "KT1"
-mediaExt: "null"
+canonical: 'https://vnpis.com/blog/muc-in-lua-tren-vai-polyester-afford-kt1'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In Lụa Trên Vải Polyester | Mực In Vải Cao Cấp Bám Dính Siêu Cường
+description: >-
+  Mực in lụa trên vải polyester, thun co giãn chuyên dụng. Khắc phục triệt để
+  nhiễm màu (Dye migration), bám dính siêu bền, an toàn giặt sấy. Hotline: 0987
+  453 866.
+date: '2026-07-18T00:19:10.785Z'
+category: Afford
+code: KT1
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Khi in mực sáng màu (trắng, vàng) lên nền vải Polyester tối màu (đen, đỏ, xanh navy), xưởng in thường xuyên gặp hiện tượng thuốc nhuộm từ vải thấm ngược lên làm đổi màu mực in (Dye Migration). **Afford KT1** mang đến giải pháp hoàn hảo.

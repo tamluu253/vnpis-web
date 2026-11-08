@@ -1,13 +1,18 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-dod-cho-mach-dien-tu-pcb-nganh-nong-san"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In DOD Phát Quang Chống Giả Cho Bề Mặt Mạch Điện Tử PCB (Ngành Nông Sản)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính phát quang chống giả chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của ngành nông sản. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.155Z"
-category: "DOD"
-code: "PRG-128"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-dod-cho-mach-dien-tu-pcb-nganh-nong-san'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In DOD Phát Quang Chống Giả Cho Bề Mặt Mạch Điện Tử PCB (Ngành
+  Nông Sản)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính phát quang chống
+  giả chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của...
+date: '2026-07-08T08:40:08.155Z'
+category: DOD
+code: PRG-128
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

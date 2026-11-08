@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tampon-zdhc-level-3-nengtong"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Tampon ZDHC Level 3 Nengtong Cho Ngành May Mặc, Da Giày"
-description: "Nengtong NT Pad Series - Dòng mực in mác áo, đế giày, da tổng hợp đạt chứng chỉ ZDHC Level 3. Độ đàn hồi cao, chống rạn nứt tuyệt đối."
-date: "2026-07-17T03:34:04.881Z"
-category: "Nengtong"
-code: "NT Pad Series"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tampon-zdhc-level-3-nengtong'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In Tampon ZDHC Level 3 Nengtong Cho Ngành May Mặc, Da Giày'
+description: >-
+  Nengtong NT Pad Series - Dòng mực in mác áo, đế giày, da tổng hợp đạt chứng
+  chỉ ZDHC Level 3. Độ đàn hồi cao, chống rạn nứt tuyệt đối.
+date: '2026-07-17T03:34:04.881Z'
+category: Nengtong
+code: NT Pad Series
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 **Nengtong NT Pad Series** là giải pháp mực in Tampon chuyên nghiệp từ Trung Quốc, đặc biệt tập trung phục vụ cho các nhà máy gia công hàng may mặc, giày da xuất khẩu cho các thương hiệu lớn.

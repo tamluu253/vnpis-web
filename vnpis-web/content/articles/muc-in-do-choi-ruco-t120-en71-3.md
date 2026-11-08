@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-do-choi-ruco-t120-en71-3"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Đồ Chơi Ruco T120 Đạt Chuẩn An Toàn EN71-3"
-description: "Ruco T120 là dòng mực 1 hoặc 2 thành phần (Đức) được thiết kế đặc biệt an toàn cho trẻ em. Vượt qua bài kiểm tra EN71-3 về độ thôi nhiễm kim loại nặng."
-date: "2026-07-17T03:34:04.877Z"
-category: "Ruco"
-code: "T120"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-do-choi-ruco-t120-en71-3'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In Đồ Chơi Ruco T120 Đạt Chuẩn An Toàn EN71-3
+description: >-
+  Ruco T120 là dòng mực 1 hoặc 2 thành phần (Đức) được thiết kế đặc biệt an toàn
+  cho trẻ em. Vượt qua bài kiểm tra EN71-3 về độ thôi nhiễm kim loại nặng.
+date: '2026-07-17T03:34:04.877Z'
+category: Ruco
+code: T120
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Trong sản xuất đồ chơi trẻ em (lục lạc, núm ngậm, xe mô hình nhựa), tiêu chuẩn an toàn là yếu tố sống còn vì trẻ em thường có thói quen ngậm, cắn đồ chơi. **Ruco T120** là dòng mực in Tampon/Lụa chuyên dụng đạt chuẩn khắt khe **EN71-3 (Toy Safety Standard)** của Châu u.

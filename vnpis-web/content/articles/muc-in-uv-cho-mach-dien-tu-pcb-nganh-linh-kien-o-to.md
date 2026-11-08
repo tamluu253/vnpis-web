@@ -1,13 +1,18 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-uv-cho-mach-dien-tu-pcb-nganh-linh-kien-o-to"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In UV Chống Trầy Xước Cho Bề Mặt Mạch Điện Tử PCB (Ngành Linh Kiện Ô Tô)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính chống trầy xước chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của ngành linh kiện ô tô. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.185Z"
-category: "UV"
-code: "PRG-143"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-uv-cho-mach-dien-tu-pcb-nganh-linh-kien-o-to'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In UV Chống Trầy Xước Cho Bề Mặt Mạch Điện Tử PCB (Ngành Linh
+  Kiện Ô Tô)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính chống trầy xước
+  chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của ngành...
+date: '2026-07-08T08:40:08.185Z'
+category: UV
+code: PRG-143
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

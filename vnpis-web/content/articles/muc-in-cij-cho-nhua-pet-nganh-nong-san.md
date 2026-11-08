@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-cij-cho-nhua-pet-nganh-nong-san"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In CIJ Chịu Hóa Chất Cho Bề Mặt Nhựa PET (Ngành Nông Sản)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính chịu hóa chất chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành nông sản. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.148Z"
-category: "CIJ"
-code: "PRG-122"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-cij-cho-nhua-pet-nganh-nong-san'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In CIJ Chịu Hóa Chất Cho Bề Mặt Nhựa PET (Ngành Nông Sản)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính chịu hóa chất
+  chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành nông
+  sản....
+date: '2026-07-08T08:40:08.148Z'
+category: CIJ
+code: PRG-122
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

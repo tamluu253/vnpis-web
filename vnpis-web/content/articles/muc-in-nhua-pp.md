@@ -1,13 +1,17 @@
 ---
-canonical: "https://vnpis.com/blog/muc-in-nhua-pp"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In PP: Giải Pháp In Nhựa Polypropylene Chưa Xử Lý & Đã Xử Lý"
-description: "Báo giá mực in PP bám dính siêu bền cho nhựa Polypropylene. Dòng mực in trực tiếp Henkey PPEX-2 không cần xử lý khò lửa/Corona, mực in tampon & in lụa nắp chai, thùng rác PP chính hãng."
-date: "2026-08-21T08:58:00.000Z"
-category: "Mực in PP"
-code: "PP-INK"
-mediaExt: "jpg"
+canonical: 'https://vnpis.com/blog/muc-in-nhua-pp'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In PP: Giải Pháp In Nhựa Polypropylene Chưa Xử Lý & Đã Xử Lý'
+description: >-
+  Báo giá mực in PP bám dính siêu bền cho nhựa Polypropylene. Dòng mực in trực
+  tiếp Henkey PPEX-2 không cần xử lý khò lửa/Corona, mực in tampon & in lụa
+  nắp...
+date: '2026-08-21T08:58:00.000Z'
+category: Mực in PP
+code: PP-INK
+mediaExt: jpg
+author: VNPIS Engineering Team
 ---
 
 Nhựa PP (Polypropylene) là vật liệu được ứng dụng khổng lồ trong sản xuất bao bì thực phẩm, nắp chai, hộp nhựa dùng 1 lần, thùng rác công nghiệp, vỏ bình ắc quy, chai lọ mỹ phẩm và thiết bị y tế. Tuy nhiên, nhựa PP có đặc tính **năng lượng bề mặt rất thấp (chỉ 29 – 31 dyne/cm)**, cực kỳ trơn nhẵn và không phân cực (non-polar). Điều này khiến các loại mực thông thường **hoàn toàn không bám dính được** và lập tức bong tróc sau khi khô.

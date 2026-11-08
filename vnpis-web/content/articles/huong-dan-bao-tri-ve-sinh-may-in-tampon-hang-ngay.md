@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/huong-dan-bao-tri-ve-sinh-may-in-tampon-hang-ngay"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Hướng Dẫn Bảo Trì Và Vệ Sinh Máy In Tampon Hàng Ngày Đúng Cách"
-description: "Bí quyết bảo trì và vệ sinh cốc mực, bản khắc, đầu silicone máy in tampon sau ca làm việc giúp kéo dài tuổi thọ thiết bị và chống tắc nghẽn mực."
-date: "2026-07-18T00:41:18.446Z"
-category: "Máy In Tampon (PAD)"
-code: "PAD-MAINTENANCE"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/huong-dan-bao-tri-ve-sinh-may-in-tampon-hang-ngay'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Hướng Dẫn Bảo Trì Và Vệ Sinh Máy In Tampon Hàng Ngày Đúng Cách
+description: >-
+  Bí quyết bảo trì và vệ sinh cốc mực, bản khắc, đầu silicone máy in tampon sau
+  ca làm việc giúp kéo dài tuổi thọ thiết bị và chống tắc nghẽn mực.
+date: '2026-07-18T00:41:18.446Z'
+category: Máy In Tampon (PAD)
+code: PAD-MAINTENANCE
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Máy in tampon là thiết bị cơ khí - khí nén hoạt động liên tục với cường độ cao và tiếp xúc trực tiếp với hóa chất (mực in gốc dung môi). Do đó, **vệ sinh và bảo trì hàng ngày** là yếu tố sống còn để máy không bị hỏng vặt.

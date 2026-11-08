@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-lua-tren-vai-sericom-textile"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Lụa Trên Vải Sericom Textile: Mềm Mại, Không Cứng Áo"
-description: "Sericom Textile là giải pháp mực in lụa chuyên dụng cho ngành dệt may. In sắc nét trên cotton, polyester, co giãn tốt, không làm cứng mặt vải."
-date: "2026-07-17T03:34:04.877Z"
-category: "Sericom"
-code: "Textile"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-lua-tren-vai-sericom-textile'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In Lụa Trên Vải Sericom Textile: Mềm Mại, Không Cứng Áo'
+description: >-
+  Sericom Textile là giải pháp mực in lụa chuyên dụng cho ngành dệt may. In sắc
+  nét trên cotton, polyester, co giãn tốt, không làm cứng mặt vải.
+date: '2026-07-17T03:34:04.877Z'
+category: Sericom
+code: Textile
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Ngành dệt may đòi hỏi những dòng mực đặc thù phải mềm mại, co giãn và bám dính tốt vào từng thớ vải. **Sericom Textile** chính là dòng mực in lụa đáp ứng xuất sắc mọi tiêu chí đó.

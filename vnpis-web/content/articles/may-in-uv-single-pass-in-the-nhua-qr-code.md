@@ -1,12 +1,15 @@
-﻿---
-canonical: "https://vnpis.com/blog/may-in-uv-single-pass-in-the-nhua-qr-code"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Máy In UV Single Pass In Thẻ Nhựa, Dữ Liệu Biến Đổi Tốc Độ Siêu Tốc"
-description: "Đột phá tốc độ in với máy UV Single Pass. Chuyên in dữ liệu biến đổi (QR code, Barcode, Serial) lên thẻ nhựa, thẻ cào, vé xe với tốc độ 50m/phút."
-date: "2026-07-15"
-category: "UV"
-code: "UV-SP-01"
+---
+canonical: 'https://vnpis.com/blog/may-in-uv-single-pass-in-the-nhua-qr-code'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Máy In UV Single Pass In Thẻ Nhựa, Dữ Liệu Biến Đổi Tốc Độ Siêu Tốc'
+description: >-
+  Đột phá tốc độ in với máy UV Single Pass. Chuyên in dữ liệu biến đổi (QR code,
+  Barcode, Serial) lên thẻ nhựa, thẻ cào, vé xe với tốc độ 50m/phút.
+date: '2026-07-15'
+category: UV
+code: UV-SP-01
+author: VNPIS Engineering Team
 ---
 
 Công nghệ in UV Single Pass đang thay đổi hoàn toàn cục diện ngành in ấn kỹ thuật số công nghiệp. Thay vì đầu in phải chạy qua chạy lại nhiều lần (multi-pass) như máy in UV phẳng thông thường, đầu in Single Pass được xếp cố định theo khổ in, và sản phẩm chỉ cần lướt qua MỘT LẦN duy nhất là hoàn thiện.

@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-nhua-pet-nganh-co-khi"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Phát Quang Chống Giả Cho Bề Mặt Nhựa PET (Ngành Cơ Khí)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính phát quang chống giả chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành cơ khí. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.139Z"
-category: "TIJ"
-code: "PRG-117"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-nhua-pet-nganh-co-khi'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In TIJ Phát Quang Chống Giả Cho Bề Mặt Nhựa PET (Ngành Cơ Khí)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính phát quang chống
+  giả chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành cơ...
+date: '2026-07-08T08:40:08.139Z'
+category: TIJ
+code: PRG-117
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

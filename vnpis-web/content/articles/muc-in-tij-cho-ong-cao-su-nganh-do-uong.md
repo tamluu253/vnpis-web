@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-ong-cao-su-nganh-do-uong"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Ống Cao Su (Ngành Đồ Uống)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chuẩn fda thực phẩm chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành đồ uống. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.131Z"
-category: "TIJ"
-code: "PRG-109"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-ong-cao-su-nganh-do-uong'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In TIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Ống Cao Su (Ngành Đồ Uống)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chuẩn fda thực
+  phẩm chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành
+  đồ...
+date: '2026-07-08T08:40:08.131Z'
+category: TIJ
+code: PRG-109
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

@@ -1,30 +1,33 @@
 ---
-title: "Bảng Chọn Lưới In Lụa Thụy Sĩ Mesh Count 80T - 165T Chuẩn Nhà Máy"
+title: Bảng Chọn Lưới In Lụa Thụy Sĩ Mesh Count 80T - 165T Chuẩn Nhà Máy
 keywords:
-  - "lưới in lụa thụy sĩ mesh count 80t 165t"
-  - "dao gạt mực squeegee pu 65 85 shore a"
-  - "khung nhôm căng lưới in lụa"
-  - "báo giá dao gạt mực in lụa"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa"
-canonical: "https://vnpis.com/blog/bang-chon-luoi-in-lua-mesh-count-80t-165t"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - lưới in lụa thụy sĩ mesh count 80t 165t
+  - dao gạt mực squeegee pu 65 85 shore a
+  - khung nhôm căng lưới in lụa
+  - báo giá dao gạt mực in lụa
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa
+canonical: 'https://vnpis.com/blog/bang-chon-luoi-in-lua-mesh-count-80t-165t'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/vnpis-industrial-printing-solutions-showcase.jpg
+mediaExt: .jpg
 tags:
-  - "lưới in lụa thụy sĩ mesh count 80t 165t"
-  - "dao gạt mực squeegee pu 65 85 shore a"
-  - "khung nhôm căng lưới in lụa"
-  - "báo giá dao gạt mực in lụa"
-  - "vnpis.com"
-  - "VNPIS"
+  - lưới in lụa thụy sĩ mesh count 80t 165t
+  - dao gạt mực squeegee pu 65 85 shore a
+  - khung nhôm căng lưới in lụa
+  - báo giá dao gạt mực in lụa
+  - vnpis.com
+  - VNPIS
 wordCount: 3356
-domain: "vnpis.com"
-slug: "bang-chon-luoi-in-lua-mesh-count-80t-165t"
+domain: vnpis.com
+slug: bang-chon-luoi-in-lua-mesh-count-80t-165t
+description: >-
+  Hệ sinh thái thiết bị & giải pháp in ấn công nghiệp B2B VNPIS Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Bảng Chọn Lưới In Lụa Thụy Sĩ Mesh Count 80T - 165T Chuẩn Nhà Máy

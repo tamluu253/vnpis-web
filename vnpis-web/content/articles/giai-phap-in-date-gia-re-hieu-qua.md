@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/giai-phap-in-date-gia-re-hieu-qua"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Nên Chọn Mực TIJ Hay CIJ Cho Doanh Nghiệp Của Bạn?"
-description: "Bài viết tổng hợp giúp chủ doanh nghiệp SME quyết định đúng đắn khoản đầu tư giữa hệ thống in phun nhiệt TIJ và in phun liên tục CIJ."
-date: "2026-07-08T08:40:08.119Z"
-category: "TIJ/CIJ"
-code: "GUIDE"
-mediaExt: "jpg"
+---
+canonical: 'https://vnpis.com/blog/giai-phap-in-date-gia-re-hieu-qua'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Nên Chọn Mực TIJ Hay CIJ Cho Doanh Nghiệp Của Bạn?
+description: >-
+  Bài viết tổng hợp giúp chủ doanh nghiệp SME quyết định đúng đắn khoản đầu tư
+  giữa hệ thống in phun nhiệt TIJ và in phun liên tục CIJ.
+date: '2026-07-08T08:40:08.119Z'
+category: TIJ/CIJ
+code: GUIDE
+mediaExt: jpg
+author: VNPIS Engineering Team
 ---
 
 

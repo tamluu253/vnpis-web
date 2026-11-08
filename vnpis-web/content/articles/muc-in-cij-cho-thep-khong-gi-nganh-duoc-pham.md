@@ -1,13 +1,18 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-cij-cho-thep-khong-gi-nganh-duoc-pham"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In CIJ Khô Siêu Tốc 0.1s Cho Bề Mặt Thép Không Gỉ (Ngành Dược Phẩm)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính khô siêu tốc 0.1s chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của ngành dược phẩm. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.190Z"
-category: "CIJ"
-code: "PRG-149"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-cij-cho-thep-khong-gi-nganh-duoc-pham'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In CIJ Khô Siêu Tốc 0.1s Cho Bề Mặt Thép Không Gỉ (Ngành Dược
+  Phẩm)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính khô siêu tốc 0.1s
+  chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của ngành...
+date: '2026-07-08T08:40:08.190Z'
+category: CIJ
+code: PRG-149
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

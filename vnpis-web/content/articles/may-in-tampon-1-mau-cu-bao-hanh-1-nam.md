@@ -1,28 +1,33 @@
 ---
-title: "Máy In Tampon 1 Màu Cũ Bảo Hành 1 Năm: Giải Pháp Tiết Kiệm 50% Chi Phí"
-description: "Hướng dẫn chi tiết mua máy in tampon 1 màu cũ bảo hành 1 năm chính hãng VNPIS. Tiết kiệm 50% chi phí đầu tư, cam kết 1 đổi 1 trong 30 ngày, miễn phí chuyển giao công nghệ."
-keywords: "máy in tampon 1 màu, máy in tampon 1 màu cũ, máy in tampon 1 màu bảo hành 1 năm, giá máy in tampon 1 màu cũ, thanh lý máy in tampon 1 màu, máy in pad 1 màu lướt"
-date: "2027-09-01"
-author: "Tâm Lưu - Kỹ Sư Trưởng VNPIS"
-category: "PAD"
-code: "PAD-10"
-canonical: "https://vnpis.com/blog/may-in-tampon-1-mau-cu-bao-hanh-1-nam"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+title: 'Máy In Tampon 1 Màu Cũ Bảo Hành 1 Năm: Giải Pháp Tiết Kiệm 50% Chi Phí'
+description: >-
+  Hướng dẫn chi tiết mua máy in tampon 1 màu cũ bảo hành 1 năm chính hãng VNPIS.
+  Tiết kiệm 50% chi phí đầu tư, cam kết 1 đổi 1 trong 30 ngày, miễn phí...
+keywords: >-
+  máy in tampon 1 màu, máy in tampon 1 màu cũ, máy in tampon 1 màu bảo hành 1
+  năm, giá máy in tampon 1 màu cũ, thanh lý máy in tampon 1 màu, máy in pad 1
+  màu lướt
+date: '2027-09-01'
+author: Tâm Lưu - Kỹ Sư Trưởng VNPIS
+category: PAD
+code: PAD-10
+canonical: 'https://vnpis.com/blog/may-in-tampon-1-mau-cu-bao-hanh-1-nam'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/pad-printers/hj/hp-125ay.webp"
-mediaExt: ".png"
+image: /images/pad-printers/hj/hp-125ay.webp
+mediaExt: .png
 tags:
-  - "máy in tampon 1 màu"
-  - "máy in tampon cũ"
-  - "bảo hành 1 năm"
-  - "máy in tampon cốc mực kín"
-  - "vnpis.com"
-  - "VNPIS"
+  - máy in tampon 1 màu
+  - máy in tampon cũ
+  - bảo hành 1 năm
+  - máy in tampon cốc mực kín
+  - vnpis.com
+  - VNPIS
 wordCount: 3250
-domain: "vnpis.com"
-slug: "may-in-tampon-1-mau-cu-bao-hanh-1-nam"
+domain: vnpis.com
+slug: may-in-tampon-1-mau-cu-bao-hanh-1-nam
 ---
 
 # Máy In Tampon 1 Màu Cũ Bảo Hành 1 Năm: Giải Pháp Tiết Kiệm 50% Chi Phí Cho Xưởng In

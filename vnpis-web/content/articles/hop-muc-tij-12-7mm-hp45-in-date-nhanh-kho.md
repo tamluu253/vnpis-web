@@ -1,30 +1,35 @@
 ---
-title: "Phân Phối Hộp Mực TIJ 12.7mm HP45 & Mực In Date Cực Nhanh Cho Dây Chuyền Bao Bì"
+title: >-
+  Phân Phối Hộp Mực TIJ 12.7mm HP45 & Mực In Date Cực Nhanh Cho Dây Chuyền Bao
+  Bì
 keywords:
-  - "hộp mực tij 12.7mm hp45"
-  - "mực in date nhanh khô hf200"
-  - "dung môi máy in date cij mek ethanol"
-  - "cartridge mực máy in date cầm tay"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Mực In Công Nghiệp & Dung Môi Chuyên Dụng"
-canonical: "https://vnpis.com/blog/hop-muc-tij-12-7mm-hp45-in-date-nhanh-kho"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - hộp mực tij 12.7mm hp45
+  - mực in date nhanh khô hf200
+  - dung môi máy in date cij mek ethanol
+  - cartridge mực máy in date cầm tay
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Mực In Công Nghiệp & Dung Môi Chuyên Dụng
+canonical: 'https://vnpis.com/blog/hop-muc-tij-12-7mm-hp45-in-date-nhanh-kho'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/consumables/henkey-industrial-inks-tij-cartridges.jpg"
-mediaExt: ".jpg"
+image: /images/consumables/henkey-industrial-inks-tij-cartridges.jpg
+mediaExt: .jpg
 tags:
-  - "hộp mực tij 12.7mm hp45"
-  - "mực in date nhanh khô hf200"
-  - "dung môi máy in date cij mek ethanol"
-  - "cartridge mực máy in date cầm tay"
-  - "vnpis.com"
-  - "VNPIS"
+  - hộp mực tij 12.7mm hp45
+  - mực in date nhanh khô hf200
+  - dung môi máy in date cij mek ethanol
+  - cartridge mực máy in date cầm tay
+  - vnpis.com
+  - VNPIS
 wordCount: 3398
-domain: "vnpis.com"
-slug: "hop-muc-tij-12-7mm-hp45-in-date-nhanh-kho"
+domain: vnpis.com
+slug: hop-muc-tij-12-7mm-hp45-in-date-nhanh-kho
+description: >-
+  Mực in công nghiệp Henkey PET8000 PPEX và mực TIJ HP45 chính hãng Hotline hỗ
+  trợ kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công...
 ---
 
 # Phân Phối Hộp Mực TIJ 12.7mm HP45 & Mực In Date Cực Nhanh Cho Dây Chuyền Bao Bì

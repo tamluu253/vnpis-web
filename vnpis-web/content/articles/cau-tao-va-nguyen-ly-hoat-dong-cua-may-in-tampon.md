@@ -1,13 +1,16 @@
 ---
-canonical: "https://vnpis.com/blog/cau-tao-va-nguyen-ly-hoat-dong-cua-may-in-tampon"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Pad Printing Là Gì? Quy Trình In Tampon Công Nghiệp Từ A-Z | VNPIS"
-description: "Pad printing (In Tampon) là gì? Khám phá cấu tạo chi tiết, quy trình 4 bước in gián tiếp chuẩn kỹ thuật trên bề mặt 3D phức tạp & giải pháp tối ưu từ VNPIS. Hotline: 0987 453 866."
-date: "2026-07-18T00:41:13.439Z"
-category: "Máy In Tampon (PAD)"
-code: "PAD-BASIC"
-mediaExt: "null"
+canonical: 'https://vnpis.com/blog/cau-tao-va-nguyen-ly-hoat-dong-cua-may-in-tampon'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Pad Printing Là Gì? Quy Trình In Tampon Công Nghiệp Từ A-Z
+description: >-
+  Pad printing (In Tampon) là gì? Khám phá cấu tạo chi tiết, quy trình 4 bước in
+  gián tiếp chuẩn kỹ thuật trên bề mặt 3D phức tạp & giải pháp tối ưu từ...
+date: '2026-07-18T00:41:13.439Z'
+category: Máy In Tampon (PAD)
+code: PAD-BASIC
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Công nghệ in Tampon (Pad Printing) đã làm thay đổi hoàn toàn cục diện của ngành in công nghiệp nhờ khả năng in trên bề mặt 3D phức tạp. Tuy nhiên, không phải ai cũng nắm rõ **cấu tạo và nguyên lý hoạt động** của thiết bị này.

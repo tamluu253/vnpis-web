@@ -1,13 +1,16 @@
 ---
-canonical: "https://vnpis.com/blog/muc-in-nhua-hdpe"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In HDPE: Giải Pháp Bám Dính Chuyên Dụng In Can, Chai Lọ & Ống Nhựa HDPE"
-description: "Dòng mực in HDPE bám dính siêu cường, kháng hóa chất, kháng axit, kiềm và cồn. Dành cho in Tampon, in Lụa, in Date CIJ/TIJ nắp bình 20L, chai can nhựa HDPE, ống nước HDPE tại INANVNPIS."
-date: "2026-08-21T08:58:00.000Z"
-category: "Mực in HDPE"
-code: "HDPE-INK"
-mediaExt: "jpg"
+canonical: 'https://vnpis.com/blog/muc-in-nhua-hdpe'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In HDPE: Giải Pháp Bám Dính Chuyên Dụng In Can, Chai Lọ & Ống Nhựa HDPE'
+description: >-
+  Dòng mực in HDPE bám dính siêu cường, kháng hóa chất, kháng axit, kiềm và cồn.
+  Dành cho in Tampon, in Lụa, in Date CIJ/TIJ nắp bình 20L, chai can nhựa...
+date: '2026-08-21T08:58:00.000Z'
+category: Mực in HDPE
+code: HDPE-INK
+mediaExt: jpg
+author: VNPIS Engineering Team
 ---
 
 Nhựa HDPE (High-Density Polyethylene - Polyethylene mật độ cao) sở hữu độ bền cơ học cao, chịu lực va đập trơn trượt và khả năng kháng hóa chất vượt trội. Nhựa HDPE là sự lựa chọn hàng đầu sản xuất **can chứa hóa chất, chai lọ thuốc bảo vệ thực vật, chai dầu nhớt, nắp bình nước tinh khiết 20L, ống nước công nghiệp HDPE, thùng phuy nhựa và bao bì dược phẩm**.

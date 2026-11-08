@@ -1,13 +1,19 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-day-cap-quang-nganh-thuc-pham"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Phát Quang Chống Giả Cho Bề Mặt Dây Cáp Quang (Ngành Thực Phẩm)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính phát quang chống giả chuyên dụng cho bề mặt dây cáp quang trong dây chuyền sản xuất của ngành thực phẩm. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.173Z"
-category: "TIJ"
-code: "PRG-138"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-day-cap-quang-nganh-thuc-pham'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In TIJ Phát Quang Chống Giả Cho Bề Mặt Dây Cáp Quang (Ngành Thực
+  Phẩm)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính phát quang chống
+  giả chuyên dụng cho bề mặt dây cáp quang trong dây chuyền sản xuất của
+  ngành...
+date: '2026-07-08T08:40:08.173Z'
+category: TIJ
+code: PRG-138
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

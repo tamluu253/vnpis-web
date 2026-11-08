@@ -1,12 +1,15 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-lua-uv-muc-ep-kim"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Các Dòng Mực In Lụa Cao Cấp: Mực UV, Mực Plastisol, Mực Ép Kim"
-description: "Phân phối sỉ lẻ các loại mực in lụa chuyên dụng: Mực UV in kính/nhựa, mực Plastisol in vải, keo in ép kim. Đạt tiêu chuẩn an toàn SGS, RoHS."
-date: "2026-07-15"
-category: "VAT-TU"
-code: "VT-03"
+---
+canonical: 'https://vnpis.com/blog/muc-in-lua-uv-muc-ep-kim'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Các Dòng Mực In Lụa Cao Cấp: Mực UV, Mực Plastisol, Mực Ép Kim'
+description: >-
+  Phân phối sỉ lẻ các loại mực in lụa chuyên dụng: Mực UV in kính/nhựa, mực
+  Plastisol in vải, keo in ép kim. Đạt tiêu chuẩn an toàn SGS, RoHS.
+date: '2026-07-15'
+category: VAT-TU
+code: VT-03
+author: VNPIS Engineering Team
 ---
 
 Công nghệ in lụa có tính ứng dụng đa dạng nhờ vào sự phong phú của hệ thống mực in. Tại VNPIS, chúng tôi chọn lọc và phân phối các dòng mực in lụa chất lượng cao nhất, phục vụ cho nhiều ngành công nghiệp khắt khe.

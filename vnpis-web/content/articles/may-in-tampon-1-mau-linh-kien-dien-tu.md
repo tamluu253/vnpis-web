@@ -1,12 +1,15 @@
-﻿---
-canonical: "https://vnpis.com/blog/may-in-tampon-1-mau-linh-kien-dien-tu"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Đầu Tư Máy In Tampon 1 Màu Giá Rẻ Cho Xưởng Gia Công Linh Kiện Điện Tử"
-description: "Máy in tampon 1 màu giá rẻ chuyên in thông số, mã vạch lên tụ điện, IC, bo mạch PCB. Giải pháp in sắc nét, chống mài mòn cho ngành linh kiện điện tử."
-date: "2026-07-15"
-category: "PAD"
-code: "PAD-04"
+---
+canonical: 'https://vnpis.com/blog/may-in-tampon-1-mau-linh-kien-dien-tu'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Đầu Tư Máy In Tampon 1 Màu Giá Rẻ Cho Xưởng Gia Công Linh Kiện Điện Tử
+description: >-
+  Máy in tampon 1 màu giá rẻ chuyên in thông số, mã vạch lên tụ điện, IC, bo
+  mạch PCB. Giải pháp in sắc nét, chống mài mòn cho ngành linh kiện điện tử.
+date: '2026-07-15'
+category: PAD
+code: PAD-04
+author: VNPIS Engineering Team
 ---
 
 Linh kiện điện tử (như IC, tụ điện, rơ-le, bo mạch PCB) có kích thước rất nhỏ và đòi hỏi thông số in phải cực kỳ rõ nét để phục vụ quá trình lắp ráp và bảo hành. Việc sử dụng máy in tampon (pad printer) 1 màu giá rẻ là lựa chọn hàng đầu của các xưởng gia công hiện nay.

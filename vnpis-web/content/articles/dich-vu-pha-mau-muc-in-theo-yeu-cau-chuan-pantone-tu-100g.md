@@ -1,10 +1,16 @@
 ---
-title: "Dịch Vụ Pha Màu Mực In Theo Yêu Cầu Từ 100g Chuẩn Pantone | Máy Quang Phổ 3NH ST-700D Plus"
-description: "VNPIS cung cấp dịch vụ pha màu mực in lụa, in pad (tampon) chuẩn mã Pantone từ máy quang phổ 3NH ST-700D Plus. Nhận pha số lượng nhỏ lẻ từ 100g, lưu công thức số hóa, giao hàng toàn quốc."
-date: "2026-11-08"
-category: "VẬT TƯ IN LỤA"
-code: "PHA MÀU PANTONE"
-author: "VNPIS Industrial Equipment & Solutions"
+title: >-
+  Dịch Vụ Pha Màu Mực In Theo Yêu Cầu Từ 100g Chuẩn Pantone | Máy Quang Phổ 3NH
+  ST-700D Plus
+description: >-
+  VNPIS cung cấp dịch vụ pha màu mực in lụa, in pad (tampon) chuẩn mã Pantone từ
+  máy quang phổ 3NH ST-700D Plus. Nhận pha số lượng nhỏ lẻ từ 100g, lưu công...
+date: '2026-11-08'
+category: VẬT TƯ IN LỤA
+code: PHA MÀU PANTONE
+author: VNPIS Industrial Equipment & Solutions
+canonical: >-
+  https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g
 ---
 
 # Dịch Vụ Pha Màu Mực In Theo Yêu Cầu Từ 100g Chuẩn Pantone | Công Nghệ 3NH ST-700D Plus

@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tampon-vai-da-dubuit-tl4-pad-zdhc"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Tampon Cho Vải & Da Dubuit TL4-PAD (Đạt ZDHC Level 3)"
-description: "Dubuit TL4-PAD là dòng mực chuyên biệt in mác cổ áo (tagless), in trên vải, da thật, da tổng hợp. Đạt chứng nhận ZDHC Level 3 an toàn cho ngành may mặc xuất khẩu."
-date: "2026-07-17T03:34:04.872Z"
-category: "Dubuit"
-code: "TL4-PAD"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tampon-vai-da-dubuit-tl4-pad-zdhc'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In Tampon Cho Vải & Da Dubuit TL4-PAD (Đạt ZDHC Level 3)
+description: >-
+  Dubuit TL4-PAD là dòng mực chuyên biệt in mác cổ áo (tagless), in trên vải, da
+  thật, da tổng hợp. Đạt chứng nhận ZDHC Level 3 an toàn cho ngành may mặc xuất
+  khẩu.
+date: '2026-07-17T03:34:04.872Z'
+category: Dubuit
+code: TL4-PAD
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Xu hướng in mác trực tiếp lên cổ áo (Tagless Label) thay vì dùng mác vải đang thống trị ngành may mặc thời trang và thể thao. **Dubuit TL4-PAD** chính là "vũ khí" bí mật giúp các hãng thời trang đạt được điều này.

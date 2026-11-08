@@ -1,30 +1,33 @@
 ---
-title: "Báo Giá Trọn Bộ Máy In UV Single Pass Thùng Carton & Khay Giấy Công Nghiệp"
+title: Báo Giá Trọn Bộ Máy In UV Single Pass Thùng Carton & Khay Giấy Công Nghiệp
 keywords:
-  - "máy in uv single pass thùng carton"
-  - "máy in single pass bao bì giấy"
-  - "báo giá máy in uv single pass"
-  - "hệ thống in kỹ thuật số single pass"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Hệ Thống Máy In UV Single Pass Tốc Độ Cao"
-canonical: "https://vnpis.com/blog/bao-gia-may-in-uv-single-pass-carton"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - máy in uv single pass thùng carton
+  - máy in single pass bao bì giấy
+  - báo giá máy in uv single pass
+  - hệ thống in kỹ thuật số single pass
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Hệ Thống Máy In UV Single Pass Tốc Độ Cao
+canonical: 'https://vnpis.com/blog/bao-gia-may-in-uv-single-pass-carton'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/industrial-uv-single-pass-corrugated-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/industrial-uv-single-pass-corrugated-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "máy in uv single pass thùng carton"
-  - "máy in single pass bao bì giấy"
-  - "báo giá máy in uv single pass"
-  - "hệ thống in kỹ thuật số single pass"
-  - "vnpis.com"
-  - "VNPIS"
+  - máy in uv single pass thùng carton
+  - máy in single pass bao bì giấy
+  - báo giá máy in uv single pass
+  - hệ thống in kỹ thuật số single pass
+  - vnpis.com
+  - VNPIS
 wordCount: 3352
-domain: "vnpis.com"
-slug: "bao-gia-may-in-uv-single-pass-carton"
+domain: vnpis.com
+slug: bao-gia-may-in-uv-single-pass-carton
+description: >-
+  Máy in UV Single Pass bao bì thùng carton tốc độ cao 100m/phút Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Báo Giá Trọn Bộ Máy In UV Single Pass Thùng Carton & Khay Giấy Công Nghiệp

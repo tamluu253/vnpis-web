@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-uv-tampon-dubuit-uvg"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In UV Tampon Dubuit UVG: Giải Pháp Thân Thiện Môi Trường"
-description: "Mực in UV Tampon Dubuit UVG khô ngay lập tức dưới ánh sáng đèn sấy UV. Tiết kiệm không gian lưu trữ, không dung môi độc hại (VOCs-free), in cực sắc nét."
-date: "2026-07-17T03:34:04.870Z"
-category: "Dubuit"
-code: "UVG"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-uv-tampon-dubuit-uvg'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In UV Tampon Dubuit UVG: Giải Pháp Thân Thiện Môi Trường'
+description: >-
+  Mực in UV Tampon Dubuit UVG khô ngay lập tức dưới ánh sáng đèn sấy UV. Tiết
+  kiệm không gian lưu trữ, không dung môi độc hại (VOCs-free), in cực sắc nét.
+date: '2026-07-17T03:34:04.870Z'
+category: Dubuit
+code: UVG
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Công nghệ in UV đang dần thay thế in mực gốc dung môi nhờ tính thân thiện với môi trường và tốc độ vượt trội. **Dubuit UVG** là dòng mực in Tampon UV cao cấp đến từ Pháp, mang công nghệ hiện đại này vào dây chuyền của bạn.

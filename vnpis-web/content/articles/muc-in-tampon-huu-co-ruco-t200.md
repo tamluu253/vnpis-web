@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tampon-huu-co-ruco-t200"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Tampon Hữu Cơ Ruco T200: Không Halogen, Không Chứa BPA"
-description: "Ruco T200 (Đức) là dòng mực hữu cơ sinh thái an toàn tuyệt đối, Không Halogen (Halogen-free), Không chứa BPA, chuyên dùng cho ngành y tế và bao bì thực phẩm."
-date: "2026-07-17T03:34:04.876Z"
-category: "Ruco"
-code: "T200"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tampon-huu-co-ruco-t200'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In Tampon Hữu Cơ Ruco T200: Không Halogen, Không Chứa BPA'
+description: >-
+  Ruco T200 (Đức) là dòng mực hữu cơ sinh thái an toàn tuyệt đối, Không Halogen
+  (Halogen-free), Không chứa BPA, chuyên dùng cho ngành y tế và bao bì thực
+  phẩm.
+date: '2026-07-17T03:34:04.876Z'
+category: Ruco
+code: T200
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Hãng mực in Ruco (Đức) luôn đi đầu trong các tiêu chuẩn an toàn sức khỏe và môi trường. Dòng sản phẩm **Ruco T200** là minh chứng rõ rệt nhất cho triết lý này, được phát triển hoàn toàn dựa trên các nguyên liệu thân thiện sinh thái.

@@ -1,30 +1,33 @@
 ---
-title: "Dịch Vụ Khắc Bản Cliché Thép & Polymer Độ Sâu 20-25µm Bằng Laser Fiber"
+title: Dịch Vụ Khắc Bản Cliché Thép & Polymer Độ Sâu 20-25µm Bằng Laser Fiber
 keywords:
-  - "dịch vụ khắc bản cliche laser fiber"
-  - "bản thép cliche máy in tampon skd11"
-  - "bản khắc polymer máy in pad"
-  - "bán bản thép máy in tampon 10mm"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa"
-canonical: "https://vnpis.com/blog/dich-vu-khac-ban-cliche-thep-laser-fiber"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - dịch vụ khắc bản cliche laser fiber
+  - bản thép cliche máy in tampon skd11
+  - bản khắc polymer máy in pad
+  - bán bản thép máy in tampon 10mm
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa
+canonical: 'https://vnpis.com/blog/dich-vu-khac-ban-cliche-thep-laser-fiber'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/vnpis-industrial-printing-solutions-showcase.jpg
+mediaExt: .jpg
 tags:
-  - "dịch vụ khắc bản cliche laser fiber"
-  - "bản thép cliche máy in tampon skd11"
-  - "bản khắc polymer máy in pad"
-  - "bán bản thép máy in tampon 10mm"
-  - "vnpis.com"
-  - "VNPIS"
+  - dịch vụ khắc bản cliche laser fiber
+  - bản thép cliche máy in tampon skd11
+  - bản khắc polymer máy in pad
+  - bán bản thép máy in tampon 10mm
+  - vnpis.com
+  - VNPIS
 wordCount: 3405
-domain: "vnpis.com"
-slug: "dich-vu-khac-ban-cliche-thep-laser-fiber"
+domain: vnpis.com
+slug: dich-vu-khac-ban-cliche-thep-laser-fiber
+description: >-
+  Hệ sinh thái thiết bị & giải pháp in ấn công nghiệp B2B VNPIS Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Dịch Vụ Khắc Bản Cliché Thép & Polymer Độ Sâu 20-25µm Bằng Laser Fiber

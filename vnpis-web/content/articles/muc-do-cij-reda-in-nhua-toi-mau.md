@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-do-cij-reda-in-nhua-toi-mau"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Sử Dụng Mực Đỏ REDA Cho Bề Mặt Tối Màu"
-description: "Trên nền nhựa đen hoặc vật liệu tối màu, mực đỏ REDA mang lại sự tương phản hoàn hảo, giúp mã vạch dễ dàng được máy quét nhận diện."
-date: "2026-07-08T08:40:08.108Z"
-category: "CIJ"
-code: "REDA"
-mediaExt: "jpg"
+---
+canonical: 'https://vnpis.com/blog/muc-do-cij-reda-in-nhua-toi-mau'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Sử Dụng Mực Đỏ REDA Cho Bề Mặt Tối Màu
+description: >-
+  Trên nền nhựa đen hoặc vật liệu tối màu, mực đỏ REDA mang lại sự tương phản
+  hoàn hảo, giúp mã vạch dễ dàng được máy quét nhận diện.
+date: '2026-07-08T08:40:08.108Z'
+category: CIJ
+code: REDA
+mediaExt: jpg
+author: VNPIS Engineering Team
 ---
 
 

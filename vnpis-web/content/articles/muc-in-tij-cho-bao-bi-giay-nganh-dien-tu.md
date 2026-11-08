@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-bao-bi-giay-nganh-dien-tu"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Chống Trầy Xước Cho Bề Mặt Bao Bì Giấy (Ngành Điện Tử)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chống trầy xước chuyên dụng cho bề mặt bao bì giấy trong dây chuyền sản xuất của ngành điện tử. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.129Z"
-category: "TIJ"
-code: "PRG-107"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-bao-bi-giay-nganh-dien-tu'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In TIJ Chống Trầy Xước Cho Bề Mặt Bao Bì Giấy (Ngành Điện Tử)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chống trầy xước
+  chuyên dụng cho bề mặt bao bì giấy trong dây chuyền sản xuất của ngành điện...
+date: '2026-07-08T08:40:08.129Z'
+category: TIJ
+code: PRG-107
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

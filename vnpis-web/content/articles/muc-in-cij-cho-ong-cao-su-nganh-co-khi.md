@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-cij-cho-ong-cao-su-nganh-co-khi"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In CIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Ống Cao Su (Ngành Cơ Khí)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính chuẩn fda thực phẩm chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành cơ khí. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.147Z"
-category: "CIJ"
-code: "PRG-121"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-cij-cho-ong-cao-su-nganh-co-khi'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In CIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Ống Cao Su (Ngành Cơ Khí)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính chuẩn fda thực
+  phẩm chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành
+  cơ...
+date: '2026-07-08T08:40:08.147Z'
+category: CIJ
+code: PRG-121
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

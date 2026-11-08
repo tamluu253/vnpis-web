@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/huong-dan-pha-muc-in-vai-afford-kt1-chuan-nhat"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Hướng Dẫn Pha Mực In Vải Afford KT1 Chuẩn Nhất Cho Máy Tampon"
-description: "Kỹ thuật pha mực in vải Afford KT1 với chất đóng rắn và dung môi chậm khô để đạt độ bám dính và độ bền giặt cao nhất."
-date: "2026-07-18T00:19:09.780Z"
-category: "Afford"
-code: "KT1"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/huong-dan-pha-muc-in-vai-afford-kt1-chuan-nhat'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Hướng Dẫn Pha Mực In Vải Afford KT1 Chuẩn Nhất Cho Máy Tampon
+description: >-
+  Kỹ thuật pha mực in vải Afford KT1 với chất đóng rắn và dung môi chậm khô để
+  đạt độ bám dính và độ bền giặt cao nhất.
+date: '2026-07-18T00:19:09.780Z'
+category: Afford
+code: KT1
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Để phát huy tối đa công năng của dòng [**mực in Tagless**](/products/consumables/inks) cao cấp **Afford KT1**, kỹ thuật pha mực (Mix ratio) đóng vai trò quyết định. Dưới đây là hướng dẫn từ chuyên gia VNPIS.

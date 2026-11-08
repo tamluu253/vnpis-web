@@ -1,13 +1,19 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-mach-dien-tu-pcb-nganh-nong-san"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Chịu Hóa Chất Cho Bề Mặt Mạch Điện Tử PCB (Ngành Nông Sản)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chịu hóa chất chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của ngành nông sản. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.122Z"
-category: "TIJ"
-code: "PRG-102"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-mach-dien-tu-pcb-nganh-nong-san'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In TIJ Chịu Hóa Chất Cho Bề Mặt Mạch Điện Tử PCB (Ngành Nông
+  Sản)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chịu hóa chất
+  chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của ngành
+  nông...
+date: '2026-07-08T08:40:08.122Z'
+category: TIJ
+code: PRG-102
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

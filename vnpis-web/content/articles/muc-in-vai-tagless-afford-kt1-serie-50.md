@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-vai-tagless-afford-kt1-serie-50"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Vải Tagless Afford KT1 (Serie 50): Đạt Chuẩn ZDHC Level 3"
-description: "Mực in vải siêu bám, cực kỳ mềm mại, độ co giãn tuyệt vời. Afford KT1 (Serie 50) là mực chuyên in nhãn cổ áo (Tagless) đạt chứng chỉ sinh thái ZDHC Level 3."
-date: "2026-07-18T00:15:11.602Z"
-category: "Afford"
-code: "KT1"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-vai-tagless-afford-kt1-serie-50'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In Vải Tagless Afford KT1 (Serie 50): Đạt Chuẩn ZDHC Level 3'
+description: >-
+  Mực in vải siêu bám, cực kỳ mềm mại, độ co giãn tuyệt vời. Afford KT1 (Serie
+  50) là mực chuyên in nhãn cổ áo (Tagless) đạt chứng chỉ sinh thái ZDHC Level
+  3.
+date: '2026-07-18T00:15:11.602Z'
+category: Afford
+code: KT1
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Xu hướng in mác thông số trực tiếp lên vải (Tagless Label) đang chiếm lĩnh thị trường dệt may toàn cầu nhờ sự thoải mái, không gây ngứa ngáy cho người mặc. **Afford KT1 (Serie 50)** là dòng mực Pad in vải hàng đầu từ Tây Ban Nha.

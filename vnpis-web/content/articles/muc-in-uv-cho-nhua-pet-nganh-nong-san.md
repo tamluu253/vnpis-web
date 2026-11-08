@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-uv-cho-nhua-pet-nganh-nong-san"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In UV Phát Quang Chống Giả Cho Bề Mặt Nhựa PET (Ngành Nông Sản)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính phát quang chống giả chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành nông sản. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.137Z"
-category: "UV"
-code: "PRG-114"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-uv-cho-nhua-pet-nganh-nong-san'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In UV Phát Quang Chống Giả Cho Bề Mặt Nhựa PET (Ngành Nông Sản)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in UV với đặc tính phát quang chống
+  giả chuyên dụng cho bề mặt nhựa pet trong dây chuyền sản xuất của ngành
+  nông...
+date: '2026-07-08T08:40:08.137Z'
+category: UV
+code: PRG-114
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

@@ -1,13 +1,19 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-thep-khong-gi-nganh-thuc-pham"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Chống Trầy Xước Cho Bề Mặt Thép Không Gỉ (Ngành Thực Phẩm)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chống trầy xước chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của ngành thực phẩm. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.141Z"
-category: "TIJ"
-code: "PRG-118"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-thep-khong-gi-nganh-thuc-pham'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In TIJ Chống Trầy Xước Cho Bề Mặt Thép Không Gỉ (Ngành Thực
+  Phẩm)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chống trầy xước
+  chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của ngành
+  thực...
+date: '2026-07-08T08:40:08.141Z'
+category: TIJ
+code: PRG-118
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

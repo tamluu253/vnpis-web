@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tampon-don-thanh-phan-dubuit-mono-pad"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Tampon Đơn Thành Phần Dubuit MONO-PAD: Tiết Kiệm, Nhanh Khô"
-description: "Dubuit MONO-PAD là dòng mực in tampon đơn thành phần, không cần pha chất đóng rắn, khô siêu nhanh, tối ưu chi phí cho in ấn bao bì giấy, gỗ và nhựa dẻo."
-date: "2026-07-17T03:34:04.869Z"
-category: "Dubuit"
-code: "MONO-PAD"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tampon-don-thanh-phan-dubuit-mono-pad'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Mực In Tampon Đơn Thành Phần Dubuit MONO-PAD: Tiết Kiệm, Nhanh Khô'
+description: >-
+  Dubuit MONO-PAD là dòng mực in tampon đơn thành phần, không cần pha chất đóng
+  rắn, khô siêu nhanh, tối ưu chi phí cho in ấn bao bì giấy, gỗ và nhựa dẻo.
+date: '2026-07-17T03:34:04.869Z'
+category: Dubuit
+code: MONO-PAD
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Khi sản xuất hàng loạt các sản phẩm yêu cầu tốc độ in cực cao nhưng chi phí phải thấp, mực 2 thành phần đôi khi trở nên dư thừa và lãng phí. Đó là lúc **Dubuit MONO-PAD** phát huy sức mạnh.

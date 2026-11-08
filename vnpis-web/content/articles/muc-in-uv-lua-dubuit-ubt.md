@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-uv-lua-dubuit-ubt"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In UV Lụa Dubuit UBT Dành Cho Bao Bì Nhựa"
-description: "Dubuit UBT là dòng mực in lụa (Screen Printing) UV chất lượng cao, bám dính tốt trên bao bì nhựa dẻo (PE, PP) đã qua xử lý Corona."
-date: "2026-07-17T03:34:04.871Z"
-category: "Dubuit"
-code: "UBT"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-uv-lua-dubuit-ubt'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In UV Lụa Dubuit UBT Dành Cho Bao Bì Nhựa
+description: >-
+  Dubuit UBT là dòng mực in lụa (Screen Printing) UV chất lượng cao, bám dính
+  tốt trên bao bì nhựa dẻo (PE, PP) đã qua xử lý Corona.
+date: '2026-07-17T03:34:04.871Z'
+category: Dubuit
+code: UBT
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Trong ngành sản xuất bao bì nhựa (tuýp mỹ phẩm, chai lọ PE, PP), in lụa UV là tiêu chuẩn vàng. **Dubuit UBT** là dòng mực in lụa UV được thiết kế riêng cho các hệ thống máy in tự động tốc độ cao.

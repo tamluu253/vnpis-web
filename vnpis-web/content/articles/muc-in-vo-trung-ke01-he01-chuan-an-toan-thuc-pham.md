@@ -1,30 +1,33 @@
 ---
-title: "Cung Cấp Mực In Vỏ Trứng KE01/HE01 Chuẩn Vệ Sinh An Toàn Thực Phẩm"
+title: Cung Cấp Mực In Vỏ Trứng KE01/HE01 Chuẩn Vệ Sinh An Toàn Thực Phẩm
 keywords:
-  - "mực in vỏ trứng thực phẩm ke01 he01"
-  - "hộp mực tij 12.7mm hp45"
-  - "mực huỳnh quang chống giả hf901"
-  - "dung môi máy in date cij mek ethanol"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Mực In Công Nghiệp & Dung Môi Chuyên Dụng"
-canonical: "https://vnpis.com/blog/muc-in-vo-trung-ke01-he01-chuan-an-toan-thuc-pham"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - mực in vỏ trứng thực phẩm ke01 he01
+  - hộp mực tij 12.7mm hp45
+  - mực huỳnh quang chống giả hf901
+  - dung môi máy in date cij mek ethanol
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Mực In Công Nghiệp & Dung Môi Chuyên Dụng
+canonical: 'https://vnpis.com/blog/muc-in-vo-trung-ke01-he01-chuan-an-toan-thuc-pham'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/vnpis-industrial-printing-solutions-showcase.jpg
+mediaExt: .jpg
 tags:
-  - "mực in vỏ trứng thực phẩm ke01 he01"
-  - "hộp mực tij 12.7mm hp45"
-  - "mực huỳnh quang chống giả hf901"
-  - "dung môi máy in date cij mek ethanol"
-  - "vnpis.com"
-  - "VNPIS"
+  - mực in vỏ trứng thực phẩm ke01 he01
+  - hộp mực tij 12.7mm hp45
+  - mực huỳnh quang chống giả hf901
+  - dung môi máy in date cij mek ethanol
+  - vnpis.com
+  - VNPIS
 wordCount: 3417
-domain: "vnpis.com"
-slug: "muc-in-vo-trung-ke01-he01-chuan-an-toan-thuc-pham"
+domain: vnpis.com
+slug: muc-in-vo-trung-ke01-he01-chuan-an-toan-thuc-pham
+description: >-
+  Hệ sinh thái thiết bị & giải pháp in ấn công nghiệp B2B VNPIS Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Cung Cấp Mực In Vỏ Trứng KE01/HE01 Chuẩn Vệ Sinh An Toàn Thực Phẩm

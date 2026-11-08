@@ -9,6 +9,7 @@ date: '2026-07-17T03:34:04.878Z'
 category: Henkey
 code: PPEX-2
 mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Như đã biết, nhựa PP/PE cực kỳ khó bám mực và thường phải tốn kém chi phí trang bị hệ thống xử lý lửa (Flame) hoặc Corona. Tuy nhiên, **Henkey PPEX-2** ra đời để phá vỡ quy tắc này. Đây là dòng mực ma thuật có thể **bám dính TRỰC TIẾP lên nhựa PP/PE CHƯA XỬ LÝ (Untreated PP/PE)**.

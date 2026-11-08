@@ -1,12 +1,17 @@
 ---
-title: "Gia Công In Tampon Linh Kiện Nhựa ABS: Giải Pháp In Sắc Nét & Bám Dính Siêu Cường"
-description: "Hướng dẫn kỹ thuật và giải pháp gia công in Tampon (Pad Printing) trên bề mặt linh kiện nhựa ABS. Đảm bảo độ nét cao, bám dính pass test băng keo 3M, đáp ứng chuẩn RoHS & REACH."
-date: "2026-09-20"
-category: "GIẢI PHÁP IN TAMPON"
-code: "ART-PAD-ABS"
-author: "Chuyên Gia In Ấn VNPIS"
-mediaExt: "webp"
-image: "/images/pad-printing-cups.webp"
+title: >-
+  Gia Công In Tampon Linh Kiện Nhựa ABS: Giải Pháp In Sắc Nét & Bám Dính Siêu
+  Cường
+description: >-
+  Hướng dẫn kỹ thuật và giải pháp gia công in Tampon (Pad Printing) trên bề mặt
+  linh kiện nhựa ABS. Đảm bảo độ nét cao, bám dính pass test băng keo 3M, đáp...
+date: '2026-09-20'
+category: GIẢI PHÁP IN TAMPON
+code: ART-PAD-ABS
+author: Chuyên Gia In Ấn VNPIS
+mediaExt: webp
+image: /images/pad-printing-cups.webp
+canonical: 'https://vnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs'
 ---
 
 # Gia Công In Tampon Linh Kiện Nhựa ABS: Giải Pháp In Sắc Nét & Bám Dính Siêu Cường

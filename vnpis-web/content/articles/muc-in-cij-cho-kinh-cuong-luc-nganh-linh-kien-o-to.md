@@ -1,13 +1,19 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-cij-cho-kinh-cuong-luc-nganh-linh-kien-o-to"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In CIJ Phát Quang Chống Giả Cho Bề Mặt Kính Cường Lực (Ngành Linh Kiện Ô Tô)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính phát quang chống giả chuyên dụng cho bề mặt kính cường lực trong dây chuyền sản xuất của ngành linh kiện ô tô. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.125Z"
-category: "CIJ"
-code: "PRG-105"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-cij-cho-kinh-cuong-luc-nganh-linh-kien-o-to'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In CIJ Phát Quang Chống Giả Cho Bề Mặt Kính Cường Lực (Ngành
+  Linh Kiện Ô Tô)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in CIJ với đặc tính phát quang chống
+  giả chuyên dụng cho bề mặt kính cường lực trong dây chuyền sản xuất của
+  ngành...
+date: '2026-07-08T08:40:08.125Z'
+category: CIJ
+code: PRG-105
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

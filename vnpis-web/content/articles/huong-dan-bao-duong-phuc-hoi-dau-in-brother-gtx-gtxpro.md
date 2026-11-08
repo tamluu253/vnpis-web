@@ -1,30 +1,34 @@
 ---
-title: "Hướng Dẫn Bảo Dưỡng, Xử Lý Lỗi Tắc Tia Đầu In Brother DTG GTX & Giải Pháp Phục Hồi Thu Cũ Đổi Mới"
-description: "Cẩm nang kỹ thuật xử lý triệt để lỗi tắc tia (missing nozzles), nghẹt dòng mực trắng trên máy in áo thun Brother DTG GTX, GTXpro và giải pháp thu cũ đổi mới đầu in tiết kiệm 50% chi phí tại VNPIS."
+title: >-
+  Hướng Dẫn Bảo Dưỡng, Xử Lý Lỗi Tắc Tia Đầu In Brother DTG GTX & Giải Pháp Phục
+  Hồi Thu Cũ Đổi Mới
+description: >-
+  Cẩm nang kỹ thuật xử lý triệt để lỗi tắc tia (missing nozzles), nghẹt dòng mực
+  trắng trên máy in áo thun Brother DTG GTX, GTXpro và giải pháp thu cũ đổi...
 keywords:
-  - "lỗi tắc đầu in brother gtx"
-  - "phục hồi đầu in brother dtg"
-  - "cách thông đầu in brother gtxpro"
-  - "bảo dưỡng máy in brother gtx"
-  - "thay đầu in brother dtg"
-date: "2026-11-07"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Kỹ Thuật In Dệt May & Bảo Trì Thiết Bị"
-canonical: "https://vnpis.com/blog/huong-dan-bao-duong-phuc-hoi-dau-in-brother-gtx-gtxpro"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - lỗi tắc đầu in brother gtx
+  - phục hồi đầu in brother dtg
+  - cách thông đầu in brother gtxpro
+  - bảo dưỡng máy in brother gtx
+  - thay đầu in brother dtg
+date: '2026-11-07'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Kỹ Thuật In Dệt May & Bảo Trì Thiết Bị
+canonical: 'https://vnpis.com/blog/huong-dan-bao-duong-phuc-hoi-dau-in-brother-gtx-gtxpro'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
 tags:
-  - "lỗi tắc đầu in brother gtx"
-  - "phục hồi đầu in brother dtg"
-  - "cách thông đầu in brother gtxpro"
-  - "bảo dưỡng máy in brother gtx"
-  - "Brother GTX"
-  - "vnpis.com"
-  - "VNPIS"
-domain: "vnpis.com"
-slug: "huong-dan-bao-duong-phuc-hoi-dau-in-brother-gtx-gtxpro"
+  - lỗi tắc đầu in brother gtx
+  - phục hồi đầu in brother dtg
+  - cách thông đầu in brother gtxpro
+  - bảo dưỡng máy in brother gtx
+  - Brother GTX
+  - vnpis.com
+  - VNPIS
+domain: vnpis.com
+slug: huong-dan-bao-duong-phuc-hoi-dau-in-brother-gtx-gtxpro
 ---
 
 # Hướng Dẫn Bảo Dưỡng, Xử Lý Lỗi Tắc Tia Đầu In Brother DTG GTX & Giải Pháp Phục Hồi Thu Cũ Đổi Mới

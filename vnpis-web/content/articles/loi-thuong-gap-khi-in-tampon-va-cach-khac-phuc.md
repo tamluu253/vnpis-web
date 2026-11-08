@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/loi-thuong-gap-khi-in-tampon-va-cach-khac-phuc"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Các Lỗi Thường Gặp Khi In Tampon (Pad Printing) Và Cách Khắc Phục Nhanh"
-description: "Tổng hợp các lỗi phổ biến trong in tampon như mờ nét, in bị lỗ kim (pinholes), dính râu mực, mực gạt không sạch và hướng dẫn kỹ thuật viên xử lý."
-date: "2026-07-18T00:41:19.450Z"
-category: "Máy In Tampon (PAD)"
-code: "PAD-TROUBLESHOOT"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/loi-thuong-gap-khi-in-tampon-va-cach-khac-phuc'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Các Lỗi Thường Gặp Khi In Tampon (Pad Printing) Và Cách Khắc Phục Nhanh
+description: >-
+  Tổng hợp các lỗi phổ biến trong in tampon như mờ nét, in bị lỗ kim (pinholes),
+  dính râu mực, mực gạt không sạch và hướng dẫn kỹ thuật viên xử lý.
+date: '2026-07-18T00:41:19.450Z'
+category: Máy In Tampon (PAD)
+code: PAD-TROUBLESHOOT
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Trong quá trình vận hành máy in tampon, thợ in thường xuyên đối mặt với các lỗi hình ảnh do môi trường, tỷ lệ pha mực hoặc phần cứng gây ra. Dưới đây là "bệnh án" của các lỗi phổ biến và cách "kê toa" từ chuyên gia VNPIS.

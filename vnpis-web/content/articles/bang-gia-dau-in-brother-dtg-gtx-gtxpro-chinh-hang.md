@@ -1,30 +1,35 @@
 ---
-title: "Bảng Giá Đầu In Máy In Brother DTG (GTX, GTXpro, GTXpro Bulk) & Chính Sách 1 Năm 1 Đổi 1"
-description: "Cập nhật bảng giá đầu in máy in Brother DTG GTX, GTXpro, GTXpro Bulk chính hãng mới nhất. So sánh Refurbished đủ ≥99% tia và OEM New kèm chính sách bảo hành 1 năm 1 đổi 1 thu cũ độc quyền tại VNPIS."
+title: >-
+  Bảng Giá Đầu In Máy In Brother DTG (GTX, GTXpro, GTXpro Bulk) & Chính Sách 1
+  Năm 1 Đổi 1
+description: >-
+  Cập nhật bảng giá đầu in máy in Brother DTG GTX, GTXpro, GTXpro Bulk chính
+  hãng mới nhất. So sánh Refurbished đủ ≥99% tia và OEM New kèm chính sách
+  bảo...
 keywords:
-  - "báo giá đầu in brother dtg"
-  - "đầu in máy in brother gtx giá bao nhiêu"
-  - "thay đầu in brother gtxpro chính hãng"
-  - "đầu in brother dtg refurbished"
-  - "đầu in brother gtxpro bulk"
-date: "2026-11-07"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Đầu Phun Công Nghiệp & Linh Kiện"
-canonical: "https://vnpis.com/blog/bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - báo giá đầu in brother dtg
+  - đầu in máy in brother gtx giá bao nhiêu
+  - thay đầu in brother gtxpro chính hãng
+  - đầu in brother dtg refurbished
+  - đầu in brother gtxpro bulk
+date: '2026-11-07'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Đầu Phun Công Nghiệp & Linh Kiện
+canonical: 'https://vnpis.com/blog/bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
 tags:
-  - "báo giá đầu in brother dtg"
-  - "đầu in máy in brother gtx giá bao nhiêu"
-  - "thay đầu in brother gtxpro chính hãng"
-  - "đầu in brother dtg refurbished"
-  - "Brother GTX"
-  - "vnpis.com"
-  - "VNPIS"
-domain: "vnpis.com"
-slug: "bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang"
+  - báo giá đầu in brother dtg
+  - đầu in máy in brother gtx giá bao nhiêu
+  - thay đầu in brother gtxpro chính hãng
+  - đầu in brother dtg refurbished
+  - Brother GTX
+  - vnpis.com
+  - VNPIS
+domain: vnpis.com
+slug: bang-gia-dau-in-brother-dtg-gtx-gtxpro-chinh-hang
 ---
 
 # Bảng Giá Đầu In Máy In Brother DTG (GTX, GTXpro, GTXpro Bulk) & Chính Sách 1 Năm 1 Đổi 1

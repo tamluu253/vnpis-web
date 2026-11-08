@@ -4,12 +4,12 @@ schema_type: TechnicalArticle
 title: 'Mực In Tampon Dubuit D-PAD: Chuyên Trị Bề Mặt Nhựa (ABS, PS, Acrylic)'
 description: >-
   Mực in Tampon Dubuit D-PAD xuất xứ Pháp là giải pháp hoàn hảo cho các bề mặt
-  nhựa cứng như ABS, PS, Acrylic. Mang lại độ bóng cao, khô nhanh và độ bám dính
-  tuyệt đối.
+  nhựa cứng như ABS, PS, Acrylic. Mang lại độ bóng cao, khô nhanh và độ bám...
 date: '2026-07-17T03:34:04.861Z'
 category: Dubuit
 code: D-PAD
 mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Trong ngành công nghiệp in ấn, việc tìm kiếm một dòng mực bám dính tốt trên các loại nhựa cứng luôn là thách thức lớn. **Mực in Tampon Dubuit D-PAD** được thiết kế đặc biệt để giải quyết triệt để vấn đề này.

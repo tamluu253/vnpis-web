@@ -1,13 +1,18 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-day-cap-quang-nganh-nong-san"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Khô Siêu Tốc 0.1s Cho Bề Mặt Dây Cáp Quang (Ngành Nông Sản)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính khô siêu tốc 0.1s chuyên dụng cho bề mặt dây cáp quang trong dây chuyền sản xuất của ngành nông sản. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.165Z"
-category: "TIJ"
-code: "PRG-133"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-day-cap-quang-nganh-nong-san'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In TIJ Khô Siêu Tốc 0.1s Cho Bề Mặt Dây Cáp Quang (Ngành Nông
+  Sản)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính khô siêu tốc 0.1s
+  chuyên dụng cho bề mặt dây cáp quang trong dây chuyền sản xuất của ngành...
+date: '2026-07-08T08:40:08.165Z'
+category: TIJ
+code: PRG-133
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

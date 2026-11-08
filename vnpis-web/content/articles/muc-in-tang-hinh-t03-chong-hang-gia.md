@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tang-hinh-t03-chong-hang-gia"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Test Thực Tế Mực In Tàng Hình T03 - Công Nghệ Chống Giả Đỉnh Cao"
-description: "Mực T03 hoàn toàn tàng hình dưới ánh sáng thường và chỉ phát quang màu xanh dương dưới đèn UV. Giải pháp hoàn hảo để đánh dấu nội bộ và chống hàng giả."
-date: "2026-07-08T08:40:08.099Z"
-category: "CIJ"
-code: "T03"
-mediaExt: "mp4"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tang-hinh-t03-chong-hang-gia'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Test Thực Tế Mực In Tàng Hình T03 - Công Nghệ Chống Giả Đỉnh Cao
+description: >-
+  Mực T03 hoàn toàn tàng hình dưới ánh sáng thường và chỉ phát quang màu xanh
+  dương dưới đèn UV. Giải pháp hoàn hảo để đánh dấu nội bộ và chống hàng giả.
+date: '2026-07-08T08:40:08.099Z'
+category: CIJ
+code: T03
+mediaExt: mp4
+author: VNPIS Engineering Team
 ---
 
 

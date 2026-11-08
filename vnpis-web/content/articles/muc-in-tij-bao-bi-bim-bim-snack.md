@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-bao-bi-bim-bim-snack"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In TIJ Chuyên Trị Bao Bì Snack (Bóng Kính)"
-description: "In ngày sản xuất lên túi bim bim, màng nhôm bóng kính đòi hỏi mực phải bám ngay lập tức trước khi rơi xuống thùng rớt. Mực TIJ Solvent là lựa chọn số 1."
-date: "2026-07-08T08:40:08.104Z"
-category: "TIJ"
-code: "TIJ-SNACK"
-mediaExt: "mp4"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-bao-bi-bim-bim-snack'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In TIJ Chuyên Trị Bao Bì Snack (Bóng Kính)
+description: >-
+  In ngày sản xuất lên túi bim bim, màng nhôm bóng kính đòi hỏi mực phải bám
+  ngay lập tức trước khi rơi xuống thùng rớt. Mực TIJ Solvent là lựa chọn số 1.
+date: '2026-07-08T08:40:08.104Z'
+category: TIJ
+code: TIJ-SNACK
+mediaExt: mp4
+author: VNPIS Engineering Team
 ---
 
 

@@ -1,12 +1,15 @@
-﻿---
-canonical: "https://vnpis.com/blog/may-in-lua-tu-dong-in-thung-carton"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Máy In Lụa Tự Động: Giải Pháp In Thùng Carton, Túi Giấy Giá Rẻ"
-description: "Máy in lụa tự động mang lại độ phủ mực dày, màu sắc rực rỡ cho bao bì giấy, thùng carton. Tiết kiệm chi phí so với in offset số lượng ít."
-date: "2026-07-15"
-category: "SCREEN"
-code: "SCREEN-01"
+---
+canonical: 'https://vnpis.com/blog/may-in-lua-tu-dong-in-thung-carton'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Máy In Lụa Tự Động: Giải Pháp In Thùng Carton, Túi Giấy Giá Rẻ'
+description: >-
+  Máy in lụa tự động mang lại độ phủ mực dày, màu sắc rực rỡ cho bao bì giấy,
+  thùng carton. Tiết kiệm chi phí so với in offset số lượng ít.
+date: '2026-07-15'
+category: SCREEN
+code: SCREEN-01
+author: VNPIS Engineering Team
 ---
 
 In lụa (Screen Printing) từ lâu đã là công nghệ không thể thay thế trong ngành in ấn bao bì. Đối với các đơn vị sản xuất thùng carton, hộp giấy, túi giấy kraft số lượng vừa và nhỏ, [**máy in lụa**](/products/screen-printers) tự động là lựa chọn hoàn hảo thay vì phải in offset tốn kém.

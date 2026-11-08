@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tampon-zdhc-level-3-afford-kt1"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Tampon Đạt Chuẩn ZDHC Level 3 - Afford KT1"
-description: "Afford KT1 tự hào là một trong những dòng mực in Tampon đạt chứng chỉ ZDHC Level 3 danh giá, chìa khóa để đưa hàng dệt may vào chuỗi cung ứng toàn cầu."
-date: "2026-07-18T00:19:08.778Z"
-category: "Afford"
-code: "KT1"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tampon-zdhc-level-3-afford-kt1'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In Tampon Đạt Chuẩn ZDHC Level 3 - Afford KT1
+description: >-
+  Afford KT1 tự hào là một trong những dòng mực in Tampon đạt chứng chỉ ZDHC
+  Level 3 danh giá, chìa khóa để đưa hàng dệt may vào chuỗi cung ứng toàn cầu.
+date: '2026-07-18T00:19:08.778Z'
+category: Afford
+code: KT1
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siết chặt quản lý chuỗi cung ứng bằng các tiêu chuẩn xanh, tiêu biểu là **ZDHC (Zero Discharge of Hazardous Chemicals)**. Việc sử dụng nguyên vật liệu đạt ZDHC Level 3 là bắt buộc.

@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-dod-cho-vai-khong-det-nganh-dien-tu"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In DOD Chịu Hóa Chất Cho Bề Mặt Vải Không Dệt (Ngành Điện Tử)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính chịu hóa chất chuyên dụng cho bề mặt vải không dệt trong dây chuyền sản xuất của ngành điện tử. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.136Z"
-category: "DOD"
-code: "PRG-113"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-dod-cho-vai-khong-det-nganh-dien-tu'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In DOD Chịu Hóa Chất Cho Bề Mặt Vải Không Dệt (Ngành Điện Tử)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính chịu hóa chất
+  chuyên dụng cho bề mặt vải không dệt trong dây chuyền sản xuất của ngành
+  điện...
+date: '2026-07-08T08:40:08.136Z'
+category: DOD
+code: PRG-113
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

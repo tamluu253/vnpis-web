@@ -1,13 +1,19 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-dod-cho-go-cong-nghiep-nganh-vat-lieu-xay-dung"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In DOD Phát Quang Chống Giả Cho Bề Mặt Gỗ Công Nghiệp (Ngành Vật Liệu Xây Dựng)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính phát quang chống giả chuyên dụng cho bề mặt gỗ công nghiệp trong dây chuyền sản xuất của ngành vật liệu xây dựng. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.169Z"
-category: "DOD"
-code: "PRG-135"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-dod-cho-go-cong-nghiep-nganh-vat-lieu-xay-dung'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In DOD Phát Quang Chống Giả Cho Bề Mặt Gỗ Công Nghiệp (Ngành Vật
+  Liệu Xây Dựng)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính phát quang chống
+  giả chuyên dụng cho bề mặt gỗ công nghiệp trong dây chuyền sản xuất của
+  ngành...
+date: '2026-07-08T08:40:08.169Z'
+category: DOD
+code: PRG-135
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

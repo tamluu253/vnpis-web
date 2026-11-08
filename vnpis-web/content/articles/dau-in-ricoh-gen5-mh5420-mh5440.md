@@ -1,10 +1,11 @@
-﻿---
-canonical: "https://vnpis.com/blog/dau-in-ricoh-gen5-mh5420-mh5440"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Đầu in Ricoh GEN5 (MH5420 / MH5440)"
-description: "Đầu in Ricoh GEN5 (MH5420/MH5440) chính hãng Nhật Bản – 1280 đầu phun, độ phân giải 600dpi, hỗ trợ mực UV, solvent, nước và dầu. Phù hợp cho máy in công nghiệp tốc độ cao, bền bỉ, chất lượng hình ảnh sắc nét. Giao hàng toàn quốc."
-slug: "dau-in-ricoh-gen5-mh5420-mh5440"
+---
+canonical: 'https://vnpis.com/blog/dau-in-ricoh-gen5-mh5420-mh5440'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Đầu in Ricoh GEN5 (MH5420 / MH5440)
+description: "Liên hệ Liên hệ \U0001F3E2 Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP Hồ Chí Minh \U0001F4DE Hotline tư vấn thiết bị & báo giá vật tư 24/7: Mr Tâm: 0987..."
+slug: dau-in-ricoh-gen5-mh5420-mh5440
+author: VNPIS Engineering Team
 ---
 
 [![Kyocera KJ4Aser](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAABAQAAAAAzmykZAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACdFJOUwAAdpPNOAAAAAJiS0dEAAHdihOkAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH6QkYCDcE/FvIfgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDktMjRUMDg6NTQ6NTgrMDA6MDDA60/5AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTA5LTI0VDA4OjU0OjU4KzAwOjAwsbb3RQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNS0wOS0yNFQwODo1NTowNCswMDowMIYh2bQAAAAASUVORK5CYII=)](https://vnpis.com/in-ky-thuat-so)

@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/chon-mua-muc-in-tagless-afford-kt1-chinh-hang-o-dau"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mua Mực In Tagless Afford KT1 Chính Hãng Tây Ban Nha Ở Đâu?"
-description: "VNPIS tự hào là nhà phân phối chính thức dòng mực in vải Tagless Afford KT1 (Serie 50) tại Việt Nam. Đảm bảo chất lượng, sẵn kho số lượng lớn."
-date: "2026-07-18T00:19:15.797Z"
-category: "Afford"
-code: "KT1"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/chon-mua-muc-in-tagless-afford-kt1-chinh-hang-o-dau'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mua Mực In Tagless Afford KT1 Chính Hãng Tây Ban Nha Ở Đâu?
+description: >-
+  VNPIS tự hào là nhà phân phối chính thức dòng mực in vải Tagless Afford KT1
+  (Serie 50) tại Việt Nam. Đảm bảo chất lượng, sẵn kho số lượng lớn.
+date: '2026-07-18T00:19:15.797Z'
+category: Afford
+code: KT1
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Với hiệu năng vượt trội và các chứng nhận an toàn quốc tế, **Afford KT1** đang bị làm nhái, pha trộn rất nhiều trên thị trường gây ảnh hưởng nghiêm trọng đến các xưởng may xuất khẩu (bị trả hàng do test hóa chất không đạt).

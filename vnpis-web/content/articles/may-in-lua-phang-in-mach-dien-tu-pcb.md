@@ -1,12 +1,15 @@
-﻿---
-canonical: "https://vnpis.com/blog/may-in-lua-phang-in-mach-dien-tu-pcb"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Máy In Lụa Phẳng Chuyên Dụng In Bo Mạch Điện Tử PCB, Kính Cường Lực"
-description: "Công nghệ in lụa phẳng chính xác tuyệt đối dùng để in phủ xanh bo mạch PCB, in màng mỏng, in mặt kính điện thoại và thiết bị gia dụng."
-date: "2026-07-15"
-category: "SCREEN"
-code: "SCREEN-02"
+---
+canonical: 'https://vnpis.com/blog/may-in-lua-phang-in-mach-dien-tu-pcb'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Máy In Lụa Phẳng Chuyên Dụng In Bo Mạch Điện Tử PCB, Kính Cường Lực'
+description: >-
+  Công nghệ in lụa phẳng chính xác tuyệt đối dùng để in phủ xanh bo mạch PCB, in
+  màng mỏng, in mặt kính điện thoại và thiết bị gia dụng.
+date: '2026-07-15'
+category: SCREEN
+code: SCREEN-02
+author: VNPIS Engineering Team
 ---
 
 Trong ngành công nghiệp điện tử và công nghệ cao, [**máy in lụa**](/products/screen-printers) phẳng đóng vai trò cực kỳ quan trọng. Chúng được sử dụng để in các lớp mực dẫn điện, phủ xanh bảo vệ bo mạch PCB, hoặc in các họa tiết siêu nét lên kính cường lực, màn hình cảm ứng.

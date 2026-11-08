@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tagless-an-toan-cho-tre-so-sinh-afford-kt1"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Tagless An Toàn Cho Trẻ Sơ Sinh - Afford KT1 Đạt Oeko-Tex Standard 100"
-description: "Bảo vệ làn da nhạy cảm của bé với mực in nhãn cổ áo Afford KT1. Đạt chứng nhận Oeko-Tex Class 1 cao nhất cho đồ sơ sinh."
-date: "2026-07-18T00:19:12.791Z"
-category: "Afford"
-code: "KT1"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tagless-an-toan-cho-tre-so-sinh-afford-kt1'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In Tagless An Toàn Cho Trẻ Sơ Sinh - Afford KT1 Đạt Oeko-Tex Standard 100
+description: >-
+  Bảo vệ làn da nhạy cảm của bé với mực in nhãn cổ áo Afford KT1. Đạt chứng nhận
+  Oeko-Tex Class 1 cao nhất cho đồ sơ sinh.
+date: '2026-07-18T00:19:12.791Z'
+category: Afford
+code: KT1
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Làn da của trẻ sơ sinh mỏng manh hơn người lớn tới 5 lần, do đó quần áo trẻ em luôn đòi hỏi loại bỏ hoàn toàn mác vải gây xước da. Thay vào đó, in Tagless là tiêu chuẩn bắt buộc. Nhưng mực in đó có an toàn không?

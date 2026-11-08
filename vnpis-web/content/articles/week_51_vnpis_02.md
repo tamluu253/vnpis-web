@@ -1,12 +1,17 @@
-﻿---
-title: "Dao Gạt Mực Squeegee Chống Ăn Mòn Hóa Chất Độ Cứng 65-85 Shore A - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)"
-keywords: "dao gạt mực in lụa, lưỡi cao su gạt mực, squeegee rubber strip, vật tư in lụa tphcm"
-date: "2027-07-28"
-author: "VNPIS Equipment Engineering Team"
-category: "Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ"
-canonical: "https://vnpis.com/blog/week_51_vnpis_02"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
+---
+title: Dao Gạt Mực Squeegee Chống Ăn Mòn Hóa Chất Độ Cứng 65-85 Shore A
+keywords: >-
+  dao gạt mực in lụa, lưỡi cao su gạt mực, squeegee rubber strip, vật tư in lụa
+  tphcm
+date: '2027-07-28'
+author: VNPIS Equipment Engineering Team
+category: 'Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ'
+canonical: 'https://vnpis.com/blog/week_51_vnpis_02'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+description: >-
+  Trong ngành sản xuất và gia công in ấn công nghiệp 2026, bên cạnh thiết bị máy
+  móc hiện đại, việc trang bị Trọn bộ Combo Vật tư in Tampon Pad...
 ---
 
 # Dao Gạt Mực Squeegee Chống Ăn Mòn Hóa Chất Độ Cứng 65-85 Shore A - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)

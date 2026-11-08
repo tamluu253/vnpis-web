@@ -1,30 +1,33 @@
 ---
-title: "Trọn Bộ Combo Vật Tư In Tampon: Bản Thép SKD11, Cốc Mực Kín & Vòng Gốm Ceramic"
+title: 'Trọn Bộ Combo Vật Tư In Tampon: Bản Thép SKD11, Cốc Mực Kín & Vòng Gốm Ceramic'
 keywords:
-  - "bản thép cliche máy in tampon skd11"
-  - "cốc mực kín máy in tampon phi 90"
-  - "vòng gốm ceramic ring máy in pad 92 hra"
-  - "phụ kiện cốc mực kín sealed ink cup"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa"
-canonical: "https://vnpis.com/blog/combo-vat-tu-in-tampon-ban-thep-coc-muc-ceramic"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - bản thép cliche máy in tampon skd11
+  - cốc mực kín máy in tampon phi 90
+  - vòng gốm ceramic ring máy in pad 92 hra
+  - phụ kiện cốc mực kín sealed ink cup
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa
+canonical: 'https://vnpis.com/blog/combo-vat-tu-in-tampon-ban-thep-coc-muc-ceramic'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "bản thép cliche máy in tampon skd11"
-  - "cốc mực kín máy in tampon phi 90"
-  - "vòng gốm ceramic ring máy in pad 92 hra"
-  - "phụ kiện cốc mực kín sealed ink cup"
-  - "vnpis.com"
-  - "VNPIS"
+  - bản thép cliche máy in tampon skd11
+  - cốc mực kín máy in tampon phi 90
+  - vòng gốm ceramic ring máy in pad 92 hra
+  - phụ kiện cốc mực kín sealed ink cup
+  - vnpis.com
+  - VNPIS
 wordCount: 3446
-domain: "vnpis.com"
-slug: "combo-vat-tu-in-tampon-ban-thep-coc-muc-ceramic"
+domain: vnpis.com
+slug: combo-vat-tu-in-tampon-ban-thep-coc-muc-ceramic
+description: >-
+  Máy in tampon cốc mực kín VNPIS SE 125B chuyển giao tận xưởng Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Trọn Bộ Combo Vật Tư In Tampon: Bản Thép SKD11, Cốc Mực Kín & Vòng Gốm Ceramic

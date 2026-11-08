@@ -1,29 +1,35 @@
 ---
-title: "Tại Sao Đầu In Trắng Brother DTG (GTX / GTXpro) Rất Dễ Tắc & Bí Quyết Kéo Dài Tuổi Thọ Gấp 3 Lần"
-description: "Phân tích khoa học nguyên nhân đầu in mực trắng Brother DTG (GTX, GTXpro) nhanh hỏng hơn đầu in màu và 4 nguyên tắc bảo trì vàng giúp kéo dài tuổi thọ đầu in trên 3 năm."
+title: >-
+  Tại Sao Đầu In Trắng Brother DTG (GTX / GTXpro) Rất Dễ Tắc & Bí Quyết Kéo Dài
+  Tuổi Thọ Gấp 3 Lần
+description: >-
+  Phân tích khoa học nguyên nhân đầu in mực trắng Brother DTG (GTX, GTXpro)
+  nhanh hỏng hơn đầu in màu và 4 nguyên tắc bảo trì vàng giúp kéo dài tuổi thọ
+  đầu...
 keywords:
-  - "đầu in trắng brother gtx"
-  - "tại sao đầu in trắng hay tắc tia"
-  - "mực trắng máy in dtg bị nghẹt"
-  - "thay đầu in trắng brother gtxpro"
-  - "bảo quản mực trắng brother gtx"
-date: "2026-11-07"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Kỹ Thuật In Dệt May & Bảo Trì Thiết Bị"
-canonical: "https://vnpis.com/blog/tai-sao-dau-in-trang-brother-gtx-hay-tac-va-cach-phong-tranh"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - đầu in trắng brother gtx
+  - tại sao đầu in trắng hay tắc tia
+  - mực trắng máy in dtg bị nghẹt
+  - thay đầu in trắng brother gtxpro
+  - bảo quản mực trắng brother gtx
+date: '2026-11-07'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Kỹ Thuật In Dệt May & Bảo Trì Thiết Bị
+canonical: >-
+  https://vnpis.com/blog/tai-sao-dau-in-trang-brother-gtx-hay-tac-va-cach-phong-tranh
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
 tags:
-  - "đầu in trắng brother gtx"
-  - "tại sao đầu in trắng hay tắc tia"
-  - "mực trắng máy in dtg bị nghẹt"
-  - "Brother GTX"
-  - "vnpis.com"
-  - "VNPIS"
-domain: "vnpis.com"
-slug: "tai-sao-dau-in-trang-brother-gtx-hay-tac-va-cach-phong-tranh"
+  - đầu in trắng brother gtx
+  - tại sao đầu in trắng hay tắc tia
+  - mực trắng máy in dtg bị nghẹt
+  - Brother GTX
+  - vnpis.com
+  - VNPIS
+domain: vnpis.com
+slug: tai-sao-dau-in-trang-brother-gtx-hay-tac-va-cach-phong-tranh
 ---
 
 # Tại Sao Đầu In Trắng Brother DTG (GTX / GTXpro) Rất Dễ Tắc & Bí Quyết Kéo Dài Tuổi Thọ Gấp 3 Lần

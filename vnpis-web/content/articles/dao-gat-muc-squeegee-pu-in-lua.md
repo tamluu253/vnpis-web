@@ -1,30 +1,33 @@
 ---
-title: "Dao Gạt Mực Squeegee PU Chống Nở Hóa Chất Độ Cứng 65-85 Shore A"
+title: Dao Gạt Mực Squeegee PU Chống Nở Hóa Chất Độ Cứng 65-85 Shore A
 keywords:
-  - "dao gạt mực squeegee pu 65 85 shore a"
-  - "lưới in lụa thụy sĩ mesh count 80t 165t"
-  - "khung nhôm căng lưới in lụa"
-  - "báo giá dao gạt mực in lụa"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa"
-canonical: "https://vnpis.com/blog/dao-gat-muc-squeegee-pu-in-lua"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - dao gạt mực squeegee pu 65 85 shore a
+  - lưới in lụa thụy sĩ mesh count 80t 165t
+  - khung nhôm căng lưới in lụa
+  - báo giá dao gạt mực in lụa
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa
+canonical: 'https://vnpis.com/blog/dao-gat-muc-squeegee-pu-in-lua'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/vnpis-industrial-printing-solutions-showcase.jpg
+mediaExt: .jpg
 tags:
-  - "dao gạt mực squeegee pu 65 85 shore a"
-  - "lưới in lụa thụy sĩ mesh count 80t 165t"
-  - "khung nhôm căng lưới in lụa"
-  - "báo giá dao gạt mực in lụa"
-  - "vnpis.com"
-  - "VNPIS"
+  - dao gạt mực squeegee pu 65 85 shore a
+  - lưới in lụa thụy sĩ mesh count 80t 165t
+  - khung nhôm căng lưới in lụa
+  - báo giá dao gạt mực in lụa
+  - vnpis.com
+  - VNPIS
 wordCount: 3355
-domain: "vnpis.com"
-slug: "dao-gat-muc-squeegee-pu-in-lua"
+domain: vnpis.com
+slug: dao-gat-muc-squeegee-pu-in-lua
+description: >-
+  Hệ sinh thái thiết bị & giải pháp in ấn công nghiệp B2B VNPIS Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Dao Gạt Mực Squeegee PU Chống Nở Hóa Chất Độ Cứng 65-85 Shore A

@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-dod-cho-mang-bopp-nganh-co-khi"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In DOD Phát Quang Chống Giả Cho Bề Mặt Màng BOPP (Ngành Cơ Khí)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính phát quang chống giả chuyên dụng cho bề mặt màng bopp trong dây chuyền sản xuất của ngành cơ khí. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.156Z"
-category: "DOD"
-code: "PRG-129"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-dod-cho-mang-bopp-nganh-co-khi'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In DOD Phát Quang Chống Giả Cho Bề Mặt Màng BOPP (Ngành Cơ Khí)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính phát quang chống
+  giả chuyên dụng cho bề mặt màng bopp trong dây chuyền sản xuất của ngành cơ...
+date: '2026-07-08T08:40:08.156Z'
+category: DOD
+code: PRG-129
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

@@ -1,13 +1,19 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-tij-cho-thep-khong-gi-nganh-vat-lieu-xay-dung"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In TIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Thép Không Gỉ (Ngành Vật Liệu Xây Dựng)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chuẩn fda thực phẩm chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của ngành vật liệu xây dựng. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.124Z"
-category: "TIJ"
-code: "PRG-104"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-tij-cho-thep-khong-gi-nganh-vat-lieu-xay-dung'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In TIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Thép Không Gỉ (Ngành Vật
+  Liệu Xây Dựng)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in TIJ với đặc tính chuẩn fda thực
+  phẩm chuyên dụng cho bề mặt thép không gỉ trong dây chuyền sản xuất của
+  ngành...
+date: '2026-07-08T08:40:08.124Z'
+category: TIJ
+code: PRG-104
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

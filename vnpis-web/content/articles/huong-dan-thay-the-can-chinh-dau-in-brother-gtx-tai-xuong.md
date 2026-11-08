@@ -1,29 +1,35 @@
 ---
-title: "Hướng Dẫn Từng Bước Tự Thay Thế & Căn Chỉnh Đầu In Máy In Brother GTX, GTXpro Chuẩn Kỹ Sư"
-description: "Cẩm nang kỹ thuật thực hành hướng dẫn thay thế đầu in máy in áo thun Brother DTG GTX và GTXpro tại xưởng. Thao tác an toàn chống chập cáp bo mạch và nhập mã Head Rank ID chuẩn xác."
+title: >-
+  Hướng Dẫn Từng Bước Tự Thay Thế & Căn Chỉnh Đầu In Máy In Brother GTX, GTXpro
+  Chuẩn Kỹ Sư
+description: >-
+  Cẩm nang kỹ thuật thực hành hướng dẫn thay thế đầu in máy in áo thun Brother
+  DTG GTX và GTXpro tại xưởng. Thao tác an toàn chống chập cáp bo mạch và
+  nhập...
 keywords:
-  - "cách thay đầu in brother gtx"
-  - "căn chỉnh đầu in brother dtg"
-  - "cài đặt head rank brother gtx"
-  - "lắp đặt đầu in brother gtxpro"
-  - "thay printhead brother gtx"
-date: "2026-11-07"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Kỹ Thuật In Dệt May & Bảo Trì Thiết Bị"
-canonical: "https://vnpis.com/blog/huong-dan-thay-the-can-chinh-dau-in-brother-gtx-tai-xuong"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - cách thay đầu in brother gtx
+  - căn chỉnh đầu in brother dtg
+  - cài đặt head rank brother gtx
+  - lắp đặt đầu in brother gtxpro
+  - thay printhead brother gtx
+date: '2026-11-07'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Kỹ Thuật In Dệt May & Bảo Trì Thiết Bị
+canonical: >-
+  https://vnpis.com/blog/huong-dan-thay-the-can-chinh-dau-in-brother-gtx-tai-xuong
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
 tags:
-  - "cách thay đầu in brother gtx"
-  - "căn chỉnh đầu in brother dtg"
-  - "cài đặt head rank brother gtx"
-  - "Brother GTX"
-  - "vnpis.com"
-  - "VNPIS"
-domain: "vnpis.com"
-slug: "huong-dan-thay-the-can-chinh-dau-in-brother-gtx-tai-xuong"
+  - cách thay đầu in brother gtx
+  - căn chỉnh đầu in brother dtg
+  - cài đặt head rank brother gtx
+  - Brother GTX
+  - vnpis.com
+  - VNPIS
+domain: vnpis.com
+slug: huong-dan-thay-the-can-chinh-dau-in-brother-gtx-tai-xuong
 ---
 
 # Hướng Dẫn Từng Bước Tự Thay Thế & Căn Chỉnh Đầu In Máy In Brother GTX, GTXpro Chuẩn Kỹ Sư

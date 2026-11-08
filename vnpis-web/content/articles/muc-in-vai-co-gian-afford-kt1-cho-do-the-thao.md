@@ -1,13 +1,16 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-vai-co-gian-afford-kt1-cho-do-the-thao"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Mực In Vải Co Giãn Afford KT1 - Lựa Chọn Hoàn Hảo Cho Đồ Thể Thao"
-description: "Giải quyết bài toán nứt gãy logo trên quần áo thể thao co giãn (Spandex, Polyester) với mực in tampon Afford KT1 đàn hồi siêu hạng."
-date: "2026-07-18T00:19:07.771Z"
-category: "Afford"
-code: "KT1"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-vai-co-gian-afford-kt1-cho-do-the-thao'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Mực In Vải Co Giãn Afford KT1 - Lựa Chọn Hoàn Hảo Cho Đồ Thể Thao
+description: >-
+  Giải quyết bài toán nứt gãy logo trên quần áo thể thao co giãn (Spandex,
+  Polyester) với mực in tampon Afford KT1 đàn hồi siêu hạng.
+date: '2026-07-18T00:19:07.771Z'
+category: Afford
+code: KT1
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 Quần áo thể thao (Gym, Yoga, Đồ bơi) thường được may từ các loại vải có độ co giãn cực cao như Spandex, Lycra pha Polyester. In nhãn lên các chất liệu này thường gặp lỗi nứt gãy (Cracking) khi bị kéo giãn. **Afford KT1** chính là cứu tinh của bạn.

@@ -1,30 +1,33 @@
 ---
-title: "Máy In Lụa Trụ Tròn Bán Tự Động In Cốc Nhựa & Chai Thủy Tinh Tốc Độ Cao"
+title: Máy In Lụa Trụ Tròn Bán Tự Động In Cốc Nhựa & Chai Thủy Tinh Tốc Độ Cao
 keywords:
-  - "máy in lụa tròn chai lọ"
-  - "máy in lụa trụ tròn 360 độ"
-  - "máy in lụa ly thủy tinh cốc nhựa"
-  - "thiết bị in lụa hũ mỹ phẩm"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Máy In Lụa & Dây Chuyền Bán Tự Động / Tự Động"
-canonical: "https://vnpis.com/blog/may-in-lua-tru-tron-chai-lo-thuy-tinh"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - máy in lụa tròn chai lọ
+  - máy in lụa trụ tròn 360 độ
+  - máy in lụa ly thủy tinh cốc nhựa
+  - thiết bị in lụa hũ mỹ phẩm
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Máy In Lụa & Dây Chuyền Bán Tự Động / Tự Động
+canonical: 'https://vnpis.com/blog/may-in-lua-tru-tron-chai-lo-thuy-tinh'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "máy in lụa tròn chai lọ"
-  - "máy in lụa trụ tròn 360 độ"
-  - "máy in lụa ly thủy tinh cốc nhựa"
-  - "thiết bị in lụa hũ mỹ phẩm"
-  - "vnpis.com"
-  - "VNPIS"
+  - máy in lụa tròn chai lọ
+  - máy in lụa trụ tròn 360 độ
+  - máy in lụa ly thủy tinh cốc nhựa
+  - thiết bị in lụa hũ mỹ phẩm
+  - vnpis.com
+  - VNPIS
 wordCount: 3358
-domain: "vnpis.com"
-slug: "may-in-lua-tru-tron-chai-lo-thuy-tinh"
+domain: vnpis.com
+slug: may-in-lua-tru-tron-chai-lo-thuy-tinh
+description: >-
+  Máy in lụa hút chân không phẳng bán tự động VNPIS Hotline hỗ trợ kỹ thuật:
+  0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp hiện đại,...
 ---
 
 # Máy In Lụa Trụ Tròn Bán Tự Động In Cốc Nhựa & Chai Thủy Tinh Tốc Độ Cao

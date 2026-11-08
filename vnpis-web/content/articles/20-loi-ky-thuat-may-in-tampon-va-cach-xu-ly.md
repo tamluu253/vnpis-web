@@ -1,30 +1,33 @@
 ---
-title: "20 Lỗi Kỹ Thuật Thường Gặp Trên Máy In Tampon Và Cách Xử Lý Nhanh Tại Xưởng"
+title: 20 Lỗi Kỹ Thuật Thường Gặp Trên Máy In Tampon Và Cách Xử Lý Nhanh Tại Xưởng
 keywords:
-  - "20 lỗi máy in tampon và cách xử lý"
-  - "chỉnh hành trình z máy in tampon"
-  - "khắc phục lỗi lem mực máy in tampon"
-  - "cách căn chỉnh máy in pad printing"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Máy In Tampon & Hệ Thống Tự Động Hóa"
-canonical: "https://vnpis.com/blog/20-loi-ky-thuat-may-in-tampon-va-cach-xu-ly"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - 20 lỗi máy in tampon và cách xử lý
+  - chỉnh hành trình z máy in tampon
+  - khắc phục lỗi lem mực máy in tampon
+  - cách căn chỉnh máy in pad printing
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Máy In Tampon & Hệ Thống Tự Động Hóa
+canonical: 'https://vnpis.com/blog/20-loi-ky-thuat-may-in-tampon-va-cach-xu-ly'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "20 lỗi máy in tampon và cách xử lý"
-  - "chỉnh hành trình z máy in tampon"
-  - "khắc phục lỗi lem mực máy in tampon"
-  - "cách căn chỉnh máy in pad printing"
-  - "vnpis.com"
-  - "VNPIS"
+  - 20 lỗi máy in tampon và cách xử lý
+  - chỉnh hành trình z máy in tampon
+  - khắc phục lỗi lem mực máy in tampon
+  - cách căn chỉnh máy in pad printing
+  - vnpis.com
+  - VNPIS
 wordCount: 3466
-domain: "vnpis.com"
-slug: "20-loi-ky-thuat-may-in-tampon-va-cach-xu-ly"
+domain: vnpis.com
+slug: 20-loi-ky-thuat-may-in-tampon-va-cach-xu-ly
+description: >-
+  Máy in tampon cốc mực kín VNPIS SE 125B chuyển giao tận xưởng Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # 20 Lỗi Kỹ Thuật Thường Gặp Trên Máy In Tampon Và Cách Xử Lý Nhanh Tại Xưởng

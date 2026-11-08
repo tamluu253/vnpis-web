@@ -1,30 +1,33 @@
 ---
-title: "Hướng Dẫn Kỹ Thuật Chọn Độ Cứng Đầu In Tampon Silicon Từ Shore 30A Đến 70A"
+title: Hướng Dẫn Kỹ Thuật Chọn Độ Cứng Đầu In Tampon Silicon Từ Shore 30A Đến 70A
 keywords:
-  - "đầu in tampon silicon shore 30a 70a"
-  - "cung cấp pad in tampon cao su"
-  - "chọn độ cứng đầu pad in tampon"
-  - "đầu tampon cao su chịu dầu mực"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa"
-canonical: "https://vnpis.com/blog/huong-dan-chon-do-cung-dau-tampon-silicon"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - đầu in tampon silicon shore 30a 70a
+  - cung cấp pad in tampon cao su
+  - chọn độ cứng đầu pad in tampon
+  - đầu tampon cao su chịu dầu mực
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa
+canonical: 'https://vnpis.com/blog/huong-dan-chon-do-cung-dau-tampon-silicon'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "đầu in tampon silicon shore 30a 70a"
-  - "cung cấp pad in tampon cao su"
-  - "chọn độ cứng đầu pad in tampon"
-  - "đầu tampon cao su chịu dầu mực"
-  - "vnpis.com"
-  - "VNPIS"
+  - đầu in tampon silicon shore 30a 70a
+  - cung cấp pad in tampon cao su
+  - chọn độ cứng đầu pad in tampon
+  - đầu tampon cao su chịu dầu mực
+  - vnpis.com
+  - VNPIS
 wordCount: 3439
-domain: "vnpis.com"
-slug: "huong-dan-chon-do-cung-dau-tampon-silicon"
+domain: vnpis.com
+slug: huong-dan-chon-do-cung-dau-tampon-silicon
+description: >-
+  Máy in tampon cốc mực kín VNPIS SE 125B chuyển giao tận xưởng Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Hướng Dẫn Kỹ Thuật Chọn Độ Cứng Đầu In Tampon Silicon Từ Shore 30A Đến 70A

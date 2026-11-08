@@ -1,13 +1,16 @@
 ---
-canonical: "https://vnpis.com/blog/muc-in-nhua-pp-pe-abs-hdpe"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Bảng Giá & So Sánh Mực In Nhựa ABS, PP, PE, HDPE Mới Nhất 2026"
-description: "So sánh chi tiết đặc tính năng lượng bề mặt, độ bám dính, phương pháp xử lý và bảng giá các dòng mực in nhựa ABS, PP, PE, HDPE cho xưởng in công nghiệp tại INANVNPIS."
-date: "2026-08-21T08:58:00.000Z"
-category: "Kiến Thức In Ấn"
-code: "PLASTIC-INK-HUB"
-mediaExt: "jpg"
+canonical: 'https://vnpis.com/blog/muc-in-nhua-pp-pe-abs-hdpe'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Bảng Giá & So Sánh Mực In Nhựa ABS, PP, PE, HDPE Mới Nhất 2026'
+description: >-
+  So sánh chi tiết đặc tính năng lượng bề mặt, độ bám dính, phương pháp xử lý và
+  bảng giá các dòng mực in nhựa ABS, PP, PE, HDPE cho xưởng in công nghiệp...
+date: '2026-08-21T08:58:00.000Z'
+category: Kiến Thức In Ấn
+code: PLASTIC-INK-HUB
+mediaExt: jpg
+author: VNPIS Engineering Team
 ---
 
 Trong ngành gia công in ấn phôi nhựa và bao bì công nghiệp, **ABS, PP, PE và HDPE** là 4 nhóm vật liệu nhựa chiếm hơn 85% tổng lượng sản xuất. Mỗi chất liệu nhựa sở hữu đặc tính hóa lý, cấu trúc chuỗi Polymer và năng lượng bề mặt (Surface Energy in Dyne/cm) hoàn toàn khác nhau. Việc dùng sai loại **mực in nhựa** sẽ dẫn đến hậu quả nghiêm trọng: mực bị bong tróc hàng loạt, sản phẩm bị trả về và thiệt hại kinh tế lớn cho xưởng in.

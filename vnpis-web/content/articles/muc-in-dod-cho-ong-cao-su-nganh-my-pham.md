@@ -1,13 +1,17 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-dod-cho-ong-cao-su-nganh-my-pham"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In DOD Chống Trầy Xước Cho Bề Mặt Ống Cao Su (Ngành Mỹ Phẩm)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính chống trầy xước chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành mỹ phẩm. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.170Z"
-category: "DOD"
-code: "PRG-136"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-dod-cho-ong-cao-su-nganh-my-pham'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: Giải Pháp Mực In DOD Chống Trầy Xước Cho Bề Mặt Ống Cao Su (Ngành Mỹ Phẩm)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính chống trầy xước
+  chuyên dụng cho bề mặt ống cao su trong dây chuyền sản xuất của ngành mỹ
+  phẩm....
+date: '2026-07-08T08:40:08.170Z'
+category: DOD
+code: PRG-136
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

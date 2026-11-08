@@ -1,12 +1,15 @@
 ---
-title: "Kỹ Thuật In Lụa Chai Lọ Thủy Tinh: Quy Trình Chuẩn & Mực In Chịu Hóa Chất"
-description: "Hướng dẫn kỹ thuật in lụa xoay tròn trên chai lọ thủy tinh mỹ phẩm, dược phẩm. Giải pháp mực in lụa nung và mực UV 2 thành phần chịu chà xát, chống bong tróc vượt trội."
-date: "2026-09-20"
-category: "KỸ THUẬT IN LỤA"
-code: "ART-SCREEN-GLASS"
-author: "Chuyên Gia In Ấn VNPIS"
-mediaExt: "webp"
-image: "/images/screen-printing-bags.webp"
+title: 'Kỹ Thuật In Lụa Chai Lọ Thủy Tinh: Quy Trình Chuẩn & Mực In Chịu Hóa Chất'
+description: >-
+  Hướng dẫn kỹ thuật in lụa xoay tròn trên chai lọ thủy tinh mỹ phẩm, dược phẩm.
+  Giải pháp mực in lụa nung và mực UV 2 thành phần chịu chà xát, chống bong...
+date: '2026-09-20'
+category: KỸ THUẬT IN LỤA
+code: ART-SCREEN-GLASS
+author: Chuyên Gia In Ấn VNPIS
+mediaExt: webp
+image: /images/screen-printing-bags.webp
+canonical: 'https://vnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh'
 ---
 
 # Kỹ Thuật In Lụa Chai Lọ Thủy Tinh: Quy Trình Chuẩn & Mực In Chịu Hóa Chất

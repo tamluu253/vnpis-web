@@ -1,13 +1,18 @@
-﻿---
-canonical: "https://vnpis.com/blog/muc-in-dod-cho-mach-dien-tu-pcb-nganh-vat-lieu-xay-dung"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Giải Pháp Mực In DOD Khô Siêu Tốc 0.1s Cho Bề Mặt Mạch Điện Tử PCB (Ngành Vật Liệu Xây Dựng)"
-description: "Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính khô siêu tốc 0.1s chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của ngành vật liệu xây dựng. Tối ưu năng suất và giảm phế phẩm lên tới 90%."
-date: "2026-07-08T08:40:08.171Z"
-category: "DOD"
-code: "PRG-137"
-mediaExt: "null"
+---
+canonical: 'https://vnpis.com/blog/muc-in-dod-cho-mach-dien-tu-pcb-nganh-vat-lieu-xay-dung'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: >-
+  Giải Pháp Mực In DOD Khô Siêu Tốc 0.1s Cho Bề Mặt Mạch Điện Tử PCB (Ngành Vật
+  Liệu Xây Dựng)
+description: >-
+  Tìm hiểu bí quyết áp dụng công nghệ mực in DOD với đặc tính khô siêu tốc 0.1s
+  chuyên dụng cho bề mặt mạch điện tử pcb trong dây chuyền sản xuất của ngành...
+date: '2026-07-08T08:40:08.171Z'
+category: DOD
+code: PRG-137
+mediaExt: 'null'
+author: VNPIS Engineering Team
 ---
 
 

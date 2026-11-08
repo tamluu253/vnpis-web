@@ -1,12 +1,15 @@
 ---
-title: "Xử Lý Corona & Plasma Tăng Độ Bám Dính Mực In Trên Nhựa PP, PE, HDPE, EVA"
-description: "Giải pháp xử lý bề mặt bằng công nghệ Corona Flame và Atmospheric Plasma giúp tăng năng lượng bề mặt (Dyne level), khắc phục triệt để sự cố bong tróc mực in Tampon, in Lụa trên nhựa khó bám."
-date: "2026-09-20"
-category: "KỸ THUẬT IN ẤN"
-code: "ART-SURFACE-CORONA"
-author: "Chuyên Gia In Ấn VNPIS"
-mediaExt: "webp"
-image: "/images/screen-printing-bags.webp"
+title: 'Xử Lý Corona & Plasma Tăng Độ Bám Dính Mực In Trên Nhựa PP, PE, HDPE, EVA'
+description: >-
+  Giải pháp xử lý bề mặt bằng công nghệ Corona Flame và Atmospheric Plasma giúp
+  tăng năng lượng bề mặt (Dyne level), khắc phục triệt để sự cố bong tróc mực...
+date: '2026-09-20'
+category: KỸ THUẬT IN ẤN
+code: ART-SURFACE-CORONA
+author: Chuyên Gia In Ấn VNPIS
+mediaExt: webp
+image: /images/screen-printing-bags.webp
+canonical: 'https://vnpis.com/blog/xu-ly-corona-plasma-tang-bam-dinh-nhua-pp-pe'
 ---
 
 # Xử Lý Corona & Plasma Tăng Độ Bám Dính Mực In Trên Nhựa PP, PE, HDPE, EVA

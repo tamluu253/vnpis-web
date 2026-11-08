@@ -1,13 +1,17 @@
 ---
-canonical: "https://vnpis.com/blog/nuoc-xu-ly-be-mat-pp-hdpe-eva-inox-kim-loai"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-title: "Nước Xử Lý Bề Mặt PP, HDPE, EVA, INOX, Kim Loại: Tăng Độ Bám Dính Mực In 100%"
-description: "Dung dịch trợ bám (Surface Primer) chuyên dụng xử lý bề mặt nhựa PP, HDPE, EVA, INOX, Kim loại. Tăng năng lượng bề mặt, giúp mực in bám dính tuyệt đối 3M, chống bong tróc tại INANVNPIS."
-date: "2026-08-21T09:01:00.000Z"
-category: "Phụ Tùng & Vật Tư"
-code: "PRIMER-SURFACE"
-mediaExt: "jpg"
+canonical: 'https://vnpis.com/blog/nuoc-xu-ly-be-mat-pp-hdpe-eva-inox-kim-loai'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+title: 'Nước Xử Lý Bề Mặt PP, HDPE, EVA, INOX, Kim Loại: Tăng Độ Bám Dính Mực In 100%'
+description: >-
+  Dung dịch trợ bám (Surface Primer) chuyên dụng xử lý bề mặt nhựa PP, HDPE,
+  EVA, INOX, Kim loại. Tăng năng lượng bề mặt, giúp mực in bám dính tuyệt đối
+  3M,...
+date: '2026-08-21T09:01:00.000Z'
+category: Phụ Tùng & Vật Tư
+code: PRIMER-SURFACE
+mediaExt: jpg
+author: VNPIS Engineering Team
 ---
 
 Trong ngành công nghiệp gia công in ấn (in Tampon, in Lụa, in UV, in Phun CIJ/TIJ), một trong những thách thức lớn nhất là in trên các chất liệu có năng lượng bề mặt cực thấp hoặc bề mặt kim loại trơn bóng khó bám mực như **nhựa PP, HDPE, EVA, inox (thép không gỉ), nhôm, đồng và các hợp kim**.

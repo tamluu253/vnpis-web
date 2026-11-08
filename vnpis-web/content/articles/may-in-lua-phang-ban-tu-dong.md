@@ -1,30 +1,35 @@
 ---
-title: "Giải Pháp Dây Chuyền Máy In Lụa Phẳng Bán Tự Động Bàn Hút Chân Không Cho Bao Bì"
+title: >-
+  Giải Pháp Dây Chuyền Máy In Lụa Phẳng Bán Tự Động Bàn Hút Chân Không Cho Bao
+  Bì
 keywords:
-  - "máy in lụa phẳng bán tự động"
-  - "máy in lụa bàn hút chân không"
-  - "máy in lụa công nghiệp phẳng"
-  - "bán máy in lụa bán tự động"
-date: "2026-08-23"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Máy In Lụa & Dây Chuyền Bán Tự Động / Tự Động"
-canonical: "https://vnpis.com/blog/may-in-lua-phang-ban-tu-dong"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - máy in lụa phẳng bán tự động
+  - máy in lụa bàn hút chân không
+  - máy in lụa công nghiệp phẳng
+  - bán máy in lụa bán tự động
+date: '2026-08-23'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Máy In Lụa & Dây Chuyền Bán Tự Động / Tự Động
+canonical: 'https://vnpis.com/blog/may-in-lua-phang-ban-tu-dong'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "máy in lụa phẳng bán tự động"
-  - "máy in lụa bàn hút chân không"
-  - "máy in lụa công nghiệp phẳng"
-  - "bán máy in lụa bán tự động"
-  - "vnpis.com"
-  - "VNPIS"
+  - máy in lụa phẳng bán tự động
+  - máy in lụa bàn hút chân không
+  - máy in lụa công nghiệp phẳng
+  - bán máy in lụa bán tự động
+  - vnpis.com
+  - VNPIS
 wordCount: 3363
-domain: "vnpis.com"
-slug: "may-in-lua-phang-ban-tu-dong"
+domain: vnpis.com
+slug: may-in-lua-phang-ban-tu-dong
+description: >-
+  Máy in lụa hút chân không phẳng bán tự động VNPIS Hotline hỗ trợ kỹ thuật:
+  0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp hiện đại,...
 ---
 
 # Giải Pháp Dây Chuyền Máy In Lụa Phẳng Bán Tự Động Bàn Hút Chân Không Cho Bao Bì

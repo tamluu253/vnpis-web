@@ -1,32 +1,35 @@
 ---
-title: "Top 5 Máy In Tampon 1-4 Màu Cốc Mực Kín Ø90mm Bán Chạy Nhất Cho Nhà Máy"
+title: Top 5 Máy In Tampon 1-4 Màu Cốc Mực Kín Ø90mm Bán Chạy Nhất Cho Nhà Máy
 keywords:
-  - "máy in tampon cốc mực kín"
-  - "máy in tampon 1 màu"
-  - "máy in tampon 2 màu"
-  - "máy in tampon 4 màu"
-  - "báo giá máy in tampon công nghiệp"
-date: "2026-09-06"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Máy In Tampon & Hệ Thống Tự Động Hóa"
-canonical: "https://vnpis.com/blog/top-5-may-in-tampon-coc-muc-kin"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "draft"
+  - máy in tampon cốc mực kín
+  - máy in tampon 1 màu
+  - máy in tampon 2 màu
+  - máy in tampon 4 màu
+  - báo giá máy in tampon công nghiệp
+date: '2026-09-06'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Máy In Tampon & Hệ Thống Tự Động Hóa
+canonical: 'https://vnpis.com/blog/top-5-may-in-tampon-coc-muc-kin'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: draft
 draft: true
-image: "/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg"
-mediaExt: ".jpg"
+image: /images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg
+mediaExt: .jpg
 tags:
-  - "máy in tampon cốc mực kín"
-  - "máy in tampon 1 màu"
-  - "máy in tampon 2 màu"
-  - "máy in tampon 4 màu"
-  - "báo giá máy in tampon công nghiệp"
-  - "vnpis.com"
-  - "VNPIS"
+  - máy in tampon cốc mực kín
+  - máy in tampon 1 màu
+  - máy in tampon 2 màu
+  - máy in tampon 4 màu
+  - báo giá máy in tampon công nghiệp
+  - vnpis.com
+  - VNPIS
 wordCount: 3436
-domain: "vnpis.com"
-slug: "top-5-may-in-tampon-coc-muc-kin"
+domain: vnpis.com
+slug: top-5-may-in-tampon-coc-muc-kin
+description: >-
+  Máy in tampon cốc mực kín VNPIS SE 125B chuyển giao tận xưởng Hotline hỗ trợ
+  kỹ thuật: 0987 453 866 Trong kỷ nguyên tự động hóa sản xuất công nghiệp...
 ---
 
 # Top 5 Máy In Tampon 1-4 Màu Cốc Mực Kín Ø90mm Bán Chạy Nhất Cho Nhà Máy

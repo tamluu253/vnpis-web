@@ -1,12 +1,15 @@
-﻿---
-title: "Bảng Chọn Độ Cứng Đầu Tampon Silicon (Shore 30A - 60A) Theo Phôi In - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)"
-keywords: "độ cứng đầu in tampon, silicone rubber pad, tư vấn chọn vật tư in tampon"
-date: "2027-03-29"
-author: "VNPIS Equipment Engineering Team"
-category: "Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ"
-canonical: "https://vnpis.com/blog/week_34_vnpis_01"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
+---
+title: Bảng Chọn Độ Cứng Đầu Tampon Silicon (Shore 30A - 60A) Theo Phôi In
+keywords: 'độ cứng đầu in tampon, silicone rubber pad, tư vấn chọn vật tư in tampon'
+date: '2027-03-29'
+author: VNPIS Equipment Engineering Team
+category: 'Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ'
+canonical: 'https://vnpis.com/blog/week_34_vnpis_01'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+description: >-
+  Trong ngành sản xuất và gia công in ấn công nghiệp 2026, bên cạnh thiết bị máy
+  móc hiện đại, việc trang bị Trọn bộ Combo Vật tư in Tampon Pad...
 ---
 
 # Bảng Chọn Độ Cứng Đầu Tampon Silicon (Shore 30A - 60A) Theo Phôi In - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)
