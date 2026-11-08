@@ -27,6 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!meta) return { title: 'Not Found' };
   
   const isDraft = meta.draft === true || meta.status === 'draft';
+  const isDuplicateRollup = meta.is_duplicate_rollup === true;
   
   return {
     title: `${meta.title} | VNPIS - Giải Pháp In Ấn Công Nghiệp Toàn Diện`,
@@ -34,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: {
       canonical: meta.canonical || `https://vnpis.com/blog/${resolvedParams.slug}`,
     },
-    ...(isDraft ? { robots: { index: false, follow: false } } : {}),
+    ...((isDraft || isDuplicateRollup) ? { robots: { index: false, follow: true } } : {}),
   };
 }
 

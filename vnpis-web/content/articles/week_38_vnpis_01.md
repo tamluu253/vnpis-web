@@ -4,12 +4,13 @@ keywords: 'dung dịch rửa mực tij cij, vnpis flush solution, vật tư bả
 date: '2027-04-26'
 author: VNPIS Equipment Engineering Team
 category: 'Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ'
-canonical: 'https://vnpis.com/blog/week_38_vnpis_01'
+canonical: 'https://vnpis.com/blog/week_06_vnpis_01'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
 description: >-
   Trong ngành sản xuất và gia công in ấn công nghiệp 2026, bên cạnh thiết bị máy
   móc hiện đại, việc trang bị Trọn bộ Combo Vật tư in Tampon Pad...
+is_duplicate_rollup: true
 ---
 
 # Dung Dịch Rửa & Ngâm Đầu Phun TIJ / CIJ VNPIS Flush Solution - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)

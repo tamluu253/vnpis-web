@@ -6,12 +6,13 @@ keywords: >-
 date: '2027-02-03'
 author: VNPIS Equipment Engineering Team
 category: 'Full Combo Vật Tư In Tampon & In Lụa, Máy In Pad, Single Pass, Vật Tư TIJ/CIJ'
-canonical: 'https://vnpis.com/blog/week_26_vnpis_02'
+canonical: 'https://vnpis.com/blog/week_05_vnpis_01'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
 description: >-
   Trong ngành sản xuất và gia công in ấn công nghiệp 2026, bên cạnh thiết bị máy
   móc hiện đại, việc trang bị Trọn bộ Combo Vật tư in Tampon Pad...
+is_duplicate_rollup: true
 ---
 
 # Ứng Dụng Máy In Single Pass Trong Sản Xuất Túi Giấy & Khay Giấy Bán Hàng - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)

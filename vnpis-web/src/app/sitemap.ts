@@ -10,7 +10,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const blogEntries: MetadataRoute.Sitemap = articleSlugs
     .filter((slug) => {
       const meta = getDocumentMetadataBySlug<any>('articles', slug);
-      return meta && meta.draft !== true && meta.status !== 'draft';
+      if (!meta || meta.draft === true || meta.status === 'draft') return false;
+      if (meta.is_duplicate_rollup === true) return false;
+      if (meta.canonical && meta.canonical !== `${DOMAIN}/blog/${slug}`) return false;
+      return true;
     })
     .map((slug: string) => ({
       url: `${DOMAIN}/blog/${slug}`,

@@ -65,3 +65,12 @@ Có 3 giải pháp mực in lụa chính cho vật liệu thủy tinh:
 - Dịch vụ gia công căng khung, chụp bản lụa và pha mực theo màu Pantone yêu cầu.
 
 Liên hệ tư vấn kỹ thuật & nhận báo giá ngay: **0987 453 866** (Zalo/Hotline).
+
+
+
+
+### Quy Chuẩn Kiểm Định & Chứng Nhận Chất Lượng Sản Phẩm (QA/QC Checklist)
+* **Chứng nhận an toàn môi trường:** Mọi dòng vật tư mực in và dung môi được VNPIS phân phối đều cung cấp đầy đủ bảng dữ liệu an toàn hóa chất **MSDS (Material Safety Data Sheet)** và chứng nhận kiểm định tuân thủ chỉ thị bảo vệ môi trường **RoHS 2.0 / REACH**.
+* **Độ bám dính băng dính 3M:** Kiểm tra bằng thử nghiệm kéo băng keo tiêu chuẩn (Cross-hatch Adhesion Test theo chuẩn ASTM D3359), nét in bám dính tuyệt đối, không bong tróc góc cạnh.
+* **Độ bền cọ xát cồn 90°:** Kháng dung môi sau thời gian lưu hóa 24 giờ, đảm bảo ký mã hiệu hoặc logo không bị bay màu trong môi trường đóng gói, kho vận lạnh hoặc xuất khẩu.
+* **Hỗ trợ kỹ thuật tại xưởng:** Kỹ sư VNPIS trực tiếp hỗ trợ khảo sát dây chuyền, căn chỉnh thông số máy và test mẫu in thực tế trên phôi của khách hàng trước khi bàn giao.
