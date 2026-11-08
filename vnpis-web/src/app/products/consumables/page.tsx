@@ -6,7 +6,7 @@ import {
   CheckCircle2, ArrowRight, ShieldCheck, Truck, 
   FlaskConical, Cpu, PhoneCall, MessageSquare, 
   HelpCircle, Clock, Award, FileText, ChevronRight,
-  ExternalLink, Sparkles, AlertCircle
+  ExternalLink, Sparkles, AlertCircle, Wrench
 } from 'lucide-react';
 import accessoriesData from '@/data/accessories.json';
 import inksData from '@/data/inks.json';
@@ -142,6 +142,23 @@ const CATEGORIES_DATA = [
       'Chất đóng rắn Hardener tỷ lệ pha 10:1 tăng kháng hóa chất',
       'Dung môi chậm khô Retarder chống khô mực trên cốc',
       'Chất trợ bám Primer quét xử lý trước bề mặt nhựa PP/PE',
+    ],
+  },
+  {
+    id: 'linh-kien-phu-tung',
+    title: 'Linh Kiện & Phụ Tùng Máy In Tampon & In Lụa',
+    shortTitle: 'Linh Kiện & Phụ Tùng Máy',
+    badge: 'Mới • Sẵn kho phụ tùng',
+    tagline: 'Gá Dao Gạt 4"/6" • Bàn Vi Chỉnh X/Y • Cụm Đầu In • Cùm Kẹp 57mm • Ốc Vít Hongyi/Zhongke',
+    desc: 'Cung cấp đồng bộ hơn 40+ mã linh kiện phụ tùng cơ khí thay thế cho máy in pad và in lụa: Gá dao gạt tâm lỗ 80mm, bàn đỡ máng mực vi chỉnh X/Y hai chiều, trụ sắt Ø19mm và tấm gá đầu in silicone, cùm kẹp bàn in 57mm, con chạy chữ T và ốc vít đặc chủng chuẩn máy Zhongke, Hongyi, Kelong.',
+    url: '/products/consumables/linh-kien-phu-tung',
+    icon: Wrench,
+    image: '/images/products/parts/part_r5_stt3.png',
+    highlights: [
+      'Gá dao gạt 4"/6" hợp kim nhôm tâm lỗ 80mm chuẩn quốc tế',
+      'Bàn đỡ máng mực vi chỉnh X/Y kèm khóa định vị chính xác',
+      'Đế gá đầu in Silicone & trụ sắt Ø19mm (60/80/100mm)',
+      'Đầy đủ ốc vuông 18x18 máy Hongyi, Zhongke & cùm kẹp phôi',
     ],
   },
 ];

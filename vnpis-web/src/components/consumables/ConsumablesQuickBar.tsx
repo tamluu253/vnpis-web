@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Settings, Droplet, CircleDot, Layers, Beaker, ArrowRight, ExternalLink } from 'lucide-react';
+import { Settings, Droplet, CircleDot, Layers, Beaker, ArrowRight, ExternalLink, Wrench } from 'lucide-react';
 
 interface QuickSection {
   id: string;
@@ -47,6 +47,13 @@ const SECTIONS: QuickSection[] = [
     shortName: 'Phụ Gia',
     url: '/products/consumables/phu-gia-dung-moi',
     icon: Beaker,
+  },
+  {
+    id: 'linh-kien-phu-tung',
+    name: 'Linh Kiện & Phụ Tùng',
+    shortName: 'Phụ Tùng Máy',
+    url: '/products/consumables/linh-kien-phu-tung',
+    icon: Wrench,
   },
 ];
 

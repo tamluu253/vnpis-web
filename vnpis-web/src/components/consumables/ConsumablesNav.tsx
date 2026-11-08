@@ -3,9 +3,9 @@
 import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Droplet, CircleDot, Layers, Settings, Beaker, LayoutGrid } from 'lucide-react';
+import { Droplet, CircleDot, Layers, Settings, Beaker, LayoutGrid, Wrench } from 'lucide-react';
 
-export type ConsumableCategoryKey = 'overview' | 'inks' | 'pads' | 'plates' | 'accessories' | 'additives';
+export type ConsumableCategoryKey = 'overview' | 'inks' | 'pads' | 'plates' | 'accessories' | 'additives' | 'parts';
 
 interface TabItem {
   id: ConsumableCategoryKey;
@@ -65,6 +65,15 @@ export const CONSUMABLE_TABS: TabItem[] = [
     href: '/products/consumables/phu-gia-dung-moi',
     icon: Beaker,
     activeColorClass: 'bg-amber-600 text-white border-amber-600 shadow-lg shadow-amber-500/20',
+  },
+  {
+    id: 'parts',
+    label: 'Linh Kiện & Phụ Tùng',
+    subLabel: 'Gá dao, bàn vi chỉnh X/Y, cụm đầu in, ốc vít',
+    href: '/products/consumables/linh-kien-phu-tung',
+    icon: Wrench,
+    activeColorClass: 'bg-rose-600 text-white border-rose-600 shadow-lg shadow-rose-500/20',
+    badge: 'Mới',
   },
 ];
 

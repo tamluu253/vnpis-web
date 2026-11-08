@@ -1,0 +1,552 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "Tất Cả Linh Kiện",
+      "count": 28,
+      "icon": "Layers"
+    },
+    {
+      "id": "ga-dao-gat-muc",
+      "name": "Cụm Gá Dao & Gạt Mực",
+      "desc": "Gá dao gạt 4\"/6\", cùm kẹp dao, con lăn cấp mực, tấm trượt nhôm & lò xo gá dao",
+      "count": 10,
+      "icon": "Settings"
+    },
+    {
+      "id": "ban-do-mang-muc",
+      "name": "Bàn Đỡ Máng Mực & Vi Chỉnh X/Y",
+      "desc": "Bàn trượt vi chỉnh đa hướng, vít me M10, tấm đệm máng mực nhôm CNC",
+      "count": 5,
+      "icon": "Move"
+    },
+    {
+      "id": "ga-dau-in",
+      "name": "Cụm Gá Đầu In Silicone",
+      "desc": "Đế gá đầu in, trụ sắt Ø19mm liên kết, tấm đệm cao su in cho máy nhỏ & trung",
+      "count": 4,
+      "icon": "CircleDot"
+    },
+    {
+      "id": "cum-kep-ban-in",
+      "name": "Cùm Kẹp Bàn In & Đồ Gá Phôi",
+      "desc": "Bộ cùm kẹp bàn in 57mm, con chạy chữ T, chặn cữ rãnh mang cá & khối gá 3 lỗ",
+      "count": 6,
+      "icon": "Maximize"
+    },
+    {
+      "id": "oc-vit-phu-kien",
+      "name": "Ốc Vít & Linh Kiện Đặc Chủng",
+      "desc": "Ốc vuông 18x18, ốc chữ nhật 11x5, bạc lót và phụ kiện liên kết tiêu chuẩn",
+      "count": 3,
+      "icon": "Wrench"
+    }
+  ],
+  "products": [
+    {
+      "id": "part-scraper-holder-4in",
+      "sku": "VNPIS-PART-SH01",
+      "name": "Gá Dao Gạt Mực Máy In Tampon 4 Inch",
+      "originalName": "Scraper Holder 4寸",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r3_stt1.png",
+      "badge": "Bán chạy",
+      "specs": {
+        "size": "Quy cách 4 inch (Dùng cho dao gạt 100mm)",
+        "holeDistance": "Khoảng cách tâm lỗ chuẩn: 80 mm",
+        "material": "Hợp kim nhôm đúc chịu lực bề mặt anodized chống ăn mòn",
+        "compatibility": "Máy in pad Trung Khoa (Zhongke), Hồng Nghị (Hongyi), Khoa Long (Kelong), Trung Hưng (Zhongxing) và các dòng máy pad Đài Loan/TQ phổ biến."
+      },
+      "warningNote": "Lưu ý kỹ thuật: Kiểm tra chính xác khoảng cách tâm lỗ 80mm trước khi đặt. Các dòng máy cổ điển trên 10 năm có thể dùng chuẩn lỗ khác.",
+      "priceReference": "850.000",
+      "priceUnit": "Bộ",
+      "inStock": true
+    },
+    {
+      "id": "part-scraper-holder-4in-pro",
+      "sku": "VNPIS-PART-SH02",
+      "name": "Gá Dao Gạt Mực 4 Inch Cải Tiến Chống Rung",
+      "originalName": "Scraper Holder 4寸 (Bản gia cường)",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r4_stt2.png",
+      "badge": "Gia cường",
+      "specs": {
+        "size": "Quy cách 4 inch / 6 inch tùy biến",
+        "holeDistance": "Khoảng cách tâm lỗ: 80 mm",
+        "material": "Nhôm hợp kim nguyên khối CNC chính xác cao",
+        "compatibility": "Phù hợp máy in tampon tự động tốc độ cao, giảm tối đa độ rung lắc khi gạt mực."
+      },
+      "warningNote": "Tương thích các dòng máy in pad chuẩn cơ cấu gạt mực mở (open inkwell) và bán khép kín.",
+      "priceReference": "950.000",
+      "priceUnit": "Bộ",
+      "inStock": true
+    },
+    {
+      "id": "part-oil-pan-base-xy",
+      "sku": "VNPIS-PART-OPB01",
+      "name": "Bàn Đỡ Máng Mực Vi Chỉnh X/Y 2 Chiều",
+      "originalName": "Oil Pan Base X/Y Micro-Adjustment",
+      "category": "ban-do-mang-muc",
+      "image": "/images/products/parts/part_r5_stt3.png",
+      "badge": "Độ chính xác cao",
+      "specs": {
+        "adjustment": "Hỗ trợ vi chỉnh kép X/Y (trước-sau, trái-phải) kèm khóa định vị",
+        "grooveSize": "Rãnh trượt đáy: 67 mm / Rãnh đỉnh: 63 mm",
+        "material": "Hợp kim nhôm đúc gia công chuẩn xác",
+        "compatibility": "Dùng trực tiếp cho máy 1 màu và 2 màu của Zhongke, Hongyi, Kelong... (Máy 4 màu trở lên vui lòng chọn bản 3 lỗ)."
+      },
+      "warningNote": "Hệ thống ren tinh chỉnh mượt mà giúp canh chỉnh vị trí khay mực siêu tốc, tiết kiệm 50% thời gian setup máy.",
+      "priceReference": "1.450.000",
+      "priceUnit": "Bộ",
+      "inStock": true
+    },
+    {
+      "id": "part-rubber-head-mount",
+      "sku": "VNPIS-PART-RHM01",
+      "name": "Đế Gá Đầu In Silicone Vi Chỉnh Đa Hướng",
+      "originalName": "Rubber Head Mount (Đế gá cao su in)",
+      "category": "ga-dau-in",
+      "image": "/images/products/parts/part_r6_stt4.png",
+      "badge": "Chuẩn Đài Loan",
+      "specs": {
+        "modelOptions": "Bản máy nhỏ (35) / Bản máy trung (40)",
+        "grooveSize": "Rãnh đáy 39.5 mm / Rãnh đỉnh 36.5 mm",
+        "shaftCompatibility": "Tương thích trục sắt Ø19mm chiều dài 60mm, 80mm, 100mm",
+        "compatibility": "Lắp chuẩn trên cần gá đầu in của Zhongke, Hongyi, Kelong."
+      },
+      "warningNote": "Có ngàm khóa hãm chặt, chống xoay lệch góc in của silicone pad khi ép in lực lớn.",
+      "priceReference": "420.000",
+      "priceUnit": "Bộ",
+      "inStock": true
+    },
+    {
+      "id": "part-open-oil-pan-base",
+      "sku": "VNPIS-PART-OPB02",
+      "name": "Khung Đỡ Máng Mực Mở Hợp Kim Nhôm (4x4 / 4x6)",
+      "originalName": "Open Oil Pan Base 4x4 / 4x6",
+      "category": "ban-do-mang-muc",
+      "image": "/images/products/parts/part_r7_stt5.png",
+      "badge": "Phổ thông",
+      "specs": {
+        "slotSize": "Rãnh kẹp trong: 62 mm / Rãnh kẹp ngoài: 66 mm",
+        "standardSize": "Khung 4x4 inch hoặc 4x6 inch",
+        "material": "Nhôm hợp kim đúc nguyên khối nhẹ, chống gỉ sét",
+        "compatibility": "Phù hợp hầu hết các máng mực mở máy in tampon trên thị trường."
+      },
+      "warningNote": "Kích thước tiêu chuẩn công nghiệp, thay thế vừa vặn cho các máy dùng máng mực hở gạt dao.",
+      "priceReference": "420.000",
+      "priceUnit": "Chiếc",
+      "inStock": true
+    },
+    {
+      "id": "part-scraper-clamp",
+      "sku": "VNPIS-PART-SC01",
+      "name": "Cùm Kẹp Dao Gạt Mực Máy In Tampon (Scraper Clamp)",
+      "originalName": "Scraper clamp (Kẹp dao gạt)",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r8_stt6.png",
+      "badge": "Tiêu chuẩn",
+      "specs": {
+        "dimensions": "Dài 80 mm x Rộng 38 mm",
+        "holeDistance": "Khoảng cách tâm lỗ ốc: 60 mm",
+        "compatibility": "Lắp vừa cho các loại dao gạt 4 inch, 6 inch và 8 inch."
+      },
+      "warningNote": "Ngàm kẹp phẳng tuyệt đối, siết chặt lưỡi dao thép/nhựa đều lực, không làm cong vênh lưỡi gạt.",
+      "priceReference": "65.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-oil-roller",
+      "sku": "VNPIS-PART-OR01",
+      "name": "Con Lăn Cấp Mực / Trục Lăn Mực (Oil Tanker Roller)",
+      "originalName": "Oil tanker / oil roller",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r9_stt7.png",
+      "badge": "Phổ thông",
+      "specs": {
+        "dimensions": "Khung dài 80 mm x rộng 48 mm",
+        "rollerLength": "Chiều dài con lăn: 70 mm",
+        "holeDistance": "Khoảng cách tâm lỗ lắp gá: 40 mm",
+        "compatibility": "Gá lắp tương thích cần dao gạt 4 inch / 6 inch."
+      },
+      "warningNote": "Bề mặt con lăn lăn êm ái, trải mực đều bề mặt khuôn thép trước khi lưỡi dao gạt qua.",
+      "priceReference": "45.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-nut-hongyi-m6",
+      "sku": "VNPIS-PART-NUT01",
+      "name": "Ốc Vuông Gá Dao Máy Hồng Nghị (Hongyi Nut 18x18x6)",
+      "originalName": "Tool holder nut 18*18*6 M6",
+      "category": "oc-vit-phu-kien",
+      "image": "/images/products/parts/part_r10_stt8.png",
+      "badge": "Máy Hongyi",
+      "specs": {
+        "size": "Kích thước vuông 18 x 18 mm, Độ dày 6 mm",
+        "thread": "Lỗ ren M6 tiêu chuẩn",
+        "material": "Thép mạ chống oxy hóa",
+        "compatibility": "Chuyên dụng cho gá dao máy in pad hãng Hồng Nghị (Hongyi)."
+      },
+      "warningNote": "Đúng chuẩn độ dày 6mm ăn khớp rãnh trượt, không bị cấn kẹt.",
+      "priceReference": "12.000",
+      "priceUnit": "Con",
+      "inStock": true
+    },
+    {
+      "id": "part-nut-zhongke-m6",
+      "sku": "VNPIS-PART-NUT02",
+      "name": "Ốc Vuông Gá Dao Bản Mỏng Máy Trung Khoa (Zhongke Nut 18x18x3)",
+      "originalName": "Thin knife holder nut 18*18*3 M6",
+      "category": "oc-vit-phu-kien",
+      "image": "/images/products/parts/part_r11_stt9.png",
+      "badge": "Máy Zhongke",
+      "specs": {
+        "size": "Kích thước vuông 18 x 18 mm, Bản mỏng 3 mm",
+        "thread": "Lỗ ren M6 chuẩn",
+        "material": "Thép tôi cứng chống tuôn ren",
+        "compatibility": "Chuyên dụng cho cần dao gạt máy in pad hãng Trung Khoa (Zhongke)."
+      },
+      "warningNote": "Độ mỏng 3mm thiết kế riêng cho khe hẹp của máy Zhongke.",
+      "priceReference": "10.000",
+      "priceUnit": "Con",
+      "inStock": true
+    },
+    {
+      "id": "part-screw-sleeve-adjuster",
+      "sku": "VNPIS-PART-SLV01",
+      "name": "Ống Lót Ren Điều Chỉnh Độ Sâu Dao Gạt (Tool Holder Adjustment Sleeve)",
+      "originalName": "Tool holder adjustment screw sleeve",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r12_stt10.png",
+      "badge": "Đa năng",
+      "specs": {
+        "function": "Điều chỉnh độ sâu và lực tì của lưỡi dao gạt mực lên khuôn in",
+        "compatibility": "Dùng chung đa năng cho hầu hết các dòng gá dao gạt máy in pad."
+      },
+      "warningNote": "Gia công ren chuẩn xác, giúp thợ điều chỉnh lực gạt mực mượt, không làm xước khuôn thép.",
+      "priceReference": "55.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-sliding-aluminum-plate",
+      "sku": "VNPIS-PART-PLT01",
+      "name": "Tấm Nhôm Trượt Gá Dao Gạt Mực (Sliding Aluminum Plate)",
+      "originalName": "Sliding aluminum plate for the knife holder",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r15_stt13.png",
+      "badge": "Chính xác CNC",
+      "specs": {
+        "dimensions": "Dài 85 mm x Rộng 50 mm",
+        "holeDistance": "Khoảng cách tâm lỗ ốc: 40 mm",
+        "material": "Nhôm hợp kim nguyên khối phay CNC phẳng tuyệt đối."
+      },
+      "warningNote": "Giúp cụm dao di chuyển êm, triệt tiêu ma sát và chống lắc lệch khi máy chạy tốc độ cao.",
+      "priceReference": "145.000",
+      "priceUnit": "Tấm",
+      "inStock": true
+    },
+    {
+      "id": "part-baffle-aluminum-profile",
+      "sku": "VNPIS-PART-BFL01",
+      "name": "Cặp Tấm Chắn Bụi/Mực Cho Cần Gá Nhôm Định Hình (1 Cặp)",
+      "originalName": "Baffle for profile tool holder (Plastic)",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r16_stt15.png",
+      "badge": "1 Cặp (2 Cái)",
+      "specs": {
+        "material": "Nhựa kỹ thuật dẻo dai chống dầu mực ăn mòn",
+        "package": "Quy cách đóng gói: 1 Cặp (2 chiếc)",
+        "compatibility": "Lắp che chắn mặt sau của cần dao gạt nhôm định hình."
+      },
+      "warningNote": "Ngăn chặn mực bắn vào cơ cấu trượt bên trong, kéo dài tuổi thọ cụm dao.",
+      "priceReference": "35.000",
+      "priceUnit": "Cặp",
+      "inStock": true
+    },
+    {
+      "id": "part-baffle-cast-aluminum",
+      "sku": "VNPIS-PART-BFL02",
+      "name": "Cặp Tấm Chắn Bụi Cho Cần Gá Nhôm Đúc (1 Cặp)",
+      "originalName": "Baffle for cast aluminum tool holder (Plastic)",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r17_stt16.png",
+      "badge": "1 Cặp (2 Cái)",
+      "specs": {
+        "material": "Nhựa chịu hóa chất cao cấp",
+        "package": "1 Cặp (2 chiếc)",
+        "compatibility": "Lắp cho cần dao gạt dạng nhôm đúc."
+      },
+      "warningNote": "Bảo vệ các chi tiết trượt bên trong khỏi bụi bẩn nhà xưởng.",
+      "priceReference": "25.000",
+      "priceUnit": "Cặp",
+      "inStock": true
+    },
+    {
+      "id": "part-collar-ring",
+      "sku": "VNPIS-PART-RNG01",
+      "name": "Vòng Bạc Đệm Định Vị Gá Dao Gạt Mực",
+      "originalName": "Tool holder collar ring",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r18_stt17.png",
+      "badge": "Phụ kiện",
+      "specs": {
+        "material": "Đồng hợp kim / Thép tôi bề mặt nhẵn bóng",
+        "function": "Định vị và định hướng trục tì gá dao không bị rơ lắc."
+      },
+      "warningNote": "Thay thế khi gá dao bị rung lắc hoặc có độ rơ lớn.",
+      "priceReference": "45.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-tool-tip",
+      "sku": "VNPIS-PART-TIP01",
+      "name": "Đỉnh Tì Gá Dao Gạt Mực Máy In Pad",
+      "originalName": "Tool holder tip",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r19_stt18.png",
+      "badge": "Phụ kiện",
+      "specs": {
+        "material": "Thép hợp kim tôi cứng chống mài mòn cao",
+        "function": "Tì lực tiếp xúc ép lò xo dao gạt."
+      },
+      "warningNote": "Chống mòn đầu tì, giữ áp lực gạt mực ổn định cả ca sản xuất.",
+      "priceReference": "15.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-spring-tool-holder",
+      "sku": "VNPIS-PART-SPR01",
+      "name": "Lò Xo Đàn Hồi Cụm Gá Dao Gạt Mực Tampon",
+      "originalName": "Scraper spring (Lò xo gá dao)",
+      "category": "ga-dao-gat-muc",
+      "image": "/images/products/parts/part_r20_stt19.png",
+      "badge": "Đàn hồi cao",
+      "specs": {
+        "material": "Thép lò xo chuyên dụng độ đàn hồi và độ bền mỏi cực cao",
+        "function": "Cung cấp áp lực nén êm ái cho lưỡi dao gạt mực bám sát mặt khuôn."
+      },
+      "warningNote": "Đảm bảo gạt sạch bóng bề mặt khuôn mà không gây trầy xước.",
+      "priceReference": "12.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-micro-screw-m10",
+      "sku": "VNPIS-PART-SCR01",
+      "name": "Trục Vít Me Vi Chỉnh M10 Bàn Đỡ X/Y Máng Mực",
+      "originalName": "M10 Micro-Adjustment Screw",
+      "category": "ban-do-mang-muc",
+      "image": "/images/products/parts/part_r21_stt20.png",
+      "badge": "Ren M10",
+      "specs": {
+        "length": "Tổng chiều dài 100 mm / Chiều dài đoạn ren: 67 mm",
+        "thread": "Ren M10 tinh xảo, bước ren chuẩn",
+        "function": "Dùng để vi chỉnh tọa độ trục X / Y của đế máng mực."
+      },
+      "warningNote": "Đầu vặn khía chống trượt, tinh chỉnh vị trí khuôn in chính xác từng micromet.",
+      "priceReference": "65.000",
+      "priceUnit": "Cây",
+      "inStock": true
+    },
+    {
+      "id": "part-single-adjust-screw",
+      "sku": "VNPIS-PART-SCR02",
+      "name": "Vít Me Tinh Chỉnh Đơn Cụm Đế Máy In Tampon",
+      "originalName": "Single adjustment screw",
+      "category": "ban-do-mang-muc",
+      "image": "/images/products/parts/part_r22_stt21.png",
+      "badge": "Phụ kiện",
+      "specs": {
+        "material": "Thép tôi bề mặt mạ kẽm",
+        "function": "Tinh chỉnh cữ giới hạn hành trình các cụm trượt cơ khí."
+      },
+      "warningNote": "Chống rơ ren, khóa chết vị trí cữ chặn an toàn.",
+      "priceReference": "35.000",
+      "priceUnit": "Cây",
+      "inStock": true
+    },
+    {
+      "id": "part-locking-block-clamp",
+      "sku": "VNPIS-PART-CLP01",
+      "name": "Con Bọ Khóa Khối Định Vị Bàn Trượt",
+      "originalName": "Locking block clamp",
+      "category": "cum-kep-ban-in",
+      "image": "/images/products/parts/part_r23_stt22.png",
+      "badge": "Định vị",
+      "specs": {
+        "material": "Thép chịu lực dập định hình",
+        "function": "Kẹp siết khóa chặt khối cữ định vị trên rãnh trượt."
+      },
+      "warningNote": "Thao tác siết mở nhanh chóng bằng khóa lục giác.",
+      "priceReference": "15.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-dovetail-limit-blocks",
+      "sku": "VNPIS-PART-LMT01",
+      "name": "Cục Chặn Cữ Giới Hạn Rãnh Mang Cá (Dovetail Limit Blocks)",
+      "originalName": "Dovetail slot limit clamp set",
+      "category": "cum-kep-ban-in",
+      "image": "/images/products/parts/part_r24_stt23.png",
+      "badge": "Khớp mang cá",
+      "specs": {
+        "material": "Thép gia công rãnh góc nghiêng chuẩn mang cá (Dovetail)",
+        "function": "Khóa hãm hành trình trượt của bàn làm việc hoặc cụm khay mực."
+      },
+      "warningNote": "Góc nghiêng chuẩn xác, ôm khít rãnh mang cá không làm móp méo rãnh.",
+      "priceReference": "35.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-rect-nut-11x5-m6",
+      "sku": "VNPIS-PART-NUT03",
+      "name": "Ốc Chữ Nhật Rãnh Nhôm 11x5 Ren M6 (Rectangular Nut)",
+      "originalName": "11*5 M6 rectangular nut",
+      "category": "oc-vit-phu-kien",
+      "image": "/images/products/parts/part_r25_stt24.png",
+      "badge": "Ren M6",
+      "specs": {
+        "dimensions": "Dài 11 mm x Rộng 5 mm",
+        "thread": "Lỗ ren M6",
+        "compatibility": "Thả vừa khít vào các rãnh nhôm định hình và cần gá máy in pad."
+      },
+      "warningNote": "Chống xoay khi siết ốc từ bên ngoài, lắp đặt phụ kiện cực kỳ thuận tiện.",
+      "priceReference": "10.000",
+      "priceUnit": "Con",
+      "inStock": true
+    },
+    {
+      "id": "part-pad-mount-shaft",
+      "sku": "VNPIS-PART-SHF01",
+      "name": "Trụ Sắt Giữ Cần Gá Đầu In Silicone (Ø19mm)",
+      "originalName": "Rubber Head Mount Steel Post (Trụ gá đầu in)",
+      "category": "ga-dau-in",
+      "image": "/images/products/parts/part_r26_stt25.jpeg",
+      "badge": "Ø19 mm",
+      "specs": {
+        "diameter": "Đường kính chuẩn: Ø19 mm",
+        "lengthOptions": "3 Lựa chọn chiều dài: 60 mm (Máy nhỏ) / 80 mm (Máy trung) / 100 mm (Máy lớn)",
+        "material": "Thép mạ crom cứng chống gỉ, bề mặt mài tròn chính xác cao."
+      },
+      "warningNote": "Chịu lực ép thẳng đứng lên tới hàng trăm kg mà không cong vênh.",
+      "priceReference": "50.000",
+      "priceUnit": "Cây",
+      "inStock": true
+    },
+    {
+      "id": "part-pad-mounting-plate",
+      "sku": "VNPIS-PART-BDP01",
+      "name": "Tấm Nhôm Đế Gắn Đầu Cao Su In Tampon (Pad Mounting Plate)",
+      "originalName": "Rubber Head Base Plate",
+      "category": "ga-dau-in",
+      "image": "/images/products/parts/part_r27_stt26.png",
+      "badge": "Nhôm hợp kim",
+      "specs": {
+        "sizeOptions": "Size máy nhỏ: 90 x 60 mm / Size máy trung: 120 x 60 mm",
+        "thickness": "Độ dày tiêu chuẩn: 10 mm hoặc 14 mm",
+        "material": "Nhôm hợp kim nguyên khối đã taro sẵn các lỗ ren bắt ốc đầu cao su."
+      },
+      "warningNote": "Bề mặt phẳng tiêu chuẩn giúp lực ép đầu in phân bố đều trên sản phẩm.",
+      "priceReference": "120.000",
+      "priceUnit": "Tấm",
+      "inStock": true
+    },
+    {
+      "id": "part-oil-pan-pad-plate",
+      "sku": "VNPIS-PART-OPP01",
+      "name": "Tấm Đệm Đế Máng Mực Máy In Tampon (85x50x10)",
+      "originalName": "Oil Pan Backing Plate",
+      "category": "ban-do-mang-muc",
+      "image": "/images/products/parts/part_r28_stt28.png",
+      "badge": "85x50x10",
+      "specs": {
+        "dimensions": "Dài 85 mm x Rộng 50 mm x Dày 10 mm",
+        "material": "Hợp kim nhôm đúc bề mặt gia công phẳng",
+        "function": "Tấm đệm kê đỡ khay mực, gia tăng độ vững chắc chống rung lắc."
+      },
+      "warningNote": "Chống võng méo khay mực khi siết ốc cố định lực lớn.",
+      "priceReference": "65.000",
+      "priceUnit": "Tấm",
+      "inStock": true
+    },
+    {
+      "id": "part-table-clamp-set",
+      "sku": "VNPIS-PART-TCP01",
+      "name": "Bộ Cùm Kẹp Bàn Làm Việc Hoàn Chỉnh (Dài 57mm)",
+      "originalName": "Worktable clamp complete set (Bộ kẹp bàn in)",
+      "category": "cum-kep-ban-in",
+      "image": "/images/products/parts/part_r29_stt30.png",
+      "badge": "Bộ Full",
+      "specs": {
+        "length": "Chiều dài thanh ép: 57 mm",
+        "components": "Bao gồm: Thanh đè hợp kim nhôm dày, bulong siết và tán vặn",
+        "function": "Cố định phôi in, đồ gá (jig) hoặc khuôn in trên bàn làm việc máy in pad/in lụa."
+      },
+      "warningNote": "Lực kẹp cực khỏe, đảm bảo phôi không bị xê dịch dù chỉ 0.05mm trong suốt chu trình in.",
+      "priceReference": "55.000",
+      "priceUnit": "Bộ",
+      "inStock": true
+    },
+    {
+      "id": "part-t-nut-m6",
+      "sku": "VNPIS-PART-TNUT01",
+      "name": "Con Chạy Rãnh Chữ T Ren M6 (T-Nut For Worktable)",
+      "originalName": "Worktable T-shaped Nut M6",
+      "category": "cum-kep-ban-in",
+      "image": "/images/products/parts/part_r31_stt32.png",
+      "badge": "Rãnh T chuẩn",
+      "specs": {
+        "dimensions": "Rộng thân: 19 mm / Độ dày: 9.3 mm / Bản rãnh lọt: 9.5 mm",
+        "thread": "Lỗ ren M6 chuẩn công nghiệp",
+        "material": "Thép hợp kim tôi cứng chịu lực kéo xé cao."
+      },
+      "warningNote": "Lắp chuẩn vào rãnh chữ T của tất cả các loại bàn máy in tampon và máy phay mini.",
+      "priceReference": "12.000",
+      "priceUnit": "Con",
+      "inStock": true
+    },
+    {
+      "id": "part-3hole-block-47x16",
+      "sku": "VNPIS-PART-BLK01",
+      "name": "Khối Gá Lắp 3 Lỗ Liên Kết 47x16mm",
+      "originalName": "Three-hole mounting block 47*16",
+      "category": "cum-kep-ban-in",
+      "image": "/images/products/parts/part_r34_stt35.png",
+      "badge": "47x16 mm",
+      "specs": {
+        "dimensions": "Dài 47 mm x Rộng 16 mm",
+        "holeCount": "3 lỗ taro ren chuẩn xác",
+        "compatibility": "Dùng để liên kết các cơ cấu gá phụ trợ hoặc công tắc hành trình."
+      },
+      "warningNote": "Chi tiết chuẩn hóa giúp mở rộng đồ gá gá kẹp phôi linh hoạt.",
+      "priceReference": "35.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    },
+    {
+      "id": "part-3hole-limit-block-m10",
+      "sku": "VNPIS-PART-BLK02",
+      "name": "Khối Chặn Hành Trình 3 Lỗ Ren M10 (Dài 32mm)",
+      "originalName": "Three-hole 32mm limit block M10 hole",
+      "category": "cum-kep-ban-in",
+      "image": "/images/products/parts/part_r41_stt42.png",
+      "badge": "Lỗ M10",
+      "specs": {
+        "length": "Chiều dài: 32 mm",
+        "holeType": "Khoan taro ren M10 chịu lực lớn",
+        "function": "Định vị và chặn cữ hành trình tì của trục vi chỉnh M10."
+      },
+      "warningNote": "Chống va đập quá hành trình làm kẹt máy in.",
+      "priceReference": "45.000",
+      "priceUnit": "Cái",
+      "inStock": true
+    }
+  ]
+}
