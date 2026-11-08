@@ -8,17 +8,13 @@ category: KỸ THUẬT IN ẤN
 code: ART-SURFACE-CORONA
 author: Chuyên Gia In Ấn VNPIS
 mediaExt: webp
-image: /images/screen-printing-bags.webp
+image: /images/real_photos/vnpis_workshop_photo_02.jpg
 canonical: 'https://vnpis.com/blog/xu-ly-corona-plasma-tang-bam-dinh-nhua-pp-pe'
 ---
 
 # Xử Lý Corona & Plasma Tăng Độ Bám Dính Mực In Trên Nhựa PP, PE, HDPE, EVA
 
 Các loại nhựa bán tinh thể như **Polypropylene (PP), Polyethylene (PE, HDPE, LDPE), EVA hay Teflon** sở hữu năng lượng bề mặt rất thấp (thường < 30-32 dynes/cm). Điều này khiến mực in Tampon, mực in Lụa hay mực in phun KTS không thể trải đều và bám dính, gây ra hiện tượng **co mực, bong tróc hoặc trôi mực khi test băng keo 3M**.
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Xử Lý Corona & Plasma Tăng Độ Bám Dính Mực In Trên Nhựa PP, PE, HDPE, EVA tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_22.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 Để giải quyết triệt để bài toán này, công nghệ **xử lý bề mặt Corona & Plasma (Surface Treatment)** là giải pháp tiêu chuẩn bắt buộc trong sản xuất in ấn công nghiệp.
 
 ---

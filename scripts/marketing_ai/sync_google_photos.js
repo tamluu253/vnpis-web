@@ -1,9 +1,9 @@
 /**
  * @file sync_google_photos.js
- * @description Syncs authentic photos from Google Photos Shared Album into local media repository.
- * Parses the album URL from .env, extracts high-res image endpoints, and saves them
- * to vnpis-web/public/images/real_photos/ with a JSON manifest.
- * Automatically injects/updates photos into all markdown articles.
+ * @description Syncs authentic photos from Google Photos Shared Albums into local media repository.
+ * Supports multiple album URLs in .env (comma-separated).
+ * Automatically de-duplicates, downloads, updates photo_manifest.json,
+ * and injects/refreshes photos into all markdown articles.
  * @module marketing_ai/sync_google_photos
  */
 
@@ -64,7 +64,7 @@ function downloadImage(imageUrl, destPath) {
     https.get(imageUrl, (res) => {
       if (res.statusCode !== 200) {
         file.close();
-        fs.unlinkSync(destPath);
+        if (fs.existsSync(destPath)) fs.unlinkSync(destPath);
         return reject(new Error(`Failed to download: status ${res.statusCode}`));
       }
       res.pipe(file);
@@ -82,24 +82,37 @@ function downloadImage(imageUrl, destPath) {
 
 async function syncGooglePhotos(options = {}) {
   const env = loadEnvConfig();
-  const albumUrl = options.albumUrl || env.GOOGLE_PHOTOS_ALBUM_URL;
-  if (!albumUrl) {
+  const rawAlbums = options.albumUrl || env.GOOGLE_PHOTOS_ALBUM_URL;
+  if (!rawAlbums) {
     console.error('[ERROR] No GOOGLE_PHOTOS_ALBUM_URL configured in .env');
     return [];
   }
 
-  console.log(`[SYNC] Connecting to Google Photos album: ${albumUrl}`);
+  const albumUrls = rawAlbums.split(',').map(s => s.trim()).filter(Boolean);
+  console.log(`[SYNC] Connecting to ${albumUrls.length} Google Photos album(s)...`);
+
   if (!fs.existsSync(TARGET_DIR)) {
     fs.mkdirSync(TARGET_DIR, { recursive: true });
   }
 
-  const html = await fetchUrl(albumUrl);
-  const regex = /https:\/\/lh3\.googleusercontent\.com\/pw\/[a-zA-Z0-9_\-]+/g;
-  const matches = html.match(regex) || [];
-  const uniqueUrls = [...new Set(matches)];
+  let allMatches = [];
+  for (const albumUrl of albumUrls) {
+    try {
+      console.log(`[SYNC] Fetching album: ${albumUrl}`);
+      const html = await fetchUrl(albumUrl);
+      const regex = /https:\/\/lh3\.googleusercontent\.com\/pw\/[a-zA-Z0-9_\-]+/g;
+      const matches = html.match(regex) || [];
+      console.log(`       Discovered ${matches.length} endpoints in this album.`);
+      allMatches.push(...matches);
+    } catch (e) {
+      console.warn(`[WARN] Failed to fetch album ${albumUrl}: ${e.message}`);
+    }
+  }
 
-  console.log(`[SYNC] Discovered ${uniqueUrls.length} photo entries in album.`);
-  const limit = options.limit || 50;
+  const uniqueUrls = [...new Set(allMatches)];
+  console.log(`[SYNC] Total unique photo entries across all albums: ${uniqueUrls.length}`);
+
+  const limit = options.limit || 80;
   const selectedUrls = uniqueUrls.slice(0, limit);
 
   const manifest = [];

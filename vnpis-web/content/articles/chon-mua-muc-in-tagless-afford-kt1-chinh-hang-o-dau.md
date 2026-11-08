@@ -45,10 +45,8 @@ Liên hệ hotline VNPIS ngay hôm nay để nhận mẫu test thử Afford KT1 
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Mua Mực In Tagless Afford KT1 Chính Hãng Tây Ban Nha Ở Đâu? tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_14.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Mua Mực In Tagless Afford KT1 Chính Hãng Tây Ban Nha Ở Đâu? tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_14.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-TECH
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_01.jpg
+image: /images/real_photos/vnpis_workshop_photo_71.jpg
 ---
 
 Khi mua sắm thiết bị, câu hỏi khiến nhiều chủ xưởng đau đầu nhất là: **"Nên đầu tư máy in tampon hệ thống Cốc mực kín hay Khay mực hở?"**. Cả hai đều có những ưu điểm riêng phục vụ cho từng mục đích sản xuất.
@@ -67,10 +67,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Nên Chọn Máy In Tampon Cốc Mực Kín (Ink Cup) Hay Khay Mực Hở (Open Tray)? tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_01.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Nên Chọn Máy In Tampon Cốc Mực Kín (Ink Cup) Hay Khay Mực Hở (Open Tray)? tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_71.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -87,6 +85,10 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
+
+
+![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Nên Chọn Máy In Tampon Cốc Mực Kín (Ink Cup) Hay Khay Mực Hở (Open Tray)? tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
+*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
 
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 

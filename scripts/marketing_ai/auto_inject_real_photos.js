@@ -15,19 +15,6 @@ function getPhotoList() {
       if (Array.isArray(list) && list.length > 0) return list;
     } catch (e) {}
   }
-
-  // Fallback: scan directory directly
-  const dir = path.join(__dirname, '../../vnpis-web/public/images/real_photos');
-  if (fs.existsSync(dir)) {
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.jpg') || f.endsWith('.png'));
-    return files.map((f, i) => ({
-      id: `photo_${i + 1}`,
-      fileName: f,
-      webPath: `/images/real_photos/${f}`,
-      alt: `Hình ảnh thực tế xưởng kỹ thuật và máy in công nghiệp VNPIS - Ảnh #${i + 1}`,
-      caption: `Hình ảnh thực tế ghi nhận tại xưởng sản xuất VNPIS`
-    }));
-  }
   return [];
 }
 
@@ -38,7 +25,7 @@ function injectPhotosIntoArticles() {
     return;
   }
 
-  console.log(`[IMAGE INJECTOR] Found ${photos.length} real photos in repository.`);
+  console.log(`[IMAGE INJECTOR] Refreshing and distributing ${photos.length} real photos across articles...`);
 
   DIRS.forEach(dir => {
     if (!fs.existsSync(dir)) return;
@@ -53,42 +40,50 @@ function injectPhotosIntoArticles() {
       const data = parsed.data || {};
       const title = data.title || f.replace(/\.md$/, '');
 
-      // Pick a photo cyclically based on index to ensure full diverse coverage
-      const photo = photos[index % photos.length];
-      const customAlt = `Hình ảnh thực tế kiểm tra kỹ thuật ${title} tại xưởng VNPIS`;
-      const imageMarkdown = `\n\n![${customAlt}](${photo.webPath})\n*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*\n`;
+      // Primary photo for machine/workshop
+      const primaryPhoto = photos[index % photos.length];
+      // Secondary photo for QA/QC and finished samples (offset by halfway)
+      const secondaryPhoto = photos[(index + Math.floor(photos.length / 2)) % photos.length];
 
-      // Check if article already has a real photo
-      if (!content.includes('/images/real_photos/')) {
-        // Find best insertion point (under section 1 or section 2, or after first heading)
-        if (content.includes('## 2. Quy Trình')) {
-          content = content.replace('## 2. Quy Trình', `${imageMarkdown}\n## 2. Quy Trình`);
-        } else if (content.includes('## 1. Tiêu Chuẩn')) {
-          content = content.replace('## 1. Tiêu Chuẩn', `## 1. Tiêu Chuẩn${imageMarkdown}`);
-        } else if (content.includes('## 1. Thông Số')) {
-          content = content.replace('## 1. Thông Số', `## 1. Thông Số${imageMarkdown}`);
-        } else {
-          // Insert after first paragraph
-          const parts = content.split('\n\n');
-          if (parts.length > 2) {
-            parts.splice(2, 0, imageMarkdown.trim());
-            content = parts.join('\n\n');
-          } else {
-            content += imageMarkdown;
-          }
-        }
+      const primaryAlt = `Hình ảnh thực tế vận hành và thiết bị ${title} tại xưởng VNPIS`;
+      const secondaryAlt = `Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm ${title} tại phòng Lab VNPIS`;
 
-        // Also set metadata image for rich share / Open Graph if missing
-        if (!data.image) {
-          data.image = photo.webPath;
-        }
+      const primaryImageMd = `![${primaryAlt}](${primaryPhoto.webPath})\n*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*`;
+      const secondaryImageMd = `![${secondaryAlt}](${secondaryPhoto.webPath})\n*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*`;
 
+      let changed = false;
+
+      // Clean existing real photo embeds if any to re-distribute cleanly
+      if (content.includes('/images/real_photos/')) {
+        content = content.replace(/\n*!\[Hình ảnh thực tế[^\]]*\]\(\/images\/real_photos\/[^\)]+\)\n*\*Hình ảnh thực tế[^*\n]*\*\n*/g, '\n');
+        changed = true;
+      }
+
+      // 1. Insert primary photo after Section 1
+      if (content.includes('## 2. Quy Trình')) {
+        content = content.replace('## 2. Quy Trình', `\n${primaryImageMd}\n\n## 2. Quy Trình`);
+        changed = true;
+      } else if (content.includes('## 1. Tiêu Chuẩn')) {
+        content = content.replace('## 1. Tiêu Chuẩn', `## 1. Tiêu Chuẩn\n\n${primaryImageMd}`);
+        changed = true;
+      }
+
+      // 2. Insert secondary photo under QA/QC or Section 3
+      if (content.includes('## 3. Khắc Phục') && !content.includes(secondaryPhoto.webPath)) {
+        content = content.replace('## 3. Khắc Phục', `\n${secondaryImageMd}\n\n## 3. Khắc Phục`);
+        changed = true;
+      }
+
+      // Set main metadata image
+      data.image = primaryPhoto.webPath;
+
+      if (changed) {
         fs.writeFileSync(filePath, matter.stringify(content, data), 'utf8');
         updatedCount++;
       }
     });
 
-    console.log(`[IMAGE INJECTOR] Injected real photos into ${updatedCount} articles in ${dir}`);
+    console.log(`[IMAGE INJECTOR] Successfully refreshed photos in ${updatedCount} articles in ${dir}`);
   });
 }
 

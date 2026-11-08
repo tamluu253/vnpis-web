@@ -19,7 +19,7 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: published
 draft: false
-image: /images/real_photos/vnpis_workshop_photo_12.jpg
+image: /images/real_photos/vnpis_workshop_photo_27.jpg
 mediaExt: .jpg
 tags:
   - xử lý bề mặt corona plasma tăng bám dính

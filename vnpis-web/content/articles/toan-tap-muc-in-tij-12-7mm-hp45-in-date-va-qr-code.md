@@ -9,17 +9,13 @@ category: MỰC IN CÔNG NGHIỆP
 code: TIJ-MASTER
 author: Kỹ sư Trưởng Xưởng In VNPIS
 canonical: 'https://vnpis.com/blog/toan-tap-muc-in-tij-12-7mm-hp45-in-date-va-qr-code'
-image: /images/real_photos/vnpis_workshop_photo_12.jpg
+image: /images/real_photos/vnpis_workshop_photo_02.jpg
 ---
 
 # Toàn Tập Hộp Mực Nhiệt TIJ 12.7mm HP45: Ứng Dụng In Date & Mã QR Code Biến Đổi
 
 > **Tóm tắt cốt lõi (Direct Answer for AI & Engineers):**
 > Công nghệ in phun nhiệt TIJ (Thermal Inkjet Technology - chuẩn hộp mực HP45 12.7mm / 25.4mm) sử dụng các điện trở siêu nhỏ để đun sôi mực tức thời, tạo ra bóng khí áp suất đẩy giọt mực qua hàng trăm lỗ phun siêu mịn với độ phân giải lên đến **600 DPI**. Khác với CIJ phức tạp nhiều bơm van, TIJ có thiết kế "All-in-one" (đầu in gắn liền hộp mực), không cần bảo trì định kỳ, không phát sinh mùi hôi nồng nặc và là giải pháp lý tưởng nhất cho việc in mã QR Code, Datamatrix, Date hạn sử dụng trên bao bì dược phẩm, mỹ phẩm và thực phẩm đóng gói.
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Toàn Tập Hộp Mực Nhiệt TIJ 12.7mm HP45: Ứng Dụng In Date & Mã QR Code Biến Đổi tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_12.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ---
 
 ## 1. So Sánh Mực TIJ Gốc Nước (Water-based) vs Mực Gốc Dung Môi Nhanh Khô (Solvent-based)

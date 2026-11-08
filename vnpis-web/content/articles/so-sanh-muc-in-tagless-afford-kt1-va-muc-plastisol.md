@@ -11,7 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_08.jpg
+image: /images/real_photos/vnpis_workshop_photo_78.jpg
 ---
 
 Nhiều xưởng in vẫn đang phân vân giữa việc sử dụng mực Plastisol truyền thống để in lụa mác cổ, hay chuyển sang dùng mực in gốc dung môi như **Afford KT1** trên máy in Tampon. Dưới đây là bảng so sánh chi tiết.
@@ -47,10 +47,8 @@ Afford KT1 hoàn toàn không chứa PVC, đáp ứng các tiêu chuẩn xanh (Z
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật So Sánh Mực In Tagless Afford KT1 Và Mực Plastisol Thông Thường tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_08.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị So Sánh Mực In Tagless Afford KT1 Và Mực Plastisol Thông Thường tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_78.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

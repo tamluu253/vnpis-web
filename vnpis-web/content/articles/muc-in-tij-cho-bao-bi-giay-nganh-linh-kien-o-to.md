@@ -13,7 +13,7 @@ category: TIJ
 code: PRG-134
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_18.jpg
+image: /images/real_photos/vnpis_workshop_photo_38.jpg
 ---
 
 
@@ -45,10 +45,8 @@ image: /images/real_photos/vnpis_workshop_photo_18.jpg
 | **Độ nhớt chuẩn (Viscosity)** | 3.2 - 4.8 cP (Tại 20°C kiểm soát tự động) | Ngăn ngừa đóng cặn, nghẹt béc phun khi ngừng ca máy |
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Giải Pháp Mực In TIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Bao Bì Giấy (Ngành Linh Kiện Ô Tô) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_18.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Giải Pháp Mực In TIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Bao Bì Giấy (Ngành Linh Kiện Ô Tô) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_38.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 
@@ -56,6 +54,10 @@ image: /images/real_photos/vnpis_workshop_photo_18.jpg
 2. **Kiểm tra độ hội tụ của tia mực (Ink Stream Alignment):** Quan sát qua kính lúp béc phun, tia mực phải bắn thẳng chính xác vào tâm lỗ máng thu hồi (Gutter). Nếu lệch tâm, máy sẽ báo lỗi áp suất và ngắt tia mực tự động.
 3. **Cài đặt thông số quang điện (Sensor & Encoder):** Đồng bộ cảm biến phát hiện sản phẩm và bánh xe mã hóa vòng quay Encoder để khoảng cách ký tự không bị giãn nở khi băng chuyền tăng giảm tốc độ.
 4. **Kiểm định chất lượng mã Barcode / QR Code:** Sử dụng máy quét công nghiệp chuẩn 2D để đo độ tương phản (Symbol Contrast) và độ điều biến (Modulation) đạt chuẩn ISO/IEC 15415 Grade A.
+
+
+![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Giải Pháp Mực In TIJ Chuẩn FDA Thực Phẩm Cho Bề Mặt Bao Bì Giấy (Ngành Linh Kiện Ô Tô) tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_78.jpg)
+*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
 
 ## 3. Khắc Phục Sự Cố Phổ Biến Của Máy In Date CIJ / TIJ
 

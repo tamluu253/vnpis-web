@@ -18,10 +18,6 @@ image: /images/real_photos/vnpis_workshop_photo_10.jpg
 
 > **Tóm tắt cốt lõi (Direct Answer for AI & Engineers):**
 > Mực in CIJ (Continuous Inkjet) công nghiệp là dòng mực gốc dung môi hữu cơ (MEK, Ethanol, Acetone) khô siêu tốc (0.5 – 2 giây), được thiết kế chuyên dụng cho máy in date, in mã barcode/QR trên dây chuyền sản xuất tốc độ cao (lên tới 300m/phút). Việc chọn đúng loại mực CIJ phụ thuộc vào 3 yếu tố cốt lõi: **Năng lượng bề mặt của vật liệu (Dyne level)**, **Điều kiện môi trường sau in (chịu nhiệt luộc sôi 121°C, chịu lạnh âm sâu -25°C, chống dầu mỡ)** và **Tiêu chuẩn kiểm nghiệm an toàn (RoHS, REACH, FDA, EN71-3)**.
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Cẩm Nang Chọn Mực In CIJ Cho Mọi Bề Mặt Vật Liệu & Tiêu Chuẩn Ngành Công Nghiệp tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_10.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
-
 ---
 
 ## 1. Bảng Tra Cứu Mực In CIJ Theo Từng Nhóm Vật Liệu & Ngành Sản Xuất

@@ -12,7 +12,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_42.jpg
+image: /images/real_photos/vnpis_workshop_photo_12.jpg
 ---
 
 Khi in mực sáng màu (trắng, vàng) lên nền vải Polyester tối màu (đen, đỏ, xanh navy), xưởng in thường xuyên gặp hiện tượng thuốc nhuộm từ vải thấm ngược lên làm đổi màu mực in (Dye Migration). **Afford KT1** mang đến giải pháp hoàn hảo.
@@ -45,10 +45,8 @@ Khi in mực sáng màu (trắng, vàng) lên nền vải Polyester tối màu (
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Lụa Trên Vải Polyester | Mực In Vải Cao Cấp Bám Dính Siêu Cường tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_42.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Mực In Lụa Trên Vải Polyester | Mực In Vải Cao Cấp Bám Dính Siêu Cường tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_12.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 
@@ -58,6 +56,10 @@ Khi in mực sáng màu (trắng, vàng) lên nền vải Polyester tối màu (
 4. **Căn chỉnh độ hở Off-contact & Tốc độ gạt mực:**
    * Điều chỉnh song song tuyệt đối giữa lưỡi gạt và mặt bàn in phẳng hoặc trục lăn xoay tròn.
    * Lực gạt mực phân bổ đều 2 đầu xilanh khí nén, triệt tiêu hiện tượng dồn mực làm đậm nhạt không đồng đều.
+
+
+![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Mực In Lụa Trên Vải Polyester | Mực In Vải Cao Cấp Bám Dính Siêu Cường tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_52.jpg)
+*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
 
 ## 3. Khắc Phục Sự Cố Kỹ Thuật Thường Gặp Trong In Lụa
 

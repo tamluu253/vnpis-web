@@ -11,7 +11,7 @@ category: Sericom
 code: Textile
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_43.jpg
+image: /images/real_photos/vnpis_workshop_photo_13.jpg
 ---
 
 Ngành dệt may đòi hỏi những dòng mực đặc thù phải mềm mại, co giãn và bám dính tốt vào từng thớ vải. **Sericom Textile** chính là dòng mực in lụa đáp ứng xuất sắc mọi tiêu chí đó.
@@ -46,10 +46,8 @@ Sericom Textile hoàn toàn loại bỏ các chất độc hại như Formaldehy
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Lụa Trên Vải Sericom Textile: Mềm Mại, Không Cứng Áo tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_43.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Mực In Lụa Trên Vải Sericom Textile: Mềm Mại, Không Cứng Áo tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_13.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 
@@ -59,6 +57,10 @@ Sericom Textile hoàn toàn loại bỏ các chất độc hại như Formaldehy
 4. **Căn chỉnh độ hở Off-contact & Tốc độ gạt mực:**
    * Điều chỉnh song song tuyệt đối giữa lưỡi gạt và mặt bàn in phẳng hoặc trục lăn xoay tròn.
    * Lực gạt mực phân bổ đều 2 đầu xilanh khí nén, triệt tiêu hiện tượng dồn mực làm đậm nhạt không đồng đều.
+
+
+![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Mực In Lụa Trên Vải Sericom Textile: Mềm Mại, Không Cứng Áo tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_53.jpg)
+*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
 
 ## 3. Khắc Phục Sự Cố Kỹ Thuật Thường Gặp Trong In Lụa
 

@@ -13,7 +13,7 @@ category: DOD
 code: PRG-137
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_36.jpg
+image: /images/real_photos/vnpis_workshop_photo_06.jpg
 ---
 
 
@@ -44,10 +44,8 @@ image: /images/real_photos/vnpis_workshop_photo_36.jpg
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Giải Pháp Mực In DOD Khô Siêu Tốc 0.1s Cho Bề Mặt Mạch Điện Tử PCB (Ngành Vật Liệu Xây Dựng) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_36.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Giải Pháp Mực In DOD Khô Siêu Tốc 0.1s Cho Bề Mặt Mạch Điện Tử PCB (Ngành Vật Liệu Xây Dựng) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_06.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

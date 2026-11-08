@@ -36,10 +36,8 @@ image: /images/real_photos/vnpis_workshop_photo_20.jpg
 | **Nhiệt độ hoạt động tối ưu** | 38°C - 45°C (Tích hợp bộ gia nhiệt Heater) | Ổn định độ nhớt mực UV / Mực dầu trong khoảng 8 - 12 cP |
 | **Áp suất âm đường mực (Meniscus Vacuum)** | -1.5 đến -2.8 kPa | Ngăn mực nhỏ giọt rỉ béc và ngăn bọt khí lọt vào đầu phun |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Đầu in Ricoh GEN5 (MH5420 / MH5440) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Đầu in Ricoh GEN5 (MH5420 / MH5440) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Phục Hồi, Thông Tắc Béc Phun Bằng Sóng Siêu Âm Chuyên Dụng
 
@@ -47,6 +45,10 @@ image: /images/real_photos/vnpis_workshop_photo_20.jpg
 2. **Ngâm dung dịch tẩy rửa sinh học chuyên sâu (Flushing Solution):** Đặt đầu phun tiếp xúc với khăn vi sợi thấm đẫm dung dịch tẩy rửa trung tính trong 30 - 60 phút để làm mềm cặn mực UV khô cứng.
 3. **Thông béc áp suất ngược tuần hoàn (Reverse Purging):** Kết nối đầu phun với máy súc rửa tuần hoàn áp suất vi điều khiển, hút ngược cặn bẩn ra khỏi màng lọc trong đầu phun với áp suất an toàn không quá 0.03 MPa.
 4. **Hiệu chỉnh điện áp xung béc phun:** Đo kiểm trở kháng từng hàng gốm áp điện và cân chỉnh lại điện áp Driving Voltage để lực đẩy giọt mực đồng đều 100%.
+
+
+![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Đầu in Ricoh GEN5 (MH5420 / MH5440) tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_60.jpg)
+*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
 
 ## 3. Khắc Phục Sự Cố Phổ Biến Trên Đầu Phun Công Nghiệp
 

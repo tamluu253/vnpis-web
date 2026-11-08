@@ -1,28 +1,33 @@
 ---
-title: "Cẩm Nang Chọn Lưới In Lụa Thụy Sĩ (Mesh Count 80T Đến 165T) Và Dao Gạt Mực PU Chống Ăn Mòn Hóa Chất"
-description: "Hướng dẫn chuyên sâu về lưới in lụa mesh count với bảng thông số kỹ thuật chuẩn, công thức tính toán, quy trình SOP 5 bước và tư vấn trực tiếp từ Kỹ Sư Trưởng VNPIS."
+title: >-
+  Cẩm Nang Chọn Lưới In Lụa Thụy Sĩ (Mesh Count 80T Đến 165T) Và Dao Gạt Mực PU
+  Chống Ăn Mòn Hóa Chất
+description: >-
+  Hướng dẫn chuyên sâu về lưới in lụa mesh count với bảng thông số kỹ thuật
+  chuẩn, công thức tính toán, quy trình SOP 5 bước và tư vấn trực tiếp từ Kỹ Sư
+  Trưởng VNPIS.
 keywords:
-  - "lưới in lụa mesh count"
-  - "chọn lưới in lụa thụy sĩ"
-  - "dao gạt mực squeegee pu"
-  - "vật tư ngành in lụa vnpis"
-date: "2026-10-27"
-author: "Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS"
-category: "Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa"
-canonical: "https://vnpis.com/blog/cam-nang-chon-luoi-in-lua-thuy-si-va-dao-gat-pu"
-schema_type: "TechnicalArticle"
-publisher_mst: "0318266611"
-status: "published"
+  - lưới in lụa mesh count
+  - chọn lưới in lụa thụy sĩ
+  - dao gạt mực squeegee pu
+  - vật tư ngành in lụa vnpis
+date: '2026-10-27'
+author: Lưu Trọng Tâm - Kỹ Sư Trưởng VNPIS
+category: Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa
+canonical: 'https://vnpis.com/blog/cam-nang-chon-luoi-in-lua-thuy-si-va-dao-gat-pu'
+schema_type: TechnicalArticle
+publisher_mst: 0318266611
+status: published
 draft: false
-image: "/images/real_photos/vnpis_workshop_photo_50.jpg"
-mediaExt: ".jpg"
+image: /images/real_photos/vnpis_workshop_photo_09.jpg
+mediaExt: .jpg
 tags:
-  - "lưới in lụa mesh count"
-  - "chọn lưới in lụa thụy sĩ"
-  - "dao gạt mực squeegee pu"
-  - "vật tư ngành in lụa vnpis"
-  - "vnpis.com"
-  - "VNPIS"
+  - lưới in lụa mesh count
+  - chọn lưới in lụa thụy sĩ
+  - dao gạt mực squeegee pu
+  - vật tư ngành in lụa vnpis
+  - vnpis.com
+  - VNPIS
 ---
 
 # Cẩm Nang Chọn Lưới In Lụa Thụy Sĩ (Mesh Count 80T Đến 165T) Và Dao Gạt Mực PU Chống Ăn Mòn Hóa Chất

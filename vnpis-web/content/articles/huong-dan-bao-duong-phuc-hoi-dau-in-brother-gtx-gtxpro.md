@@ -54,10 +54,8 @@ Khác với mực Solvent hay mực UV, mực in DTG chứa các hạt phân t�
 
 ---
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Hướng Dẫn Bảo Dưỡng, Xử Lý Lỗi Tắc Tia Đầu In Brother DTG GTX & Giải Pháp Phục Hồi Thu Cũ Đổi Mới tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_29.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Hướng Dẫn Bảo Dưỡng, Xử Lý Lỗi Tắc Tia Đầu In Brother DTG GTX & Giải Pháp Phục Hồi Thu Cũ Đổi Mới tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_29.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình SOP 5 Bước Làm Sạch & Phục Hồi Đầu In Brother GTX Tại Xưởng
 

@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: MC-MEDICAL
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_05.jpg
+image: /images/real_photos/vnpis_workshop_photo_55.jpg
 ---
 
 Sản xuất thiết bị y tế tiêu hao (ống tiêm nhựa, ống nghiệm, túi truyền dịch) là ngành công nghiệp đòi hỏi tiêu chuẩn khắt khe bậc nhất. Các vạch chia độ (Scale) trên ống tiêm không được phép sai lệch dù chỉ 0.1mm, và mực in phải hoàn toàn an toàn (Medical grade ink). Để làm được điều này, **Máy in tampon Meichao (MC)** là ứng cử viên sáng giá nhất.
@@ -56,10 +56,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
-
-
-![Hình ảnh thực tế kiểm tra kỹ thuật Máy In Tampon Meichao (MC): Sự Lựa Chọn Tối Ưu Cho Ngành Thiết Bị Y Tế tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_05.jpg)
-*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
+![Hình ảnh thực tế vận hành và thiết bị Máy In Tampon Meichao (MC): Sự Lựa Chọn Tối Ưu Cho Ngành Thiết Bị Y Tế tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_55.jpg)
+*Hình ảnh thực tế kiểm tra thiết bị tại xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 
@@ -76,6 +74,10 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 4. **Quy chuẩn kiểm tra độ bám dính thành phẩm (Adhesion Test):**
    * **Test băng dính 3M 600/810:** Dán chặt băng keo lên vị trí in, miết mạnh và giật dứt khoát ở góc 90°. Nét in không được bong tróc (Grade 5B chuẩn ASTM D3359).
    * **Test cọ sát hóa chất:** Chà xát bông gòn tẩm cồn y tế 90° hoặc xăng thơm 50 chu kỳ với lực ép 1kg, bề mặt chữ in không bị nhòe mờ.
+
+
+![Hình ảnh thực tế kiểm tra chất lượng in và thành phẩm Máy In Tampon Meichao (MC): Sự Lựa Chọn Tối Ưu Cho Ngành Thiết Bị Y Tế tại phòng Lab VNPIS](/images/real_photos/vnpis_workshop_photo_15.jpg)
+*Hình ảnh thực tế mẫu sản phẩm hoàn thiện và kiểm tra độ bám dính tại VNPIS*
 
 ## 3. Khắc Phục 5 Sự Cố Vận Hành Thực Tế Thường Gặp Tại Xưởng
 
