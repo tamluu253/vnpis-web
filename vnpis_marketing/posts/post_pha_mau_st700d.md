@@ -1,10 +1,13 @@
 # Kế Hoạch & Nội Dung Đăng Bài Mạng Xã Hội (Facebook / Zalo / Group Nghề)
-## Dịch Vụ Pha Mực In Chuẩn Pantone Từ 100g – Máy Quang Phổ 3NH ST-700D Plus
+## Dịch Vụ Pha Mực In Lụa & In Pad Chuẩn Pantone Từ 100g – Máy Quang Phổ 3NH ST-700D Plus
 
 * **Đơn vị phát hành:** VNPIS Industrial Equipment & Solutions
 * **Kênh truyền thông:** Fanpage Facebook VNPIS, Zalo OA, Hội In Lụa Việt Nam, Hội In Tampon & In Quà Tặng, Group Bao Bì May Mặc.
 * **Liên kết bài viết gốc trên Website:** [vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g](https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g)
 * **Hotline hỗ trợ:** 0987.453.866
+* **Hệ thống xưởng sản xuất:**
+  - **Xưởng 1:** Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP. Hồ Chí Minh
+  - **Xưởng 2:** 62 Trần Thị Nơi, Phường Chánh Hưng, TP. Hồ Chí Minh
 
 ---
 
@@ -25,7 +28,9 @@ Có phải xưởng của bạn đang gặp cảnh:
 Với siêu phẩm máy quang phổ đo màu 3NH ST-700D Plus vừa cập bến xưởng, VNPIS chính thức triển khai:
 🎨 DỊCH VỤ PHA MÀU MỰC THEO YÊU CẦU – NHẬN ĐƠN TỪ 100G!
 
-✅ Đa dạng hệ mực: Mực in lụa (Plastisol, gốc nước, gốc dầu, cao su, silicone), mực in Pad (Tampon trên nhựa, kim loại, thủy tinh), mực in kỹ thuật số.
+✅ Đa dạng hệ mực chuyên sâu:
+  - Mực in lụa: Plastisol, gốc nước, gốc dầu, cao su, silicone trên vải, dù, da simili.
+  - Mực in Pad (Tampon): Mực 1 thành phần (1K), mực 2 thành phần (2K) bám dính siêu hạng trên nhựa ABS, PP, PE, kim loại, thủy tinh.
 ✅ Chuẩn mã Pantone 100%: Tích hợp trọn bộ thư viện Pantone quốc tế (Pantone C, Pantone U, FHI...) trên máy 3NH ST-700D Plus.
 ✅ Độ lệch màu ΔE < 0.5 (mắt thường không phân biệt được): Đảm bảo chuẩn xác tuyệt đối theo nhận diện thương hiệu của khách hàng khắt khe nhất.
 ✅ Lưu trữ công thức số hóa: Lưu recipe vĩnh viễn trên hệ thống, 100 lần pha sau màu vẫn đồng nhất như lần đầu.
@@ -37,7 +42,9 @@ Chỉ cần gửi mã Pantone hoặc gửi mẫu vật liệu thực tế, việ
 ---
 📞 Hotline/Zalo tư vấn: 0987.453.866
 🌐 Chi tiết dịch vụ: https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g
-🏢 Địa chỉ xưởng: Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP.HCM
+🏢 Địa chỉ xưởng VNPIS:
+📍 Xưởng 1: Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP.HCM
+📍 Xưởng 2: 62 Trần Thị Nơi, Phường Chánh Hưng, TP.HCM
 
 #VNPIS #PhaMauMucIn #InLua #InTampon #InPad #PantoneColor #3NHST700DPlus #PhaMucTu100g
 ```
@@ -62,18 +69,19 @@ Hiểu được yêu cầu khắt khe đó, VNPIS Solutions đã chính thức �
 
 🎯 Ứng dụng thực tế:
 - Pha mực in lụa cho hàng may mặc xuất khẩu (Sportswear, local brand cao cấp).
-- Pha mực in Tampon (In Pad) cho linh kiện điện tử, phím bấm gia dụng chịu nhiệt, chống mài mòn.
-- Pha mực in kỹ thuật số đáp ứng dải màu mở rộng (Wide Gamut).
+- Pha mực in Tampon (In Pad) cho linh kiện điện tử, phím bấm gia dụng chịu nhiệt, chống mài mòn, nắp chai, vỏ son.
 
-Đặc biệt, VNPIS nhận pha từ số lượng mẫu 100g giúp quý doanh nghiệp dễ dàng làm Prototype/Proofing trước khi chạy sản xuất hàng loạt!
+Đặc biệt, VNPIS nhận pha từ số lượng mẫu 100g (chỉ từ 350.000đ/hũ) giúp quý doanh nghiệp dễ dàng làm Prototype/Proofing trước khi chạy sản xuất hàng loạt!
 
 ---
 📩 Gửi yêu cầu mã màu Pantone hoặc mẫu thử ngay hôm nay để nhận báo giá & tư vấn kỹ thuật!
 ☎️ Hotline: 0987.453.866 | 📧 Email: info@vnpis.com
 🌐 Xem thêm: https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g
-🏢 Địa chỉ xưởng: Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP.HCM
+🏢 Hệ thống xưởng VNPIS:
+📍 Xưởng 1: Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP.HCM
+📍 Xưởng 2: 62 Trần Thị Nơi, Phường Chánh Hưng, TP.HCM
 
-#VNPIS #CongNgheInAn #MayDoMau3NH #ST700DPlus #PhaMucPantone #InXuatKhau #InTampon
+#VNPIS #CongNgheInAn #MayDoMau3NH #ST700DPlus #PhaMucPantone #InXuatKhau #InTampon #InLua
 ```
 
 ---
@@ -99,7 +107,9 @@ In Pad trên các bề mặt cong, chất liệu nhựa khó tính như ABS, PP,
 
 ---
 📞 Kết nối kỹ thuật VNPIS: 0987.453.866
-🏠 Văn phòng & Xưởng: KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM
+🏠 Hệ thống xưởng VNPIS:
+📍 Xưởng 1: Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Xã Bình Hưng, Huyện Bình Chánh, TP.HCM
+📍 Xưởng 2: 62 Trần Thị Nơi, Phường Chánh Hưng, TP.HCM
 🌐 Website: https://vnpis.com
 
 #InTampon #PadPrinting #MucInNhua #InLinhKien #PhaMucInPad #VNPIS #Pantone
@@ -119,7 +129,7 @@ Bạn có mẫu vải, mẫu nhựa, mảnh giấy hay một chiếc nắp chai 
 Đừng đoán mò! Hãy mang trực tiếp sản phẩm đến xưởng VNPIS hoặc gửi mẫu qua đường bưu điện:
 1️⃣ Chỉ 30 giây: Máy đo màu quang phổ cao cấp 3NH ST-700D Plus sẽ đọc chính xác tọa độ màu, truy xuất ngay mã Pantone tương đương trong tích tắc.
 2️⃣ Kiểm tra công thức: Xuất thông số kỹ thuật chuẩn xác, đảm bảo không phụ thuộc vào cảm tính của người pha.
-3️⃣ Pha mực lấy liền từ 100G: Nhận ngay hũ mực in lụa / in pad / kỹ thuật số chuẩn màu đem về in thử nghiệm ngay trong ngày!
+3️⃣ Pha mực lấy liền từ 100G: Nhận ngay hũ mực in lụa / in pad chuẩn màu đem về in thử nghiệm ngay trong ngày (giá chỉ từ 350.000đ/hũ)!
 
 🎁 ĐẶC QUYỀN TRONG THÁNG NÀY TẠI VNPIS:
 ✨ Miễn phí 100% chi phí đo màu và đối soát mã Pantone trên máy 3NH ST-700D Plus cho khách hàng gửi mẫu.
@@ -132,7 +142,9 @@ Bạn có mẫu vải, mẫu nhựa, mảnh giấy hay một chiếc nắp chai 
 * Hotline: 0987.453.866
 * Website: https://vnpis.com
 * Email: info@vnpis.com
-* Địa chỉ: Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM
+* Địa chỉ hệ thống xưởng:
+  📍 Xưởng 1: Số 18, Đường Số 4, KDC Đại Phúc Green Villas, Bình Hưng, Bình Chánh, TP.HCM
+  📍 Xưởng 2: 62 Trần Thị Nơi, Phường Chánh Hưng, TP.HCM
 
-#PhaMauMienPhi #TestMauPantone #3NHST700D #VNPIS #InLua #InPad #InKyThuatSo
+#PhaMauMienPhi #TestMauPantone #3NHST700D #VNPIS #InLua #InPad
 ```
