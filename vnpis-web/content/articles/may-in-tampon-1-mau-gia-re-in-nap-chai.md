@@ -10,6 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-01
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_49.jpg
 ---
 
 Trong ngành sản xuất đồ uống và nước đóng chai, việc in ấn thông tin lên nắp chai là công đoạn bắt buộc. Tuy nhiên, diện tích nắp chai thường rất nhỏ và có bề mặt cong. Đây là lúc máy in tampon (pad printer) 1 màu giá rẻ phát huy tối đa thế mạnh của mình.
@@ -40,6 +41,11 @@ VNPIS cung cấp các dòng máy in tampon 1 màu giá rẻ, vận hành bằng 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Máy In Tampon 1 Màu Giá Rẻ: Giải Pháp Hoàn Hảo In Nắp Chai Nhựa tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_49.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

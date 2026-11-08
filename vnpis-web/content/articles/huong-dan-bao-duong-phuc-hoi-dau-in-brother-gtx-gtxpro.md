@@ -29,6 +29,7 @@ tags:
   - VNPIS
 domain: vnpis.com
 slug: huong-dan-bao-duong-phuc-hoi-dau-in-brother-gtx-gtxpro
+image: /images/real_photos/vnpis_workshop_photo_29.jpg
 ---
 
 # Hướng Dẫn Bảo Dưỡng, Xử Lý Lỗi Tắc Tia Đầu In Brother DTG GTX & Giải Pháp Phục Hồi Thu Cũ Đổi Mới
@@ -52,6 +53,11 @@ Khác với mực Solvent hay mực UV, mực in DTG chứa các hạt phân t�
 3. **Sử dụng dung môi rửa không tương thích:** Nhiều thợ in sử dụng cồn công nghiệp hoặc chất tẩy mạnh, làm bong lớp mạ kỵ nước (hydrophobic coating) trên bề mặt đầu in, dẫn đến hiện tượng tia bắn xiên và nhỏ giọt.
 
 ---
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Hướng Dẫn Bảo Dưỡng, Xử Lý Lỗi Tắc Tia Đầu In Brother DTG GTX & Giải Pháp Phục Hồi Thu Cũ Đổi Mới tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_29.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình SOP 5 Bước Làm Sạch & Phục Hồi Đầu In Brother GTX Tại Xưởng
 

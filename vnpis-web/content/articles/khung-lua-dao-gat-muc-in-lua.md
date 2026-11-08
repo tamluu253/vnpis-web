@@ -10,6 +10,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-04
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_36.jpg
 ---
 
 Để có một bản in lụa đẹp, ngoài máy in và mực, bạn cần một hệ thống khung và dao gạt đạt chuẩn. Lưới in chùng hoặc dao gạt bị mẻ sẽ lập tức gây ra hiện tượng lem viền, răng cưa.
@@ -40,6 +41,11 @@ Chúng tôi cung cấp trọn gói vật tư cho các xưởng in mới mở v�
 | **Góc nghiêng dao gạt** | 65° - 75° so với mặt phẳng bản in | Tối ưu lực ép truyền mực xuyên qua mắt lưới |
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Vật Tư In Lụa Trọn Gói: Khung Nhôm, Lưới In, Dao Gạt Mực tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_36.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

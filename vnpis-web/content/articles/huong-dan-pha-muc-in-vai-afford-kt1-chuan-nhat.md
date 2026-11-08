@@ -11,6 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_32.jpg
 ---
 
 Để phát huy tối đa công năng của dòng [**mực in Tagless**](/products/consumables/inks) cao cấp **Afford KT1**, kỹ thuật pha mực (Mix ratio) đóng vai trò quyết định. Dưới đây là hướng dẫn từ chuyên gia VNPIS.
@@ -47,6 +48,11 @@ Mực Afford KT1 là mực 2 thành phần (2K). Tỷ lệ khuyến nghị:
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Hướng Dẫn Pha Mực In Vải Afford KT1 Chuẩn Nhất Cho Máy Tampon tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_32.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

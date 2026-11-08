@@ -11,6 +11,7 @@ category: Dubuit
 code: UVG
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_40.jpg
 ---
 
 Công nghệ in UV đang dần thay thế in mực gốc dung môi nhờ tính thân thiện với môi trường và tốc độ vượt trội. **Dubuit UVG** là dòng mực in Tampon UV cao cấp đến từ Pháp, mang công nghệ hiện đại này vào dây chuyền của bạn.
@@ -46,6 +47,11 @@ Dubuit UVG phù hợp in trên các vật liệu nhựa (ABS, PC, PS, PVC), th�
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In UV Tampon Dubuit UVG: Giải Pháp Thân Thiện Môi Trường tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_40.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

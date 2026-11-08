@@ -11,6 +11,7 @@ category: Ruco
 code: T120
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_28.jpg
 ---
 
 Trong sản xuất đồ chơi trẻ em (lục lạc, núm ngậm, xe mô hình nhựa), tiêu chuẩn an toàn là yếu tố sống còn vì trẻ em thường có thói quen ngậm, cắn đồ chơi. **Ruco T120** là dòng mực in Tampon/Lụa chuyên dụng đạt chuẩn khắt khe **EN71-3 (Toy Safety Standard)** của Châu u.
@@ -41,6 +42,11 @@ Chọn Ruco T120 là bạn đang chọn sự yên tâm tuyệt đối cho thươ
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Đồ Chơi Ruco T120 Đạt Chuẩn An Toàn EN71-3 tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_28.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

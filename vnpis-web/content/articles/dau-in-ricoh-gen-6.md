@@ -6,6 +6,7 @@ title: Ricoh Gen6 Printhead
 description: "Liên hệ Liên hệ Liên hệ Liên hệ Liên hệ Liên hệ \U0001F3E2 Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP Hồ Chí Minh \U0001F4DE Hotline tư vấn thiết bị &..."
 slug: dau-in-ricoh-gen-6
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_19.jpg
 ---
 
 [![Ricoh Gen6 Printhead](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAABAQAAAAAzmykZAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACdFJOUwAAdpPNOAAAAAJiS0dEAAHdihOkAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH6QkYCDcE/FvIfgAAAApJREFUCNdjYAAAAAIAAeIhvDMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDktMjRUMDg6NTQ6NTgrMDA6MDDA60/5AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTA5LTI0VDA4OjU0OjU4KzAwOjAwsbb3RQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNS0wOS0yNFQwODo1NTowNCswMDowMIYh2bQAAAAASUVORK5CYII=)](/blog/dau-in-ricoh-gen-6)
@@ -48,6 +49,11 @@ author: VNPIS Engineering Team
 | **Tần số đánh xung (Firing Frequency)** | 20 kHz - 50 kHz | Tương thích tốc độ in Single Pass từ 50 - 150 mét/phút |
 | **Nhiệt độ hoạt động tối ưu** | 38°C - 45°C (Tích hợp bộ gia nhiệt Heater) | Ổn định độ nhớt mực UV / Mực dầu trong khoảng 8 - 12 cP |
 | **Áp suất âm đường mực (Meniscus Vacuum)** | -1.5 đến -2.8 kPa | Ngăn mực nhỏ giọt rỉ béc và ngăn bọt khí lọt vào đầu phun |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Ricoh Gen6 Printhead tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_19.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Phục Hồi, Thông Tắc Béc Phun Bằng Sóng Siêu Âm Chuyên Dụng
 

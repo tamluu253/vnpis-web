@@ -11,6 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-TECH
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_01.jpg
 ---
 
 Khi mua sắm thiết bị, câu hỏi khiến nhiều chủ xưởng đau đầu nhất là: **"Nên đầu tư máy in tampon hệ thống Cốc mực kín hay Khay mực hở?"**. Cả hai đều có những ưu điểm riêng phục vụ cho từng mục đích sản xuất.
@@ -65,6 +66,11 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Nên Chọn Máy In Tampon Cốc Mực Kín (Ink Cup) Hay Khay Mực Hở (Open Tray)? tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_01.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

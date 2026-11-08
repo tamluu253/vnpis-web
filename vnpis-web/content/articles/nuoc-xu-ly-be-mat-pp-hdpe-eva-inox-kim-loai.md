@@ -12,6 +12,7 @@ category: Phụ Tùng & Vật Tư
 code: PRIMER-SURFACE
 mediaExt: jpg
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_02.jpg
 ---
 
 Trong ngành công nghiệp gia công in ấn (in Tampon, in Lụa, in UV, in Phun CIJ/TIJ), một trong những thách thức lớn nhất là in trên các chất liệu có năng lượng bề mặt cực thấp hoặc bề mặt kim loại trơn bóng khó bám mực như **nhựa PP, HDPE, EVA, inox (thép không gỉ), nhôm, đồng và các hợp kim**.
@@ -92,3 +93,7 @@ Nếu không xử lý bề mặt trước khi in, màng mực sẽ bị tróc r�
 * 📍 **Trụ sở chính:** Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh.
 * 📞 **Hotline/Zalo tư vấn kỹ thuật & báo giá 24/7:** **Mr. Tâm: 0987 453 866**
 * 🌐 **Website:** [inanvnpis.com](https://vnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://vnpis.com/muc-in-cij)
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Nước Xử Lý Bề Mặt PP, HDPE, EVA, INOX, Kim Loại: Tăng Độ Bám Dính Mực In 100% tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_02.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*

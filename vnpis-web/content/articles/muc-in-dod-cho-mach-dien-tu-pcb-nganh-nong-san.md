@@ -13,6 +13,7 @@ category: DOD
 code: PRG-128
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_35.jpg
 ---
 
 
@@ -42,6 +43,11 @@ author: VNPIS Engineering Team
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Giải Pháp Mực In DOD Phát Quang Chống Giả Cho Bề Mặt Mạch Điện Tử PCB (Ngành Nông Sản) tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_35.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

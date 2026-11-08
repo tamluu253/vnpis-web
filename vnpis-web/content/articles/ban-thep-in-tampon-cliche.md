@@ -11,6 +11,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-01
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_03.jpg
 ---
 
 Bản thép (Cliche) là linh hồn của phương pháp in tampon. Một bản thép bị ăn mòn không đều hoặc độ sâu không chuẩn sẽ khiến mực lên không đều, nhòe nét hoặc mờ lợt. Thay vì sử dụng phương pháp ăn mòn axit truyền thống gây ô nhiễm và thiếu chính xác, [**VNPIS**](/) áp dụng công nghệ khắc bản thép bằng tia Laser Fiber tiên tiến nhất.
@@ -41,6 +42,11 @@ Bạn chỉ cần gửi file vector (AI, Corel), VNPIS sẽ gia công và giao b
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Bản Thép In Tampon (Cliche) Khắc Laser | Bán Bàn In Pad Giá Rẻ tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_03.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

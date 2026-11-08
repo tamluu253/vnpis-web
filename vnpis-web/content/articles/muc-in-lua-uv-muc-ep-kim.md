@@ -10,6 +10,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-03
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_44.jpg
 ---
 
 Công nghệ in lụa có tính ứng dụng đa dạng nhờ vào sự phong phú của hệ thống mực in. Tại VNPIS, chúng tôi chọn lọc và phân phối các dòng mực in lụa chất lượng cao nhất, phục vụ cho nhiều ngành công nghiệp khắt khe.
@@ -42,6 +43,11 @@ Tất cả mực in đều có đầy đủ chứng chỉ an toàn môi trườn
 | **Góc nghiêng dao gạt** | 65° - 75° so với mặt phẳng bản in | Tối ưu lực ép truyền mực xuyên qua mắt lưới |
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Các Dòng Mực In Lụa Cao Cấp: Mực UV, Mực Plastisol, Mực Ép Kim tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_44.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

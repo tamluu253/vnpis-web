@@ -11,6 +11,7 @@ category: Sericom
 code: Textile
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_43.jpg
 ---
 
 Ngành dệt may đòi hỏi những dòng mực đặc thù phải mềm mại, co giãn và bám dính tốt vào từng thớ vải. **Sericom Textile** chính là dòng mực in lụa đáp ứng xuất sắc mọi tiêu chí đó.
@@ -44,6 +45,11 @@ Sericom Textile hoàn toàn loại bỏ các chất độc hại như Formaldehy
 | **Góc nghiêng dao gạt** | 65° - 75° so với mặt phẳng bản in | Tối ưu lực ép truyền mực xuyên qua mắt lưới |
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Lụa Trên Vải Sericom Textile: Mềm Mại, Không Cứng Áo tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_43.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

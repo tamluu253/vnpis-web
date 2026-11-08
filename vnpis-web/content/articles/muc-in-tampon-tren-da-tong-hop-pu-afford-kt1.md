@@ -11,6 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_11.jpg
 ---
 
 Bạn đang tìm giải pháp in logo thương hiệu, size giày lên miếng lót giày hay mặt trong của túi xách giả da? Bề mặt da tổng hợp (PU/PVC Leather) chứa nhiều dầu hóa dẻo khiến mực in rất dễ bong tróc. **Afford KT1** là "khắc tinh" của vật liệu này.
@@ -43,6 +44,11 @@ Afford KT1 - Đa dụng, mạnh mẽ và là trợ thủ đắc lực cho ngành
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Tampon Bám Cực Tốt Trên Da Tổng Hợp (PU Leather) - Afford KT1 tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_11.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

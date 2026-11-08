@@ -11,6 +11,7 @@ category: Henkey
 code: PET-8000
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_03.jpg
 ---
 
 Nhựa PET (Polyethylene Terephthalate) được sử dụng rỗng rãi làm chai nước suối, ly nhựa trà sữa, hộp nhựa trong suốt định hình. Đặc điểm của bao bì PET là độ trong suốt cao, do đó mực in lên PET cũng phải có độ bóng láng (Glossy) để tôn lên vẻ đẹp sản phẩm. **Henkey PET-8000** là sự lựa chọn số 1.
@@ -41,6 +42,11 @@ Ngoài PET, mực còn bám dính tốt trên PVC cứng, Polycarbonate (PC) và
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Pet Henkey PET-8000 Trong Suốt, Độ Bóng Cao tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_03.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

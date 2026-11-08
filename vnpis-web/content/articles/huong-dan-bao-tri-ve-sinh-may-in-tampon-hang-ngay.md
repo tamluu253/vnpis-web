@@ -11,6 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-MAINTENANCE
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_30.jpg
 ---
 
 Máy in tampon là thiết bị cơ khí - khí nén hoạt động liên tục với cường độ cao và tiếp xúc trực tiếp với hóa chất (mực in gốc dung môi). Do đó, **vệ sinh và bảo trì hàng ngày** là yếu tố sống còn để máy không bị hỏng vặt.
@@ -62,6 +63,11 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Hướng Dẫn Bảo Trì Và Vệ Sinh Máy In Tampon Hàng Ngày Đúng Cách tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_30.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

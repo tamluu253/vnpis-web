@@ -12,6 +12,7 @@ category: Afford
 code: KT1 / Serie 50
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_42.jpg
 ---
 
 Trong ngành công nghiệp dệt may và sản xuất giày da xuất khẩu, việc in mác trực tiếp lên sản phẩm (Tagless Label) đang trở thành tiêu chuẩn bắt buộc của các thương hiệu thời trang toàn cầu. Để đáp ứng được những yêu cầu cực kỳ khắt khe về độ bám dính, độ co giãn và mức độ an toàn sinh thái, **Afford KT1 (thuộc Serie 50 - Nylofford)** chính là "vũ khí" bí mật mà các nhà xưởng đang tìm kiếm.
@@ -55,6 +56,11 @@ Nếu nhà máy của bạn đang đau đầu đi tìm giải pháp [**mực in 
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Vải & Nylon Afford KT1 (Serie 50): Chuẩn ZDHC Level 3 Cho May Mặc tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_42.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

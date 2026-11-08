@@ -11,6 +11,7 @@ category: Mực in HDPE
 code: HDPE-INK
 mediaExt: jpg
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_47.jpg
 ---
 
 Nhựa HDPE (High-Density Polyethylene - Polyethylene mật độ cao) sở hữu độ bền cơ học cao, chịu lực va đập trơn trượt và khả năng kháng hóa chất vượt trội. Nhựa HDPE là sự lựa chọn hàng đầu sản xuất **can chứa hóa chất, chai lọ thuốc bảo vệ thực vật, chai dầu nhớt, nắp bình nước tinh khiết 20L, ống nước công nghiệp HDPE, thùng phuy nhựa và bao bì dược phẩm**.
@@ -94,3 +95,7 @@ Dành cho các máy in phun date liên tục (CIJ Printer) in mã vạch, số m
 * 📍 **Trụ sở chính:** Tầng 1, 202 Lê Lai, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh.
 * 📞 **Hotline/Zalo tư vấn kỹ thuật & báo giá 24/7:** **Mr. Tâm: 0987 453 866**
 * 🌐 **Website:** [inanvnpis.com](https://vnpis.com) | [vnpis.com](https://vnpis.com) | [Mực In Công Nghiệp](https://vnpis.com/muc-in-cij)
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In HDPE: Giải Pháp Bám Dính Chuyên Dụng In Can, Chai Lọ & Ống Nhựa HDPE tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_47.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*

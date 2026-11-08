@@ -11,6 +11,7 @@ category: Nengtong
 code: NT Pad Series
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_14.jpg
 ---
 
 **Nengtong NT Pad Series** là giải pháp mực in Tampon chuyên nghiệp từ Trung Quốc, đặc biệt tập trung phục vụ cho các nhà máy gia công hàng may mặc, giày da xuất khẩu cho các thương hiệu lớn.
@@ -45,6 +46,11 @@ Liên hệ [**VNPIS**](/) - Đại lý phân phối chính thức mực in Nengt
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Tampon ZDHC Level 3 Nengtong Cho Ngành May Mặc, Da Giày tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_14.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

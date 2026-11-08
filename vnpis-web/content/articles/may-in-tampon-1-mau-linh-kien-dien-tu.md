@@ -10,6 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-04
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_03.jpg
 ---
 
 Linh kiện điện tử (như IC, tụ điện, rơ-le, bo mạch PCB) có kích thước rất nhỏ và đòi hỏi thông số in phải cực kỳ rõ nét để phục vụ quá trình lắp ráp và bảo hành. Việc sử dụng máy in tampon (pad printer) 1 màu giá rẻ là lựa chọn hàng đầu của các xưởng gia công hiện nay.
@@ -40,6 +41,11 @@ Việc trang bị máy in tampon 1 màu giá rẻ từ VNPIS không chỉ giúp 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Đầu Tư Máy In Tampon 1 Màu Giá Rẻ Cho Xưởng Gia Công Linh Kiện Điện Tử tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_03.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

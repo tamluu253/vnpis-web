@@ -11,6 +11,7 @@ category: Dubuit
 code: MONO-PAD
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_07.jpg
 ---
 
 Khi sản xuất hàng loạt các sản phẩm yêu cầu tốc độ in cực cao nhưng chi phí phải thấp, mực 2 thành phần đôi khi trở nên dư thừa và lãng phí. Đó là lúc **Dubuit MONO-PAD** phát huy sức mạnh.
@@ -49,6 +50,11 @@ Dòng MONO-PAD đạt các chứng nhận tiêu chuẩn an toàn công nghiệp 
 | **Bản khắc thép Cliché** | Thép SKD11 Nhật Bản nhiệt luyện 60-62 HRC | Khắc Laser Fiber độ sâu kiểm soát 22 - 28µm |
 | **Hành trình trục Z (Stroke)** | 50mm - 125mm (Điều chỉnh vô cấp) | Áp suất khí nén cấp ổn định 5.0 - 6.5 Bar SMC Nhật |
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Tampon Đơn Thành Phần Dubuit MONO-PAD: Tiết Kiệm, Nhanh Khô tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_07.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

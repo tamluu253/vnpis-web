@@ -10,6 +10,7 @@ date: '2026-07-15'
 category: SCREEN
 code: SCREEN-02
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_43.jpg
 ---
 
 Trong ngành công nghiệp điện tử và công nghệ cao, [**máy in lụa**](/products/screen-printers) phẳng đóng vai trò cực kỳ quan trọng. Chúng được sử dụng để in các lớp mực dẫn điện, phủ xanh bảo vệ bo mạch PCB, hoặc in các họa tiết siêu nét lên kính cường lực, màn hình cảm ứng.
@@ -40,6 +41,11 @@ Nếu bạn đang tìm kiếm giải pháp in lụa công nghệ cao cho dây ch
 | **Góc nghiêng dao gạt** | 65° - 75° so với mặt phẳng bản in | Tối ưu lực ép truyền mực xuyên qua mắt lưới |
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Máy In Lụa Phẳng Chuyên Dụng In Bo Mạch Điện Tử PCB, Kính Cường Lực tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_43.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

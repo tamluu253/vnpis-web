@@ -11,6 +11,7 @@ category: CIJ
 code: WHITE-CABLE
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_27.jpg
 ---
 
 
@@ -65,6 +66,11 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Kích thước hạt mực (Drop Size)** | 40 - 60 micron (Hạt mực siêu mịn) | Nét in ma trận Dot Matrix hoặc mã QR Code 2D siêu nét |
 | **Độ nhớt chuẩn (Viscosity)** | 3.2 - 4.8 cP (Tại 20°C kiểm soát tự động) | Ngăn ngừa đóng cặn, nghẹt béc phun khi ngừng ca máy |
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Giải Pháp In Dây Cáp Điện: Mực Trắng Không Răng Cưa tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_27.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

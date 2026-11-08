@@ -11,11 +11,15 @@ code: PHA MÀU PANTONE
 author: VNPIS Industrial Equipment & Solutions
 canonical: >-
   https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g
+image: /images/real_photos/vnpis_workshop_photo_22.jpg
 ---
 
 # Dịch Vụ Pha Màu Mực In Theo Yêu Cầu Từ 100g Chuẩn Pantone | Công Nghệ 3NH ST-700D Plus
 
 Trong ngành in ấn công nghiệp (in lụa và in pad / tampon), **độ chính xác màu sắc theo nhận diện thương hiệu** là yếu tố sống còn. Tuy nhiên, phần lớn các xưởng in vừa và nhỏ, xưởng in mẫu R&D hay các đơn vị gia công quà tặng thường xuyên đối mặt với 2 rào cản lớn:
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Dịch Vụ Pha Màu Mực In Theo Yêu Cầu Từ 100g Chuẩn Pantone | Máy Quang Phổ 3NH ST-700D Plus tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_22.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 1. **Pha màu thủ công bằng mắt thường:** Phụ thuộc 100% vào kinh nghiệm cảm quan của thợ in, dễ bị sai lệch dưới các điều kiện ánh sáng khác nhau (hiện tượng Metamerism), lô in trước và lô in sau khó lòng đồng nhất.
 2. **Số lượng đặt hàng tối thiểu quá lớn:** Các nhà cung cấp mực trên thị trường thường chỉ nhận bán hoặc pha từ 1kg – 5kg trở lên, gây lãng phí nghiêm trọng và tồn đọng vốn cho các đơn hàng mẫu hoặc đơn hàng số lượng ít.

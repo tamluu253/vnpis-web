@@ -11,6 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_06.jpg
 ---
 
 Làn da của trẻ sơ sinh mỏng manh hơn người lớn tới 5 lần, do đó quần áo trẻ em luôn đòi hỏi loại bỏ hoàn toàn mác vải gây xước da. Thay vào đó, in Tagless là tiêu chuẩn bắt buộc. Nhưng mực in đó có an toàn không?
@@ -45,6 +46,11 @@ Các thương hiệu đồ sơ sinh cao cấp hoàn toàn có thể an tâm sử
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+
+![Hình ảnh thực tế kiểm tra kỹ thuật Mực In Tagless An Toàn Cho Trẻ Sơ Sinh - Afford KT1 Đạt Oeko-Tex Standard 100 tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_06.jpg)
+*Hình ảnh thực tế quy trình kiểm định và vận hành tại hệ thống xưởng VNPIS (Hotline/Zalo kỹ thuật: 0987.453.866)*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
