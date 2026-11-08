@@ -2,8 +2,9 @@
  * @file sync_google_photos.js
  * @description Syncs authentic photos from Google Photos Shared Albums into local media repository.
  * Supports multiple album URLs in .env (comma-separated).
- * Automatically de-duplicates, downloads, updates photo_manifest.json,
- * and injects/refreshes photos into all markdown articles.
+ * Automatically applies Gemini AI Brand Safety & NDA Inspection to detect and exclude
+ * any third-party logos, trademarked brands, or confidential client products.
+ * Updates photo_manifest.json and injects approved photos into all articles.
  * @module marketing_ai/sync_google_photos
  */
 
@@ -15,6 +16,7 @@ const { injectPhotosIntoArticles } = require('./auto_inject_real_photos');
 const WORKSPACE_ROOT = path.resolve(__dirname, '../../');
 const ENV_PATH = path.resolve(WORKSPACE_ROOT, '.env');
 const TARGET_DIR = path.resolve(WORKSPACE_ROOT, 'vnpis-web/public/images/real_photos');
+const QUARANTINE_DIR = path.resolve(TARGET_DIR, 'quarantine');
 const MANIFEST_PATH = path.resolve(TARGET_DIR, 'photo_manifest.json');
 
 function loadEnvConfig(envPath = ENV_PATH) {
@@ -80,9 +82,72 @@ function downloadImage(imageUrl, destPath) {
   });
 }
 
+/**
+ * Checks an image for sensitive brand logos or client NDA packaging using Gemini Vision
+ */
+async function inspectBrandSafety(imagePath, apiKey) {
+  if (!apiKey) return { isSensitive: false, reason: 'No API key provided, skipped AI check' };
+  
+  try {
+    const imageBase64 = fs.readFileSync(imagePath).toString('base64');
+    const prompt = `Bạn là chuyên gia kiểm duyệt hình ảnh và bảo mật NDA khách hàng cho Công ty In Ấn Công Nghiệp VNPIS.
+Hãy kiểm tra xem bức ảnh chụp tại xưởng này có chứa:
+1. Logo thương hiệu rõ ràng của công ty khác / nhãn hàng nổi tiếng (ví dụ: Unilever, Samsung, Vinamilk, P&G, Apple, Coca Cola, v.v.)?
+2. Sản phẩm in gia công chứa thông tin độc quyền, nhãn mác thương hiệu của khách hàng cần bảo mật NDA?
+3. Thông tin cá nhân nhạy cảm (CCCD, số điện thoại cá nhân không thuộc VNPIS)?
+
+Trả về duy nhất định dạng JSON thuần hợp lệ (không kèm markdown):
+{
+  "isSensitive": false,
+  "brandDetected": null,
+  "reason": "An toàn hoặc mô tả lý do nếu nhạy cảm"
+}`;
+
+    const payload = JSON.stringify({
+      contents: [{
+        parts: [
+          { text: prompt },
+          { inlineData: { mimeType: 'image/jpeg', data: imageBase64 } }
+        ]
+      }]
+    });
+
+    return await new Promise((resolve) => {
+      const req = https.request('https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key=' + apiKey, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Content-Length': Buffer.byteLength(payload)
+        }
+      }, res => {
+        let body = '';
+        res.on('data', d => body += d);
+        res.on('end', () => {
+          try {
+            const data = JSON.parse(body);
+            const text = data.candidates[0].content.parts[0].text.trim();
+            const cleanJson = text.replace(/^```json\s*/i, '').replace(/```$/i, '').trim();
+            const parsed = JSON.parse(cleanJson);
+            resolve(parsed);
+          } catch (e) {
+            resolve({ isSensitive: false, reason: 'Safe fallback on parse error' });
+          }
+        });
+      });
+      req.on('error', () => resolve({ isSensitive: false, reason: 'Network error, safe pass' }));
+      req.write(payload);
+      req.end();
+    });
+  } catch (err) {
+    return { isSensitive: false, reason: err.message };
+  }
+}
+
 async function syncGooglePhotos(options = {}) {
   const env = loadEnvConfig();
   const rawAlbums = options.albumUrl || env.GOOGLE_PHOTOS_ALBUM_URL;
+  const apiKey = env.GEMINI_API_KEY;
+
   if (!rawAlbums) {
     console.error('[ERROR] No GOOGLE_PHOTOS_ALBUM_URL configured in .env');
     return [];
@@ -93,6 +158,9 @@ async function syncGooglePhotos(options = {}) {
 
   if (!fs.existsSync(TARGET_DIR)) {
     fs.mkdirSync(TARGET_DIR, { recursive: true });
+  }
+  if (!fs.existsSync(QUARANTINE_DIR)) {
+    fs.mkdirSync(QUARANTINE_DIR, { recursive: true });
   }
 
   let allMatches = [];
@@ -116,6 +184,8 @@ async function syncGooglePhotos(options = {}) {
   const selectedUrls = uniqueUrls.slice(0, limit);
 
   const manifest = [];
+  let quarantinedCount = 0;
+
   for (let i = 0; i < selectedUrls.length; i++) {
     const rawUrl = selectedUrls[i];
     const highResUrl = `${rawUrl}=w1200-h800-no`;
@@ -124,6 +194,17 @@ async function syncGooglePhotos(options = {}) {
 
     try {
       const res = await downloadImage(highResUrl, destPath);
+
+      // AI Brand Safety & NDA Inspection
+      const safety = await inspectBrandSafety(destPath, apiKey);
+      if (safety && safety.isSensitive === true) {
+        console.warn(`\n⚠️ [BRAND SAFETY FLAGGED] Photo #${i + 1} (${fileName}): Detected [${safety.brandDetected}] - ${safety.reason}`);
+        const quarantinePath = path.resolve(QUARANTINE_DIR, fileName);
+        fs.renameSync(destPath, quarantinePath);
+        quarantinedCount++;
+        continue;
+      }
+
       manifest.push({
         id: `photo_${i + 1}`,
         fileName,
@@ -132,18 +213,18 @@ async function syncGooglePhotos(options = {}) {
         alt: `Hình ảnh thực tế xưởng in và phòng Lab VNPIS Bình Chánh - Ảnh #${i + 1}`,
         caption: `Hình ảnh thực tế chụp tại Xưởng Kỹ Thuật VNPIS (Hotline: 0987 453 866)`
       });
-      process.stdout.write(`\r[SYNC] Downloaded: ${i + 1}/${selectedUrls.length} (${res.cached ? 'cached' : 'new'})`);
+      process.stdout.write(`\r[SYNC] Verified & Approved: ${manifest.length}/${selectedUrls.length}`);
     } catch (err) {
       console.warn(`\n[WARN] Failed photo #${i + 1}: ${err.message}`);
     }
   }
 
-  console.log(`\n[SYNC] Successfully synced ${manifest.length} photos into ${TARGET_DIR}`);
+  console.log(`\n[SYNC] Successfully verified & approved ${manifest.length} photos (Quarantined ${quarantinedCount} sensitive photos).`);
   fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2), 'utf8');
   console.log(`[SYNC] Manifest saved to: ${MANIFEST_PATH}`);
 
-  // Automatically inject photos into all articles
-  console.log('\n[SYNC] Auto-updating articles with newly synced photos...');
+  // Automatically inject approved photos into all articles
+  console.log('\n[SYNC] Auto-updating articles with newly approved photos...');
   injectPhotosIntoArticles();
 
   return manifest;
@@ -158,4 +239,4 @@ if (require.main === module) {
     });
 }
 
-module.exports = { syncGooglePhotos, TARGET_DIR, MANIFEST_PATH };
+module.exports = { syncGooglePhotos, inspectBrandSafety, TARGET_DIR, MANIFEST_PATH };

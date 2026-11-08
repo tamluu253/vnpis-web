@@ -159,6 +159,15 @@ async function runMasterCloudPublishing() {
   console.log(`⏰ Schedule: Week ${paddedWeek} | Slot: ${slotName.toUpperCase()} (DayCode: ${dayCode})`);
   console.log(`========================================================================\n`);
 
+  // 0. Auto-sync Google Photos & Filter Brand Safety
+  try {
+    const { syncGooglePhotos } = require('./marketing_ai/sync_google_photos');
+    console.log('📸 Checking and syncing new Google Photos with AI Brand Safety...');
+    await syncGooglePhotos();
+  } catch (err) {
+    console.log('[PHOTO SYNC NOTICE]', err.message);
+  }
+
   // 1. Locate Article
   const articleFile = `week_${paddedWeek}_vnpis_${dayCode}.md`;
   const articlesDir = path.join(process.cwd(), 'vnpis-web', 'content', 'articles');
