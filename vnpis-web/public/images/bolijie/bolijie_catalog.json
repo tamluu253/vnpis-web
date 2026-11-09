@@ -1,0 +1,578 @@
+[
+  {
+    "id": "bolijie_1",
+    "fileName": "bolijie_ceramic_hanoi_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_ceramic_hanoi_01.jpg",
+    "category": "CIJ_SPECIAL_CERAMIC",
+    "tag": "ceramic_hanoi",
+    "caption": "Kiểm tra thực tế độ bám dính của mực in phun CIJ trên bề mặt gốm sứ tráng men tại Hà Nội",
+    "alt": "Mẫu test in phun mực CIJ chuyên dụng trên gốm sứ tráng men chống bong tróc"
+  },
+  {
+    "id": "bolijie_2",
+    "fileName": "bolijie_ceramic_hanoi_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_ceramic_hanoi_02.jpg",
+    "category": "CIJ_SPECIAL_CERAMIC",
+    "tag": "ceramic_hanoi",
+    "caption": "Kiểm tra thực tế độ bám dính của mực in phun CIJ trên bề mặt gốm sứ tráng men tại Hà Nội",
+    "alt": "Mẫu test in phun mực CIJ chuyên dụng trên gốm sứ tráng men chống bong tróc"
+  },
+  {
+    "id": "bolijie_3",
+    "fileName": "bolijie_packaging_aluminum_plastic_hcm_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_packaging_aluminum_plastic_hcm_01.jpg",
+    "category": "CIJ_PACKAGING",
+    "tag": "packaging_aluminum_plastic_hcm",
+    "caption": "Thử nghiệm độ bám dính mực in date CIJ trên bao dệt PP, chai nhôm và chai nhựa tại TP.HCM",
+    "alt": "Test thực tế mực in date CIJ trên bề mặt bao dệt PP và chai nhôm công nghiệp"
+  },
+  {
+    "id": "bolijie_4",
+    "fileName": "bolijie_packaging_aluminum_plastic_hcm_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_packaging_aluminum_plastic_hcm_02.jpg",
+    "category": "CIJ_PACKAGING",
+    "tag": "packaging_aluminum_plastic_hcm",
+    "caption": "Thử nghiệm độ bám dính mực in date CIJ trên bao dệt PP, chai nhôm và chai nhựa tại TP.HCM",
+    "alt": "Test thực tế mực in date CIJ trên bề mặt bao dệt PP và chai nhôm công nghiệp"
+  },
+  {
+    "id": "bolijie_5",
+    "fileName": "bolijie_textile_cotton_black_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_textile_cotton_black_01.jpg",
+    "category": "INK_TEXTILE",
+    "tag": "textile_cotton_black",
+    "caption": "Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu",
+    "alt": "Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen"
+  },
+  {
+    "id": "bolijie_6",
+    "fileName": "bolijie_textile_cotton_black_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_textile_cotton_black_02.jpg",
+    "category": "INK_TEXTILE",
+    "tag": "textile_cotton_black",
+    "caption": "Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu",
+    "alt": "Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen"
+  },
+  {
+    "id": "bolijie_7",
+    "fileName": "bolijie_textile_cotton_black_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_textile_cotton_black_03.jpg",
+    "category": "INK_TEXTILE",
+    "tag": "textile_cotton_black",
+    "caption": "Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu",
+    "alt": "Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen"
+  },
+  {
+    "id": "bolijie_8",
+    "fileName": "bolijie_textile_cotton_black_04.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_textile_cotton_black_04.jpg",
+    "category": "INK_TEXTILE",
+    "tag": "textile_cotton_black",
+    "caption": "Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu",
+    "alt": "Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen"
+  },
+  {
+    "id": "bolijie_9",
+    "fileName": "bolijie_textile_cotton_black_05.png",
+    "webPath": "/images/bolijie/tests/bolijie_textile_cotton_black_05.png",
+    "category": "INK_TEXTILE",
+    "tag": "textile_cotton_black",
+    "caption": "Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu",
+    "alt": "Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen"
+  },
+  {
+    "id": "bolijie_10",
+    "fileName": "bolijie_t75_blue_high_temp_01.png",
+    "webPath": "/images/bolijie/tests/bolijie_t75_blue_high_temp_01.png",
+    "category": "CIJ_HIGH_TEMP",
+    "tag": "t75_blue_high_temp",
+    "caption": "Mực in phun CIJ xanh dương T75 chịu nhiệt độ cao chuyên dụng cho ngành đúc kim loại và nhiệt luyện",
+    "alt": "Mực in CIJ xanh dương T75 chịu nhiệt độ cao không phai màu"
+  },
+  {
+    "id": "bolijie_11",
+    "fileName": "bolijie_t75_blue_high_temp_02.png",
+    "webPath": "/images/bolijie/tests/bolijie_t75_blue_high_temp_02.png",
+    "category": "CIJ_HIGH_TEMP",
+    "tag": "t75_blue_high_temp",
+    "caption": "Mực in phun CIJ xanh dương T75 chịu nhiệt độ cao chuyên dụng cho ngành đúc kim loại và nhiệt luyện",
+    "alt": "Mực in CIJ xanh dương T75 chịu nhiệt độ cao không phai màu"
+  },
+  {
+    "id": "bolijie_12",
+    "fileName": "bolijie_security_anti_counterfeit_black_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_security_anti_counterfeit_black_01.jpg",
+    "category": "CIJ_SECURITY",
+    "tag": "security_anti_counterfeit_black",
+    "caption": "Mực in date bảo mật chống hàng giả, tích hợp hoạt chất chống sao chép quang học",
+    "alt": "Thử nghiệm mực in date CIJ bảo mật chống làm giả trên bao bì cao cấp"
+  },
+  {
+    "id": "bolijie_13",
+    "fileName": "bolijie_security_anti_counterfeit_black_02.png",
+    "webPath": "/images/bolijie/tests/bolijie_security_anti_counterfeit_black_02.png",
+    "category": "CIJ_SECURITY",
+    "tag": "security_anti_counterfeit_black",
+    "caption": "Mực in date bảo mật chống hàng giả, tích hợp hoạt chất chống sao chép quang học",
+    "alt": "Thử nghiệm mực in date CIJ bảo mật chống làm giả trên bao bì cao cấp"
+  },
+  {
+    "id": "bolijie_14",
+    "fileName": "bolijie_security_anti_counterfeit_black_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_security_anti_counterfeit_black_03.jpg",
+    "category": "CIJ_SECURITY",
+    "tag": "security_anti_counterfeit_black",
+    "caption": "Mực in date bảo mật chống hàng giả, tích hợp hoạt chất chống sao chép quang học",
+    "alt": "Thử nghiệm mực in date CIJ bảo mật chống làm giả trên bao bì cao cấp"
+  },
+  {
+    "id": "bolijie_15",
+    "fileName": "bolijie_twav_vulcanization_acid_alkali_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_twav_vulcanization_acid_alkali_01.jpg",
+    "category": "CIJ_TIRE_RUBBER",
+    "tag": "twav_vulcanization_acid_alkali",
+    "caption": "Mực trắng TWAV in lốp xe và cao su chịu nhiệt độ lưu hóa 200°C, kháng dung dịch axit và kiềm mạnh",
+    "alt": "Mực in lốp xe cao su TWAV chịu nhiệt lưu hóa và kháng hóa chất axit kiềm"
+  },
+  {
+    "id": "bolijie_16",
+    "fileName": "bolijie_tw1_grey_pigment_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tw1_grey_pigment_01.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "tw1_grey_pigment",
+    "caption": "Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật",
+    "alt": "Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao"
+  },
+  {
+    "id": "bolijie_17",
+    "fileName": "bolijie_tw1_grey_pigment_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tw1_grey_pigment_02.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "tw1_grey_pigment",
+    "caption": "Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật",
+    "alt": "Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao"
+  },
+  {
+    "id": "bolijie_18",
+    "fileName": "bolijie_tw1_grey_pigment_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tw1_grey_pigment_03.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "tw1_grey_pigment",
+    "caption": "Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật",
+    "alt": "Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao"
+  },
+  {
+    "id": "bolijie_19",
+    "fileName": "bolijie_tw1_grey_pigment_04.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tw1_grey_pigment_04.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "tw1_grey_pigment",
+    "caption": "Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật",
+    "alt": "Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao"
+  },
+  {
+    "id": "bolijie_20",
+    "fileName": "bolijie_tw1_grey_pigment_05.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tw1_grey_pigment_05.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "tw1_grey_pigment",
+    "caption": "Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật",
+    "alt": "Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao"
+  },
+  {
+    "id": "bolijie_21",
+    "fileName": "bolijie_k1_general_industry_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_k1_general_industry_01.jpg",
+    "category": "CIJ_GENERAL",
+    "tag": "k1_general_industry",
+    "caption": "Mực in phun CIJ công nghiệp đa năng K1 tương thích các dòng máy Videojet, Linx, Domino",
+    "alt": "Hệ mực in date CIJ K1 nhanh khô bám dính tốt trên nhựa và kim loại"
+  },
+  {
+    "id": "bolijie_22",
+    "fileName": "bolijie_orange_pvc_cable_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_orange_pvc_cable_01.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "orange_pvc_cable",
+    "caption": "Mực in màu cam chuyên dụng cho dây cáp điện PVC, chống phai màu và chống trầy xước cơ học",
+    "alt": "Mực in phun date màu cam trên vỏ dây cáp điện PVC chống lem trôi"
+  },
+  {
+    "id": "bolijie_23",
+    "fileName": "bolijie_t113c_alcohol_resistant_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_t113c_alcohol_resistant_01.jpg",
+    "category": "CIJ_ALCOHOL_RESISTANT",
+    "tag": "t113c_alcohol_resistant",
+    "caption": "Mực in date T113C kháng cồn nồng độ cao (Ethanol / Isopropanol), dùng trong y tế và dược phẩm",
+    "alt": "Mực in phun CIJ T113C kháng cồn 90 độ và dung dịch sát khuẩn y tế"
+  },
+  {
+    "id": "bolijie_24",
+    "fileName": "bolijie_t113c_alcohol_resistant_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_t113c_alcohol_resistant_02.jpg",
+    "category": "CIJ_ALCOHOL_RESISTANT",
+    "tag": "t113c_alcohol_resistant",
+    "caption": "Mực in date T113C kháng cồn nồng độ cao (Ethanol / Isopropanol), dùng trong y tế và dược phẩm",
+    "alt": "Mực in phun CIJ T113C kháng cồn 90 độ và dung dịch sát khuẩn y tế"
+  },
+  {
+    "id": "bolijie_25",
+    "fileName": "bolijie_twhg_white_glass_bottle_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_twhg_white_glass_bottle_01.jpg",
+    "category": "CIJ_GLASS_BOTTLE",
+    "tag": "twhg_white_glass_bottle",
+    "caption": "Mực trắng TWHG in date trên chai lọ thủy tinh ướt lạnh, chống ngưng tụ hơi nước và ma sát",
+    "alt": "Mực in date màu trắng TWHG bám dính siêu cường trên vỏ chai thủy tinh đồ uống"
+  },
+  {
+    "id": "bolijie_26",
+    "fileName": "bolijie_t77_removable_retort_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_t77_removable_retort_01.jpg",
+    "category": "CIJ_REMOVABLE_RETORT",
+    "tag": "t77_removable_retort",
+    "caption": "Mực in T77 chịu hấp nhiệt tiệt trùng trong sản xuất thực phẩm, có thể tẩy rửa sạch sau thanh trùng",
+    "alt": "Mực in hấp nhiệt tiệt trùng T77 dễ tẩy rửa cho vỏ bình và chai thu hồi"
+  },
+  {
+    "id": "bolijie_27",
+    "fileName": "bolijie_date_coding_samples_01.png",
+    "webPath": "/images/bolijie/tests/bolijie_date_coding_samples_01.png",
+    "category": "CIJ_GENERAL",
+    "tag": "date_coding_samples",
+    "caption": "Thành phẩm in date code và mã vạch QR code thực tế bằng công nghệ in phun công nghiệp",
+    "alt": "Mẫu in date hạn sử dụng và mã số lô trên bao bì thành phẩm công nghiệp"
+  },
+  {
+    "id": "bolijie_28",
+    "fileName": "bolijie_date_coding_samples_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_date_coding_samples_02.jpg",
+    "category": "CIJ_GENERAL",
+    "tag": "date_coding_samples",
+    "caption": "Thành phẩm in date code và mã vạch QR code thực tế bằng công nghệ in phun công nghiệp",
+    "alt": "Mẫu in date hạn sử dụng và mã số lô trên bao bì thành phẩm công nghiệp"
+  },
+  {
+    "id": "bolijie_29",
+    "fileName": "bolijie_invisible_green_uv_security_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_invisible_green_uv_security_01.jpg",
+    "category": "CIJ_SECURITY",
+    "tag": "invisible_green_uv_security",
+    "caption": "Mực in tàng hình phát quang ánh sáng xanh lá dưới đèn cực tím UV (365nm) chống hàng giả",
+    "alt": "Mực in date tàng hình bảo mật phát huỳnh quang xanh lục dưới đèn tia cực tím"
+  },
+  {
+    "id": "bolijie_30",
+    "fileName": "bolijie_invisible_green_uv_security_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_invisible_green_uv_security_02.jpg",
+    "category": "CIJ_SECURITY",
+    "tag": "invisible_green_uv_security",
+    "caption": "Mực in tàng hình phát quang ánh sáng xanh lá dưới đèn cực tím UV (365nm) chống hàng giả",
+    "alt": "Mực in date tàng hình bảo mật phát huỳnh quang xanh lục dưới đèn tia cực tím"
+  },
+  {
+    "id": "bolijie_31",
+    "fileName": "bolijie_invisible_green_uv_security_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_invisible_green_uv_security_03.jpg",
+    "category": "CIJ_SECURITY",
+    "tag": "invisible_green_uv_security",
+    "caption": "Mực in tàng hình phát quang ánh sáng xanh lá dưới đèn cực tím UV (365nm) chống hàng giả",
+    "alt": "Mực in date tàng hình bảo mật phát huỳnh quang xanh lục dưới đèn tia cực tím"
+  },
+  {
+    "id": "bolijie_32",
+    "fileName": "bolijie_invisible_green_uv_security_04.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_invisible_green_uv_security_04.jpg",
+    "category": "CIJ_SECURITY",
+    "tag": "invisible_green_uv_security",
+    "caption": "Mực in tàng hình phát quang ánh sáng xanh lá dưới đèn cực tím UV (365nm) chống hàng giả",
+    "alt": "Mực in date tàng hình bảo mật phát huỳnh quang xanh lục dưới đèn tia cực tím"
+  },
+  {
+    "id": "bolijie_33",
+    "fileName": "bolijie_invisible_green_uv_security_05.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_invisible_green_uv_security_05.jpg",
+    "category": "CIJ_SECURITY",
+    "tag": "invisible_green_uv_security",
+    "caption": "Mực in tàng hình phát quang ánh sáng xanh lá dưới đèn cực tím UV (365nm) chống hàng giả",
+    "alt": "Mực in date tàng hình bảo mật phát huỳnh quang xanh lục dưới đèn tia cực tím"
+  },
+  {
+    "id": "bolijie_34",
+    "fileName": "bolijie_k12_retort_sterilization_non_migrating_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_k12_retort_sterilization_non_migrating_01.jpg",
+    "category": "CIJ_RETORT_121C",
+    "tag": "k12_retort_sterilization_non_migrating",
+    "caption": "Mực in date K12 chịu nhiệt độ hấp tiệt trùng 121°C trong 60 phút, tuyệt đối không di chuyển hay lem màng bao bì",
+    "alt": "Mực in CIJ K12 chịu nhiệt hấp tiệt trùng autoclave 121 độ C không phai"
+  },
+  {
+    "id": "bolijie_35",
+    "fileName": "bolijie_p8_grey_cable_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_p8_grey_cable_01.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "p8_grey_cable",
+    "caption": "Mực xám P8 in tốc độ cao trên dây cáp mạng viễn thông và cáp điện lực",
+    "alt": "Thử nghiệm mực in date P8 in nét chữ rõ ràng trên dây cáp viễn thông"
+  },
+  {
+    "id": "bolijie_36",
+    "fileName": "bolijie_tij_cartridge_online_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tij_cartridge_online_01.jpg",
+    "category": "TIJ_CARTRIDGE",
+    "tag": "tij_cartridge_online",
+    "caption": "Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng",
+    "alt": "Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa"
+  },
+  {
+    "id": "bolijie_37",
+    "fileName": "bolijie_tij_cartridge_online_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tij_cartridge_online_02.jpg",
+    "category": "TIJ_CARTRIDGE",
+    "tag": "tij_cartridge_online",
+    "caption": "Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng",
+    "alt": "Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa"
+  },
+  {
+    "id": "bolijie_38",
+    "fileName": "bolijie_tij_cartridge_online_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tij_cartridge_online_03.jpg",
+    "category": "TIJ_CARTRIDGE",
+    "tag": "tij_cartridge_online",
+    "caption": "Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng",
+    "alt": "Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa"
+  },
+  {
+    "id": "bolijie_39",
+    "fileName": "bolijie_tij_cartridge_online_04.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tij_cartridge_online_04.jpg",
+    "category": "TIJ_CARTRIDGE",
+    "tag": "tij_cartridge_online",
+    "caption": "Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng",
+    "alt": "Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa"
+  },
+  {
+    "id": "bolijie_40",
+    "fileName": "bolijie_tij_cartridge_online_05.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tij_cartridge_online_05.jpg",
+    "category": "TIJ_CARTRIDGE",
+    "tag": "tij_cartridge_online",
+    "caption": "Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng",
+    "alt": "Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa"
+  },
+  {
+    "id": "bolijie_41",
+    "fileName": "bolijie_tij_cartridge_online_06.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_tij_cartridge_online_06.jpg",
+    "category": "TIJ_CARTRIDGE",
+    "tag": "tij_cartridge_online",
+    "caption": "Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng",
+    "alt": "Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa"
+  },
+  {
+    "id": "bolijie_42",
+    "fileName": "bolijie_ty5_yellow_dark_substrates_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_ty5_yellow_dark_substrates_01.jpg",
+    "category": "CIJ_PIGMENT_YELLOW",
+    "tag": "ty5_yellow_dark_substrates",
+    "caption": "Mực vàng pigment TY5 có độ che phủ tuyệt đối trên các vật liệu tối màu (ống PE đen, cao su, kim loại)",
+    "alt": "Mực vàng công nghiệp TY5 in nổi bật trên nền ống nhựa PE đen"
+  },
+  {
+    "id": "bolijie_43",
+    "fileName": "bolijie_plastic_bag_boiling_100c_90min_01.png",
+    "webPath": "/images/bolijie/tests/bolijie_plastic_bag_boiling_100c_90min_01.png",
+    "category": "CIJ_RETORT_121C",
+    "tag": "plastic_bag_boiling_100c_90min",
+    "caption": "Kiểm nghiệm độ bền mực in trên túi nhựa chịu luộc trong nước sôi 100°C liên tục suốt 90 phút",
+    "alt": "Mực in date chịu luộc sôi 100 độ C trong 90 phút trên màng nhựa thực phẩm"
+  },
+  {
+    "id": "bolijie_44",
+    "fileName": "bolijie_dod_large_character_white_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_dod_large_character_white_01.jpg",
+    "category": "DOD_LARGE_CHARACTER",
+    "tag": "dod_large_character_white",
+    "caption": "Mực in phun cỡ lớn DOD màu trắng in logo, thông số quy cách lên thùng carton, bao xi măng và ống cống",
+    "alt": "Mực in phun hạt lớn DOD màu trắng in sắc nét trên bao bì công nghiệp cỡ lớn"
+  },
+  {
+    "id": "bolijie_45",
+    "fileName": "bolijie_dod_large_character_white_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_dod_large_character_white_02.jpg",
+    "category": "DOD_LARGE_CHARACTER",
+    "tag": "dod_large_character_white",
+    "caption": "Mực in phun cỡ lớn DOD màu trắng in logo, thông số quy cách lên thùng carton, bao xi măng và ống cống",
+    "alt": "Mực in phun hạt lớn DOD màu trắng in sắc nét trên bao bì công nghiệp cỡ lớn"
+  },
+  {
+    "id": "bolijie_46",
+    "fileName": "bolijie_dod_large_character_white_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_dod_large_character_white_03.jpg",
+    "category": "DOD_LARGE_CHARACTER",
+    "tag": "dod_large_character_white",
+    "caption": "Mực in phun cỡ lớn DOD màu trắng in logo, thông số quy cách lên thùng carton, bao xi măng và ống cống",
+    "alt": "Mực in phun hạt lớn DOD màu trắng in sắc nét trên bao bì công nghiệp cỡ lớn"
+  },
+  {
+    "id": "bolijie_47",
+    "fileName": "bolijie_lab_testing_facility_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_01.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_48",
+    "fileName": "bolijie_lab_testing_facility_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_02.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_49",
+    "fileName": "bolijie_lab_testing_facility_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_03.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_50",
+    "fileName": "bolijie_lab_testing_facility_04.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_04.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_51",
+    "fileName": "bolijie_lab_testing_facility_05.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_05.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_52",
+    "fileName": "bolijie_lab_testing_facility_06.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_06.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_53",
+    "fileName": "bolijie_lab_testing_facility_07.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_07.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_54",
+    "fileName": "bolijie_lab_testing_facility_08.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_08.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_55",
+    "fileName": "bolijie_lab_testing_facility_09.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_lab_testing_facility_09.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "lab_testing_facility",
+    "caption": "Phòng Lab kiểm định hóa lý, độ nhớt và quang phổ mực in công nghiệp Bolijie & VNPIS",
+    "alt": "Hệ thống thiết bị đo kiểm và phân tích mực in công nghiệp tại phòng Lab"
+  },
+  {
+    "id": "bolijie_56",
+    "fileName": "bolijie_factory_packaging_shipping_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_factory_packaging_shipping_01.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "factory_packaging_shipping",
+    "caption": "Quy trình đóng gói pallet xuất xưởng các lô mực và dung môi công nghiệp đạt chuẩn RoHS / REACH",
+    "alt": "Lô hàng mực in và dung môi công nghiệp đóng thùng sẵn sàng phân phối"
+  },
+  {
+    "id": "bolijie_57",
+    "fileName": "bolijie_factory_packaging_shipping_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_factory_packaging_shipping_02.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "factory_packaging_shipping",
+    "caption": "Quy trình đóng gói pallet xuất xưởng các lô mực và dung môi công nghiệp đạt chuẩn RoHS / REACH",
+    "alt": "Lô hàng mực in và dung môi công nghiệp đóng thùng sẵn sàng phân phối"
+  },
+  {
+    "id": "bolijie_58",
+    "fileName": "bolijie_factory_packaging_shipping_03.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_factory_packaging_shipping_03.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "factory_packaging_shipping",
+    "caption": "Quy trình đóng gói pallet xuất xưởng các lô mực và dung môi công nghiệp đạt chuẩn RoHS / REACH",
+    "alt": "Lô hàng mực in và dung môi công nghiệp đóng thùng sẵn sàng phân phối"
+  },
+  {
+    "id": "bolijie_59",
+    "fileName": "bolijie_factory_packaging_shipping_04.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_factory_packaging_shipping_04.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "factory_packaging_shipping",
+    "caption": "Quy trình đóng gói pallet xuất xưởng các lô mực và dung môi công nghiệp đạt chuẩn RoHS / REACH",
+    "alt": "Lô hàng mực in và dung môi công nghiệp đóng thùng sẵn sàng phân phối"
+  },
+  {
+    "id": "bolijie_60",
+    "fileName": "bolijie_factory_packaging_shipping_05.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_factory_packaging_shipping_05.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "tag": "factory_packaging_shipping",
+    "caption": "Quy trình đóng gói pallet xuất xưởng các lô mực và dung môi công nghiệp đạt chuẩn RoHS / REACH",
+    "alt": "Lô hàng mực in và dung môi công nghiệp đóng thùng sẵn sàng phân phối"
+  },
+  {
+    "id": "bolijie_61",
+    "fileName": "bolijie_halogen_free_alcohol_heat_200_300c_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_halogen_free_alcohol_heat_200_300c_01.jpg",
+    "category": "CIJ_HALOGEN_FREE_HEAT",
+    "tag": "halogen_free_alcohol_heat_200_300c",
+    "caption": "Mực in vi mạch điện tử không halogen (Halogen-Free), chịu nhiệt độ sấy 200°C - 300°C và kháng cồn tuyệt đối",
+    "alt": "Mực in mạch điện tử PCB không halogen chịu nhiệt độ hàn dán linh kiện 300 độ C"
+  },
+  {
+    "id": "bolijie_62",
+    "fileName": "bolijie_grey_ink_white_cable_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_grey_ink_white_cable_01.jpg",
+    "category": "CIJ_CABLE_PIGMENT",
+    "tag": "grey_ink_white_cable",
+    "caption": "Mực xám tương phản cao in trên vỏ dây cáp điện trắng, không bị nhòe nét khi cuộn cuốn tốc độ cao",
+    "alt": "Mực in date màu xám in trên bề mặt vỏ nhựa dây điện trắng"
+  },
+  {
+    "id": "bolijie_63",
+    "fileName": "bolijie_yellow_ink_glass_bottle_01.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_yellow_ink_glass_bottle_01.jpg",
+    "category": "CIJ_GLASS_BOTTLE",
+    "tag": "yellow_ink_glass_bottle",
+    "caption": "Mực vàng pigment in date trên thân chai bia và nước ngọt thủy tinh tối màu chống trầy xước",
+    "alt": "Mực vàng in date trên chai thủy tinh màu xanh lá và nâu hổ phách"
+  },
+  {
+    "id": "bolijie_64",
+    "fileName": "bolijie_yellow_ink_glass_bottle_02.jpg",
+    "webPath": "/images/bolijie/tests/bolijie_yellow_ink_glass_bottle_02.jpg",
+    "category": "CIJ_GLASS_BOTTLE",
+    "tag": "yellow_ink_glass_bottle",
+    "caption": "Mực vàng pigment in date trên thân chai bia và nước ngọt thủy tinh tối màu chống trầy xước",
+    "alt": "Mực vàng in date trên chai thủy tinh màu xanh lá và nâu hổ phách"
+  }
+]
