@@ -12,7 +12,7 @@ category: Ruco
 code: T200
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_21.jpg
+image: /images/real_photos/vnpis_workshop_photo_36.jpg
 ---
 
 Hãng mực in Ruco (Đức) luôn đi đầu trong các tiêu chuẩn an toàn sức khỏe và môi trường. Dòng sản phẩm **Ruco T200** là minh chứng rõ rệt nhất cho triết lý này, được phát triển hoàn toàn dựa trên các nguyên liệu thân thiện sinh thái.
@@ -49,8 +49,8 @@ Mặc dù là mực hữu cơ, Ruco T200 vẫn cho hiệu năng cơ học tuyệ
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Kỹ thuật viên đo kích thước đầu in silicone tampon tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_21.jpg)
-*Đo kích thước đầu in silicone (tampon) chuyên dụng phục vụ công nghệ in tampon tại xưởng VNPIS*
+![Đo kích thước đầu in silicone màu xanh lá bằng thước kẹp tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_36.jpg)
+*Kỹ thuật viên đang dùng thước kẹp đo kích thước thực tế của đầu in silicone màu xanh lá cây tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

@@ -11,7 +11,6 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_24.jpg
 ---
 
 Với hiệu năng vượt trội và các chứng nhận an toàn quốc tế, **Afford KT1** đang bị làm nhái, pha trộn rất nhiều trên thị trường gây ảnh hưởng nghiêm trọng đến các xưởng may xuất khẩu (bị trả hàng do test hóa chất không đạt).
@@ -44,11 +43,6 @@ Liên hệ hotline VNPIS ngay hôm nay để nhận mẫu test thử Afford KT1 
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
-
-
-![Can mực đen công nghiệp SUA INK và chất tăng bám VNPIS tại kho xưởng](/images/real_photos/vnpis_workshop_photo_24.jpg)
-*Bộ sản phẩm mực đen SUA INK 1kg và chất tăng bám Hardener B05 100g của VNPIS dùng cho công nghệ in công nghiệp.*
-
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

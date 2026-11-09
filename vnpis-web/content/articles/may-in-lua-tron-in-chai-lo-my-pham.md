@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: SCREEN
 code: SCREEN-03
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_73.jpg
+image: /images/real_photos/vnpis_workshop_photo_20.jpg
 ---
 
 Bên cạnh [**máy in tampon**](/products/pad-printers) in trên các mặt cong nhỏ, [**máy in lụa**](/products/screen-printers) tròn lại là "bá chủ" khi cần in phủ toàn bộ 360 độ xung quanh thân chai lọ trụ tròn hoặc oval. Đối với bao bì mỹ phẩm, lớp mực in lụa luôn mang lại hiệu ứng thị giác căng bóng, đậm đà và có độ nổi nhẹ (emboss) rất sang trọng.
@@ -43,8 +43,8 @@ Liên hệ 0987 453 866 để đặt mua máy in lụa tròn giá tốt từ VNP
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
 
-![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
-*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
+![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
+*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

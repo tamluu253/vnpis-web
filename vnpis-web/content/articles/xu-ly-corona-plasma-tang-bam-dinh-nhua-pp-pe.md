@@ -8,7 +8,6 @@ category: KỸ THUẬT IN ẤN
 code: ART-SURFACE-CORONA
 author: Chuyên Gia In Ấn VNPIS
 mediaExt: webp
-image: /images/real_photos/vnpis_workshop_photo_23.jpg
 canonical: 'https://vnpis.com/blog/xu-ly-corona-plasma-tang-bam-dinh-nhua-pp-pe'
 ---
 
@@ -31,12 +30,6 @@ Các loại nhựa bán tinh thể như **Polypropylene (PP), Polyethylene (PE, 
 3. **Tăng góc tiếp xúc tĩnh (Wetting Tension)**, giúp hạt mực loang đều và tạo liên kết hóa học bền vững với chất nền.
 
 ---
-
-
-
-![Thẻ test màu mực in công nghiệp tông đỏ cam và thước đo quy đổi kỹ thuật tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_23.jpg)
-*Mẫu test màu mực in công nghiệp trên thẻ thử nghiệm giúp kiểm tra độ phủ, sắc độ và chất lượng mực tại xưởng VNPIS.*
-
 ## 2. So Sánh Các Phương Pháp Xử Lý Bề Mặt Nhựa
 
 | Phương Pháp | Nguyên Lý | Ưu Điểm | Phù Hợp Cho |

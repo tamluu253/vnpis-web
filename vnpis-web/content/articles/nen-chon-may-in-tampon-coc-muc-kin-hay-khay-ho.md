@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-TECH
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_37.jpg
+image: /images/real_photos/vnpis_workshop_photo_45.jpg
 ---
 
 Khi mua sắm thiết bị, câu hỏi khiến nhiều chủ xưởng đau đầu nhất là: **"Nên đầu tư máy in tampon hệ thống Cốc mực kín hay Khay mực hở?"**. Cả hai đều có những ưu điểm riêng phục vụ cho từng mục đích sản xuất.
@@ -27,8 +27,8 @@ Khi mua sắm thiết bị, câu hỏi khiến nhiều chủ xưởng đau đầ
 
 
 
-![Đầu in silicone màu đỏ chuyên dụng cho máy in tampon công nghiệp tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_37.jpg)
-*Kỹ thuật viên VNPIS kiểm tra đầu in silicone (tampon in) màu đỏ dùng trong máy in tampon công nghiệp*
+![Đầu in silicone màu hồng dùng trong kỹ thuật in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_45.jpg)
+*Đầu in silicone màu hồng chuyên dụng cho máy in tampon tại xưởng VNPIS, hiển thị rõ thông số độ cứng trên thân pad.*
 
 ## 2. Hệ thống Cốc Mực Kín (Sealed Ink Cup)
 Công nghệ tiên tiến đang thống trị 90% thị trường máy in tampon hiện nay.

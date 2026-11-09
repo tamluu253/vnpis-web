@@ -19,7 +19,7 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: published
 draft: false
-image: /images/real_photos/vnpis_workshop_photo_73.jpg
+image: /images/real_photos/vnpis_workshop_photo_20.jpg
 mediaExt: .jpg
 tags:
   - lưới in lụa mesh count
@@ -38,9 +38,8 @@ Thực tế ghi nhận qua hơn 10 năm kinh nghiệm xử lý trực tiếp t�
 Bài viết chuyên sâu này được biên soạn bởi **Kỹ Sư Trưởng Lưu Trọng Tâm** cùng đội ngũ kỹ thuật VNPIS nhằm cung cấp một cẩm nang kỹ thuật toàn diện, từ nguyên lý cơ bản, bảng thông số vật lý chính xác, công thức tính toán toán học, đến quy trình thao tác tiêu chuẩn (SOP 5 bước) giúp các kỹ sư cơ điện tử, quản đốc xưởng và thợ in bậc cao làm chủ hoàn toàn công nghệ **lưới in lụa mesh count**.
 
 
-
-![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
-*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
+![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
+*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
 
 ## 2. Phân Tích Cơ Chế Kỹ Thuật Chuyên Sâu & Các Yếu Tố Ảnh Hưởng Cốt Lõi
 

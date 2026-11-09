@@ -14,7 +14,7 @@ category: TIJ
 code: PRG-101
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_tij_cartridge_online_05.jpg
 ---
 
 
@@ -47,8 +47,8 @@ image: /images/real_photos/vnpis_workshop_photo_31.jpg
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa](/images/bolijie/tests/bolijie_tij_cartridge_online_05.jpg)
+*Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

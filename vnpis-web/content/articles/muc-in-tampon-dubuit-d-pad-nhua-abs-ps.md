@@ -10,14 +10,14 @@ category: Dubuit
 code: D-PAD
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_24.jpg
+image: /images/real_photos/vnpis_workshop_photo_08.jpg
 ---
 
 Trong ngành công nghiệp in ấn, việc tìm kiếm một dòng mực bám dính tốt trên các loại nhựa cứng luôn là thách thức lớn. **Mực in Tampon Dubuit D-PAD** được thiết kế đặc biệt để giải quyết triệt để vấn đề này.
 
 ## Tại sao chọn Dubuit D-PAD cho đồ nhựa?
 
-![Hình ảnh minh họa quy trình in gia công Hộ Kinh Doanh VNPIS Solutions](/images/pad-printing-cups.webp)
+
 
 Dubuit D-PAD là dòng mực gốc dung môi (solvent-based) 1 thành phần hoặc 2 thành phần (khi pha thêm chất đóng rắn) mang lại độ linh hoạt cực cao. Mực sở hữu các ưu điểm:
 - **Độ bóng cao (High Gloss)**: Giúp sản phẩm sau khi in có bề mặt mướt, sang trọng.
@@ -61,8 +61,8 @@ Dòng D-PAD thường được các nhà máy lựa chọn để in trên:
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Can mực đen công nghiệp SUA INK và chất tăng bám VNPIS tại kho xưởng](/images/real_photos/vnpis_workshop_photo_24.jpg)
-*Bộ sản phẩm mực đen SUA INK 1kg và chất tăng bám Hardener B05 100g của VNPIS dùng cho công nghệ in công nghiệp.*
+![Các loại đầu in silicone in tampon màu vàng và màu xanh lá cây với nhiều kích thước, hình dáng vòm tròn và hình chữ nhật gắn trên đế gỗ tại xưởng in VNPIS.](/images/real_photos/vnpis_workshop_photo_08.jpg)
+*Các mẫu đầu in silicone (silicone pad) chuyên dụng cho máy in tampon với kiểu dáng vòm tròn và bề mặt cong hình chữ nhật tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

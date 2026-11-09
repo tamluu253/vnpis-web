@@ -12,7 +12,7 @@ category: CIJ
 code: PRG-140
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_packaging_aluminum_plastic_hcm_02.jpg
 ---
 
 
@@ -45,8 +45,8 @@ image: /images/real_photos/vnpis_workshop_photo_31.jpg
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Test thực tế mực in date CIJ trên bề mặt bao dệt PP và chai nhôm công nghiệp](/images/bolijie/tests/bolijie_packaging_aluminum_plastic_hcm_02.jpg)
+*Thử nghiệm độ bám dính mực in date CIJ trên bao dệt PP, chai nhôm và chai nhựa tại TP.HCM*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

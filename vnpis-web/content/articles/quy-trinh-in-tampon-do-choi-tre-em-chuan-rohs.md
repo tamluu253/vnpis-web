@@ -18,7 +18,7 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: published
 draft: false
-image: /images/real_photos/vnpis_workshop_photo_57.jpg
+image: /images/real_photos/vnpis_workshop_photo_76.jpg
 mediaExt: .jpg
 tags:
   - mực in an toàn tiêu chuẩn rohs reach
@@ -30,9 +30,6 @@ tags:
 ---
 
 # Quy Trình In Tampon Đồ Chơi Trẻ Em Đạt Tiêu Chuẩn An Toàn Không Chì RoHS & REACH Xuất Khẩu Mỹ - EU
-
-![Máy in tampon 1-4 màu cốc mực kín VNPIS chuyển giao công nghệ tận xưởng](/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg)
-*Máy in tampon 1-4 màu cốc mực kín VNPIS chuyển giao công nghệ tận xưởng - Hotline hỗ trợ kỹ thuật 24/7: 0987 453 866*
 ## 1. Đặt Vấn Đề Kỹ Thuật & Tầm Quan Trọng Của "mực in an toàn tiêu chuẩn rohs reach" Trong Sản Xuất B2B
 
 Trong kỷ nguyên tự động hóa sản xuất công nghiệp hiện đại, việc tối ưu hóa quy trình liên quan đến **mực in an toàn tiêu chuẩn rohs reach** đóng vai trò then chốt quyết định trực tiếp đến năng suất dây chuyền, tỷ lệ lỗi sản phẩm (Defect Rate) và tổng chi phí vận hành (TCO) của các nhà máy sản xuất, xưởng in thương mại và doanh nghiệp gia công OEM.
@@ -40,9 +37,8 @@ Thực tế ghi nhận qua hơn 10 năm kinh nghiệm xử lý trực tiếp t�
 Bài viết chuyên sâu này được biên soạn bởi **Kỹ Sư Trưởng Lưu Trọng Tâm** cùng đội ngũ kỹ thuật VNPIS nhằm cung cấp một cẩm nang kỹ thuật toàn diện, từ nguyên lý cơ bản, bảng thông số vật lý chính xác, công thức tính toán toán học, đến quy trình thao tác tiêu chuẩn (SOP 5 bước) giúp các kỹ sư cơ điện tử, quản đốc xưởng và thợ in bậc cao làm chủ hoàn toàn công nghệ **mực in an toàn tiêu chuẩn rohs reach**.
 
 
-
-![Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_57.jpg)
-*Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS*
+![Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_76.jpg)
+*Cận cảnh đầu in silicone màu hồng dùng trong công nghệ in tampon tại xưởng VNPIS*
 
 ## 2. Phân Tích Cơ Chế Kỹ Thuật Chuyên Sâu & Các Yếu Tố Ảnh Hưởng Cốt Lõi
 
@@ -103,9 +99,6 @@ Vào tháng 06/2026, xưởng sản xuất linh kiện điện tử phụ trợ 
 1. Năng lượng bề mặt của lớp mạ crom chỉ đạt 34 dynes/cm (dưới ngưỡng tối thiểu 42 dynes/cm) do dư lượng dầu bôi trơn khuôn ép.
 2. Sử dụng đầu in silicon thông thường có độ cứng Shore 60A quá cao làm kẹt bóng khí tại góc bo R = 1.2 mm.
 **Giải pháp khắc phục của VNPIS:** Tích hợp đầu khò Plasma lạnh xử lý online đạt 46 dynes/cm, chuyển sang sử dụng Silicon Pad hình nón Shore 40A và mực chuyên dụng Henkey PET8000 pha Hardener 8000B tỷ lệ 10:1. Kết quả sau 4 giờ tinh chỉnh: Tỷ lệ lỗi giảm xuống **0.02%**, độ bám dính đạt chuẩn ASTM D3359 5B sau khi test cồn 90 độ 200 lần, giúp nhà máy kịp tiến độ giao hàng xuất khẩu.
-![Đo kiểm thực tế tại xưởng VNPIS](/images/machinery/pad-printer-se-125b-closed-cup-vnpis.jpg)
-*Quy trình kiểm tra độ bám dính và sắc nét quang học tại Xưởng Kỹ Thuật VNPIS Bình Chánh.*
-
 > 📸 **Kho Tư Liệu Thực Tế Xưởng & Phòng Lab VNPIS:** Quý khách có thể xem thêm hình ảnh đo kiểm, thiết bị Cosota và video vận hành thực tế tại [Album Google Photos Kỹ Thuật VNPIS](https://photos.app.goo.gl/kPD1SGCep48iNQFj9).
 
 ## 7. Giải Đáp Các Câu Hỏi Thường Gặp Của Chuyên Gia & Khách Hàng B2B (FAQ)

@@ -11,7 +11,7 @@ category: CIJ
 code: PRG-132
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_k1_general_industry_01.jpg
 ---
 
 
@@ -44,8 +44,8 @@ image: /images/real_photos/vnpis_workshop_photo_31.jpg
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Hệ mực in date CIJ K1 nhanh khô bám dính tốt trên nhựa và kim loại](/images/bolijie/tests/bolijie_k1_general_industry_01.jpg)
+*Mực in phun CIJ công nghiệp đa năng K1 tương thích các dòng máy Videojet, Linx, Domino*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-02
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_17.jpg
+image: /images/real_photos/vnpis_workshop_photo_07.jpg
 ---
 
 Thị trường quà tặng doanh nghiệp đang phát triển mạnh mẽ, trong đó bút bi in logo là sản phẩm phổ biến nhất. Để đáp ứng nhu cầu in ấn số lượng lớn trong thời gian ngắn, máy in tampon mini 1 màu giá rẻ chính là "vũ khí" bí mật của các xưởng gia công.
@@ -43,8 +43,8 @@ Nếu bạn đang muốn khởi nghiệp ngành quà tặng với số vốn m�
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Cốc mực từ tính máy in tampon trang bị vòng gạt mực ceramic và hợp kim thép chuyên dụng](/images/real_photos/vnpis_workshop_photo_17.jpg)
-*Các mẫu cốc mực từ tính chuyên dụng cho máy in tampon trang bị vòng gạt mực bằng sứ ceramic và thép hợp kim chịu mòn tại VNPIS.*
+![Cận cảnh các đầu in silicone màu hồng dùng trong công nghệ in tampon với nhiều hình dạng khác nhau tại VNPIS](/images/real_photos/vnpis_workshop_photo_07.jpg)
+*Các cụm đầu in silicone (nấm tampon) màu hồng dạng tròn và chữ nhật gắn đế gỗ dùng cho máy in tampon tại xưởng kỹ thuật VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

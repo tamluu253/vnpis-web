@@ -12,7 +12,7 @@ category: Máy In Tampon (PAD)
 code: PAD-1COLOR
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_52.jpg
+image: /images/real_photos/vnpis_workshop_photo_54.jpg
 ---
 
 Trong bối cảnh ngành F&B (trà sữa, cà phê) phát triển mạnh mẽ, nhu cầu in logo lên ly nhựa dùng một lần, chai lọ mỹ phẩm ngày càng tăng cao. Đầu tư một chiếc **Máy in tampon 1 màu** chính là bước đi thông minh nhất để các xưởng in tối ưu hóa lợi nhuận.
@@ -66,8 +66,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đo kích thước đầu in tampon silicone bằng thước kẹp cơ khí tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_52.jpg)
-*Sử dụng thước kẹp cơ khí để đo kích thước thực tế của đầu in silicone màu xanh lá dùng trong máy in tampon tại xưởng VNPIS.*
+![Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_54.jpg)
+*Đầu in silicone màu hồng dùng trong công nghệ in tampon tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

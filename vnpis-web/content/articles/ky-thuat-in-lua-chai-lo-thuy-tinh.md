@@ -8,7 +8,7 @@ category: KỸ THUẬT IN LỤA
 code: ART-SCREEN-GLASS
 author: Chuyên Gia In Ấn VNPIS
 mediaExt: webp
-image: /images/real_photos/vnpis_workshop_photo_20.jpg
+image: /images/real_photos/vnpis_workshop_photo_73.jpg
 canonical: 'https://vnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh'
 ---
 
@@ -31,9 +31,8 @@ Khác với in phẳng, chai lọ thủy tinh có hình trụ tròn hoặc hình
 ---
 
 
-
-![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
-*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
+![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
+*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
 
 ## 2. Giải Pháp Mực In Lụa Cho Thủy Tinh
 

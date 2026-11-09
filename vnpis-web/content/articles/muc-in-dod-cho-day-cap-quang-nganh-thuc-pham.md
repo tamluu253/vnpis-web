@@ -13,6 +13,7 @@ category: DOD
 code: PRG-112
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/bolijie/tests/bolijie_tw1_grey_pigment_05.jpg
 ---
 
 
@@ -42,6 +43,11 @@ author: VNPIS Engineering Team
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+![Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao](/images/bolijie/tests/bolijie_tw1_grey_pigment_05.jpg)
+*Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật*
+
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

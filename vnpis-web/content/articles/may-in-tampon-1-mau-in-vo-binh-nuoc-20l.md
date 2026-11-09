@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-05
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_41.jpg
+image: /images/real_photos/vnpis_workshop_photo_11.jpg
 ---
 
 Các cơ sở sản xuất nước uống đóng bình 20L thường gặp khó khăn khi muốn in logo thương hiệu hoặc thông tin thay đổi (NSX, HSD) trực tiếp lên bề mặt nhựa PET/PC cong của vỏ bình. Decal dán thường bị bong tróc khi vận chuyển hoặc cọ rửa. Giải pháp vĩnh cửu chính là sử dụng [**máy in tampon 1 màu**](/products/pad-printers/hj) giá rẻ.
@@ -43,8 +43,8 @@ VNPIS hiện đang phân phối các hệ thống máy in tampon (pad printer) 1
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu đỏ dùng cho máy in tampon pad printing công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_41.jpg)
-*Cận cảnh đầu in silicone (cục tampon) màu đỏ dạng khối vòm chữ nhật chuyên dụng cho máy in tampon tại xưởng VNPIS.*
+![Kỹ sư đo kích thước cục silicone in tampon màu đỏ bằng thước kẹp cơ khí chính xác tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_11.jpg)
+*Đo kích thước bề rộng đầu in silicone tampon màu đỏ bằng thước kẹp cơ khí tại xưởng kỹ thuật VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

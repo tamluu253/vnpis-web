@@ -14,6 +14,7 @@ category: UV
 code: PRG-131
 mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/bolijie/tests/bolijie_dod_large_character_white_01.jpg
 ---
 
 
@@ -43,6 +44,11 @@ author: VNPIS Engineering Team
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+![Mực in phun hạt lớn DOD màu trắng in sắc nét trên bao bì công nghiệp cỡ lớn](/images/bolijie/tests/bolijie_dod_large_character_white_01.jpg)
+*Mực in phun cỡ lớn DOD màu trắng in logo, thông số quy cách lên thùng carton, bao xi măng và ống cống*
+
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

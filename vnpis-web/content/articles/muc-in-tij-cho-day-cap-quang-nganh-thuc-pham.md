@@ -14,7 +14,7 @@ category: TIJ
 code: PRG-138
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_tw1_grey_pigment_01.jpg
 ---
 
 
@@ -47,8 +47,8 @@ image: /images/real_photos/vnpis_workshop_photo_31.jpg
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao](/images/bolijie/tests/bolijie_tw1_grey_pigment_01.jpg)
+*Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

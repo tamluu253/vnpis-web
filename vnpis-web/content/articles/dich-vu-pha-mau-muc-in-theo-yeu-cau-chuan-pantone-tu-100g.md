@@ -11,6 +11,7 @@ code: PHA MÀU PANTONE
 author: VNPIS Industrial Equipment & Solutions
 canonical: >-
   https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g
+image: /images/real_photos/vnpis_workshop_photo_53.jpg
 ---
 
 # Dịch Vụ Pha Màu Mực In Theo Yêu Cầu Từ 100g Chuẩn Pantone | Công Nghệ 3NH ST-700D Plus
@@ -33,6 +34,10 @@ Khác biệt hoàn toàn với các dòng máy so màu cầm tay thông thườn
 - **Đo trực tiếp trên mẫu thực tế của khách hàng:** Khách hàng chỉ cần gửi mẫu vải, mẫu nhựa, mảnh giấy, nắp chai hay phôi sản phẩm, máy sẽ đọc chính xác dữ liệu màu sắc CIE L*a*b* để pha màu tương đồng 1:1.
 
 ---
+
+
+![Thao tác so sánh độ chuẩn màu mực in trên thẻ quết mẫu với quạt màu Pantone tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_53.jpg)
+*Kỹ thuật viên VNPIS thực hiện so sánh màu mực in quết mẫu thực tế với cây màu chuẩn Pantone (PANTONE 533 C / 534 C) để đảm bảo độ chính xác màu sắc.*
 
 ## 2. Các Hệ Mực VNPIS Nhận Pha Theo Yêu Cầu
 

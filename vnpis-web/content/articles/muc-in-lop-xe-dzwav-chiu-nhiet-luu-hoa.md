@@ -11,7 +11,7 @@ category: DOD
 code: DZWAV
 mediaExt: mp4
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_twav_vulcanization_acid_alkali_01.jpg
 ---
 
 
@@ -67,8 +67,8 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
 
 
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Mực in lốp xe cao su TWAV chịu nhiệt lưu hóa và kháng hóa chất axit kiềm](/images/bolijie/tests/bolijie_twav_vulcanization_acid_alkali_01.jpg)
+*Mực trắng TWAV in lốp xe và cao su chịu nhiệt độ lưu hóa 200°C, kháng dung dịch axit và kiềm mạnh*
 
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 

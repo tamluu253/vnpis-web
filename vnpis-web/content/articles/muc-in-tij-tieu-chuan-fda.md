@@ -11,7 +11,7 @@ category: TIJ
 code: FOOD-TIJ
 mediaExt: jpg
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_k12_retort_sterilization_non_migrating_01.jpg
 ---
 
 
@@ -68,8 +68,8 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Mực in CIJ K12 chịu nhiệt hấp tiệt trùng autoclave 121 độ C không phai](/images/bolijie/tests/bolijie_k12_retort_sterilization_non_migrating_01.jpg)
+*Mực in date K12 chịu nhiệt độ hấp tiệt trùng 121°C trong 60 phút, tuyệt đối không di chuyển hay lem màng bao bì*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-08
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_14.jpg
+image: /images/real_photos/vnpis_workshop_photo_06.jpg
 ---
 
 Bóng đèn LED là sản phẩm tiêu dùng thiết yếu, đòi hỏi thông số kỹ thuật (công suất, điện áp) phải được in rõ ràng lên phần bầu nhựa hoặc đui nhôm. Tuy nhiên, nhiệt độ tỏa ra khi đèn sáng rất cao, đòi hỏi mực in phải bám chắc và chịu nhiệt tốt. [**Máy in tampon 1 màu**](/products/pad-printers/hj) giá rẻ chính là lời giải hoàn hảo.
@@ -43,8 +43,8 @@ VNPIS cung cấp giải pháp trọn gói bao gồm máy in tampon 1 màu giá r
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đo đạc kích thước đầu in silicone dùng trong máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_14.jpg)
-*Kỹ thuật viên đang dùng thước kẹp điện tử đo kích thước của đầu in silicone màu hồng tại xưởng VNPIS.*
+![Cụm các đầu in silicone màu hồng hình tròn tròn đế gỗ phục vụ công nghệ in tampon pad printing VNPIS](/images/real_photos/vnpis_workshop_photo_06.jpg)
+*Cận cảnh các đầu in silicone màu hồng dạng vòm tròn gắn đế gỗ chuyên dụng cho máy in tampon tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

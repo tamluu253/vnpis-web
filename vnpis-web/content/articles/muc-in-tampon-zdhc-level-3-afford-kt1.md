@@ -11,7 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_37.jpg
+image: /images/real_photos/vnpis_workshop_photo_57.jpg
 ---
 
 Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siết chặt quản lý chuỗi cung ứng bằng các tiêu chuẩn xanh, tiêu biểu là **ZDHC (Zero Discharge of Hazardous Chemicals)**. Việc sử dụng nguyên vật liệu đạt ZDHC Level 3 là bắt buộc.
@@ -44,8 +44,8 @@ Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siế
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu đỏ chuyên dụng cho máy in tampon công nghiệp tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_37.jpg)
-*Kỹ thuật viên VNPIS kiểm tra đầu in silicone (tampon in) màu đỏ dùng trong máy in tampon công nghiệp*
+![Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_57.jpg)
+*Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

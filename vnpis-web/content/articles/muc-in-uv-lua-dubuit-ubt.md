@@ -11,7 +11,6 @@ category: Dubuit
 code: UBT
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_73.jpg
 ---
 
 Trong ngành sản xuất bao bì nhựa (tuýp mỹ phẩm, chai lọ PE, PP), in lụa UV là tiêu chuẩn vàng. **Dubuit UBT** là dòng mực in lụa UV được thiết kế riêng cho các hệ thống máy in tự động tốc độ cao.
@@ -44,11 +43,6 @@ Trong ngành sản xuất bao bì nhựa (tuýp mỹ phẩm, chai lọ PE, PP), 
 | **Góc nghiêng dao gạt** | 65° - 75° so với mặt phẳng bản in | Tối ưu lực ép truyền mực xuyên qua mắt lưới |
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
-
-
-![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
-*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
-
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 
 1. **Chuẩn bị và căng khung lụa:** Sử dụng khung nhôm định hình chống vặn xoắn. Căng lưới bằng máy kéo khí nén đa điểm, dán keo 2 thành phần chuyên dụng chịu hóa chất tẩy rửa.

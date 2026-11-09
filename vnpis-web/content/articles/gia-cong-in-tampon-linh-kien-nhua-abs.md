@@ -10,7 +10,7 @@ category: GIẢI PHÁP IN TAMPON
 code: ART-PAD-ABS
 author: Chuyên Gia In Ấn VNPIS
 mediaExt: webp
-image: /images/real_photos/vnpis_workshop_photo_57.jpg
+image: /images/real_photos/vnpis_workshop_photo_33.jpg
 canonical: 'https://vnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs'
 ---
 
@@ -32,8 +32,8 @@ Công ty TNHH VNPIS cung cấp giải pháp **gia công in Tampon (Pad Printing)
 ---
 
 
-![Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_57.jpg)
-*Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS*
+![Đầu in silicone màu xanh lá chuyên dụng cho máy in tampon tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_33.jpg)
+*Hai đầu in silicone (tampon) màu xanh lá cây dùng trong công nghệ in tampon (pad printing) tại xưởng VNPIS.*
 
 ## 2. Quy Trình Kỹ Thuật Gia Công In Tampon Nhựa ABS Tại VNPIS
 

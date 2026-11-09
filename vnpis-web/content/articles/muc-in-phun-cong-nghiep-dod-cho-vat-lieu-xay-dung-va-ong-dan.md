@@ -10,7 +10,7 @@ code: DOD-MASTER
 author: Kỹ sư Trưởng Xưởng In VNPIS
 canonical: >-
   https://vnpis.com/blog/muc-in-phun-cong-nghiep-dod-cho-vat-lieu-xay-dung-va-ong-dan
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_dod_large_character_white_01.jpg
 ---
 
 # Mực In Phun Công Nghiệp DOD Cho Vật Liệu Xây Dựng, Ống Dẫn & Bao Bì Khổ Lớn
@@ -32,9 +32,8 @@ image: /images/real_photos/vnpis_workshop_photo_31.jpg
 ---
 
 
-
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Mực in phun hạt lớn DOD màu trắng in sắc nét trên bao bì công nghiệp cỡ lớn](/images/bolijie/tests/bolijie_dod_large_character_white_01.jpg)
+*Mực in phun cỡ lớn DOD màu trắng in logo, thông số quy cách lên thùng carton, bao xi măng và ống cống*
 
 ## 2. Vì Sao Ngành Công Nghiệp Nặng Cần Sử Dụng Đầu In & Mực DOD?
 - **Khoảng cách bắn xa (Lên tới 30mm - 50mm):** Giúp đầu phun tránh hoàn toàn va chạm khi phôi in bị cong vênh, rung lắc mạnh trên dây chuyền đùn ống hoặc cán thép.

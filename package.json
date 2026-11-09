@@ -7,7 +7,11 @@
     "build": "npm --prefix vnpis-web run build",
     "vercel-build": "npm --prefix vnpis-web run build",
     "start": "npm --prefix vnpis-web run start",
-    "lint": "npm --prefix vnpis-web run lint"
+    "lint": "npm --prefix vnpis-web run lint",
+    "publish:today": "node scripts/marketing_ai/daily_publisher_vnpis.js --today",
+    "publish:week": "node scripts/marketing_ai/daily_publisher_vnpis.js --next-days=7",
+    "publish:month": "node scripts/marketing_ai/daily_publisher_vnpis.js --next-days=30",
+    "sync:photos": "node scripts/marketing_ai/sync_google_photos.js"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",

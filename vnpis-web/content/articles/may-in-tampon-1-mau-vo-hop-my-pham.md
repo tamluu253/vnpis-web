@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-07
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_45.jpg
+image: /images/real_photos/vnpis_workshop_photo_14.jpg
 ---
 
 Trong ngành mỹ phẩm, bao bì quyết định 50% sự thành công của sản phẩm. Các thỏi son, lọ kem dưỡng, hộp phấn thường có hình khối trụ tròn, oval hoặc các góc bo tròn phức tạp. Để in logo vàng gold, bạc hay đen sắc sảo lên các bề mặt này, [**máy in tampon 1 màu**](/products/pad-printers/hj) là thiết bị duy nhất có thể đảm nhiệm xuất sắc.
@@ -43,8 +43,8 @@ Nếu bạn là đơn vị sản xuất hoặc sang chiết mỹ phẩm, đừng
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu hồng dùng trong kỹ thuật in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_45.jpg)
-*Đầu in silicone màu hồng chuyên dụng cho máy in tampon tại xưởng VNPIS, hiển thị rõ thông số độ cứng trên thân pad.*
+![Đo đạc kích thước đầu in silicone dùng trong máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_14.jpg)
+*Kỹ thuật viên đang dùng thước kẹp điện tử đo kích thước của đầu in silicone màu hồng tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

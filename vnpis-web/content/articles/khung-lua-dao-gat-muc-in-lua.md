@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-04
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_20.jpg
+image: /images/real_photos/vnpis_workshop_photo_73.jpg
 ---
 
 Để có một bản in lụa đẹp, ngoài máy in và mực, bạn cần một hệ thống khung và dao gạt đạt chuẩn. Lưới in chùng hoặc dao gạt bị mẻ sẽ lập tức gây ra hiện tượng lem viền, răng cưa.
@@ -43,8 +43,8 @@ Chúng tôi cung cấp trọn gói vật tư cho các xưởng in mới mở v�
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
 
-![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
-*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
+![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
+*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

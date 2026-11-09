@@ -11,7 +11,6 @@ category: CIJ
 code: GREEN
 mediaExt: jpg
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
 ---
 
 
@@ -66,11 +65,6 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Kích thước hạt mực (Drop Size)** | 40 - 60 micron (Hạt mực siêu mịn) | Nét in ma trận Dot Matrix hoặc mã QR Code 2D siêu nét |
 | **Độ nhớt chuẩn (Viscosity)** | 3.2 - 4.8 cP (Tại 20°C kiểm soát tự động) | Ngăn ngừa đóng cặn, nghẹt béc phun khi ngừng ca máy |
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
-
-
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
-
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 
 1. **Khởi động và xả súc béc phun (Auto-Flush):** Kích hoạt chu trình vệ sinh béc phun bằng dung môi tinh khiết trước khi bật áp suất nén tia mực, loại bỏ tinh thể mực bám khô ở miệng nozzle.

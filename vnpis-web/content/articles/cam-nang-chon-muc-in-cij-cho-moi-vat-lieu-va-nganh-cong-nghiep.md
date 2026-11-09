@@ -11,7 +11,7 @@ code: CIJ-ALL
 author: Kỹ sư Trưởng Xưởng In VNPIS
 canonical: >-
   https://vnpis.com/blog/cam-nang-chon-muc-in-cij-cho-moi-vat-lieu-va-nganh-cong-nghiep
-image: /images/real_photos/vnpis_workshop_photo_31.jpg
+image: /images/bolijie/tests/bolijie_k1_general_industry_01.jpg
 ---
 
 # Cẩm Nang Chọn Mực In CIJ Cho Mọi Bề Mặt Vật Liệu & Tiêu Chuẩn Ngành Công Nghiệp
@@ -36,9 +36,8 @@ Dưới đây là bảng thông số kỹ thuật tiêu chuẩn được kiểm 
 ---
 
 
-
-![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
-*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+![Hệ mực in date CIJ K1 nhanh khô bám dính tốt trên nhựa và kim loại](/images/bolijie/tests/bolijie_k1_general_industry_01.jpg)
+*Mực in phun CIJ công nghiệp đa năng K1 tương thích các dòng máy Videojet, Linx, Domino*
 
 ## 2. Các Tiêu Chuẩn Kỹ Thuật Bắt Buộc Khi Lựa Chọn Mực CIJ Cho Dây Chuyền
 

@@ -11,7 +11,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-01
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_25.jpg
+image: /images/real_photos/vnpis_workshop_photo_08.jpg
 ---
 
 Bản thép (Cliche) là linh hồn của phương pháp in tampon. Một bản thép bị ăn mòn không đều hoặc độ sâu không chuẩn sẽ khiến mực lên không đều, nhòe nét hoặc mờ lợt. Thay vì sử dụng phương pháp ăn mòn axit truyền thống gây ô nhiễm và thiếu chính xác, [**VNPIS**](/) áp dụng công nghệ khắc bản thép bằng tia Laser Fiber tiên tiến nhất.
@@ -44,8 +44,8 @@ Bạn chỉ cần gửi file vector (AI, Corel), VNPIS sẽ gia công và giao b
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Cận cảnh 3 đầu in silicone tampon màu xanh chữ nhật gắn đế gỗ dùng trong công nghệ in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_25.jpg)
-*Cụm đầu in silicone màu xanh lá cây dạng hình chữ nhật chuyên dụng cho máy in tampon tại xưởng VNPIS.*
+![Các loại đầu in silicone in tampon màu vàng và màu xanh lá cây với nhiều kích thước, hình dáng vòm tròn và hình chữ nhật gắn trên đế gỗ tại xưởng in VNPIS.](/images/real_photos/vnpis_workshop_photo_08.jpg)
+*Các mẫu đầu in silicone (silicone pad) chuyên dụng cho máy in tampon với kiểu dáng vòm tròn và bề mặt cong hình chữ nhật tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

@@ -11,7 +11,6 @@ category: Kiến Thức In Ấn
 code: PLASTIC-INK-HUB
 mediaExt: jpg
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_64.jpg
 ---
 
 Trong ngành gia công in ấn phôi nhựa và bao bì công nghiệp, **ABS, PP, PE và HDPE** là 4 nhóm vật liệu nhựa chiếm hơn 85% tổng lượng sản xuất. Mỗi chất liệu nhựa sở hữu đặc tính hóa lý, cấu trúc chuỗi Polymer và năng lượng bề mặt (Surface Energy in Dyne/cm) hoàn toàn khác nhau. Việc dùng sai loại **mực in nhựa** sẽ dẫn đến hậu quả nghiêm trọng: mực bị bong tróc hàng loạt, sản phẩm bị trả về và thiệt hại kinh tế lớn cho xưởng in.
@@ -34,11 +33,6 @@ Bài viết này **In Ấn VNPIS** tổng hợp bảng so sánh chuyên sâu, gi
 | **Sản phẩm bổ trợ bám dính** | [Nước xử lý bề mặt PP/HDPE/EVA/INOX](/blog/nuoc-xu-ly-be-mat-pp-hdpe-eva-inox-kim-loai) | [Nước xử lý PP/HDPE](/blog/nuoc-xu-ly-be-mat-pp-hdpe-eva-inox-kim-loai) | [Nước xử lý HDPE/Inox](/blog/nuoc-xu-ly-be-mat-pp-hdpe-eva-inox-kim-loai) |
 
 ---
-
-
-
-![Chai chứa chất tăng bám Hardener L05 và hóa chất phụ gia in ấn công nghiệp tại kho VNPIS](/images/real_photos/vnpis_workshop_photo_64.jpg)
-*Hai chai nhựa chứa chất đóng rắn tăng bám (Hardener L05) dùng trong quy trình pha chế mực in công nghiệp tại xưởng VNPIS*
 
 ## 2. Giải Pháp Chọn Mực In & Phụ Gia Trợ Bám Cho Từng Chất Liệu Nhựa
 

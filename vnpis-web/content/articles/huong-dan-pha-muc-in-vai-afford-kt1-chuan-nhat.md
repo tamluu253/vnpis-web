@@ -11,7 +11,7 @@ category: Afford
 code: KT1
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_24.jpg
+image: /images/real_photos/vnpis_workshop_photo_57.jpg
 ---
 
 Để phát huy tối đa công năng của dòng [**mực in Tagless**](/products/consumables/inks) cao cấp **Afford KT1**, kỹ thuật pha mực (Mix ratio) đóng vai trò quyết định. Dưới đây là hướng dẫn từ chuyên gia VNPIS.
@@ -50,8 +50,8 @@ Mực Afford KT1 là mực 2 thành phần (2K). Tỷ lệ khuyến nghị:
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Can mực đen công nghiệp SUA INK và chất tăng bám VNPIS tại kho xưởng](/images/real_photos/vnpis_workshop_photo_24.jpg)
-*Bộ sản phẩm mực đen SUA INK 1kg và chất tăng bám Hardener B05 100g của VNPIS dùng cho công nghệ in công nghiệp.*
+![Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_57.jpg)
+*Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

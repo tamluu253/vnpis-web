@@ -11,7 +11,7 @@ category: Máy In Tampon (PAD)
 code: PAD-PRICE
 mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_54.jpg
+image: /images/real_photos/vnpis_workshop_photo_30.jpg
 ---
 
 Chi phí đầu tư luôn là yếu tố sống còn khi quyết định mở rộng quy mô xưởng in. Bài viết này sẽ giúp bạn hình dung bức tranh tổng quan về **Báo giá máy in Tampon** công nghiệp trên thị trường hiện nay.
@@ -63,8 +63,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_54.jpg)
-*Đầu in silicone màu hồng dùng trong công nghệ in tampon tại xưởng VNPIS*
+![Đầu in silicone màu hồng dùng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_30.jpg)
+*Các đầu in silicone (tampon pad) màu hồng chuyên dụng gắn trên đế gỗ tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

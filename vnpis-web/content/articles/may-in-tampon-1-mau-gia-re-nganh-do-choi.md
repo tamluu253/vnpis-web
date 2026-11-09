@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-03
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_26.jpg
+image: /images/real_photos/vnpis_workshop_photo_18.jpg
 ---
 
 Ngành sản xuất đồ chơi trẻ em luôn đặt ra những yêu cầu khắt khe về độ an toàn và tính thẩm mỹ. Đặc thù của đồ chơi là hình dáng đa dạng, nhiều góc cạnh và bề mặt cong lồi lõm. Máy in tampon (pad printer) 1 màu giá rẻ là giải pháp số một để giải quyết bài toán in ấn họa tiết (như mắt, mũi, miệng búp bê, logo xe đồ chơi) lên các sản phẩm này.
@@ -43,8 +43,8 @@ Tại VNPIS, chúng tôi cung cấp các cấu hình máy in tampon 1 màu giá 
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đo kích thước đầu in silicone máy in tampon bằng thước kẹp cơ khí tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_26.jpg)
-*Kỹ thuật viên đang dùng thước kẹp để đo kích thước thực tế của đầu in silicone hồng dùng trong máy in tampon tại xưởng VNPIS.*
+![Đo kích thước chiều rộng 48.9mm của cục in silicone màu hồng bằng thước kẹp điện tử tại xưởng in tampon VNPIS](/images/real_photos/vnpis_workshop_photo_18.jpg)
+*Kỹ thuật viên VNPIS dùng thước kẹp điện tử kiểm tra kích thước đầu in silicone (tampon) màu hồng đạt 48.9mm.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

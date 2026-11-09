@@ -11,7 +11,7 @@ description: >-
   Trong ngành sản xuất và gia công in ấn công nghiệp 2026, bên cạnh thiết bị máy
   móc hiện đại, việc trang bị Trọn bộ Combo Vật tư in Tampon Pad...
 is_duplicate_rollup: true
-image: /images/real_photos/vnpis_workshop_photo_49.jpg
+image: /images/real_photos/vnpis_workshop_photo_80.jpg
 ---
 
 # Bảng Chọn Độ Cứng Đầu Tampon Silicon (Shore 30A - 60A) Theo Phôi In - VNPIS Equipment & Full Combo Vật Tư (vnpis.com)
@@ -40,8 +40,8 @@ Trong ngành sản xuất và gia công in ấn công nghiệp 2026, bên cạnh
 
 
 
-![Bàn gá in tampon và đồ gá nhôm định vị sản phẩm tại xưởng kỹ thuật in ấn VNPIS](/images/real_photos/vnpis_workshop_photo_49.jpg)
-*Các chi tiết đồ gá và bàn gá định vị bằng nhôm gia công chính xác dùng trong quy trình in tampon tại xưởng VNPIS.*
+![Đo kích thước độ dày đệm in silicone tampon màu nâu bằng thước kẹp điện tử chính xác tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_80.jpg)
+*Đo kiểm kích thước độ dày đệm in silicone tampon (phân loại mẫu OLD và NEW) bằng thước kẹp điện tử tại xưởng VNPIS.*
 
 ## 2. Ưu Thế Khi Sử Dụng Full Combo Vật Tư Nhập Khẩu VNPIS
 
