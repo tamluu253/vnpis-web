@@ -12,7 +12,7 @@ category: CIJ
 code: K12
 mediaExt: mp4
 author: VNPIS Engineering Team
-image: /images/bolijie/tests/bolijie_k12_retort_sterilization_non_migrating_01.jpg
+image: /images/bolijie/tests/bolijie_plastic_bag_boiling_100c_90min_01.png
 ---
 
 
@@ -69,8 +69,8 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![Mực in CIJ K12 chịu nhiệt hấp tiệt trùng autoclave 121 độ C không phai](/images/bolijie/tests/bolijie_k12_retort_sterilization_non_migrating_01.jpg)
-*Mực in date K12 chịu nhiệt độ hấp tiệt trùng 121°C trong 60 phút, tuyệt đối không di chuyển hay lem màng bao bì*
+![Mực in date chịu luộc sôi 100 độ C trong 90 phút trên màng nhựa thực phẩm](/images/bolijie/tests/bolijie_plastic_bag_boiling_100c_90min_01.png)
+*Kiểm nghiệm độ bền mực in trên túi nhựa chịu luộc trong nước sôi 100°C liên tục suốt 90 phút*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

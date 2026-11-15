@@ -10,9 +10,8 @@ description: >-
 date: '2026-07-17T03:34:04.870Z'
 category: Dubuit
 code: MG-PAD
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_25.jpg
+image: /images/real_photos/vnpis_workshop_photo_134.jpg
 ---
 
 Thủy tinh (Kính) và Kim loại là những bề mặt có sức căng bề mặt rất thấp, nhẵn bóng khiến mực in thông thường không thể bám dính. **Dubuit MG-PAD** được sinh ra để chuyên trị hai vật liệu "khó nhằn" này.
@@ -52,8 +51,8 @@ MG-PAD vượt qua các bài kiểm tra khắc nghiệt nhất về độ bám d
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Cận cảnh 3 đầu in silicone tampon màu xanh chữ nhật gắn đế gỗ dùng trong công nghệ in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_25.jpg)
-*Cụm đầu in silicone màu xanh lá cây dạng hình chữ nhật chuyên dụng cho máy in tampon tại xưởng VNPIS.*
+![Các mẫu mực in công nghiệp và kết quả thử màu trên giấy tại phòng quản lý vật tư xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_134.jpg)
+*Các lọ mực in công nghiệp màu vàng và đỏ đang được kiểm tra độ nhớt và sắc độ trên sổ nhật ký sản xuất tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

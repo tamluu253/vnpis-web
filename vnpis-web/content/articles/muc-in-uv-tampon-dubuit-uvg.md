@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-17T03:34:04.870Z'
 category: Dubuit
 code: UVG
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_02.jpg
+image: /images/real_photos/vnpis_workshop_photo_174.jpg
 ---
 
 Công nghệ in UV đang dần thay thế in mực gốc dung môi nhờ tính thân thiện với môi trường và tốc độ vượt trội. **Dubuit UVG** là dòng mực in Tampon UV cao cấp đến từ Pháp, mang công nghệ hiện đại này vào dây chuyền của bạn.
@@ -49,8 +48,8 @@ Dubuit UVG phù hợp in trên các vật liệu nhựa (ABS, PC, PS, PVC), th�
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Máy in tampon để bàn Easy Print tích hợp bảng điều khiển điện tử và bàn gá định vị sản phẩm tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_02.jpg)
-*Máy in tampon (pad printing) để bàn dòng Easy Print với hệ thống bàn gá cơ khí điều chỉnh đa hướng tại xưởng VNPIS.*
+![Chai mực in UV 1 lít thương hiệu VNPIS mã E9000 màu đen dùng cho máy in phun công nghiệp tại xưởng](/images/real_photos/vnpis_workshop_photo_174.jpg)
+*Chai mực in UV màu đen (Black-E9000) dung tích 1 lít được cung cấp bởi VNPIS, dùng cho các dòng máy in phun công nghiệp.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

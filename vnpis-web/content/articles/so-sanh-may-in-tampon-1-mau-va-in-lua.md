@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-10
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_62.jpg
+image: /images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg
 ---
 
 Nhiều xưởng in mới thành lập thường phân vân giữa việc đầu tư [**máy in tampon 1 màu**](/products/pad-printers/hj) giá rẻ hay thiết bị in lụa. Câu trả lời phụ thuộc hoàn toàn vào biên dạng sản phẩm mà bạn định gia công.
@@ -43,8 +43,8 @@ Về chi phí, máy in tampon 1 màu giá rẻ hiện nay có giá thành rất 
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
 
-![May in tampon cong nghiep dang van hanh voi dau in silicone va ban ga san pham tai xuong VNPIS](/images/real_photos/vnpis_workshop_photo_62.jpg)
-*Cận cảnh đầu in silicone màu hồng và bàn gá sản phẩm trên máy in tampon tại xưởng VNPIS*
+![Máy in lụa phẳng bàn hút chân không công nghiệp VNPIS](/images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg)
+*Máy in lụa phẳng bàn hút chân không chuyên dụng cho PCB, bao bì và tem nhãn*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

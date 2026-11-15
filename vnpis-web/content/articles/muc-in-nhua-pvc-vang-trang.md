@@ -11,7 +11,7 @@ category: CIJ
 code: PVC-WHITE
 mediaExt: mp4
 author: VNPIS Engineering Team
-image: /images/bolijie/tests/bolijie_tw1_grey_pigment_05.jpg
+image: /images/real_photos/vnpis_workshop_photo_134.jpg
 ---
 
 
@@ -68,8 +68,8 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![Mực pigment CIJ màu xám TW1 in dây cáp điện tương phản cao](/images/bolijie/tests/bolijie_tw1_grey_pigment_05.jpg)
-*Mực pigment màu xám TW1 chuyên dụng in vạch mã định danh trên dây cáp điện và ống dẫn kỹ thuật*
+![Các mẫu mực in công nghiệp và kết quả thử màu trên giấy tại phòng quản lý vật tư xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_134.jpg)
+*Các lọ mực in công nghiệp màu vàng và đỏ đang được kiểm tra độ nhớt và sắc độ trên sổ nhật ký sản xuất tại xưởng VNPIS.*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

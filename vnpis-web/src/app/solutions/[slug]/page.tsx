@@ -1,5 +1,5 @@
 import React from 'react';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { getAllSlugs, getDocumentBySlug } from '@/lib/mdx';
 import Link from 'next/link';
 import { ArrowLeft, Phone } from 'lucide-react';
@@ -12,6 +12,10 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;
+  const pillarSlugs = getAllSlugs('pillars');
+  if (pillarSlugs.includes(resolvedParams.slug)) {
+    permanentRedirect(`/${resolvedParams.slug}`);
+  }
   const post = await getDocumentBySlug('pillars', resolvedParams.slug);
   if (!post) return { title: 'Not Found' };
   
@@ -23,6 +27,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function PillarPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;
+  const pillarSlugs = getAllSlugs('pillars');
+  if (pillarSlugs.includes(resolvedParams.slug)) {
+    permanentRedirect(`/${resolvedParams.slug}`);
+  }
   const post = await getDocumentBySlug('pillars', resolvedParams.slug);
   
   if (!post) {

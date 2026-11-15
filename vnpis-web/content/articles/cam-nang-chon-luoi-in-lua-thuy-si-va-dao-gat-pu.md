@@ -19,8 +19,7 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: published
 draft: false
-image: /images/real_photos/vnpis_workshop_photo_20.jpg
-mediaExt: .jpg
+image: /images/real_photos/vnpis_workshop_photo_94.jpg
 tags:
   - lưới in lụa mesh count
   - chọn lưới in lụa thụy sĩ
@@ -38,8 +37,8 @@ Thực tế ghi nhận qua hơn 10 năm kinh nghiệm xử lý trực tiếp t�
 Bài viết chuyên sâu này được biên soạn bởi **Kỹ Sư Trưởng Lưu Trọng Tâm** cùng đội ngũ kỹ thuật VNPIS nhằm cung cấp một cẩm nang kỹ thuật toàn diện, từ nguyên lý cơ bản, bảng thông số vật lý chính xác, công thức tính toán toán học, đến quy trình thao tác tiêu chuẩn (SOP 5 bước) giúp các kỹ sư cơ điện tử, quản đốc xưởng và thợ in bậc cao làm chủ hoàn toàn công nghệ **lưới in lụa mesh count**.
 
 
-![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
-*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
+![Các bộ phận kẹp dao gạt mực máy in lụa bằng nhựa trắng và thanh nhôm lắp vít lục giác đựng trong thùng carton tại kho VNPIS.](/images/real_photos/vnpis_workshop_photo_94.jpg)
+*Cụm linh kiện kẹp dao gạt mực (squeegee holder) chuyên dụng cho hệ thống máy in lụa công nghiệp tại xưởng VNPIS.*
 
 ## 2. Phân Tích Cơ Chế Kỹ Thuật Chuyên Sâu & Các Yếu Tố Ảnh Hưởng Cốt Lõi
 

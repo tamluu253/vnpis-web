@@ -8,8 +8,8 @@ description: >-
 date: '2026-07-17T03:34:04.878Z'
 category: Henkey
 code: PPEX-2
-mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/consumables/henkey-industrial-inks-tij-cartridges.jpg
 ---
 
 Như đã biết, nhựa PP/PE cực kỳ khó bám mực và thường phải tốn kém chi phí trang bị hệ thống xử lý lửa (Flame) hoặc Corona. Tuy nhiên, **Henkey PPEX-2** ra đời để phá vỡ quy tắc này. Đây là dòng mực ma thuật có thể **bám dính TRỰC TIẾP lên nhựa PP/PE CHƯA XỬ LÝ (Untreated PP/PE)**.
@@ -49,6 +49,11 @@ Như đã biết, nhựa PP/PE cực kỳ khó bám mực và thường phải t
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+![Mực in công nghiệp Henkey chính hãng phân phối bởi VNPIS](/images/consumables/henkey-industrial-inks-tij-cartridges.jpg)
+*Hệ thống mực in công nghiệp chuyên dụng bám dính cao trên nhựa và kim loại*
+
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

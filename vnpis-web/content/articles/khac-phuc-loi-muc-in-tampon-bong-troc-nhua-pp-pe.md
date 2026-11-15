@@ -19,8 +19,7 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: published
 draft: false
-image: /images/real_photos/vnpis_workshop_photo_30.jpg
-mediaExt: .jpg
+image: /images/real_photos/vnpis_workshop_photo_203.jpg
 tags:
   - khắc phục mực in bong tróc trên nhựa pp pe
   - xử lý corona bề mặt nhựa pp
@@ -38,8 +37,8 @@ Thực tế ghi nhận qua hơn 10 năm kinh nghiệm xử lý trực tiếp t�
 Bài viết chuyên sâu này được biên soạn bởi **Kỹ Sư Trưởng Lưu Trọng Tâm** cùng đội ngũ kỹ thuật VNPIS nhằm cung cấp một cẩm nang kỹ thuật toàn diện, từ nguyên lý cơ bản, bảng thông số vật lý chính xác, công thức tính toán toán học, đến quy trình thao tác tiêu chuẩn (SOP 5 bước) giúp các kỹ sư cơ điện tử, quản đốc xưởng và thợ in bậc cao làm chủ hoàn toàn công nghệ **khắc phục mực in bong tróc trên nhựa pp pe**.
 
 
-![Đầu in silicone màu hồng dùng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_30.jpg)
-*Các đầu in silicone (tampon pad) màu hồng chuyên dụng gắn trên đế gỗ tại xưởng VNPIS*
+![Chai dung môi in nhựa PP và lọ mực in công nghiệp tại xưởng VNPIS, chuyên dùng xử lý bề mặt và pha chế mực in tampon/lụa.](/images/real_photos/vnpis_workshop_photo_203.jpg)
+*Hình ảnh ghi nhận chai dung môi chuyên dụng cho vật liệu nhựa PP và lọ mực in nghiệp vụ tại xưởng VNPIS.*
 
 ## 2. Phân Tích Cơ Chế Kỹ Thuật Chuyên Sâu & Các Yếu Tố Ảnh Hưởng Cốt Lõi
 

@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-18T00:41:19.450Z'
 category: Máy In Tampon (PAD)
 code: PAD-TROUBLESHOOT
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_45.jpg
+image: /images/real_photos/vnpis_workshop_photo_02.jpg
 ---
 
 Trong quá trình vận hành máy in tampon, thợ in thường xuyên đối mặt với các lỗi hình ảnh do môi trường, tỷ lệ pha mực hoặc phần cứng gây ra. Dưới đây là "bệnh án" của các lỗi phổ biến và cách "kê toa" từ chuyên gia VNPIS.
@@ -23,8 +22,8 @@ Trong quá trình vận hành máy in tampon, thợ in thường xuyên đối m
 
 
 
-![Đầu in silicone màu hồng dùng trong kỹ thuật in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_45.jpg)
-*Đầu in silicone màu hồng chuyên dụng cho máy in tampon tại xưởng VNPIS, hiển thị rõ thông số độ cứng trên thân pad.*
+![Máy in tampon để bàn Easy Print tích hợp bảng điều khiển điện tử và bàn gá định vị sản phẩm tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_02.jpg)
+*Máy in tampon (pad printing) để bàn dòng Easy Print với hệ thống bàn gá cơ khí điều chỉnh đa hướng tại xưởng VNPIS.*
 
 ## 2. Lỗi dính râu mực (Stringing / Kéo tơ)
 - **Triệu chứng**: Nét in bị kéo thành những sợi tơ mảnh (râu) dính trên sản phẩm.

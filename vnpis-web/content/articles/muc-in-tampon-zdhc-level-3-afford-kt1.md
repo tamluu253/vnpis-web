@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-18T00:19:08.778Z'
 category: Afford
 code: KT1
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_57.jpg
+image: /images/real_photos/vnpis_workshop_photo_71.jpg
 ---
 
 Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siết chặt quản lý chuỗi cung ứng bằng các tiêu chuẩn xanh, tiêu biểu là **ZDHC (Zero Discharge of Hazardous Chemicals)**. Việc sử dụng nguyên vật liệu đạt ZDHC Level 3 là bắt buộc.
@@ -19,7 +18,7 @@ Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siế
 ## Afford KT1 - Tấm thẻ xanh cho doanh nghiệp xuất khẩu
 - **Không xả thải hóa chất độc hại**: Afford KT1 được kiểm định độc lập và chứng minh không chứa bất kỳ chất nào trong danh sách MRSL của ZDHC.
 - **Thân thiện với công nhân**: Giảm thiểu mùi dung môi, bảo vệ sức khỏe cho người trực tiếp vận hành [**máy in Tampon**](/products/pad-printers).
-- **Dễ dàng truy xuất nguồn gốc**: Mọi lô [**mực Afford**](/products/consumables/inks) KT1 đều có MSDS, TDS và chứng thư rõ ràng, hỗ trợ đắc lực cho xưởng in khi vượt qua các đợt Audit của nhãn hàng.
+- **Dễ dàng truy xuất nguồn gốc**: Mọi lô [**mực Afford**](/products/consumables/muc-in) KT1 đều có MSDS, TDS và chứng thư rõ ràng, hỗ trợ đắc lực cho xưởng in khi vượt qua các đợt Audit của nhãn hàng.
 
 
 ---
@@ -44,8 +43,8 @@ Các thương hiệu thời trang toàn cầu (Nike, Adidas, H&M...) đang siế
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_57.jpg)
-*Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS*
+![Hũ mực in công nghiệp và mẫu vải thử nghiệm màu tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_71.jpg)
+*Các hũ mực in công nghiệp kèm theo nhãn mã màu và các mẫu vải thử nghiệm đặt trên bàn làm việc tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

@@ -11,9 +11,8 @@ category: Mực In Công Nghiệp & Dung Môi Chuyên Dụng
 canonical: 'https://vnpis.com/blog/muc-in-mach-pcb-chiu-nhiet-260c-t68cf-khong-halogen'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
-status: draft
-draft: true
-mediaExt: .jpg
+status: published
+draft: false
 tags:
   - mực in bo mạch pcb chịu nhiệt 260c t68cf
   - mực in không halogen cho mạch điện tử

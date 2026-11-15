@@ -9,7 +9,6 @@ description: >-
 date: '2026-07-08T08:40:08.102Z'
 category: CIJ
 code: WHITE-CABLE
-mediaExt: 'null'
 author: VNPIS Engineering Team
 image: /images/bolijie/tests/bolijie_tw1_grey_pigment_02.jpg
 ---

@@ -9,8 +9,8 @@ description: >-
 date: '2026-07-18T00:19:07.771Z'
 category: Afford
 code: KT1
-mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/bolijie/tests/bolijie_textile_cotton_black_01.jpg
 ---
 
 Quần áo thể thao (Gym, Yoga, Đồ bơi) thường được may từ các loại vải có độ co giãn cực cao như Spandex, Lycra pha Polyester. In nhãn lên các chất liệu này thường gặp lỗi nứt gãy (Cracking) khi bị kéo giãn. **Afford KT1** chính là cứu tinh của bạn.
@@ -40,6 +40,11 @@ Khi được pha trộn đúng tỷ lệ với chất đóng rắn (Hardener), A
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+![Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen](/images/bolijie/tests/bolijie_textile_cotton_black_01.jpg)
+*Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu*
+
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

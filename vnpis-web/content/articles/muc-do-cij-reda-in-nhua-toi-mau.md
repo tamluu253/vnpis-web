@@ -9,7 +9,6 @@ description: >-
 date: '2026-07-08T08:40:08.108Z'
 category: CIJ
 code: REDA
-mediaExt: jpg
 author: VNPIS Engineering Team
 image: /images/bolijie/tests/bolijie_date_coding_samples_02.jpg
 ---

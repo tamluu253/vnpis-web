@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-03
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_20.jpg
+image: /images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg
 ---
 
 Công nghệ in lụa có tính ứng dụng đa dạng nhờ vào sự phong phú của hệ thống mực in. Tại VNPIS, chúng tôi chọn lọc và phân phối các dòng mực in lụa chất lượng cao nhất, phục vụ cho nhiều ngành công nghiệp khắt khe.
@@ -45,8 +45,8 @@ Tất cả mực in đều có đầy đủ chứng chỉ an toàn môi trườn
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
 
-![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
-*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
+![Máy in lụa phẳng bàn hút chân không công nghiệp VNPIS](/images/machinery/flatbed-vacuum-screen-printer-vnpis.jpg)
+*Máy in lụa phẳng bàn hút chân không chuyên dụng cho PCB, bao bì và tem nhãn*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

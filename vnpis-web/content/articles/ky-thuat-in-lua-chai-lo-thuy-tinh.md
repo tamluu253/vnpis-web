@@ -7,8 +7,7 @@ date: '2026-09-20'
 category: KỸ THUẬT IN LỤA
 code: ART-SCREEN-GLASS
 author: Chuyên Gia In Ấn VNPIS
-mediaExt: webp
-image: /images/real_photos/vnpis_workshop_photo_73.jpg
+image: /images/screen-printers/sj/b11_ss_500_3.webp
 canonical: 'https://vnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh'
 ---
 
@@ -31,8 +30,8 @@ Khác với in phẳng, chai lọ thủy tinh có hình trụ tròn hoặc hình
 ---
 
 
-![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
-*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
+![Máy in lụa trụ tròn công nghiệp đường kính lớn SS-500-3](/images/screen-printers/sj/b11_ss_500_3.webp)
+*Hệ thống máy in lụa tròn bán tự động cho chai lọ và ống trụ*
 
 ## 2. Giải Pháp Mực In Lụa Cho Thủy Tinh
 

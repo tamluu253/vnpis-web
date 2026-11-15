@@ -9,8 +9,8 @@ description: >-
 date: '2026-08-21T08:58:00.000Z'
 category: Mực in HDPE
 code: HDPE-INK
-mediaExt: jpg
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_64.jpg
 ---
 
 Nhựa HDPE (High-Density Polyethylene - Polyethylene mật độ cao) sở hữu độ bền cơ học cao, chịu lực va đập trơn trượt và khả năng kháng hóa chất vượt trội. Nhựa HDPE là sự lựa chọn hàng đầu sản xuất **can chứa hóa chất, chai lọ thuốc bảo vệ thực vật, chai dầu nhớt, nắp bình nước tinh khiết 20L, ống nước công nghiệp HDPE, thùng phuy nhựa và bao bì dược phẩm**.
@@ -30,6 +30,11 @@ Bao bì và sản phẩm từ nhựa HDPE thường chứa đựng các chất l
 4. **Không Độc Độc & An Toàn Thực Phẩm**: Đạt tiêu chuẩn an toàn FDA / RoHS đối với nắp bình nước 20L và chai lọ đựng thực phẩm, dược phẩm.
 
 ---
+
+
+
+![Chai chứa chất tăng bám Hardener L05 và hóa chất phụ gia in ấn công nghiệp tại kho VNPIS](/images/real_photos/vnpis_workshop_photo_64.jpg)
+*Hai chai nhựa chứa chất đóng rắn tăng bám (Hardener L05) dùng trong quy trình pha chế mực in công nghiệp tại xưởng VNPIS*
 
 ## 2. Các Dòng Mực In HDPE Phổ Biến Theo Công Nghệ In
 

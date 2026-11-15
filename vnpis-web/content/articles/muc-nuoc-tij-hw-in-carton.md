@@ -9,8 +9,8 @@ description: >-
 date: '2026-07-08T08:40:08.112Z'
 category: TIJ
 code: HW
-mediaExt: jpg
 author: VNPIS Engineering Team
+image: /images/bolijie/tests/bolijie_tij_cartridge_online_06.jpg
 ---
 
 
@@ -65,6 +65,11 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Kích thước hạt mực (Drop Size)** | 40 - 60 micron (Hạt mực siêu mịn) | Nét in ma trận Dot Matrix hoặc mã QR Code 2D siêu nét |
 | **Độ nhớt chuẩn (Viscosity)** | 3.2 - 4.8 cP (Tại 20°C kiểm soát tự động) | Ngăn ngừa đóng cặn, nghẹt béc phun khi ngừng ca máy |
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
+
+
+![Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa](/images/bolijie/tests/bolijie_tij_cartridge_online_06.jpg)
+*Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng*
+
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 
 1. **Khởi động và xả súc béc phun (Auto-Flush):** Kích hoạt chu trình vệ sinh béc phun bằng dung môi tinh khiết trước khi bật áp suất nén tia mực, loại bỏ tinh thể mực bám khô ở miệng nozzle.

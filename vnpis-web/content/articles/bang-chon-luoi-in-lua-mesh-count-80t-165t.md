@@ -11,10 +11,9 @@ category: Vật Tư & Phụ Kiện Ngành In Tampon & In Lụa
 canonical: 'https://vnpis.com/blog/bang-chon-luoi-in-lua-mesh-count-80t-165t'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
-status: draft
-draft: true
+status: published
+draft: false
 image: /images/real_photos/vnpis_workshop_photo_20.jpg
-mediaExt: .jpg
 tags:
   - lưới in lụa thụy sĩ mesh count 80t 165t
   - dao gạt mực squeegee pu 65 85 shore a

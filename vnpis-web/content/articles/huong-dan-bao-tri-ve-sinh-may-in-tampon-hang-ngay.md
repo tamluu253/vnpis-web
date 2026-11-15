@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-18T00:41:18.446Z'
 category: Máy In Tampon (PAD)
 code: PAD-MAINTENANCE
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_08.jpg
+image: /images/real_photos/vnpis_workshop_photo_187.jpg
 ---
 
 Máy in tampon là thiết bị cơ khí - khí nén hoạt động liên tục với cường độ cao và tiếp xúc trực tiếp với hóa chất (mực in gốc dung môi). Do đó, **vệ sinh và bảo trì hàng ngày** là yếu tố sống còn để máy không bị hỏng vặt.
@@ -25,8 +24,8 @@ Máy in tampon là thiết bị cơ khí - khí nén hoạt động liên tục 
 
 
 
-![Các loại đầu in silicone in tampon màu vàng và màu xanh lá cây với nhiều kích thước, hình dáng vòm tròn và hình chữ nhật gắn trên đế gỗ tại xưởng in VNPIS.](/images/real_photos/vnpis_workshop_photo_08.jpg)
-*Các mẫu đầu in silicone (silicone pad) chuyên dụng cho máy in tampon với kiểu dáng vòm tròn và bề mặt cong hình chữ nhật tại xưởng VNPIS.*
+![Dàn máy in tampon công nghiệp chuyên dụng tại nhà xưởng VNPIS dùng để in logo và ký tự lên sản phẩm](/images/real_photos/vnpis_workshop_photo_187.jpg)
+*Dàn máy in tampon (pad printing) công nghiệp tại xưởng VNPIS, bao gồm các thiết bị đang trong quá trình lắp đặt và vận hành.*
 
 ## 2. Bảo quản đầu in Silicone (Pad)
 - Dùng băng keo trong dính lấy đi phần mực thừa và bụi bẩn bám trên cục pad. Tuyệt đối không dùng dung môi mạnh để chà xát pad vì sẽ làm mất đi lớp dầu tự nhiên, khiến pad bị chai cứng và giảm tuổi thọ.

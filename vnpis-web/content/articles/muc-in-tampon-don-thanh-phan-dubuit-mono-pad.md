@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-17T03:34:04.869Z'
 category: Dubuit
 code: MONO-PAD
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_08.jpg
+image: /images/real_photos/vnpis_workshop_photo_203.jpg
 ---
 
 Khi sản xuất hàng loạt các sản phẩm yêu cầu tốc độ in cực cao nhưng chi phí phải thấp, mực 2 thành phần đôi khi trở nên dư thừa và lãng phí. Đó là lúc **Dubuit MONO-PAD** phát huy sức mạnh.
@@ -52,8 +51,8 @@ Dòng MONO-PAD đạt các chứng nhận tiêu chuẩn an toàn công nghiệp 
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Các loại đầu in silicone in tampon màu vàng và màu xanh lá cây với nhiều kích thước, hình dáng vòm tròn và hình chữ nhật gắn trên đế gỗ tại xưởng in VNPIS.](/images/real_photos/vnpis_workshop_photo_08.jpg)
-*Các mẫu đầu in silicone (silicone pad) chuyên dụng cho máy in tampon với kiểu dáng vòm tròn và bề mặt cong hình chữ nhật tại xưởng VNPIS.*
+![Chai dung môi in nhựa PP và lọ mực in công nghiệp tại xưởng VNPIS, chuyên dùng xử lý bề mặt và pha chế mực in tampon/lụa.](/images/real_photos/vnpis_workshop_photo_203.jpg)
+*Hình ảnh ghi nhận chai dung môi chuyên dụng cho vật liệu nhựa PP và lọ mực in nghiệp vụ tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

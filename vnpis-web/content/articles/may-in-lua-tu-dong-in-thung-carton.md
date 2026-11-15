@@ -10,6 +10,7 @@ date: '2026-07-15'
 category: SCREEN
 code: SCREEN-01
 author: VNPIS Engineering Team
+image: /images/screen-printers/sj/b14_mn1000.webp
 ---
 
 In lụa (Screen Printing) từ lâu đã là công nghệ không thể thay thế trong ngành in ấn bao bì. Đối với các đơn vị sản xuất thùng carton, hộp giấy, túi giấy kraft số lượng vừa và nhỏ, [**máy in lụa**](/products/screen-printers) tự động là lựa chọn hoàn hảo thay vì phải in offset tốn kém.
@@ -40,6 +41,11 @@ In lụa (Screen Printing) từ lâu đã là công nghệ không thể thay th�
 | **Góc nghiêng dao gạt** | 65° - 75° so với mặt phẳng bản in | Tối ưu lực ép truyền mực xuyên qua mắt lưới |
 | **Khoảng cách nhấc hở (Off-contact)** | 1.5mm - 3.5mm tùy kích thước phôi | Giúp bản lưới nhấc tách tức thì khỏi bề mặt in, chống nhòe |
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
+
+
+![Máy in lụa phẳng bàn hút chân không MN-1000](/images/screen-printers/sj/b14_mn1000.webp)
+*Hệ thống máy in lụa phẳng công nghiệp tích hợp bàn hút chân không*
+
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 
 1. **Chuẩn bị và căng khung lụa:** Sử dụng khung nhôm định hình chống vặn xoắn. Căng lưới bằng máy kéo khí nén đa điểm, dán keo 2 thành phần chuyên dụng chịu hóa chất tẩy rửa.

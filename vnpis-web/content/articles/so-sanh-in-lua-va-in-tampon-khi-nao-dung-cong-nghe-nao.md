@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-18T00:41:16.443Z'
 category: Máy In Tampon (PAD)
 code: PAD-VS-SCREEN
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_26.jpg
+image: /images/screen-printers/sj/b14_mn1000.webp
 ---
 
 In lụa (Screen Printing) và In Tampon (Pad Printing) là hai trụ cột của ngành in công nghiệp. Nhiều người lầm tưởng chúng có thể thay thế hoàn toàn cho nhau, nhưng thực chất mỗi công nghệ sinh ra để thống trị một mảng vật liệu riêng biệt.
@@ -61,8 +60,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
 
-![Đo kích thước đầu in silicone máy in tampon bằng thước kẹp cơ khí tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_26.jpg)
-*Kỹ thuật viên đang dùng thước kẹp để đo kích thước thực tế của đầu in silicone hồng dùng trong máy in tampon tại xưởng VNPIS.*
+![Máy in lụa phẳng bàn hút chân không MN-1000](/images/screen-printers/sj/b14_mn1000.webp)
+*Hệ thống máy in lụa phẳng công nghiệp tích hợp bàn hút chân không*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

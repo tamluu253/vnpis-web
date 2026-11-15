@@ -13,10 +13,9 @@ category: Mực In Công Nghiệp & Dung Môi Chuyên Dụng
 canonical: 'https://vnpis.com/blog/hop-muc-tij-12-7mm-hp45-in-date-nhanh-kho'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
-status: draft
-draft: true
+status: published
+draft: false
 image: /images/bolijie/tests/bolijie_tij_cartridge_online_02.jpg
-mediaExt: .jpg
 tags:
   - hộp mực tij 12.7mm hp45
   - mực in date nhanh khô hf200

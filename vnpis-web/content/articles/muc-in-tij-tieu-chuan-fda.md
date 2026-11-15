@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-08T08:40:08.116Z'
 category: TIJ
 code: FOOD-TIJ
-mediaExt: jpg
 author: VNPIS Engineering Team
-image: /images/bolijie/tests/bolijie_k12_retort_sterilization_non_migrating_01.jpg
+image: /images/bolijie/tests/bolijie_tij_cartridge_online_04.jpg
 ---
 
 
@@ -68,8 +67,8 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![Mực in CIJ K12 chịu nhiệt hấp tiệt trùng autoclave 121 độ C không phai](/images/bolijie/tests/bolijie_k12_retort_sterilization_non_migrating_01.jpg)
-*Mực in date K12 chịu nhiệt độ hấp tiệt trùng 121°C trong 60 phút, tuyệt đối không di chuyển hay lem màng bao bì*
+![Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa](/images/bolijie/tests/bolijie_tij_cartridge_online_04.jpg)
+*Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

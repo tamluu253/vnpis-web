@@ -9,12 +9,11 @@ description: >-
 date: '2026-07-18T00:19:09.780Z'
 category: Afford
 code: KT1
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_57.jpg
+image: /images/bolijie/tests/bolijie_textile_cotton_black_02.jpg
 ---
 
-Để phát huy tối đa công năng của dòng [**mực in Tagless**](/products/consumables/inks) cao cấp **Afford KT1**, kỹ thuật pha mực (Mix ratio) đóng vai trò quyết định. Dưới đây là hướng dẫn từ chuyên gia VNPIS.
+Để phát huy tối đa công năng của dòng [**mực in Tagless**](/products/consumables/muc-in) cao cấp **Afford KT1**, kỹ thuật pha mực (Mix ratio) đóng vai trò quyết định. Dưới đây là hướng dẫn từ chuyên gia VNPIS.
 
 ## Tỷ lệ pha chuẩn
 Mực Afford KT1 là mực 2 thành phần (2K). Tỷ lệ khuyến nghị:
@@ -50,8 +49,8 @@ Mực Afford KT1 là mực 2 thành phần (2K). Tỷ lệ khuyến nghị:
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu hồng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_57.jpg)
-*Đầu in silicone chuyên dụng màu hồng dùng trong máy in tampon tại xưởng VNPIS*
+![Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen](/images/bolijie/tests/bolijie_textile_cotton_black_02.jpg)
+*Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

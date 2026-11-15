@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: VAT-TU
 code: VT-02
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_10.jpg
+image: /images/real_photos/vnpis_workshop_photo_67.jpg
 ---
 
 Chất lượng của bản in tampon phụ thuộc đến 40% vào cục silicone (Pad). Một cục silicone tốt phải có khả năng lấy sạch mực từ bản thép và nhả hoàn toàn mực lên bề mặt sản phẩm mà không để lại cặn rỗ. 
@@ -43,8 +43,8 @@ Chất lượng của bản in tampon phụ thuộc đến 40% vào cục silico
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu hồng chuyên dụng cho máy in tampon tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_10.jpg)
-*Đầu in silicone màu hồng dùng cho máy in tampon được đặt trong thùng carton tại kho VNPIS*
+![Đầu in silicone màu hồng dùng cho máy in tampon tại xưởng in công nghiệp VNPIS](/images/real_photos/vnpis_workshop_photo_67.jpg)
+*Kỹ thuật viên đang kiểm tra các đầu in silicone (pad) chuyên dụng dùng trong công nghệ in tampon tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

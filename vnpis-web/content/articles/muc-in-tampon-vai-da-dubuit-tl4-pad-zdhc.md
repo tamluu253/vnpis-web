@@ -10,9 +10,8 @@ description: >-
 date: '2026-07-17T03:34:04.872Z'
 category: Dubuit
 code: TL4-PAD
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_30.jpg
+image: /images/bolijie/tests/bolijie_textile_cotton_black_01.jpg
 ---
 
 Xu hướng in mác trực tiếp lên cổ áo (Tagless Label) thay vì dùng mác vải đang thống trị ngành may mặc thời trang và thể thao. **Dubuit TL4-PAD** chính là "vũ khí" bí mật giúp các hãng thời trang đạt được điều này.
@@ -48,8 +47,8 @@ Xu hướng in mác trực tiếp lên cổ áo (Tagless Label) thay vì dùng m
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu hồng dùng cho máy in tampon công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_30.jpg)
-*Các đầu in silicone (tampon pad) màu hồng chuyên dụng gắn trên đế gỗ tại xưởng VNPIS*
+![Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen](/images/bolijie/tests/bolijie_textile_cotton_black_01.jpg)
+*Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

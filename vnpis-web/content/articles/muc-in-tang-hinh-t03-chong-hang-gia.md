@@ -11,7 +11,7 @@ category: CIJ
 code: T03
 mediaExt: mp4
 author: VNPIS Engineering Team
-image: /images/bolijie/tests/bolijie_security_anti_counterfeit_black_01.jpg
+image: /images/bolijie/tests/bolijie_invisible_green_uv_security_03.jpg
 ---
 
 
@@ -68,8 +68,8 @@ Với bề dày kinh nghiệm trong lĩnh vực giải pháp in phun công nghi�
 | **Chuẩn an toàn xuất khẩu** | Đạt RoHS 2.0, REACH, Halogen-Free | An toàn cho linh kiện vi mạch điện tử và bao bì thực phẩm |
 
 
-![Thử nghiệm mực in date CIJ bảo mật chống làm giả trên bao bì cao cấp](/images/bolijie/tests/bolijie_security_anti_counterfeit_black_01.jpg)
-*Mực in date bảo mật chống hàng giả, tích hợp hoạt chất chống sao chép quang học*
+![Mực in date tàng hình bảo mật phát huỳnh quang xanh lục dưới đèn tia cực tím](/images/bolijie/tests/bolijie_invisible_green_uv_security_03.jpg)
+*Mực in tàng hình phát quang ánh sáng xanh lá dưới đèn cực tím UV (365nm) chống hàng giả*
 
 ## 2. Quy Trình Bảo Trì Ca Máy & Kiểm Soát Nét Mã Hóa Date/Barcode
 

@@ -13,10 +13,9 @@ category: Máy In Lụa & Dây Chuyền Bán Tự Động / Tự Động
 canonical: 'https://vnpis.com/blog/may-in-lua-phang-ban-tu-dong'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
-status: draft
-draft: true
-image: /images/real_photos/vnpis_workshop_photo_20.jpg
-mediaExt: .jpg
+status: published
+draft: false
+image: /images/screen-printers/sj/b14_mn1000.webp
 tags:
   - máy in lụa phẳng bán tự động
   - máy in lụa bàn hút chân không
@@ -40,8 +39,8 @@ Thực tế ghi nhận qua hơn 10 năm kinh nghiệm xử lý trực tiếp t�
 Bài viết chuyên sâu này được biên soạn bởi **Kỹ Sư Trưởng Lưu Trọng Tâm** cùng đội ngũ kỹ thuật VNPIS nhằm cung cấp một cẩm nang kỹ thuật toàn diện, từ nguyên lý cơ bản, bảng thông số vật lý chính xác, công thức tính toán toán học, đến quy trình thao tác tiêu chuẩn (SOP 5 bước) giúp các kỹ sư cơ điện tử, quản đốc xưởng và thợ in bậc cao làm chủ hoàn toàn công nghệ **máy in lụa phẳng bán tự động**. Quý khách có thể tham khảo thêm [dịch vụ in lụa tròn 360 độ chai lọ mẫu test](https://vnpis.com/blog/ky-thuat-in-lua-chai-lo-thuy-tinh) để tối ưu hóa hiệu quả vận hành.
 
 
-![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
-*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
+![Máy in lụa phẳng bàn hút chân không MN-1000](/images/screen-printers/sj/b14_mn1000.webp)
+*Hệ thống máy in lụa phẳng công nghiệp tích hợp bàn hút chân không*
 
 ## 2. Phân Tích Cơ Chế Kỹ Thuật Chuyên Sâu & Các Yếu Tố Ảnh Hưởng Cốt Lõi
 

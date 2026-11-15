@@ -6,6 +6,7 @@ const DOMAIN = 'https://vnpis.com';
 export default function sitemap(): MetadataRoute.Sitemap {
   const articleSlugs = getAllSlugs('articles');
   const pillarSlugs = getAllSlugs('pillars');
+  const caseStudySlugs = getAllSlugs('case-studies');
 
   const blogEntries: MetadataRoute.Sitemap = articleSlugs
     .filter((slug) => {
@@ -33,6 +34,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly',
       priority: 0.9,
     }));
+
+  const caseStudyEntries: MetadataRoute.Sitemap = caseStudySlugs.map((slug: string) => ({
+    url: `${DOMAIN}/case-studies/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.7,
+  }));
 
   const coreServices = [
     '/products',
@@ -64,7 +72,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/so-tay-in-pad',
     '/about',
     '/contact',
-    '/faq'
+    '/faq',
+    '/case-studies'
   ];
 
   const serviceEntries: MetadataRoute.Sitemap = coreServices.map((path) => ({
@@ -89,6 +98,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     ...serviceEntries,
     ...pillarEntries,
+    ...caseStudyEntries,
     ...blogEntries,
   ];
 

@@ -10,9 +10,8 @@ description: >-
 date: '2026-07-18T00:19:10.785Z'
 category: Afford
 code: KT1
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_73.jpg
+image: /images/screen-printers/sj/b13_mn800.webp
 ---
 
 Khi in mực sáng màu (trắng, vàng) lên nền vải Polyester tối màu (đen, đỏ, xanh navy), xưởng in thường xuyên gặp hiện tượng thuốc nhuộm từ vải thấm ngược lên làm đổi màu mực in (Dye Migration). **Afford KT1** mang đến giải pháp hoàn hảo.
@@ -46,8 +45,8 @@ Khi in mực sáng màu (trắng, vàng) lên nền vải Polyester tối màu (
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
 
-![Máng tráng keo nhôm in lụa dùng để phủ đều lớp keo cảm quang lên lưới in](/images/real_photos/vnpis_workshop_photo_73.jpg)
-*Máng tráng keo nhôm chuyên dụng dùng trong quy trình chụp bản in lụa tại xưởng VNPIS*
+![Máy in lụa phẳng công nghiệp khổ lớn MN-800](/images/screen-printers/sj/b13_mn800.webp)
+*Máy in lụa phẳng bán tự động độ chính xác cao cho xưởng sản xuất*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

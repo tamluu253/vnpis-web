@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-18T00:19:14.795Z'
 category: Afford
 code: KT1
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_52.jpg
+image: /images/bolijie/tests/bolijie_textile_cotton_black_02.jpg
 ---
 
 Bạn đang tìm giải pháp in logo thương hiệu, size giày lên miếng lót giày hay mặt trong của túi xách giả da? Bề mặt da tổng hợp (PU/PVC Leather) chứa nhiều dầu hóa dẻo khiến mực in rất dễ bong tróc. **Afford KT1** là "khắc tinh" của vật liệu này.
@@ -46,8 +45,8 @@ Afford KT1 - Đa dụng, mạnh mẽ và là trợ thủ đắc lực cho ngành
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đo kích thước đầu in tampon silicone bằng thước kẹp cơ khí tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_52.jpg)
-*Sử dụng thước kẹp cơ khí để đo kích thước thực tế của đầu in silicone màu xanh lá dùng trong máy in tampon tại xưởng VNPIS.*
+![Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen](/images/bolijie/tests/bolijie_textile_cotton_black_02.jpg)
+*Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

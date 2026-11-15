@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-18T00:41:13.439Z'
 category: Máy In Tampon (PAD)
 code: PAD-BASIC
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_22.jpg
+image: /images/real_photos/vnpis_workshop_photo_02.jpg
 ---
 
 Công nghệ in Tampon (Pad Printing) đã làm thay đổi hoàn toàn cục diện của ngành in công nghiệp nhờ khả năng in trên bề mặt 3D phức tạp. Tuy nhiên, không phải ai cũng nắm rõ **cấu tạo và nguyên lý hoạt động** của thiết bị này.
@@ -65,8 +64,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Linh kiện cơ khí chính xác dùng cho máy in tampon tại xưởng kỹ thuật VNPIS](/images/real_photos/vnpis_workshop_photo_22.jpg)
-*Chi tiết cơ khí và linh kiện điều chỉnh dùng trong cụm gá hoặc đầu in của máy in tampon tại xưởng VNPIS.*
+![Máy in tampon để bàn Easy Print tích hợp bảng điều khiển điện tử và bàn gá định vị sản phẩm tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_02.jpg)
+*Máy in tampon (pad printing) để bàn dòng Easy Print với hệ thống bàn gá cơ khí điều chỉnh đa hướng tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

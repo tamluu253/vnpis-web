@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-18T00:41:21.452Z'
 category: Máy In Tampon (PAD)
 code: PAD-AUTO
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_41.jpg
+image: /images/real_photos/vnpis_workshop_photo_07.jpg
 ---
 
 Trong bối cảnh chi phí nhân công ngày càng tăng cao, mô hình xưởng in sử dụng hàng chục công nhân ngồi đút từng sản phẩm vào máy in tampon đang dần trở nên lỗi thời. Xu hướng tất yếu của tương lai là **Tích hợp máy in Tampon vào dây chuyền sản xuất tự động**.
@@ -58,8 +57,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đầu in silicone màu đỏ dùng cho máy in tampon pad printing công nghiệp tại VNPIS](/images/real_photos/vnpis_workshop_photo_41.jpg)
-*Cận cảnh đầu in silicone (cục tampon) màu đỏ dạng khối vòm chữ nhật chuyên dụng cho máy in tampon tại xưởng VNPIS.*
+![Cận cảnh các đầu in silicone màu hồng dùng trong công nghệ in tampon với nhiều hình dạng khác nhau tại VNPIS](/images/real_photos/vnpis_workshop_photo_07.jpg)
+*Các cụm đầu in silicone (nấm tampon) màu hồng dạng tròn và chữ nhật gắn đế gỗ dùng cho máy in tampon tại xưởng kỹ thuật VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

@@ -10,7 +10,7 @@ date: '2026-07-15'
 category: PAD
 code: PAD-06
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_55.jpg
+image: /images/real_photos/vnpis_workshop_photo_200.jpg
 ---
 
 Nhu cầu cá nhân hóa bao bì trong ngành F&B (trà sữa, cafe) đang bùng nổ. Việc sở hữu một chiếc [**máy in tampon 1 màu**](/products/pad-printers/hj) giá rẻ để tự in logo lên ly nhựa, cốc thủy tinh giúp các quán nước tiết kiệm hàng chục triệu đồng tiền gia công bên ngoài mỗi tháng.
@@ -45,8 +45,8 @@ Khi chọn máy in tampon 1 màu cho ứng dụng này, bạn cần lưu ý ch�
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Cụm bàn gá cơ khí và vít điều chỉnh độ cao dùng trong kỹ thuật in tampon tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_55.jpg)
-*Đồ gá điều chỉnh cơ khí dùng cho máy in tampon tại xưởng VNPIS, hỗ trợ cố định và định vị sản phẩm chính xác trong quá trình in.*
+![Cận cảnh đầu in silicone màu hồng của máy in tampon công nghiệp tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_200.jpg)
+*Kỹ thuật viên đang kiểm tra vận hành đầu in silicone màu hồng trên thiết bị in tampon tại xưởng VNPIS.*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

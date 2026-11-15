@@ -18,6 +18,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${post.metadata.title} | Case Study VNPIS`,
     description: post.metadata.description,
+    alternates: {
+      canonical: `https://vnpis.com/case-studies/${resolvedParams.slug}`,
+    },
   };
 }
 

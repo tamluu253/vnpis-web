@@ -22,10 +22,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     const isDraft = meta.draft === true || meta.status === 'draft';
     
     return {
-      title: `${meta.title} | VNPIS - Giải Pháp In Ấn Công Nghiệp Toàn Diện`,
+      title: meta.title,
       description: meta.description,
       alternates: {
-        canonical: meta.canonical || `https://vnpis.com/${resolvedParams.slug}`,
+        canonical: `https://vnpis.com/${resolvedParams.slug}`,
       },
       ...(isDraft ? { robots: { index: false, follow: false } } : {}),
     };

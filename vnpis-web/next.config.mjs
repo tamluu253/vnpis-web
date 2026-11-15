@@ -17,8 +17,18 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: '/blog/may-in-tampon-1-mau-gia-re-da-nang-cho-moi-chat-lieu',
-        destination: '/blog/may-in-tampon-1-mau-gia-re-da-nang-cho-moi-chat-lieu',
+        source: '/products/consumables/inks',
+        destination: '/products/consumables/muc-in',
+        permanent: true,
+      },
+      {
+        source: '/in-tampon/hj',
+        destination: '/products/pad-printers/hj',
+        permanent: true,
+      },
+      {
+        source: '/in-tampon/mc',
+        destination: '/products/pad-printers/mc',
         permanent: true,
       },
       {

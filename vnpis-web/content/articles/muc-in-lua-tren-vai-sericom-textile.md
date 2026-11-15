@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-17T03:34:04.877Z'
 category: Sericom
 code: Textile
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_20.jpg
+image: /images/screen-printers/sj/b14_mn1000.webp
 ---
 
 Ngành dệt may đòi hỏi những dòng mực đặc thù phải mềm mại, co giãn và bám dính tốt vào từng thớ vải. **Sericom Textile** chính là dòng mực in lụa đáp ứng xuất sắc mọi tiêu chí đó.
@@ -47,8 +46,8 @@ Sericom Textile hoàn toàn loại bỏ các chất độc hại như Formaldehy
 | **Áp suất bàn hút chân không** | -0.06 đến -0.08 MPa | Cố định chặt phôi tấm phẳng, decal, kính, bao bì giấy |
 
 
-![Cận cảnh khung in lụa gỗ và vật tư ngành in lụa tại VNPIS](/images/real_photos/vnpis_workshop_photo_20.jpg)
-*Chi tiết khung in lụa gỗ nhiều lớp tại xưởng VNPIS*
+![Máy in lụa phẳng bàn hút chân không MN-1000](/images/screen-printers/sj/b14_mn1000.webp)
+*Hệ thống máy in lụa phẳng công nghiệp tích hợp bàn hút chân không*
 
 ## 2. Quy Trình Chụp Bản & Căn Chỉnh Canh Nét Chuẩn Công Nghiệp
 

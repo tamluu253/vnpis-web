@@ -16,8 +16,7 @@ schema_type: TechnicalArticle
 publisher_mst: 0318266611
 status: published
 draft: false
-image: /images/real_photos/vnpis_workshop_photo_04.jpg
-mediaExt: .png
+image: /images/real_photos/vnpis_workshop_photo_105.jpg
 tags:
   - máy in tampon 1 màu
   - máy in tampon cũ
@@ -53,8 +52,8 @@ Khi tìm kiếm **máy in tampon 1 màu** trên thị trường, người mua th
 ---
 
 
-![Đầu in silicone màu hồng chuyên dụng cho công nghệ in tampon pad printing tại VNPIS](/images/real_photos/vnpis_workshop_photo_04.jpg)
-*Cận cảnh đầu in silicone màu hồng dạng hình khối vòm gắn trên đế gỗ dùng cho máy in tampon tại xưởng VNPIS.*
+![Cận cảnh máy in tampon công nghiệp có đầu silicone màu hồng và bàn gá phôi in tại xưởng in VNPIS](/images/real_photos/vnpis_workshop_photo_105.jpg)
+*Máy in tampon (Pad Printing) công nghiệp số 09 tại xưởng VNPIS với đầu in silicone màu hồng và hệ thống điều khiển kỹ thuật số.*
 
 ## 2. Quy Trình 15 Bước Tái Chuẩn Hóa "Máy In Tampon 1 Màu Cũ" Đạt Chuẩn 98% Tại VNPIS
 
@@ -93,8 +92,8 @@ Các dòng **máy in tampon 1 màu** qua sử dụng tại VNPIS chủ yếu thu
 | **Chế độ bảo hành** | 12 tháng trọn gói (1 đổi 1 linh kiện) | 12 tháng trọn gói (1 đổi 1 linh kiện) |
 
 > 📌 **Tham khảo chi tiết các dòng máy mới & cũ tại**:
-> - [Máy In Tampon HJ Phổ Thông](https://vnpis.com/in-tampon/hj)
-> - [Máy In Tampon Meichao Cao Cấp](https://vnpis.com/in-tampon/mc)
+> - [Máy In Tampon HJ Phổ Thông](/products/pad-printers/hj)
+> - [Máy In Tampon Meichao Cao Cấp](/products/pad-printers/mc)
 > - [So Sánh Chi Tiết Máy In Tampon 1 Màu Và In Lụa](/blog/so-sanh-may-in-tampon-1-mau-va-in-lua)
 
 ---

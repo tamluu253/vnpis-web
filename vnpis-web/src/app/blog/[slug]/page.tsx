@@ -30,10 +30,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const isDuplicateRollup = meta.is_duplicate_rollup === true;
   
   return {
-    title: `${meta.title} | VNPIS - Giải Pháp In Ấn Công Nghiệp Toàn Diện`,
+    title: meta.title,
     description: meta.description,
     alternates: {
-      canonical: meta.canonical || `https://vnpis.com/blog/${resolvedParams.slug}`,
+      canonical: `https://vnpis.com/blog/${resolvedParams.slug}`,
     },
     ...((isDraft || isDuplicateRollup) ? { robots: { index: false, follow: true } } : {}),
   };

@@ -10,8 +10,8 @@ description: >-
 date: '2026-08-21T09:01:00.000Z'
 category: Phụ Tùng & Vật Tư
 code: PRIMER-SURFACE
-mediaExt: jpg
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_203.jpg
 ---
 
 Trong ngành công nghiệp gia công in ấn (in Tampon, in Lụa, in UV, in Phun CIJ/TIJ), một trong những thách thức lớn nhất là in trên các chất liệu có năng lượng bề mặt cực thấp hoặc bề mặt kim loại trơn bóng khó bám mực như **nhựa PP, HDPE, EVA, inox (thép không gỉ), nhôm, đồng và các hợp kim**.
@@ -29,6 +29,11 @@ Nếu không xử lý bề mặt trước khi in, màng mực sẽ bị tróc r�
 2. **Tạo cầu nối liên kết phân tử (Chemical Bridging)**: Tạo ra một lớp màng liên kết trung gian siêu mỏng gắn chặt một đầu với cấu trúc vật liệu (chất nền nhựa/kim loại) và một đầu liên kết chết với màng mực in (Pad/Screen/UV Ink).
 
 ---
+
+
+
+![Chai dung môi in nhựa PP và lọ mực in công nghiệp tại xưởng VNPIS, chuyên dùng xử lý bề mặt và pha chế mực in tampon/lụa.](/images/real_photos/vnpis_workshop_photo_203.jpg)
+*Hình ảnh ghi nhận chai dung môi chuyên dụng cho vật liệu nhựa PP và lọ mực in nghiệp vụ tại xưởng VNPIS.*
 
 ## 2. Ứng Dụng Nước Xử Lý Cho Từng Vật Liệu Chuyên Biệt
 

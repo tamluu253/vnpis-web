@@ -10,8 +10,8 @@ description: >-
 date: '2026-07-18T10:00:00.000Z'
 category: Afford
 code: KT1 / Serie 50
-mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_71.jpg
 ---
 
 Trong ngành công nghiệp dệt may và sản xuất giày da xuất khẩu, việc in mác trực tiếp lên sản phẩm (Tagless Label) đang trở thành tiêu chuẩn bắt buộc của các thương hiệu thời trang toàn cầu. Để đáp ứng được những yêu cầu cực kỳ khắt khe về độ bám dính, độ co giãn và mức độ an toàn sinh thái, **Afford KT1 (thuộc Serie 50 - Nylofford)** chính là "vũ khí" bí mật mà các nhà xưởng đang tìm kiếm.
@@ -34,7 +34,7 @@ Mực in Afford KT1 không hoạt động đơn lẻ để đạt hiệu suất 
 Điểm sáng giá nhất của Afford KT1 là chứng nhận **ZDHC Level 3** (Zero Discharge of Hazardous Chemicals). 
 Để đưa hàng hóa vào chuỗi cung ứng của các tập đoàn khổng lồ như Nike, Adidas, Puma... xưởng in bắt buộc phải sử dụng các dòng hóa chất đạt chuẩn ZDHC. KT1 hoàn toàn không chứa PVC, Phthalates, Kim loại nặng hay Formaldehyde, đáp ứng Oeko-Tex Standard 100 Class 1 (an toàn cho cả trẻ sơ sinh).
 
-Nếu nhà máy của bạn đang đau đầu đi tìm giải pháp [**mực in Tagless**](/products/consumables/inks) cao cấp, hãy liên hệ ngay với VNPIS để nhận mẫu test thử Afford KT1 cùng bộ phụ gia chuyên dụng!
+Nếu nhà máy của bạn đang đau đầu đi tìm giải pháp [**mực in Tagless**](/products/consumables/muc-in) cao cấp, hãy liên hệ ngay với VNPIS để nhận mẫu test thử Afford KT1 cùng bộ phụ gia chuyên dụng!
 
 
 ---
@@ -55,6 +55,11 @@ Nếu nhà máy của bạn đang đau đầu đi tìm giải pháp [**mực in 
 | **Khả năng kháng hóa chất** | Chịu cồn y tế 90° và dung môi MEK | Thử cọ xát cơ học 50 - 100 lượt có tải trọng |
 | **Dung sai định vị in** | Sai số cơ khí < ±0.05 mm | Đồ gá phay CNC và căn chỉnh quang học laser |
 | **Khả năng chịu nhiệt độ** | Bền bỉ từ -20°C đến 120°C | Thử nghiệm sốc nhiệt trong buồng kiểm tra khí hậu |
+
+
+![Hũ mực in công nghiệp và mẫu vải thử nghiệm màu tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_71.jpg)
+*Các hũ mực in công nghiệp kèm theo nhãn mã màu và các mẫu vải thử nghiệm đặt trên bàn làm việc tại xưởng VNPIS*
+
 ## 2. Quy Trình Vận Hành Tiêu Chuẩn & Kiểm Soát Rủi Ro Tại Xưởng
 
 1. **Khảo sát tính chất vật liệu phôi in:** Xác định rõ chủng loại nhựa (PP, PE, ABS, PC, PET), kim loại hay thủy tinh để chọn lựa gốc mực và phụ gia liên kết phù hợp.

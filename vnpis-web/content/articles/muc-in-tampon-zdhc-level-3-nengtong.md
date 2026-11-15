@@ -9,9 +9,8 @@ description: >-
 date: '2026-07-17T03:34:04.881Z'
 category: Nengtong
 code: NT Pad Series
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_80.jpg
+image: /images/bolijie/tests/bolijie_textile_cotton_black_05.png
 ---
 
 **Nengtong NT Pad Series** là giải pháp mực in Tampon chuyên nghiệp từ Trung Quốc, đặc biệt tập trung phục vụ cho các nhà máy gia công hàng may mặc, giày da xuất khẩu cho các thương hiệu lớn.
@@ -48,8 +47,8 @@ Liên hệ [**VNPIS**](/) - Đại lý phân phối chính thức mực in Nengt
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Đo kích thước độ dày đệm in silicone tampon màu nâu bằng thước kẹp điện tử chính xác tại xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_80.jpg)
-*Đo kiểm kích thước độ dày đệm in silicone tampon (phân loại mẫu OLD và NEW) bằng thước kẹp điện tử tại xưởng VNPIS.*
+![Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen](/images/bolijie/tests/bolijie_textile_cotton_black_05.png)
+*Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

@@ -7,8 +7,8 @@ date: '2026-09-20'
 category: KỸ THUẬT IN ẤN
 code: ART-SURFACE-CORONA
 author: Chuyên Gia In Ấn VNPIS
-mediaExt: webp
 canonical: 'https://vnpis.com/blog/xu-ly-corona-plasma-tang-bam-dinh-nhua-pp-pe'
+image: /images/real_photos/vnpis_workshop_photo_203.jpg
 ---
 
 # Xử Lý Corona & Plasma Tăng Độ Bám Dính Mực In Trên Nhựa PP, PE, HDPE, EVA
@@ -30,6 +30,11 @@ Các loại nhựa bán tinh thể như **Polypropylene (PP), Polyethylene (PE, 
 3. **Tăng góc tiếp xúc tĩnh (Wetting Tension)**, giúp hạt mực loang đều và tạo liên kết hóa học bền vững với chất nền.
 
 ---
+
+
+![Chai dung môi in nhựa PP và lọ mực in công nghiệp tại xưởng VNPIS, chuyên dùng xử lý bề mặt và pha chế mực in tampon/lụa.](/images/real_photos/vnpis_workshop_photo_203.jpg)
+*Hình ảnh ghi nhận chai dung môi chuyên dụng cho vật liệu nhựa PP và lọ mực in nghiệp vụ tại xưởng VNPIS.*
+
 ## 2. So Sánh Các Phương Pháp Xử Lý Bề Mặt Nhựa
 
 | Phương Pháp | Nguyên Lý | Ưu Điểm | Phù Hợp Cho |

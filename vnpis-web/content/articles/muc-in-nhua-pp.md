@@ -10,8 +10,8 @@ description: >-
 date: '2026-08-21T08:58:00.000Z'
 category: Mực in PP
 code: PP-INK
-mediaExt: jpg
 author: VNPIS Engineering Team
+image: /images/real_photos/vnpis_workshop_photo_172.jpg
 ---
 
 Nhựa PP (Polypropylene) là vật liệu được ứng dụng khổng lồ trong sản xuất bao bì thực phẩm, nắp chai, hộp nhựa dùng 1 lần, thùng rác công nghiệp, vỏ bình ắc quy, chai lọ mỹ phẩm và thiết bị y tế. Tuy nhiên, nhựa PP có đặc tính **năng lượng bề mặt rất thấp (chỉ 29 – 31 dyne/cm)**, cực kỳ trơn nhẵn và không phân cực (non-polar). Điều này khiến các loại mực thông thường **hoàn toàn không bám dính được** và lập tức bong tróc sau khi khô.
@@ -33,6 +33,11 @@ Nhựa PP (Polypropylene) là vật liệu được ứng dụng khổng lồ tr
 3. **Dùng Mực In PP Đã Xử Lý (Treated PP Ink)**: Dành cho sản phẩm nhựa PP được xử lý lửa nhẹ, sử dụng dòng mực **Dubuit UBT / D-PAD** hoặc **RUCO T200** kết hợp chất đóng rắn 2K.
 
 ---
+
+
+
+![Các chai mực in công nghiệp CMYK và dung dịch phủ bóng đóng gói trong thùng carton tại kho xưởng VNPIS](/images/real_photos/vnpis_workshop_photo_172.jpg)
+*Thùng carton chứa các chai mực in công nghiệp chuyên dụng được bọc kín, phân loại theo mã màu CMYK và màu phụ trợ (Light Cyan, Light Magenta, Gloss/Clear).*
 
 ## 2. Các Dòng Mực In Nhựa PP Nổi Bật Tại INANVNPIS
 

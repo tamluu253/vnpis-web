@@ -9,7 +9,6 @@ description: >-
 date: '2026-07-08T08:40:08.119Z'
 category: TIJ/CIJ
 code: GUIDE
-mediaExt: jpg
 author: VNPIS Engineering Team
 image: /images/bolijie/tests/bolijie_tij_cartridge_online_06.jpg
 ---

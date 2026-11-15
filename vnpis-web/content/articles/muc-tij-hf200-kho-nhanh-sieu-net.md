@@ -9,7 +9,6 @@ description: >-
 date: '2026-07-08T08:40:08.100Z'
 category: TIJ
 code: HF200
-mediaExt: jpg
 author: VNPIS Engineering Team
 image: /images/bolijie/tests/bolijie_tij_cartridge_online_01.jpg
 ---

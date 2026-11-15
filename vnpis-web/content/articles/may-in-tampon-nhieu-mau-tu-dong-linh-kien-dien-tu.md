@@ -10,9 +10,8 @@ description: >-
 date: '2026-07-18T00:41:17.444Z'
 category: Máy In Tampon (PAD)
 code: PAD-MULTICOLOR
-mediaExt: 'null'
 author: VNPIS Engineering Team
-image: /images/real_photos/vnpis_workshop_photo_06.jpg
+image: /images/real_photos/vnpis_workshop_photo_66.jpg
 ---
 
 Khi thiết kế nhãn mác cho các sản phẩm linh kiện điện tử cao cấp (vỏ tivi, laptop, router wifi), các kỹ sư thường yêu cầu logo nhiều màu sắc, hoặc các biểu tượng cảnh báo với nhiều màu riêng biệt trên cùng một mặt phẳng. Để giải bài toán này, **Máy in tampon nhiều màu tự động** là công cụ đắc lực nhất.
@@ -61,8 +60,8 @@ Quý khách hàng có nhu cầu tư vấn cấu hình và nhận báo giá máy 
 | **Tốc độ chu kỳ in** | 1.200 - 2.100 sản phẩm/giờ | Điều khiển bàn đạp Foot-switch hoặc tự động Sensor |
 
 
-![Cụm các đầu in silicone màu hồng hình tròn tròn đế gỗ phục vụ công nghệ in tampon pad printing VNPIS](/images/real_photos/vnpis_workshop_photo_06.jpg)
-*Cận cảnh các đầu in silicone màu hồng dạng vòm tròn gắn đế gỗ chuyên dụng cho máy in tampon tại xưởng VNPIS.*
+![Sản phẩm quả bóng in họa tiết thủ công hoàn thiện tại xưởng in công nghiệp VNPIS](/images/real_photos/vnpis_workshop_photo_66.jpg)
+*Sản phẩm bóng đồ chơi được in màu họa tiết hoàn thiện tại xưởng VNPIS*
 
 ## 2. Quy Trình Căn Chỉnh Đồ Gá (Jig) & Kiểm Soát Độ Bám Dính QA/QC
 

@@ -9,8 +9,8 @@ description: >-
 date: '2026-07-18T00:19:13.793Z'
 category: Afford
 code: KT1
-mediaExt: 'null'
 author: VNPIS Engineering Team
+image: /images/bolijie/tests/bolijie_textile_cotton_black_01.jpg
 ---
 
 Nhiều xưởng in vẫn đang phân vân giữa việc sử dụng mực Plastisol truyền thống để in lụa mác cổ, hay chuyển sang dùng mực in gốc dung môi như **Afford KT1** trên máy in Tampon. Dưới đây là bảng so sánh chi tiết.
@@ -18,6 +18,11 @@ Nhiều xưởng in vẫn đang phân vân giữa việc sử dụng mực Plast
 ## 1. Cảm giác khi sờ (Hand-feel)
 - **Plastisol**: Bản chất là PVC, tạo thành một lớp cao su dày, cứng và cộm trên bề mặt vải. Gây ngứa ngáy ở vùng cổ áo.
 - **Afford KT1**: Thấm sâu vào sớ vải, cực kỳ mềm mại, gần như vô hình khi sờ (Zero hand-feel).
+
+
+
+![Độ sắc nét và khả năng ngấm bám của mực in trên chất liệu vải cotton đay đen](/images/bolijie/tests/bolijie_textile_cotton_black_01.jpg)
+*Mẫu in thử nghiệm mực in bám dính cao trên nền sợi vải cotton và vải dệt tối màu*
 
 ## 2. Năng suất và tự động hóa
 - **Plastisol**: In lụa thủ công, tốc độ chậm, cần sấy nhiệt ở nhiệt độ rất cao (160°C) để mực "chín".
