@@ -1,11 +1,18 @@
 ---
-title: "Giải Cứu Dây Chuyền Đóng Gói Nước Giải Khát Bằng Mực CIJ Wet Glass"
-description: "Cách VNPIS giúp một nhà máy bia giải quyết tình trạng mực in Date Code bị trôi trên vỏ chai ướt lạnh bằng dòng mực CIJ Wet Glass chuyên dụng."
-category: "Thực Phẩm & Đồ Uống (F&B)"
-client: "Nhà máy Bia & Nước giải khát"
-industry: "F&B"
-solution: "Chuyển đổi sang mực CIJ Wet Glass (Mực bám thủy tinh ướt) + Tối ưu thông số máy in"
-result: "Khắc phục 100% tình trạng bong tróc mực, tiết kiệm 40% chi phí dung môi so với mực hãng."
+title: Giải Cứu Dây Chuyền Đóng Gói Nước Giải Khát Bằng Mực CIJ Wet Glass
+description: >-
+  Cách VNPIS giúp một nhà máy bia giải quyết tình trạng mực in Date Code bị trôi
+  trên vỏ chai ướt lạnh bằng dòng mực CIJ Wet Glass chuyên dụng.
+category: Thực Phẩm & Đồ Uống (F&B)
+client: Nhà máy Bia & Nước giải khát
+industry: F&B
+solution: >-
+  Chuyển đổi sang mực CIJ Wet Glass (Mực bám thủy tinh ướt) + Tối ưu thông số
+  máy in
+result: >-
+  Khắc phục 100% tình trạng bong tróc mực, tiết kiệm 40% chi phí dung môi so với
+  mực hãng.
+image: /images/bolijie/tests/bolijie_yellow_ink_glass_bottle_02.jpg
 ---
 
 # Tình Trạng Báo Động Tại Nhà Máy
@@ -43,3 +50,8 @@ Quá trình chuyển đổi mực được thực hiện ngay trong ca đêm đ�
 - **Độ ổn định:** Máy chạy liên tục 3 ca/ngày trong suốt 6 tháng không hề bị nghẹt vòi phun.
 
 VNPIS chứng minh rằng: Trong in ấn công nghiệp, máy móc chỉ là phần xác, **Mực in mới là linh hồn**. Chọn đúng mực là giải quyết được 90% nỗi đau của nhà máy.
+
+
+![Mực vàng in date trên chai thủy tinh màu xanh lá và nâu hổ phách](/images/bolijie/tests/bolijie_yellow_ink_glass_bottle_02.jpg)
+*Mực vàng pigment in date trên thân chai bia và nước ngọt thủy tinh tối màu chống trầy xước*
+

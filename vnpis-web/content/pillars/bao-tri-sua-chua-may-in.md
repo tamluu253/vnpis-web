@@ -1,8 +1,12 @@
 ---
-title: "Bảo Trì & Sửa Chữa Máy In Công Nghiệp: Cấp cứu dây chuyền 24/7"
-description: "Trung tâm kỹ thuật sửa chữa máy in Date CIJ, máy in Tampon, máy in lụa. Thay thế linh kiện chính hãng, bảo dưỡng định kỳ và phản ứng khắc phục sự cố trong 2 giờ."
-date: "2026-07-08T09:00:00.000Z"
-category: "Maintenance & Repair"
+title: 'Bảo Trì & Sửa Chữa Máy In Công Nghiệp: Cấp cứu dây chuyền 24/7'
+description: >-
+  Trung tâm kỹ thuật sửa chữa máy in Date CIJ, máy in Tampon, máy in lụa. Thay
+  thế linh kiện chính hãng, bảo dưỡng định kỳ và phản ứng khắc phục sự cố trong
+  2 giờ.
+date: '2026-07-08T09:00:00.000Z'
+category: Maintenance & Repair
+image: /images/machinery/vnpis-industrial-printing-solutions-showcase.jpg
 ---
 
 # Bảo Trì Sửa Chữa: Tấm Khiên Của Dây Chuyền Sản Xuất
@@ -21,7 +25,13 @@ Khi máy móc gặp sự cố không thể tự khắc phục, chỉ cần một
 - **Có mặt tận nơi (On-site Visit):** Nếu phần cứng bị hỏng nặng, kỹ sư VNPIS cam kết có mặt tại nhà máy của bạn trong vòng **2h - 4h** (đối với khu vực HCM, Hà Nội, Bình Dương, Đồng Nai, Bắc Ninh).
 - **Máy thay thế (Back-up unit):** Nếu máy bị hư hỏng bo mạch cần mang về trung tâm sửa chữa, VNPIS sẽ mang theo một máy Back-up cho bạn mượn để dây chuyền tiếp tục chạy, không chờ đợi.
 
-### 2. Hợp Đồng Bảo Dưỡng Định Kỳ (Preventive Maintenance - PM)
+#
+
+
+![Giải pháp máy in công nghiệp và dịch vụ kỹ thuật VNPIS](/images/machinery/vnpis-industrial-printing-solutions-showcase.jpg)
+*Hệ thống thiết bị in công nghiệp và dịch vụ kỹ thuật tại xưởng VNPIS*
+
+## 2. Hợp Đồng Bảo Dưỡng Định Kỳ (Preventive Maintenance - PM)
 Thay vì chờ "Mất bò mới lo làm chuồng", hợp đồng PM là gói bảo hiểm y tế cho cỗ máy của bạn.
 - Hàng quý (hoặc 6 tháng), kỹ sư VNPIS sẽ đến tận nơi để: Vệ sinh chuyên sâu toàn bộ hệ thống thủy lực, xả cặn mực cũ, cân chỉnh lại tia mực (Drop alignment), kiểm tra độ mòn của bơm, và thay thế Main Filter (bộ lọc chính).
 - Kiểm tra báo cáo tình trạng linh kiện (Health Check Report) để dự báo thời điểm hư hỏng, từ đó có kế hoạch nhập linh kiện dự phòng trước, tránh Downtime.

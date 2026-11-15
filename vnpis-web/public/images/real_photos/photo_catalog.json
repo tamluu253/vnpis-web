@@ -742,22 +742,6 @@
     "fileName": "vnpis_workshop_photo_39.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_39.jpg"
   },
-  "vnpis_workshop_photo_38.jpg": {
-    "fileName": "vnpis_workshop_photo_38.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_38.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
-  },
   "vnpis_workshop_photo_40.jpg": {
     "category": "PAD_PRINTING",
     "has_third_party_brand": true,
@@ -795,22 +779,6 @@
     "alt": "Bản in thép cliché và linh kiện máy in tampon công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_42.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_42.jpg"
-  },
-  "vnpis_workshop_photo_32.jpg": {
-    "fileName": "vnpis_workshop_photo_32.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_32.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   "vnpis_workshop_photo_43.jpg": {
     "category": "FINISHED_PRODUCTS",
@@ -895,38 +863,6 @@
     "fileName": "vnpis_workshop_photo_46.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_46.jpg"
   },
-  "vnpis_workshop_photo_48.jpg": {
-    "fileName": "vnpis_workshop_photo_48.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_48.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
-  },
-  "vnpis_workshop_photo_44.jpg": {
-    "fileName": "vnpis_workshop_photo_44.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_44.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
-  },
   "vnpis_workshop_photo_49.jpg": {
     "category": "PAD_PRINTING",
     "has_third_party_brand": false,
@@ -966,22 +902,6 @@
     "alt": "Các đầu in silicone màu hồng dùng trong máy in tampon công nghiệp tại xưởng VNPIS",
     "fileName": "vnpis_workshop_photo_51.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_51.jpg"
-  },
-  "vnpis_workshop_photo_47.jpg": {
-    "fileName": "vnpis_workshop_photo_47.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_47.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   "vnpis_workshop_photo_52.jpg": {
     "category": "PAD_PRINTING",
@@ -1061,22 +981,6 @@
     "alt": "Sản phẩm linh kiện điện tử nhựa trắng in chữ sắc nét tại xưởng in VNPIS",
     "fileName": "vnpis_workshop_photo_56.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_56.jpg"
-  },
-  "vnpis_workshop_photo_50.jpg": {
-    "fileName": "vnpis_workshop_photo_50.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_50.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   "vnpis_workshop_photo_53.jpg": {
     "category": "INK_SOLVENT",
@@ -1257,22 +1161,6 @@
     "fileName": "vnpis_workshop_photo_59.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_59.jpg"
   },
-  "vnpis_workshop_photo_58.jpg": {
-    "fileName": "vnpis_workshop_photo_58.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_58.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
-  },
   "vnpis_workshop_photo_66.jpg": {
     "category": "FINISHED_PRODUCTS",
     "has_third_party_brand": false,
@@ -1390,22 +1278,6 @@
     "fileName": "vnpis_workshop_photo_73.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_73.jpg"
   },
-  "vnpis_workshop_photo_67.jpg": {
-    "fileName": "vnpis_workshop_photo_67.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_67.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
-  },
   "vnpis_workshop_photo_74.jpg": {
     "category": "FINISHED_PRODUCTS",
     "has_third_party_brand": true,
@@ -1465,22 +1337,6 @@
     "alt": "Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại VNPIS",
     "fileName": "vnpis_workshop_photo_76.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_76.jpg"
-  },
-  "vnpis_workshop_photo_68.jpg": {
-    "fileName": "vnpis_workshop_photo_68.jpg",
-    "webPath": "/images/real_photos/vnpis_workshop_photo_68.jpg",
-    "category": "WORKSHOP_GENERAL",
-    "has_third_party_brand": false,
-    "brand_detected": null,
-    "confidence": 0.5,
-    "specific_items": [
-      "Thiết bị xưởng VNPIS"
-    ],
-    "suitable_topics": [
-      "xưởng kỹ thuật vnpis"
-    ],
-    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
-    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   },
   "vnpis_workshop_photo_79.jpg": {
     "category": "FINISHED_PRODUCTS",
@@ -1563,5 +1419,2894 @@
     "alt": "Các linh kiện cơ khí như đai ốc rãnh và vòng đệm kim loại dùng trong lắp ráp máy in công nghiệp tại VNPIS.",
     "fileName": "vnpis_workshop_photo_78.jpg",
     "webPath": "/images/real_photos/vnpis_workshop_photo_78.jpg"
+  },
+  "vnpis_workshop_photo_83.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "máy in tampon",
+      "cốc mực",
+      "bàn gá sản phẩm",
+      "mẫu vải xanh lá",
+      "động cơ ZD"
+    ],
+    "suitable_topics": [
+      "Công nghệ in tampon trên vải",
+      "Hướng dẫn vận hành máy in tampon công nghiệp",
+      "Lựa chọn đầu in silicone phù hợp"
+    ],
+    "caption": "Kỹ thuật viên đang căn chỉnh vật liệu trên máy in tampon (pad printing) với đầu in silicone tại xưởng VNPIS.",
+    "alt": "Cận cảnh máy in tampon đang hoạt động với đầu in silicone hồng và kỹ thuật viên thao tác trên sản phẩm vải tại xưởng VNPIS.",
+    "fileName": "vnpis_workshop_photo_83.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_83.jpg"
+  },
+  "vnpis_workshop_photo_94.jpg": {
+    "category": "SCREEN_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.92,
+    "specific_items": [
+      "Cụm kẹp dao gạt mực",
+      "Thanh gạt mực máy in lụa",
+      "Khung nhựa kỹ thuật",
+      "Thanh nhôm gia công",
+      "Ốc vít lục giác"
+    ],
+    "suitable_topics": [
+      "Linh kiện máy in lụa công nghiệp",
+      "Vật tư phụ tùng xưởng in",
+      "Cấu tạo dao gạt mực máy in lụa"
+    ],
+    "caption": "Cụm linh kiện kẹp dao gạt mực (squeegee holder) chuyên dụng cho hệ thống máy in lụa công nghiệp tại xưởng VNPIS.",
+    "alt": "Các bộ phận kẹp dao gạt mực máy in lụa bằng nhựa trắng và thanh nhôm lắp vít lục giác đựng trong thùng carton tại kho VNPIS.",
+    "fileName": "vnpis_workshop_photo_94.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_94.jpg"
+  },
+  "vnpis_workshop_photo_44.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "ORGANIC COLLECTIVE",
+    "confidence": 0.98,
+    "specific_items": [
+      "vải in nhãn mác",
+      "mẫu in tag áo",
+      "sản phẩm dệt may"
+    ],
+    "suitable_topics": [
+      "Giải pháp in mác áo",
+      "Công nghệ in trên vải",
+      "Ứng dụng in tampon/lụa trên phụ liệu may mặc"
+    ],
+    "caption": "Mẫu in nhãn mác thương hiệu trên bề mặt vải với các tông màu beige và xám, thể hiện độ sắc nét của mực in trên chất liệu sợi dệt.",
+    "alt": "Sản phẩm in nhãn mác thương hiệu ORGANIC COLLECTIVE trên vải tại xưởng VNPIS, ứng dụng kỹ thuật in công nghiệp cao cấp cho ngành may mặc.",
+    "fileName": "vnpis_workshop_photo_44.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_44.jpg"
+  },
+  "vnpis_workshop_photo_47.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "bảng điều khiển",
+      "nút bấm in biểu tượng",
+      "vỏ nhựa gia dụng"
+    ],
+    "suitable_topics": [
+      "Công nghệ in trên bề mặt nhựa",
+      "In biểu tượng chức năng trên bảng điều khiển",
+      "Giải pháp in ấn linh kiện công nghiệp"
+    ],
+    "caption": "Bề mặt bảng điều khiển thiết bị điện tử với các biểu tượng chức năng đã được in hoàn thiện sắc nét tại xưởng VNPIS.",
+    "alt": "Bảng điều khiển thiết bị điện tử có các biểu tượng chức năng in sắc nét trên vỏ nhựa đen tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_47.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_47.jpg"
+  },
+  "vnpis_workshop_photo_38.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Champion",
+    "confidence": 0.95,
+    "specific_items": [
+      "Thẻ bài treo (hangtags)",
+      "Bản in mã vạch (barcode)",
+      "Bản test tia đầu in (nozzle check)",
+      "Bút bi",
+      "Túi nilon",
+      "Dây thun"
+    ],
+    "suitable_topics": [
+      "Quy trình kiểm soát chất lượng in mã vạch",
+      "In thẻ bài ngành may mặc",
+      "Kiểm tra độ sắc nét của đầu in phun công nghiệp"
+    ],
+    "caption": "Các sản phẩm thẻ bài in mã vạch đã hoàn thiện kèm bản in test kiểm tra chất lượng tia mực tại xưởng VNPIS.",
+    "alt": "Chi tiết các tệp thẻ bài treo nhãn mác quần áo in mã vạch và các bản in test lưới đầu in để kiểm tra lỗi mất tia trên bàn kỹ thuật.",
+    "fileName": "vnpis_workshop_photo_38.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_38.jpg"
+  },
+  "vnpis_workshop_photo_48.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 1,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in",
+      "đế gỗ"
+    ],
+    "suitable_topics": [
+      "Lựa chọn đầu in tampon phù hợp",
+      "Kỹ thuật bảo quản pad in silicone",
+      "Quy trình in tampon công nghiệp"
+    ],
+    "caption": "Đầu in silicone (pad) màu hồng dùng trong máy in tampon công nghiệp, được gắn trên đế gỗ chịu lực.",
+    "alt": "Đầu in silicone màu hồng chuyên dụng cho máy in tampon tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_48.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_48.jpg"
+  },
+  "vnpis_workshop_photo_58.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Target (logo hình chú chó Bull Terrier - Bullseye)",
+    "confidence": 0.98,
+    "specific_items": [
+      "thẻ bài quần áo",
+      "mã vạch",
+      "nhãn treo sản phẩm"
+    ],
+    "suitable_topics": [
+      "quy trình kiểm soát chất lượng sản phẩm in ấn",
+      "in nhãn treo cho ngành bán lẻ",
+      "tiêu chuẩn mã vạch trong ngành may mặc"
+    ],
+    "caption": "Sản phẩm thẻ treo quần áo (hang tags) đã hoàn thiện in ấn, hiển thị thông tin sản phẩm, mã vạch và logo nhãn hàng bán lẻ.",
+    "alt": "Sản phẩm thẻ treo nhãn hàng bán lẻ đã in hoàn thiện với mã vạch và thông tin SKU tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_58.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_58.jpg"
+  },
+  "vnpis_workshop_photo_50.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Surface Maxx",
+    "confidence": 0.98,
+    "specific_items": [
+      "bình nhựa trắng đục",
+      "logo Surface Maxx in đa sắc",
+      "mẫu sản phẩm hoàn thiện"
+    ],
+    "suitable_topics": [
+      "Dịch vụ in logo lên nhựa",
+      "Kỹ thuật in trên bề mặt cong",
+      "Gia công in ấn bao bì sản phẩm"
+    ],
+    "caption": "Mẫu sản phẩm bình nhựa được in logo Surface Maxx hoàn thiện tại xưởng VNPIS, thể hiện độ sắc nét và độ bám dính của mực in.",
+    "alt": "Sản phẩm bình nhựa trắng đục in logo Surface Maxx bằng kỹ thuật in công nghiệp, mẫu in hoàn thiện sắc nét tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_50.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_50.jpg"
+  },
+  "vnpis_workshop_photo_67.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 1,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in tampon"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn bảo quản đầu in tampon",
+      "Kỹ thuật lựa chọn độ cứng đầu in silicone",
+      "Quy trình vệ sinh pad in"
+    ],
+    "caption": "Kỹ thuật viên đang kiểm tra các đầu in silicone (pad) chuyên dụng dùng trong công nghệ in tampon tại xưởng VNPIS.",
+    "alt": "Đầu in silicone màu hồng dùng cho máy in tampon tại xưởng in công nghiệp VNPIS",
+    "fileName": "vnpis_workshop_photo_67.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_67.jpg"
+  },
+  "vnpis_workshop_photo_81.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "sản phẩm nhựa tạo hình",
+      "chi tiết in họa tiết mắt thỏ"
+    ],
+    "suitable_topics": [
+      "Quy trình in trên bề mặt nhựa",
+      "Kiểm tra chất lượng thành phẩm in ấn",
+      "Ứng dụng kỹ thuật in trên sản phẩm gia dụng"
+    ],
+    "caption": "Sản phẩm nhựa gia dụng sau khi đã hoàn thiện công đoạn in họa tiết trang trí tại xưởng VNPIS.",
+    "alt": "Sản phẩm nhựa tạo hình nhân vật thỏ với họa tiết in sắc nét được thực hiện tại VNPIS",
+    "fileName": "vnpis_workshop_photo_81.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_81.jpg"
+  },
+  "vnpis_workshop_photo_32.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "RED BY KISS",
+    "confidence": 0.98,
+    "specific_items": [
+      "lược chải tóc nhựa",
+      "sản phẩm in logo",
+      "vật mẫu kiểm định"
+    ],
+    "suitable_topics": [
+      "Quy trình kiểm soát chất lượng in ấn",
+      "In ấn trên sản phẩm nhựa tiêu dùng",
+      "Đánh giá chất lượng in Pad Printing"
+    ],
+    "caption": "Sản phẩm lược chải tóc thương hiệu RED BY KISS đã hoàn thiện phần in logo, đang được kiểm tra đánh giá chất lượng bề mặt tại xưởng.",
+    "alt": "Hình ảnh chụp cận cảnh sản phẩm lược nhựa in logo RED BY KISS tại xưởng in VNPIS để kiểm định chất lượng bản in.",
+    "fileName": "vnpis_workshop_photo_32.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_32.jpg"
+  },
+  "vnpis_workshop_photo_68.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Bảng màu Pantone Uncoated",
+      "Mẫu test mực in màu cam",
+      "Bản đối chiếu màu sắc"
+    ],
+    "suitable_topics": [
+      "Quy trình pha mực in công nghiệp",
+      "Kiểm soát chất lượng màu sắc In-house",
+      "Kỹ thuật so màu Pantone trong in ấn"
+    ],
+    "caption": "Kỹ thuật viên tại VNPIS đang thực hiện công đoạn so màu (color matching) giữa mẫu mực in thực tế và thước màu Pantone tiêu chuẩn.",
+    "alt": "Quá trình kiểm tra và đối chiếu màu mực in thực tế với bảng mã màu Pantone 158 U tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_68.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_68.jpg"
+  },
+  "vnpis_workshop_photo_82.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "móc khóa nhựa tròn",
+      "sản phẩm in màu",
+      "phôi nhựa trắng"
+    ],
+    "suitable_topics": [
+      "Sản phẩm quà tặng in ấn",
+      "Công nghệ in trên bề mặt phẳng",
+      "Ứng dụng in tampon trên nhựa"
+    ],
+    "caption": "Hai mẫu móc khóa nhựa hình tròn, trong đó một chiếc đã được in họa tiết du lịch Sài Gòn bằng mực đơn sắc.",
+    "alt": "Sản phẩm móc khóa nhựa tròn đã in họa tiết và phôi trắng tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_82.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_82.jpg"
+  },
+  "vnpis_workshop_photo_86.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Herbalife",
+    "confidence": 1,
+    "specific_items": [
+      "bình shaker nhựa",
+      "logo in thương hiệu"
+    ],
+    "suitable_topics": [
+      "quy trình in trên nhựa",
+      "giải pháp in logo thương hiệu cho sản phẩm gia dụng"
+    ],
+    "caption": "Sản phẩm bình shaker nhựa đã hoàn thiện in logo Herbalife tại xưởng VNPIS.",
+    "alt": "Bình shaker nhựa in logo Herbalife hoàn thiện được chụp tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_86.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_86.jpg"
+  },
+  "vnpis_workshop_photo_85.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "đế gỗ gắn đầu in",
+      "tampon in ấn"
+    ],
+    "suitable_topics": [
+      "vật tư máy in tampon",
+      "kỹ thuật in pad printing",
+      "quy trình chế tạo đầu in silicone"
+    ],
+    "caption": "Cận cảnh đầu in silicone màu hồng (tampon) gắn trên đế gỗ, một vật tư tiêu hao quan trọng trong kỹ thuật in Pad Printing tại xưởng VNPIS.",
+    "alt": "Đầu in silicone màu hồng chuyên dụng cho máy in tampon được gắn trên đế gỗ phục vụ in ấn linh kiện và sản phẩm có bề mặt không phẳng.",
+    "fileName": "vnpis_workshop_photo_85.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_85.jpg"
+  },
+  "vnpis_workshop_photo_87.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in tampon"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn lựa chọn độ cứng đầu in tampon",
+      "Bảo quản đầu in silicone trong in ấn công nghiệp",
+      "Quy trình in tampon trên linh kiện"
+    ],
+    "caption": "Đầu in silicone (pad) màu hồng được gắn trên đế gỗ, vật tư cốt lõi trong quy trình in tampon tại xưởng VNPIS.",
+    "alt": "Đầu in silicone màu hồng dùng cho máy in tampon công nghiệp tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_87.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_87.jpg"
+  },
+  "vnpis_workshop_photo_89.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in",
+      "biên bản bàn giao VNPIS"
+    ],
+    "suitable_topics": [
+      "quy trình sản xuất tampon",
+      "vật tư ngành in ấn",
+      "công nghệ in chuyển tiếp"
+    ],
+    "caption": "Các quả đầu in silicone (pad) màu xanh lá cây đặt trên bàn làm việc tại xưởng VNPIS, bên cạnh là tài liệu bàn giao kỹ thuật.",
+    "alt": "Hình ảnh cận cảnh đầu in silicone dùng trong máy in tampon công nghiệp tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_89.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_89.jpg"
+  },
+  "vnpis_workshop_photo_88.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu hồng (tampon pad)",
+      "thước kẹp cơ khí (vernier caliper)",
+      "bàn gỗ thao tác"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật kiểm tra vật tư in tampon",
+      "Lựa chọn kích thước đầu in silicone phù hợp",
+      "Quy trình QC đầu in silicone tại VNPIS",
+      "Vật tư máy in tampon chuyên dụng"
+    ],
+    "caption": "Kỹ sư đang thực hiện đo đạc kích thước chuẩn của đầu in silicone (pad) màu hồng bằng thước kẹp cơ khí tại xưởng VNPIS.",
+    "alt": "Đo kích thước đầu in silicone màu hồng hình vuông cho máy in tampon bằng thước kẹp vernier trên bàn làm việc tại xưởng in.",
+    "fileName": "vnpis_workshop_photo_88.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_88.jpg"
+  },
+  "vnpis_workshop_photo_90.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "thước kẹp cơ khí"
+    ],
+    "suitable_topics": [
+      "Quy trình kiểm soát chất lượng linh kiện in tampon",
+      "Thông số kỹ thuật đầu in tampon"
+    ],
+    "caption": "Kỹ sư VNPIS đang thực hiện đo đạc kích thước của đầu in tampon silicone bằng thước kẹp cơ khí để kiểm tra độ chính xác.",
+    "alt": "Kiểm tra kích thước đầu in tampon silicone bằng thước kẹp tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_90.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_90.jpg"
+  },
+  "vnpis_workshop_photo_84.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "linh kiện nhựa đúc",
+      "hình in tampon màu xanh"
+    ],
+    "suitable_topics": [
+      "Ứng dụng in tampon trên linh kiện nhựa",
+      "Giải pháp in ấn chính xác cho chi tiết kỹ thuật"
+    ],
+    "caption": "Sản phẩm linh kiện nhựa hoàn thiện với chi tiết đồ họa màu xanh được in sắc nét bằng công nghệ in tampon tại xưởng VNPIS.",
+    "alt": "Hình ảnh cận cảnh linh kiện nhựa hoàn thiện được in tampon biểu tượng kỹ thuật sắc nét tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_84.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_84.jpg"
+  },
+  "vnpis_workshop_photo_91.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu đỏ",
+      "thước kẹp cơ khí (vernier caliper)",
+      "đế gỗ gắn đầu in",
+      "mặt bàn thao tác kim loại"
+    ],
+    "suitable_topics": [
+      "quy trình đo đạc thông số kỹ thuật vật tư in ấn",
+      "cách chọn đầu in silicone phù hợp cho máy in tampon",
+      "kiểm tra định kỳ vật tư máy in tampon VNPIS"
+    ],
+    "caption": "Kỹ thuật viên sử dụng thước kẹp để kiểm tra kích thước thực tế của đầu in silicone (pad) màu đỏ tại xưởng in VNPIS",
+    "alt": "Cận cảnh đo đạc kích thước đầu in silicone màu đỏ gắn trên đế gỗ bằng thước kẹp cơ khí phục vụ kỹ thuật in tampon (pad printing)",
+    "fileName": "vnpis_workshop_photo_91.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_91.jpg"
+  },
+  "vnpis_workshop_photo_92.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Amphenol RF",
+    "confidence": 0.98,
+    "specific_items": [
+      "linh kiện hình trụ nhỏ",
+      "ký tự in laser/tampography",
+      "mã sản phẩm"
+    ],
+    "suitable_topics": [
+      "Giải pháp in ấn linh kiện điện tử",
+      "In ấn trên vật liệu nhựa chuyên dụng",
+      "Kỹ thuật in mã định danh lên sản phẩm nhỏ"
+    ],
+    "caption": "Sản phẩm linh kiện hình trụ của Amphenol RF sau khi hoàn thiện in các ký tự mã định danh tại xưởng VNPIS.",
+    "alt": "Sản phẩm linh kiện điện tử dạng ống nhỏ có in mã định danh Amphenol RF sắc nét tại xưởng in VNPIS.",
+    "fileName": "vnpis_workshop_photo_92.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_92.jpg"
+  },
+  "vnpis_workshop_photo_96.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "bản in thép cliché",
+      "thước kẹp điện tử kỹ thuật số"
+    ],
+    "suitable_topics": [
+      "Quy trình chế tạo bản in tampon",
+      "Kiểm soát chất lượng khuôn in tại VNPIS",
+      "Kỹ thuật đo đạc chính xác trong in ấn công nghiệp"
+    ],
+    "caption": "Kỹ thuật viên đang sử dụng thước kẹp điện tử để đo kích thước chính xác của bản in thép cliché (cliché plate) dùng trong máy in tampon.",
+    "alt": "Kiểm tra kích thước bản in thép cliché cho máy in tampon tại xưởng VNPIS bằng thước kẹp điện tử kỹ thuật số",
+    "fileName": "vnpis_workshop_photo_96.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_96.jpg"
+  },
+  "vnpis_workshop_photo_95.jpg": {
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "đai ốc chữ T",
+      "con trượt rãnh nhôm định hình",
+      "linh kiện cơ khí lắp ráp",
+      "T-nuts"
+    ],
+    "suitable_topics": [
+      "Linh kiện lắp ráp khung máy in công nghiệp",
+      "Vật tư cơ khí chế tạo máy",
+      "Cấu tạo bàn gá và hệ thống khung nhôm định hình"
+    ],
+    "caption": "Các loại đai ốc chữ T (T-nuts) và con trượt chuyên dụng cho nhôm định hình dùng trong lắp ráp khung máy và đồ gá tại xưởng VNPIS.",
+    "alt": "Cận cảnh các linh kiện đai ốc chữ T và con trượt cơ khí dùng để lắp ráp khung nhôm định hình cho máy in công nghiệp tại VNPIS.",
+    "fileName": "vnpis_workshop_photo_95.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_95.jpg"
+  },
+  "vnpis_workshop_photo_97.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Monorom",
+    "confidence": 0.98,
+    "specific_items": [
+      "bản in thép cliché",
+      "túi bảo quản",
+      "thiết kế logo in tampon"
+    ],
+    "suitable_topics": [
+      "Quy trình chế tạo bản in thép cliché",
+      "Dịch vụ in tampon tại VNPIS",
+      "Bảo quản vật tư ngành in"
+    ],
+    "caption": "Bản in thép cliché (cliché plate) chuyên dụng cho máy in tampon, được đóng gói kỹ lưỡng trong túi nilon để tránh oxy hóa bề mặt, in hình ảnh thương hiệu Monorom.",
+    "alt": "Bản in thép cliché dùng trong công nghệ in tampon tại xưởng VNPIS với hình ảnh thương hiệu Monorom",
+    "fileName": "vnpis_workshop_photo_97.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_97.jpg"
+  },
+  "vnpis_workshop_photo_98.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Vuori",
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu dây rút nhựa (aglet)",
+      "dây dệt",
+      "logo Vuori",
+      "bàn thao tác kim loại"
+    ],
+    "suitable_topics": [
+      "In tampon trên vật liệu nhựa hình trụ",
+      "Dịch vụ in logo phụ kiện ngành may mặc",
+      "In aglet đầu dây giày và dây rút áo hoodie"
+    ],
+    "caption": "Mẫu sản phẩm đầu dây rút (aglet) được in logo thương hiệu Vuori sắc nét bằng kỹ thuật in tampon trên bề mặt nhựa.",
+    "alt": "Sản phẩm in logo Vuori trên đầu dây rút nhựa bằng máy in tampon chuyên dụng tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_98.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_98.jpg"
+  },
+  "vnpis_workshop_photo_99.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 1,
+    "specific_items": [
+      "đầu in silicone",
+      "pad in",
+      "bàn gá in",
+      "đế gá gỗ"
+    ],
+    "suitable_topics": [
+      "quy trình in tampon",
+      "cấu tạo đầu in silicone",
+      "kỹ thuật in lên linh kiện điện tử",
+      "bảo dưỡng máy in tampon"
+    ],
+    "caption": "Chi tiết cận cảnh đầu in silicone màu hồng đang ở vị trí chờ trên hệ thống máy in tampon tại xưởng VNPIS.",
+    "alt": "Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại xưởng VNPIS để in ấn logo linh kiện điện tử",
+    "fileName": "vnpis_workshop_photo_99.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_99.jpg"
+  },
+  "vnpis_workshop_photo_100.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Đầu in silicone (tampon) màu hồng",
+      "Thước kẹp cơ khí (vernier caliper)"
+    ],
+    "suitable_topics": [
+      "Kiểm soát chất lượng vật tư in tampon",
+      "Thông số kỹ thuật đầu in silicone",
+      "Quy trình chuẩn bị khuôn in và đầu in pad printing"
+    ],
+    "caption": "Kỹ thuật viên VNPIS thực hiện đo đạc và kiểm tra kích thước chuẩn của đầu in silicone (tampon) màu hồng bằng thước kẹp cơ khí.",
+    "alt": "Hình ảnh đo kích thước chiều rộng đầu in silicone màu hồng chuyên dụng cho máy in tampon bằng thước kẹp tại xưởng sản xuất VNPIS.",
+    "fileName": "vnpis_workshop_photo_100.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_100.jpg"
+  },
+  "vnpis_workshop_photo_101.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.99,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "bàn gá in",
+      "cụm cơ khí đầu in tampon",
+      "bàn máy in bằng nhôm định hình"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon nhiều màu",
+      "Kỹ thuật chế tạo bàn gá in (jig) cho sản phẩm nhựa",
+      "Bảo trì đầu in silicone công nghiệp"
+    ],
+    "caption": "Cận cảnh cụm đầu in silicone của máy in tampon đa màu đang được thiết lập vị trí với bàn gá sản phẩm tại xưởng VNPIS.",
+    "alt": "Cận cảnh hệ thống đầu in silicone của máy in tampon công nghiệp tại xưởng VNPIS đang trong quá trình gá đặt sản phẩm",
+    "fileName": "vnpis_workshop_photo_101.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_101.jpg"
+  },
+  "vnpis_workshop_photo_93.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Alo Yoga",
+    "confidence": 0.98,
+    "specific_items": [
+      "sản phẩm may mặc",
+      "nhãn in nhiệt",
+      "thương hiệu Alo"
+    ],
+    "suitable_topics": [
+      "Quy trình in nhãn mác quần áo",
+      "Công nghệ in trên vải",
+      "Dịch vụ in ấn hàng may mặc xuất khẩu"
+    ],
+    "caption": "Sản phẩm may mặc đã được hoàn thiện in nhãn size và logo thương hiệu Alo lên bề mặt vải.",
+    "alt": "Sản phẩm may mặc in nhãn thương hiệu Alo tại xưởng in VNPIS, chi tiết in ấn sắc nét trên vải",
+    "fileName": "vnpis_workshop_photo_93.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_93.jpg"
+  },
+  "vnpis_workshop_photo_102.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Máy in tampon",
+      "Đầu in silicone (tampon pads)",
+      "Bảng điều khiển điện tử",
+      "Nút dừng khẩn cấp",
+      "Hệ thống khí nén",
+      "Bàn gá phôi"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Kỹ thuật lựa chọn đầu in silicone chuyên dụng",
+      "Quy trình in pad trên linh kiện điện tử"
+    ],
+    "caption": "Hệ thống máy in tampon (pad printing) công nghiệp đang được chuẩn bị vận hành cùng các đầu in silicone đa màu sắc tại xưởng VNPIS.",
+    "alt": "Cận cảnh máy in tampon công nghiệp và các đầu in silicone (tampon pads) tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_102.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_102.jpg"
+  },
+  "vnpis_workshop_photo_103.jpg": {
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "máy đo quang phổ cầm tay",
+      "bản in kiểm tra màu",
+      "thanh màu chuẩn"
+    ],
+    "suitable_topics": [
+      "Quy trình kiểm soát chất lượng màu sắc",
+      "Kỹ thuật quản lý màu trong in ấn",
+      "Thiết bị đo màu chuyên dụng"
+    ],
+    "caption": "Sử dụng thiết bị đo quang phổ cầm tay để kiểm tra thông số màu sắc (CIELAB) trên bản in thử nghiệm tại xưởng VNPIS.",
+    "alt": "Kỹ thuật viên VNPIS đang kiểm soát chất lượng màu in bằng máy đo quang phổ chuyên dụng trên bảng in test.",
+    "fileName": "vnpis_workshop_photo_103.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_103.jpg"
+  },
+  "vnpis_workshop_photo_106.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Tefal",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bản in thép cliché",
+      "bàn gá in",
+      "nút dừng khẩn cấp"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon trên linh kiện gia dụng",
+      "Hướng dẫn vận hành máy in tampon CHANGYUAN",
+      "Giải pháp in ấn công nghiệp cho thương hiệu lớn"
+    ],
+    "caption": "Máy in tampon công nghiệp thương hiệu Changyuan đang thực hiện in logo lên sản phẩm Tefal tại xưởng VNPIS.",
+    "alt": "Máy in tampon CHANGYUAN MECHANICAL đang vận hành in logo Tefal trên linh kiện nhựa tại xưởng sản xuất VNPIS",
+    "fileName": "vnpis_workshop_photo_106.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_106.jpg"
+  },
+  "vnpis_workshop_photo_105.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "máy in tampon",
+      "bảng điều khiển HMI",
+      "nút dừng khẩn cấp",
+      "bàn gá sản phẩm",
+      "nhãn thiết bị PAD PRINTING 09"
+    ],
+    "suitable_topics": [
+      "Kỹ thuật in tampon trên bề mặt phức tạp",
+      "Quy trình vận hành máy in pad tại VNPIS",
+      "Cấu tạo máy in đầu silicone công nghiệp"
+    ],
+    "caption": "Máy in tampon (Pad Printing) công nghiệp số 09 tại xưởng VNPIS với đầu in silicone màu hồng và hệ thống điều khiển kỹ thuật số.",
+    "alt": "Cận cảnh máy in tampon công nghiệp có đầu silicone màu hồng và bàn gá phôi in tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_105.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_105.jpg"
+  },
+  "vnpis_workshop_photo_107.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Adidas",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone màu hồng",
+      "bản in thép cliché",
+      "bảng điều khiển YKHMI",
+      "nút dừng khẩn cấp"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon trên linh kiện",
+      "Công nghệ in logo lên sản phẩm nhựa",
+      "Hướng dẫn vận hành máy in Pad 09 tại VNPIS"
+    ],
+    "caption": "Máy in tampon (Pad printing) tại xưởng VNPIS đang thực hiện in logo lên chi tiết sản phẩm với đầu in silicone hồng.",
+    "alt": "Máy in tampon công nghiệp VNPIS với đầu in silicone thực hiện in logo thương hiệu lên bề mặt sản phẩm nhựa",
+    "fileName": "vnpis_workshop_photo_107.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_107.jpg"
+  },
+  "vnpis_workshop_photo_109.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 1,
+    "specific_items": [
+      "máy in tampon",
+      "bản in thép cliché",
+      "đầu in silicone",
+      "bộ điều áp khí nén",
+      "bàn gá in",
+      "bàn đạp chân"
+    ],
+    "suitable_topics": [
+      "quy trình vận hành máy in tampon",
+      "bảo trì máy in tampon công nghiệp",
+      "kỹ thuật in lên linh kiện nhựa"
+    ],
+    "caption": "Máy in tampon để bàn công nghiệp tại xưởng VNPIS, trang bị hệ thống đầu in silicone và cơ cấu điều khiển bằng bàn đạp chân.",
+    "alt": "Máy in tampon công nghiệp chuyên dụng dùng để in ấn logo và chi tiết lên bề mặt sản phẩm nhựa tại nhà máy VNPIS",
+    "fileName": "vnpis_workshop_photo_109.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_109.jpg"
+  },
+  "vnpis_workshop_photo_110.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "gracz",
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu đỏ",
+      "bàn gá in",
+      "đế giữ đầu in bằng kim loại",
+      "sản phẩm hộp giấy in logo"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon trên bao bì thực phẩm",
+      "Giải pháp in ấn trên bề mặt không phẳng",
+      "Tối ưu hóa bản in cho máy in tampon"
+    ],
+    "caption": "Máy in tampon đang thực hiện thao tác ép đầu in silicone màu đỏ xuống bề mặt hộp giấy nhãn hiệu gracz tại xưởng VNPIS.",
+    "alt": "Cận cảnh máy in tampon công nghiệp đang in logo gracz lên hộp giấy tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_110.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_110.jpg"
+  },
+  "vnpis_workshop_photo_108.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "COSOTA",
+    "confidence": 0.98,
+    "specific_items": [
+      "Máy in tampon (Pad printer)",
+      "Đầu in silicone (tampon) màu xanh",
+      "Bảng điều khiển máy in với các nút chức năng Tiếng Việt",
+      "Nút dừng khẩn cấp (Emergency Stop)",
+      "Bàn gá phôi in",
+      "Hệ thống điều áp khí nén"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon trên bề mặt không bằng phẳng",
+      "Vận hành máy in pad printer trong công nghiệp",
+      "Giải pháp in logo lên linh kiện điện tử và quà tặng",
+      "Bảo trì đầu in silicone trong kỹ thuật in tampon"
+    ],
+    "caption": "Cận cảnh máy in tampon (pad printing) hiệu COSOTA tại xưởng VNPIS với đầu in silicone màu xanh và hệ thống điều khiển khí nén chuyên dụng.",
+    "alt": "Máy in tampon công nghiệp hiệu COSOTA có đầu silicone và bảng điều khiển tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_108.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_108.jpg"
+  },
+  "vnpis_workshop_photo_104.jpg": {
+    "category": "PRINTHEAD_INDUSTRIAL",
+    "has_third_party_brand": true,
+    "brand_detected": "QPP",
+    "confidence": 0.98,
+    "specific_items": [
+      "bản in kim loại",
+      "vết tia laser định vị",
+      "bề mặt bàn gá máy in công nghiệp"
+    ],
+    "suitable_topics": [
+      "Quy trình căn chỉnh tia laser trên máy in công nghiệp",
+      "Kiểm soát chất lượng in trên bề mặt kim loại",
+      "Công nghệ in phun công nghiệp VNPIS"
+    ],
+    "caption": "Quy trình thiết lập và căn chỉnh vị trí in bằng laser trên bản in kim loại tại xưởng VNPIS.",
+    "alt": "Hình ảnh cận cảnh căn chỉnh tia laser trên bề mặt tấm kim loại có in chữ QPP Scrub Foam tại xưởng kỹ thuật in công nghiệp VNPIS",
+    "fileName": "vnpis_workshop_photo_104.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_104.jpg"
+  },
+  "vnpis_workshop_photo_111.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "máy in tampon",
+      "bản in thép cliché",
+      "bàn gá nhựa"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon công nghiệp",
+      "Hướng dẫn sử dụng máy in tampon",
+      "Kỹ thuật in trên bề mặt định hình"
+    ],
+    "caption": "Kỹ thuật viên đang vận hành máy in tampon với đầu in silicone màu hồng, thực hiện in trên bề mặt sản phẩm kim loại được định vị bởi bàn gá chuyên dụng.",
+    "alt": "Kỹ thuật viên thao tác máy in tampon chuyên dụng với đầu in silicone tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_111.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_111.jpg"
+  },
+  "vnpis_workshop_photo_114.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "chén mực từ tính",
+      "cốc in tampon",
+      "bản in cliché",
+      "bàn gá sản phẩm"
+    ],
+    "suitable_topics": [
+      "quy trình in tampon trên sản phẩm trụ tròn",
+      "tối ưu hóa đầu in silicone",
+      "kỹ thuật setup máy in pad"
+    ],
+    "caption": "Quy trình in tampon (Pad Printing) trên sản phẩm nhựa hình trụ tại xưởng VNPIS, sử dụng đầu in silicone và hệ thống chén mực từ tính.",
+    "alt": "Kỹ thuật viên vận hành máy in tampon công nghiệp in ấn trên vật liệu nhựa tại xưởng sản xuất VNPIS",
+    "fileName": "vnpis_workshop_photo_114.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_114.jpg"
+  },
+  "vnpis_workshop_photo_112.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "Máy in tampon 1 màu",
+      "Cốc mực từ tính (Closed ink cup system)",
+      "Bảng điều khiển điện tử",
+      "Bàn gá vật liệu in",
+      "Bàn đạp chân điều khiển (Foot switch)",
+      "Hệ thống trục điều chỉnh cao độ"
+    ],
+    "suitable_topics": [
+      "Máy in tampon công nghiệp",
+      "Giải pháp in logo lên bề mặt cong",
+      "Thiết bị in ấn linh kiện điện tử",
+      "Kỹ thuật in pad chuyển dịch"
+    ],
+    "caption": "Hệ thống máy in tampon (pad printing) sử dụng cốc mực kín hiện đại tại xưởng kỹ thuật VNPIS.",
+    "alt": "Cận cảnh máy in tampon công nghiệp với hệ thống cốc mực từ tính và bàn gá điều chỉnh chính xác tại VNPIS.",
+    "fileName": "vnpis_workshop_photo_112.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_112.jpg"
+  },
+  "vnpis_workshop_photo_115.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu xanh lá",
+      "bản in thép cliché",
+      "cụm gá kẹp bản in",
+      "bàn gá máy in tampon"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Kỹ thuật in trên bề mặt khó",
+      "Hướng dẫn setup bản in cliché"
+    ],
+    "caption": "Kỹ thuật viên đang thực hiện thao tác căn chỉnh đầu in silicone trên bản in thép (cliché) của máy in tampon công nghiệp tại xưởng VNPIS.",
+    "alt": "Cận cảnh đầu in tampon silicone màu xanh đang ép mực lên bản in thép cliché trong quy trình in công nghiệp tại VNPIS.",
+    "fileName": "vnpis_workshop_photo_115.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_115.jpg"
+  },
+  "vnpis_workshop_photo_113.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "chén mực từ tính",
+      "ly nhựa trắng",
+      "bản in cliché"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon trên ly nhựa",
+      "Ứng dụng máy in tampon công nghiệp",
+      "Kỹ thuật in ấn bề mặt cong tại VNPIS"
+    ],
+    "caption": "Kỹ thuật viên đang vận hành máy in tampon để in hình ảnh lên thân ly nhựa, sử dụng đầu in silicone chuyên dụng trong môi trường xưởng VNPIS.",
+    "alt": "Quy trình vận hành máy in tampon công nghiệp in logo lên ly nhựa tại xưởng sản xuất VNPIS",
+    "fileName": "vnpis_workshop_photo_113.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_113.jpg"
+  },
+  "vnpis_workshop_photo_119.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Dubuit, ThinkPad",
+    "confidence": 0.98,
+    "specific_items": [
+      "Bảng màu Encres Dubuit (Colour chart Metallic effects Solvent)",
+      "Mã màu Rich Gold AM 9381",
+      "Mã màu 24 CARATS",
+      "Laptop ThinkPad",
+      "Bút bi xanh"
+    ],
+    "suitable_topics": [
+      "Lựa chọn mực in dung môi hiệu ứng kim loại",
+      "Phân loại mã màu mực in Dubuit",
+      "Quy trình kiểm soát màu sắc mực in công nghiệp"
+    ],
+    "caption": "Bảng mã màu mực in dung môi hiệu ứng kim loại (Metallic effects Solvent) của hãng Dubuit phục vụ việc đối chiếu kỹ thuật tại VNPIS.",
+    "alt": "Bảng màu mực in công nghiệp Dubuit Colour chart Metallic effects Solvent đặt cạnh laptop ThinkPad trong văn phòng kỹ thuật in",
+    "fileName": "vnpis_workshop_photo_119.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_119.jpg"
+  },
+  "vnpis_workshop_photo_120.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "AEG",
+    "confidence": 0.98,
+    "specific_items": [
+      "Máy in tampon",
+      "Cốc mực từ tính",
+      "Bản in cliché",
+      "Bàn gá sản phẩm",
+      "Bình xịt dung môi",
+      "Đầu in silicone (trên kệ phía sau)",
+      "Bảng điều khiển máy in"
+    ],
+    "suitable_topics": [
+      "Công nghệ in tampon cốc mực kín (Closed Cup Pad Printing)",
+      "Kỹ thuật canh chỉnh bản in cliché",
+      "Dịch vụ in logo trên linh kiện điện tử",
+      "Vật tư tiêu hao ngành in tampon"
+    ],
+    "caption": "Hệ thống máy in tampon (pad printing) tại xưởng VNPIS với cốc mực từ tính và bản in cliché AEG đang trong quá trình thiết lập kỹ thuật.",
+    "alt": "Máy in tampon công nghiệp tại VNPIS hiển thị chi tiết cốc mực kín, bản in cliché thương hiệu AEG và hệ thống bàn gá cơ khí.",
+    "fileName": "vnpis_workshop_photo_120.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_120.jpg"
+  },
+  "vnpis_workshop_photo_118.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "Quince",
+    "confidence": 0.98,
+    "specific_items": [
+      "mẫu vải in nhãn mác",
+      "logo Quince",
+      "ký hiệu size M"
+    ],
+    "suitable_topics": [
+      "ứng dụng in ấn trên vải",
+      "kỹ thuật in nhãn mác quần áo",
+      "kiểm tra độ bám dính mực in"
+    ],
+    "caption": "Mẫu in nhãn mác thương hiệu Quince trên nhiều chất liệu vải khác nhau để kiểm tra độ sắc nét và độ bám mực.",
+    "alt": "Mẫu in nhãn mác size M thương hiệu Quince trên nền vải màu sắc khác nhau, kỹ thuật in ấn công nghiệp tại VNPIS.",
+    "fileName": "vnpis_workshop_photo_118.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_118.jpg"
+  },
+  "vnpis_workshop_photo_121.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "EPTAINKS / visprox",
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực in công nghiệp",
+      "nhãn hiệu EPTAINKS",
+      "nhãn hiệu visprox"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn",
+      "công nghệ mực in công nghiệp",
+      "giải pháp in ấn chuyên nghiệp"
+    ],
+    "caption": "Các can mực in công nghiệp hệ Urethane thương hiệu EPTAINKS/visprox phục vụ sản xuất tại xưởng VNPIS.",
+    "alt": "Can mực in công nghiệp EPTAINKS Urethane tại xưởng in VNPIS, chuyên dụng cho các ứng dụng in ấn kỹ thuật cao.",
+    "fileName": "vnpis_workshop_photo_121.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_121.jpg"
+  },
+  "vnpis_workshop_photo_122.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Dubuit",
+    "confidence": 0.98,
+    "specific_items": [
+      "Lon mực in công nghiệp",
+      "Mực in Dubuit D-PAD",
+      "Nhãn mã màu COOL GREY 1C",
+      "Biểu tượng cảnh báo nguy hiểm GHS",
+      "Mã lô sản xuất BATCH: 179203"
+    ],
+    "suitable_topics": [
+      "Lựa chọn mực in tampon chuyên dụng",
+      "Vật tư tiêu hao ngành in Pad Printing",
+      "Quản lý hóa chất và an toàn mực in công nghiệp",
+      "Đặc tính mực in Dubuit trong in ấn linh kiện"
+    ],
+    "caption": "Các lon mực in công nghiệp thương hiệu Dubuit dòng D-PAD (Cool Grey 1C) chuyên dụng cho kỹ thuật in tampon tại xưởng VNPIS.",
+    "alt": "Cận cảnh lon mực in Dubuit D-PAD màu Cool Grey 1C kèm thông số kỹ thuật và nhãn cảnh báo hóa chất an toàn tại xưởng in.",
+    "fileName": "vnpis_workshop_photo_122.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_122.jpg"
+  },
+  "vnpis_workshop_photo_125.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Lenovo ThinkPad, Xinmeihua Printing",
+    "confidence": 0.98,
+    "specific_items": [
+      "hộp mực in tampon",
+      "mực in màu đỏ",
+      "cốc nhựa chứa mực",
+      "linh kiện điện tử in sẵn ký tự",
+      "laptop ThinkPad"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon trên linh kiện điện tử",
+      "Kỹ thuật pha mực in tampon",
+      "Kiểm soát chất lượng in công nghiệp"
+    ],
+    "caption": "Kỹ thuật viên đang kiểm tra chất lượng in tampon trên linh kiện điện tử với mẫu mực in tampon chuyên dụng tại xưởng.",
+    "alt": "Hình ảnh cận cảnh quy trình in tampon trên linh kiện nhựa sử dụng mực in chuyên dụng tại VNPIS.",
+    "fileName": "vnpis_workshop_photo_125.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_125.jpg"
+  },
+  "vnpis_workshop_photo_124.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực xanh lá",
+      "bề mặt mực in công nghiệp"
+    ],
+    "suitable_topics": [
+      "Quy trình pha chế mực in",
+      "Quản lý vật tư in ấn",
+      "Kiểm soát độ nhớt mực"
+    ],
+    "caption": "Hình ảnh chụp cận cảnh một can mực in công nghiệp màu xanh lá cây đang được mở nắp tại xưởng VNPIS.",
+    "alt": "Can mực in công nghiệp màu xanh lá cây dùng trong in ấn kỹ thuật tại VNPIS",
+    "fileName": "vnpis_workshop_photo_124.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_124.jpg"
+  },
+  "vnpis_workshop_photo_127.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Pantone",
+    "confidence": 0.98,
+    "specific_items": [
+      "cốc pha mực",
+      "dao trộn mực (ink spatula)",
+      "bảng màu Pantone",
+      "lon mực in Pad Printing",
+      "cân điện tử kỹ thuật"
+    ],
+    "suitable_topics": [
+      "Quy trình pha màu mực in tampon",
+      "Kỹ thuật kiểm soát màu sắc trong in ấn công nghiệp",
+      "Tầm quan trọng của chuẩn màu Pantone trong in ấn VNPIS"
+    ],
+    "caption": "Kỹ thuật viên đang thực hiện pha mực in tampon tại xưởng VNPIS, sử dụng bảng màu Pantone làm chuẩn đối chiếu và dao trộn chuyên dụng để đạt độ chính xác màu sắc.",
+    "alt": "Quy trình pha mực in tampon và kiểm tra chuẩn màu Pantone tại xưởng in VNPIS sử dụng cân kỹ thuật và dụng cụ trộn mực.",
+    "fileName": "vnpis_workshop_photo_127.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_127.jpg"
+  },
+  "vnpis_workshop_photo_128.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "EPTAINKS / visprox",
+    "confidence": 0.98,
+    "specific_items": [
+      "can dung môi làm chậm khô",
+      "Retarder 4",
+      "vật tư hóa chất in ấn"
+    ],
+    "suitable_topics": [
+      "Quy trình pha chế mực in",
+      "Hướng dẫn kiểm soát độ nhớt mực",
+      "Tư vấn vật tư hóa chất in ấn"
+    ],
+    "caption": "Các can dung môi Retarder 4 của hãng EPTAINKS/visprox được lưu trữ tại kho vật tư của VNPIS.",
+    "alt": "Can dung môi Retarder 4 hãng EPTAINKS dùng trong công nghiệp in ấn được lưu trữ tại kho vật tư VNPIS",
+    "fileName": "vnpis_workshop_photo_128.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_128.jpg"
+  },
+  "vnpis_workshop_photo_126.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "ThinkPad, Xinmeinu Printing",
+    "confidence": 0.98,
+    "specific_items": [
+      "linh kiện điện tử nhựa đen",
+      "nội dung in ON và 15 màu cam",
+      "cốc mực pha màu đỏ",
+      "hũ mực in Xinmeinu Printing",
+      "góc laptop ThinkPad"
+    ],
+    "suitable_topics": [
+      "Dịch vụ in linh kiện điện tử",
+      "Kỹ thuật in Pad trên bề mặt nhựa",
+      "Kiểm tra độ sắc nét của thành phẩm in",
+      "Mực in công nghiệp cho nhựa ABS/PC"
+    ],
+    "caption": "Mẫu linh kiện nhựa đen được in thông số kỹ thuật sắc nét bằng phương pháp in tampon (Pad Printing) tại xưởng VNPIS.",
+    "alt": "Cận cảnh mẫu linh kiện điện tử nhựa đen in chữ cam ON và 15 sắc nét, bên cạnh hũ mực in Xinmeinu và cốc mực đỏ tại xưởng in.",
+    "fileName": "vnpis_workshop_photo_126.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_126.jpg"
+  },
+  "vnpis_workshop_photo_123.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "bản in cliché",
+      "gá đỡ",
+      "chốt định vị"
+    ],
+    "suitable_topics": [
+      "Quy trình thay thế đầu in tampon",
+      "Bảo trì vật tư in tampon",
+      "Cấu tạo máy in tampon công nghiệp"
+    ],
+    "caption": "Bộ linh kiện phục vụ máy in tampon bao gồm đầu in silicone, bản in cliché thép và các chi tiết định vị, hỗ trợ công nghệ in ấn chuyển tiếp tại xưởng VNPIS.",
+    "alt": "Bộ vật tư máy in tampon gồm đầu in silicone hồng, bản in cliché thép và phụ kiện định vị cho quy trình in công nghiệp",
+    "fileName": "vnpis_workshop_photo_123.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_123.jpg"
+  },
+  "vnpis_workshop_photo_129.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon (pad printer)",
+      "bảng điều khiển kỹ thuật số",
+      "cốc mực từ tính (ink cup)",
+      "bàn gá in",
+      "bộ dụng cụ cầm tay (kìm, lục giác)"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Bảo trì thiết bị in ấn công nghiệp",
+      "Kỹ thuật in ấn trên bề mặt phức tạp"
+    ],
+    "caption": "Máy in tampon (pad printing) tại xưởng VNPIS, hiển thị bảng điều khiển, cụm cốc mực từ tính và các phụ kiện hỗ trợ căn chỉnh.",
+    "alt": "Máy in tampon công nghiệp VNPIS với bảng điều khiển và cốc mực đang được thiết lập tại phân xưởng",
+    "fileName": "vnpis_workshop_photo_129.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_129.jpg"
+  },
+  "vnpis_workshop_photo_132.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "dao pha mực",
+      "cốc mực in tampon",
+      "mẫu màu in (color standard)",
+      "mực in màu hồng"
+    ],
+    "suitable_topics": [
+      "Quy trình pha màu mực in tampon",
+      "Kiểm soát chất lượng màu in",
+      "Kỹ thuật phối màu trong in ấn công nghiệp"
+    ],
+    "caption": "Kỹ thuật viên đang thực hiện thao tác pha và đối chiếu màu mực in (Bombshell Pink, Victoria Pink) chuẩn cho quy trình in tampon tại xưởng.",
+    "alt": "Công đoạn pha và kiểm tra màu mực in tampon chuyên nghiệp tại xưởng VNPIS với dao pha và bảng tiêu chuẩn màu sắc",
+    "fileName": "vnpis_workshop_photo_132.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_132.jpg"
+  },
+  "vnpis_workshop_photo_130.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Encres DUBUIT",
+    "confidence": 0.98,
+    "specific_items": [
+      "thẻ mẫu màu 885 Deep Blue",
+      "thẻ mẫu màu 870 Violet",
+      "catalogue màu mực in"
+    ],
+    "suitable_topics": [
+      "quy trình pha màu mực in",
+      "quản lý vật tư mực in công nghiệp",
+      "công nghệ in tampon/lụa"
+    ],
+    "caption": "Hình ảnh các thẻ mẫu màu mực in (Deep Blue 885 và Violet 870) từ thương hiệu Encres DUBUIT được sử dụng trong kiểm tra chuẩn mực tại xưởng.",
+    "alt": "Bảng mẫu màu mực in công nghiệp Encres DUBUIT dùng trong kỹ thuật in ấn tại VNPIS",
+    "fileName": "vnpis_workshop_photo_130.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_130.jpg"
+  },
+  "vnpis_workshop_photo_133.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "mực in tampon",
+      "dao khuấy mực",
+      "cốc nhựa chứa mực",
+      "bản test màu chuẩn (color standard)",
+      "các hộp mực in công nghiệp"
+    ],
+    "suitable_topics": [
+      "Quy trình pha màu mực in tampon",
+      "Kiểm soát chất lượng mực in trong sản xuất",
+      "Kỹ thuật phối màu trong in ấn công nghiệp"
+    ],
+    "caption": "Quy trình kiểm tra và pha màu mực in tampon tại xưởng VNPIS, bao gồm việc so sánh màu sắc thực tế với tiêu chuẩn màu (Color Standard) trên giấy.",
+    "alt": "Chuyên gia kỹ thuật in ấn tại VNPIS đang thực hiện công đoạn pha chế và đối soát màu mực in tampon công nghiệp với các mẫu màu chuẩn.",
+    "fileName": "vnpis_workshop_photo_133.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_133.jpg"
+  },
+  "vnpis_workshop_photo_135.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "adidas",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon (pad printing machine)",
+      "đầu in silicone",
+      "bàn gá in",
+      "điều khiển kỹ thuật số"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Quy trình in logo lên sản phẩm thể thao",
+      "Bảo trì máy in tampon công nghiệp"
+    ],
+    "caption": "Máy in tampon (Pad Printing) thương hiệu Easy Print đang được thiết lập để in logo lên sản phẩm thực tế tại xưởng VNPIS.",
+    "alt": "Máy in tampon công nghiệp Easy Print với đầu in silicone thực hiện in ấn logo trên bề mặt sản phẩm tại nhà xưởng VNPIS.",
+    "fileName": "vnpis_workshop_photo_135.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_135.jpg"
+  },
+  "vnpis_workshop_photo_134.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "lọ mực in công nghiệp",
+      "vết test màu mực trên giấy"
+    ],
+    "suitable_topics": [
+      "Quy trình kiểm tra chất lượng mực in",
+      "Quản lý vật tư hóa chất in ấn",
+      "Kỹ thuật phối màu mực in công nghiệp"
+    ],
+    "caption": "Các lọ mực in công nghiệp màu vàng và đỏ đang được kiểm tra độ nhớt và sắc độ trên sổ nhật ký sản xuất tại xưởng VNPIS.",
+    "alt": "Các mẫu mực in công nghiệp và kết quả thử màu trên giấy tại phòng quản lý vật tư xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_134.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_134.jpg"
+  },
+  "vnpis_workshop_photo_136.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "DUBUIT",
+    "confidence": 0.98,
+    "specific_items": [
+      "bảng màu Pantone",
+      "thẻ màu in tampon",
+      "quạt màu Dubuit"
+    ],
+    "suitable_topics": [
+      "Quy trình phối màu mực in tampon",
+      "Hướng dẫn chọn bảng màu cho in ấn công nghiệp"
+    ],
+    "caption": "Bảng màu chuẩn (color guide) của thương hiệu Dubuit chuyên dụng cho công nghệ in tampon tại xưởng VNPIS.",
+    "alt": "Bảng mẫu màu mực in tampon Dubuit chuyên nghiệp dùng trong quy trình phối màu in ấn công nghiệp",
+    "fileName": "vnpis_workshop_photo_136.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_136.jpg"
+  },
+  "vnpis_workshop_photo_137.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Dubuit",
+    "confidence": 0.98,
+    "specific_items": [
+      "hộp mực in tampon",
+      "nhãn hiệu Dubuit",
+      "mực in công nghiệp",
+      "thông số batch và expiry date"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn",
+      "công nghệ in tampon",
+      "quản lý kho mực in",
+      "tiêu chuẩn an toàn hóa chất trong in ấn"
+    ],
+    "caption": "Các hộp mực in tampon chuyên dụng từ hãng Dubuit được lưu trữ tại kho vật tư của VNPIS.",
+    "alt": "Các thùng mực in tampon Dubuit dùng trong kỹ thuật in pad tại nhà máy VNPIS",
+    "fileName": "vnpis_workshop_photo_137.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_137.jpg"
+  },
+  "vnpis_workshop_photo_138.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Encres DUBUIT",
+    "confidence": 0.98,
+    "specific_items": [
+      "Hardener ST 305",
+      "Slow Dry Thinner SH0158",
+      "Hóa chất in ấn"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn pha chế mực in",
+      "Quy trình xử lý hóa chất in ấn",
+      "Tối ưu độ nhớt mực in công nghiệp"
+    ],
+    "caption": "Các loại hóa chất chuyên dụng gồm dung môi chậm khô (Slow Dry Thinner) và chất đóng rắn (Hardener) của thương hiệu Encres DUBUIT sử dụng trong quy trình in công nghiệp tại VNPIS.",
+    "alt": "Hóa chất in công nghiệp bao gồm chất đóng rắn Hardener ST 305 và dung môi chậm khô Slow Dry Thinner SH0158 của hãng Encres DUBUIT tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_138.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_138.jpg"
+  },
+  "vnpis_workshop_photo_131.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Visprox",
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực in công nghiệp",
+      "cốc mực tampon",
+      "que khuấy mực",
+      "mực in màu đỏ vàng xanh"
+    ],
+    "suitable_topics": [
+      "quy trình pha mực in tampon",
+      "quản lý vật tư mực in công nghiệp",
+      "tiêu chuẩn lưu trữ hóa chất in ấn"
+    ],
+    "caption": "Các loại mực in công nghiệp dạng lỏng đang được chiết xuất và phối trộn trong cốc mực phục vụ quy trình in ấn tại xưởng VNPIS.",
+    "alt": "Hình ảnh thực tế các can mực in công nghiệp thương hiệu Visprox và các cốc chứa mực màu chuẩn bị cho quy trình in tampon tại VNPIS.",
+    "fileName": "vnpis_workshop_photo_131.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_131.jpg"
+  },
+  "vnpis_workshop_photo_139.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "máy đo màu quang phổ",
+      "thanh đo màu Pantone",
+      "các dải test màu mực in"
+    ],
+    "suitable_topics": [
+      "Quy trình kiểm soát chất lượng màu sắc",
+      "Kỹ thuật phối màu mực in công nghiệp",
+      "Tiêu chuẩn màu sắc trong in ấn"
+    ],
+    "caption": "Kỹ sư VNPIS sử dụng thiết bị đo màu quang phổ cầm tay để kiểm tra độ chính xác màu của các dải mực in so với bảng màu Pantone.",
+    "alt": "Kiểm tra độ chính xác màu sắc bằng thiết bị đo quang phổ tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_139.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_139.jpg"
+  },
+  "vnpis_workshop_photo_145.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "DONY",
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in tampon silicon",
+      "bản in thép cliché",
+      "máy in tampon",
+      "thanh gạt mực"
+    ],
+    "suitable_topics": [
+      "Công nghệ in nhãn mác quần áo",
+      "Quy trình vận hành máy in tampon",
+      "Giải pháp in ấn nhãn mác thương hiệu"
+    ],
+    "caption": "Máy in tampon đang thực hiện in nhãn mác lên bề mặt vải tại xưởng VNPIS, sử dụng đầu in silicon và bản in thép.",
+    "alt": "Quy trình máy in tampon công nghiệp in logo thương hiệu DONY lên nhãn mác quần áo tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_145.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_145.jpg"
+  },
+  "vnpis_workshop_photo_144.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Panasonic, YKHMI",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon tự động",
+      "đầu in silicone màu đỏ",
+      "màn hình HMI điều khiển YKHMI",
+      "mặt công tắc điện Panasonic",
+      "nút dừng khẩn cấp",
+      "bàn gá sản phẩm"
+    ],
+    "suitable_topics": [
+      "Công nghệ in tampon trên linh kiện điện tử",
+      "Vận hành máy in pad printing có màn hình HMI",
+      "Giải pháp in logo lên nhựa PC/ABS",
+      "Quy trình in nhãn hiệu thiết bị điện gia dụng"
+    ],
+    "caption": "Kỹ thuật viên vận hành máy in tampon (pad printing) sử dụng màn hình HMI để in logo lên bề mặt linh kiện điện Panasonic tại xưởng VNPIS.",
+    "alt": "Cận cảnh máy in tampon công nghiệp với đầu silicone đang in logo Panasonic lên mặt nắp công tắc điện, có màn hình điều khiển HMI giao diện tiếng Việt",
+    "fileName": "vnpis_workshop_photo_144.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_144.jpg"
+  },
+  "vnpis_workshop_photo_146.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu đỏ",
+      "đầu in silicone màu vàng nhạt",
+      "khay chứa mực",
+      "bản in cliché",
+      "bàn gá sản phẩm",
+      "vòi thổi khí làm mát"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon công nghiệp",
+      "Hướng dẫn sử dụng máy in tampon 2 màu",
+      "Cấu tạo máy in tampon VNPIS"
+    ],
+    "caption": "Máy in tampon công nghiệp 2 đầu đang được setup tại xưởng VNPIS, trang bị đầu in silicone chuyên dụng cho sản phẩm bề mặt phức tạp.",
+    "alt": "Máy in tampon công nghiệp 2 đầu với đầu in silicone và hệ thống bàn gá chi tiết tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_146.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_146.jpg"
+  },
+  "vnpis_workshop_photo_147.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Lenovo ThinkPad",
+    "confidence": 0.98,
+    "specific_items": [
+      "hũ nhựa đựng mực in",
+      "nắp vặn màu đỏ",
+      "mực in màu trắng (White)",
+      "mực in màu bạc (Silver)",
+      "vật mẫu test mực in",
+      "bút lông dầu",
+      "ký hiệu PP trên nắp hũ"
+    ],
+    "suitable_topics": [
+      "Pha chế mực in công nghiệp",
+      "Thử nghiệm độ bám dính mực trên chất liệu PP",
+      "Quản lý mã màu mực in trong xưởng sản xuất",
+      "Vật tư hóa chất ngành in"
+    ],
+    "caption": "Các hũ mực in công nghiệp hệ PP với các mã màu trắng và bạc đang được chuẩn bị để test mẫu tại xưởng VNPIS.",
+    "alt": "Ba hũ đựng mực in công nghiệp nắp đỏ chứa mực màu trắng và bạc, có dán nhãn mã số và vật mẫu thử nghiệm trên bề mặt gỗ tại xưởng in.",
+    "fileName": "vnpis_workshop_photo_147.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_147.jpg"
+  },
+  "vnpis_workshop_photo_148.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "bảng màu mực in",
+      "hệ thống phối màu PMS",
+      "bảng tiêu chuẩn màu"
+    ],
+    "suitable_topics": [
+      "Quy trình pha màu mực in",
+      "Tiêu chuẩn kiểm soát màu sắc in ấn",
+      "Giải pháp mực in công nghiệp"
+    ],
+    "caption": "Bảng tra cứu tiêu chuẩn màu sắc (color chart) dùng trong hệ thống pha mực công nghiệp tại VNPIS.",
+    "alt": "Bảng mã màu chuẩn trong in ấn công nghiệp phục vụ công tác pha mực và kiểm soát chất lượng tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_148.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_148.jpg"
+  },
+  "vnpis_workshop_photo_141.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "DUBUIT Inks Vietnam",
+    "confidence": 0.98,
+    "specific_items": [
+      "lon mực in công nghiệp",
+      "tem nhãn cảnh báo hóa chất"
+    ],
+    "suitable_topics": [
+      "quy trình chuẩn bị mực in",
+      "quản lý vật tư in ấn",
+      "an toàn hóa chất trong in ấn"
+    ],
+    "caption": "Lon mực in chuyên dụng Dubuit dành cho máy in tampon tại xưởng VNPIS",
+    "alt": "Lon mực in công nghiệp thương hiệu Dubuit Inks Vietnam dùng trong quy trình in tampon tại nhà xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_141.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_141.jpg"
+  },
+  "vnpis_workshop_photo_150.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "WINON",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bảng điều khiển",
+      "khối gỗ gá sản phẩm"
+    ],
+    "suitable_topics": [
+      "quy trình vận hành máy in tampon",
+      "cấu tạo máy in Winon",
+      "giải pháp in ấn trên bề mặt phức tạp"
+    ],
+    "caption": "Dàn máy in tampon (pad printing) thương hiệu WINON đang được vận hành tại xưởng VNPIS, trang bị đầu in silicone và hệ thống bàn gá chuyên dụng.",
+    "alt": "Dàn máy in tampon công nghiệp WINON tại xưởng VNPIS, chuyên dụng cho in ấn sản phẩm nhựa và linh kiện.",
+    "fileName": "vnpis_workshop_photo_150.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_150.jpg"
+  },
+  "vnpis_workshop_photo_149.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "bảng mẫu màu in",
+      "mực in huỳnh quang",
+      "mã màu in (pantone/color code)"
+    ],
+    "suitable_topics": [
+      "Quy trình phối màu mực in",
+      "Giới thiệu hệ thống bảng màu công nghiệp VNPIS",
+      "Tư vấn lựa chọn mực in huỳnh quang"
+    ],
+    "caption": "Bảng mẫu màu in công nghiệp bao gồm các mã màu huỳnh quang (Fluorescent) và màu CMYK cơ bản để đối soát chất lượng.",
+    "alt": "Bảng đối chiếu mã màu in công nghiệp bao gồm màu huỳnh quang chuyên dụng tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_149.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_149.jpg"
+  },
+  "vnpis_workshop_photo_152.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Coates Screen Inks",
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực in",
+      "nhãn hiệu Coates Screen Inks",
+      "ký hiệu TP 273 SERIES"
+    ],
+    "suitable_topics": [
+      "Giải pháp mực in công nghiệp",
+      "Mực in chuyên dụng cho in lụa và tampon",
+      "Vật tư in ấn ngành nhựa"
+    ],
+    "caption": "Can mực công nghiệp dòng TP 273 của Coates Screen Inks chuyên dùng cho in lụa và tampon trên các bề mặt nhựa.",
+    "alt": "Can mực Coates Screen Inks TP 273 SERIES dùng trong công nghệ in lụa và in tampon công nghiệp",
+    "fileName": "vnpis_workshop_photo_152.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_152.jpg"
+  },
+  "vnpis_workshop_photo_153.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Hettich",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bàn gá in",
+      "sản phẩm in logo Hettich"
+    ],
+    "suitable_topics": [
+      "Quy trình in logo trên linh kiện cơ khí",
+      "Hướng dẫn sử dụng máy in tampon để bàn",
+      "Ứng dụng in tampon trên linh kiện điện tử"
+    ],
+    "caption": "Kỹ thuật viên đang vận hành máy in tampon để in logo lên linh kiện khóa thông minh với độ chính xác cao.",
+    "alt": "Máy in tampon công nghiệp đang in logo Hettich trên sản phẩm linh kiện nhựa tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_153.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_153.jpg"
+  },
+  "vnpis_workshop_photo_154.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "COSOTA",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "bảng điều khiển kỹ thuật số",
+      "cơ cấu đầu in",
+      "bàn gá sản phẩm",
+      "nút dừng khẩn cấp"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Bảo trì máy in tampon công nghiệp",
+      "Giải pháp in ấn linh kiện nhựa"
+    ],
+    "caption": "Máy in tampon (pad printing) thương hiệu Cosota tại xưởng VNPIS, hiển thị bảng điều khiển số và hệ thống cơ cấu đầu in chính xác.",
+    "alt": "Máy in tampon công nghiệp Cosota tại nhà máy VNPIS, thiết bị in chuyển tải silicon chuyên dụng cho linh kiện công nghiệp.",
+    "fileName": "vnpis_workshop_photo_154.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_154.jpg"
+  },
+  "vnpis_workshop_photo_156.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "DUBUIT",
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực in tampon",
+      "Dubuit D-PAD Black 13"
+    ],
+    "suitable_topics": [
+      "Lựa chọn mực in tampon công nghiệp",
+      "Tiêu chuẩn an toàn vật tư in ấn"
+    ],
+    "caption": "Các can mực in tampon công nghiệp dòng D-PAD Black 13 thương hiệu DUBUIT đang được lưu kho tại VNPIS.",
+    "alt": "Can mực in tampon công nghiệp Dubuit D-PAD Black 13 dùng cho máy in tampon tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_156.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_156.jpg"
+  },
+  "vnpis_workshop_photo_155.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "COSOTA",
+    "confidence": 1,
+    "specific_items": [
+      "máy in tampon",
+      "bản in thép cliché",
+      "bàn gá in",
+      "bảng điều khiển kỹ thuật số"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Bảo trì máy in công nghiệp",
+      "Quy trình in trên linh kiện"
+    ],
+    "caption": "Máy in tampon công nghiệp đang trong trạng thái chờ vận hành, hiển thị rõ bảng điều khiển COSOTA và hệ thống gá lắp bản in.",
+    "alt": "Máy in tampon COSOTA tại xưởng VNPIS với hệ thống cliché và bàn gá in chính xác",
+    "fileName": "vnpis_workshop_photo_155.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_155.jpg"
+  },
+  "vnpis_workshop_photo_157.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Sanjin Printing Equipment (三金印刷设备)",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon 4 màu",
+      "đầu in silicone",
+      "màn hình điều khiển PLC",
+      "hệ thống xy lanh khí nén"
+    ],
+    "suitable_topics": [
+      "Giải pháp in tampon đa màu",
+      "Công nghệ in lên sản phẩm nhựa",
+      "Thiết bị in ấn công nghiệp"
+    ],
+    "caption": "Máy in tampon 4 đầu độc lập sử dụng hệ thống truyền động servo, chuyên dụng cho in đa sắc trên các bề mặt sản phẩm phức tạp tại xưởng.",
+    "alt": "Máy in tampon 4 màu công nghiệp Sanjin với đầu in silicone và hệ thống điều khiển PLC tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_157.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_157.jpg"
+  },
+  "vnpis_workshop_photo_159.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": true,
+    "brand_detected": "纳百川烫印自动化 (Na Bai Chuan Hot Stamping Automation)",
+    "confidence": 0.95,
+    "specific_items": [
+      "máy in nhiệt chuyển đổi (heat transfer machine)",
+      "chai nhựa in hình",
+      "bàn gá điều chỉnh",
+      "công tắc bàn đạp"
+    ],
+    "suitable_topics": [
+      "Công nghệ in chuyển nhiệt trên vật liệu nhựa",
+      "Giải pháp tự động hóa in ấn bao bì",
+      "Quy trình in trang trí trên bề mặt cong"
+    ],
+    "caption": "Máy in chuyển nhiệt tự động đang vận hành trên sản phẩm chai nhựa, thiết bị được thiết kế để in hình ảnh lên bề mặt cong tại xưởng.",
+    "alt": "Máy in chuyển nhiệt tự động (hot stamping machine) đang in trên chai nhựa tại xưởng VNPIS, chuyên dụng cho bao bì và sản phẩm nhựa.",
+    "fileName": "vnpis_workshop_photo_159.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_159.jpg"
+  },
+  "vnpis_workshop_photo_160.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "bàn gá in",
+      "cụm đầu in"
+    ],
+    "suitable_topics": [
+      "Giới thiệu thiết bị in tampon mới",
+      "Giải pháp in ấn linh kiện công nghiệp",
+      "Quy trình vận hành máy in tampon"
+    ],
+    "caption": "Thiết bị in tampon thế hệ mới (New Generation Pad Printing Machine) đang được đóng gói bảo quản tại xưởng VNPIS.",
+    "alt": "Máy in tampon công nghiệp thế hệ mới tại xưởng in VNPIS, chi tiết bàn gá và cụm đầu in được bọc màng bảo vệ.",
+    "fileName": "vnpis_workshop_photo_160.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_160.jpg"
+  },
+  "vnpis_workshop_photo_151.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Hengxin",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bàn gá in",
+      "bảng điều khiển PLC",
+      "khung thân máy thép"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Giải pháp in ấn công nghiệp trên bề mặt định hình",
+      "Hướng dẫn sử dụng máy in tampon Hengxin"
+    ],
+    "caption": "Dàn máy in tampon (Pad Printing) công nghiệp thương hiệu Hengxin được bố trí tại xưởng VNPIS, sẵn sàng cho các quy trình in ấn linh kiện nhựa và sản phẩm công nghiệp.",
+    "alt": "Dàn máy in tampon công nghiệp thương hiệu Hengxin tại nhà xưởng VNPIS, thiết bị in tampon chuyên dụng cho bề mặt sản phẩm nhựa và kim loại.",
+    "fileName": "vnpis_workshop_photo_151.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_151.jpg"
+  },
+  "vnpis_workshop_photo_158.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "HNBC",
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone hồng",
+      "vật phẩm hình cầu màu tím",
+      "bàn gá (jig) định vị màu cam",
+      "xylanh khí nén",
+      "khung nhôm định hình",
+      "cụm gá đầu in kim loại"
+    ],
+    "suitable_topics": [
+      "In tampon trên bề mặt cong phức tạp",
+      "Ứng dụng đầu in silicone trong in ấn công nghiệp",
+      "Kỹ thuật in chuyển nhiệt cho vật phẩm hình cầu",
+      "Giải pháp in ấn linh kiện nhựa gia dụng"
+    ],
+    "caption": "Máy in tampon (pad printing) chuyên dụng sử dụng đầu silicone kích thước lớn để ép hình ảnh lên bề mặt vật thể hình bán cầu tại xưởng VNPIS.",
+    "alt": "Cận cảnh quá trình in tampon với đầu in silicone màu hồng đang ép lên sản phẩm nhựa hình cầu màu tím trên máy in công nghiệp.",
+    "fileName": "vnpis_workshop_photo_158.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_158.jpg"
+  },
+  "vnpis_workshop_photo_161.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Encres DUBUIT",
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực in công nghiệp",
+      "nhãn cảnh báo hóa chất",
+      "mực chuyên dụng Pad Printing"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn",
+      "cung cấp mực in tampon",
+      "an toàn hóa chất trong in ấn"
+    ],
+    "caption": "Can mực in chuyên dụng MG-PAD SILVER 21 của thương hiệu Encres DUBUIT dùng cho kỹ thuật in tampon (pad printing) tại kho vật tư VNPIS.",
+    "alt": "Can mực in công nghiệp Dubuit MG-PAD SILVER 21 dùng cho máy in tampon tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_161.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_161.jpg"
+  },
+  "vnpis_workshop_photo_164.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "Yi Nuo Te (Công ty TNHH Thiết bị in ấn Yi Nuo Te)",
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực in công nghiệp",
+      "tem nhãn kỹ thuật",
+      "mực in pad PP-102"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn",
+      "cách bảo quản mực in",
+      "kỹ thuật in pad"
+    ],
+    "caption": "Can mực in công nghiệp PP-102 (màu trắng) của Yi Nuo Te được lưu trữ tại kho vật tư, phục vụ quy trình in ấn tại xưởng.",
+    "alt": "Can mực in pad PP-102 màu trắng của Yi Nuo Te tại kho vật tư công ty in ấn VNPIS",
+    "fileName": "vnpis_workshop_photo_164.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_164.jpg"
+  },
+  "vnpis_workshop_photo_162.jpg": {
+    "category": "CIJ_TIJ_CODING",
+    "has_third_party_brand": true,
+    "brand_detected": "NICEJET",
+    "confidence": 0.98,
+    "specific_items": [
+      "Máy in phun liên tục CIJ",
+      "Màn hình điều khiển",
+      "Hệ thống bơm mực",
+      "Ống dẫn mực",
+      "Khung máy inox"
+    ],
+    "suitable_topics": [
+      "Giải pháp in date code công nghiệp",
+      "Bảo trì máy in phun CIJ",
+      "Quy trình vận hành máy in ký hiệu công nghiệp"
+    ],
+    "caption": "Máy in phun công nghiệp CIJ thương hiệu NICEJET đang mở nắp bảo vệ, cho thấy hệ thống ống dẫn mực và các cụm bơm mực bên trong tại xưởng VNPIS.",
+    "alt": "Thiết bị in phun liên tục CIJ NICEJET A410plus-sis tại xưởng VNPIS với hệ thống dẫn mực chi tiết",
+    "fileName": "vnpis_workshop_photo_162.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_162.jpg"
+  },
+  "vnpis_workshop_photo_167.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "RUCO INX",
+    "confidence": 0.98,
+    "specific_items": [
+      "mực in tampon Ruco T200-4000 Silver",
+      "tuýp đóng rắn (hardener) 100VR"
+    ],
+    "suitable_topics": [
+      "vật tư tiêu hao ngành in tampon",
+      "hướng dẫn pha mực in pad",
+      "quy trình in ấn công nghiệp"
+    ],
+    "caption": "Bộ vật tư bao gồm mực in tampon màu bạc Ruco T200-4000 và chất đóng rắn 100VR chuyên dụng cho quy trình in tampon công nghiệp tại VNPIS.",
+    "alt": "Mực in tampon Ruco T200-4000 Silver và tuýp đóng rắn 100VR dùng cho máy in tampon tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_167.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_167.jpg"
+  },
+  "vnpis_workshop_photo_171.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "RUCO INX (A.M. Ramp & Co. GmbH)",
+    "confidence": 0.98,
+    "specific_items": [
+      "can mực in tampon RUCO T200-4000",
+      "tuýp chất đóng rắn 100VR1430"
+    ],
+    "suitable_topics": [
+      "Lựa chọn mực in tampon chuyên dụng",
+      "Kỹ thuật pha mực cho in tampon trên kim loại/nhựa",
+      "Vật tư in ấn công nghiệp từ Đức"
+    ],
+    "caption": "Can mực in tampon RUCO T200-4000 màu bạc (Silver) cùng tuýp chất đóng rắn đi kèm phục vụ quy trình in ấn công nghiệp tại xưởng.",
+    "alt": "Can mực in tampon RUCO T200-4000 màu bạc và chất đóng rắn 100VR1430 chuyên dùng trong kỹ thuật in tampon công nghiệp",
+    "fileName": "vnpis_workshop_photo_171.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_171.jpg"
+  },
+  "vnpis_workshop_photo_172.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "chai mực in công nghiệp",
+      "thùng carton chứa mực",
+      "nắp chai phân loại màu (C, M, Y, K, LC, LM, GL)"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn công nghiệp",
+      "quản lý kho mực in",
+      "quy trình bảo quản hóa chất in ấn"
+    ],
+    "caption": "Thùng carton chứa các chai mực in công nghiệp chuyên dụng được bọc kín, phân loại theo mã màu CMYK và màu phụ trợ (Light Cyan, Light Magenta, Gloss/Clear).",
+    "alt": "Các chai mực in công nghiệp CMYK và dung dịch phủ bóng đóng gói trong thùng carton tại kho xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_172.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_172.jpg"
+  },
+  "vnpis_workshop_photo_175.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.9,
+    "specific_items": [
+      "mẫu in test trên nền đen",
+      "chai mực in công nghiệp",
+      "thước đo kỹ thuật trên mặt bàn in"
+    ],
+    "suitable_topics": [
+      "Quy trình kiểm soát chất lượng in ấn",
+      "Thử nghiệm mẫu mực in",
+      "Công nghệ in trên bề mặt phẳng"
+    ],
+    "caption": "Mẫu in thử nghiệm họa tiết hình học trên nền đen, được đặt cùng chai mực in công nghiệp phục vụ quy trình kiểm tra chất lượng tại xưởng VNPIS.",
+    "alt": "Mẫu in thử nghiệm họa tiết hình học và chai mực in công nghiệp trên máy in phẳng tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_175.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_175.jpg"
+  },
+  "vnpis_workshop_photo_174.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "chai mực in UV 1 lít",
+      "tem nhãn VNPIS",
+      "mực in công nghiệp UV Black-E9000"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn",
+      "cung cấp mực in UV công nghiệp",
+      "quy cách đóng gói mực in VNPIS"
+    ],
+    "caption": "Chai mực in UV màu đen (Black-E9000) dung tích 1 lít được cung cấp bởi VNPIS, dùng cho các dòng máy in phun công nghiệp.",
+    "alt": "Chai mực in UV 1 lít thương hiệu VNPIS mã E9000 màu đen dùng cho máy in phun công nghiệp tại xưởng",
+    "fileName": "vnpis_workshop_photo_174.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_174.jpg"
+  },
+  "vnpis_workshop_photo_176.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 1,
+    "specific_items": [
+      "máy in tampon",
+      "chén mực từ tính",
+      "bản in thép cliché",
+      "bàn gá in",
+      "đầu in silicone"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon công nghiệp",
+      "Thiết lập máy in tampon VNPIS",
+      "Kỹ thuật in trên linh kiện nhựa"
+    ],
+    "caption": "Máy in tampon đang trong quá trình vận hành với bản in cliché thép và hệ thống bàn gá chi tiết tại xưởng VNPIS.",
+    "alt": "Cận cảnh máy in tampon công nghiệp VNPIS với chén mực và bản in cliché phục vụ in ấn linh kiện nhựa chính xác.",
+    "fileName": "vnpis_workshop_photo_176.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_176.jpg"
+  },
+  "vnpis_workshop_photo_178.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "bản in thép cliché",
+      "hệ thống gá in",
+      "ống dẫn khí nén"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Bảo trì máy in tampon công nghiệp",
+      "Giải pháp in ấn sản phẩm nhựa"
+    ],
+    "caption": "Cận cảnh máy in tampon công nghiệp tại xưởng VNPIS với hệ thống đầu in silicone và bàn gá chi tiết, phục vụ in ấn chính xác trên bề mặt phức tạp.",
+    "alt": "Máy in tampon công nghiệp chuyên dụng tại xưởng VNPIS đang trong quá trình thiết lập bản in thép và đầu in silicone",
+    "fileName": "vnpis_workshop_photo_178.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_178.jpg"
+  },
+  "vnpis_workshop_photo_177.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 1,
+    "specific_items": [
+      "đầu in silicone",
+      "bản in thép cliché",
+      "cốc mực từ tính",
+      "bàn gá in",
+      "máy in tampon"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Kỹ thuật chuẩn bị bản in cliché",
+      "Bảo trì thiết bị in ấn công nghiệp VNPIS"
+    ],
+    "caption": "Cận cảnh quy trình in tampon (Pad Printing) tại xưởng VNPIS, hiển thị rõ đầu in silicone đang lấy mực từ bản cliché thép đặt trong cốc mực kín.",
+    "alt": "Máy in tampon công nghiệp VNPIS đang vận hành với đầu in silicone và bản in thép cliché chi tiết",
+    "fileName": "vnpis_workshop_photo_177.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_177.jpg"
+  },
+  "vnpis_workshop_photo_179.jpg": {
+    "category": "CIJ_TIJ_CODING",
+    "has_third_party_brand": true,
+    "brand_detected": "HP (Hewlett-Packard)",
+    "confidence": 0.98,
+    "specific_items": [
+      "cartridge mực TIJ",
+      "mực HP45A",
+      "đầu in phun nhiệt"
+    ],
+    "suitable_topics": [
+      "Giải pháp in date code công nghiệp",
+      "Hướng dẫn sử dụng mực in TIJ",
+      "Bảo trì máy in phun nhiệt"
+    ],
+    "caption": "Các đơn vị cartridge mực in nhiệt TIJ model HP45A dùng cho máy in date code công nghiệp tại xưởng VNPIS.",
+    "alt": "Cartridge mực in TIJ HP45A chuyên dụng cho máy in date code công nghiệp trong quy trình in ấn tại VNPIS",
+    "fileName": "vnpis_workshop_photo_179.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_179.jpg"
+  },
+  "vnpis_workshop_photo_180.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "AIR-TECH",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bàn gá in",
+      "bản in cliché",
+      "bảng điều khiển kỹ thuật số"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon trên linh kiện",
+      "Bảo trì máy in tampon công nghiệp",
+      "Giải pháp in ấn chi tiết nhựa"
+    ],
+    "caption": "Máy in tampon công nghiệp tại xưởng VNPIS đang thực hiện in logo AIR-TECH trên linh kiện nhựa, bao gồm cụm đầu in silicone và bàn gá chuyên dụng.",
+    "alt": "Máy in tampon công nghiệp thực hiện in ấn logo trên linh kiện nhựa tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_180.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_180.jpg"
+  },
+  "vnpis_workshop_photo_181.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "SANLANG",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bàn gá in",
+      "chén mực từ tính"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Bảo trì thiết bị in ấn công nghiệp",
+      "Giải pháp in ấn trên bề mặt phức tạp"
+    ],
+    "caption": "Thiết bị in tampon thương hiệu SANLANG đang được thiết lập tại xưởng VNPIS với đầu in silicone và bàn gá định vị chuyên dụng.",
+    "alt": "Máy in tampon SANLANG công nghiệp đang vận hành tại xưởng in VNPIS với đầu in silicon và linh kiện hỗ trợ",
+    "fileName": "vnpis_workshop_photo_181.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_181.jpg"
+  },
+  "vnpis_workshop_photo_183.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "HSMC PRINT",
+    "confidence": 0.98,
+    "specific_items": [
+      "Máy in tampon",
+      "bản in thép cliché",
+      "bàn gá in",
+      "ly nhựa mẫu",
+      "dung môi và mực in"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Quy trình in ấn linh kiện nhựa",
+      "Bảo trì máy in tampon công nghiệp"
+    ],
+    "caption": "Máy in tampon (Pad Printing) thương hiệu HSMC đang được vận hành tại xưởng VNPIS với đầy đủ bản in cliché và vật tư mực, dung môi chuẩn bị cho quy trình sản xuất.",
+    "alt": "Hệ thống máy in tampon công nghiệp HSMC tại xưởng VNPIS thực hiện in chi tiết lên sản phẩm nhựa với độ chính xác cao.",
+    "fileName": "vnpis_workshop_photo_183.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_183.jpg"
+  },
+  "vnpis_workshop_photo_173.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "INVERTER",
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu đỏ",
+      "bản in thép cliché",
+      "cốc mực từ tính",
+      "cơ cấu gá máy in tampon"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Kỹ thuật chuẩn bị bản in cliché",
+      "Bảo trì máy in tampon công nghiệp"
+    ],
+    "caption": "Chi tiết cận cảnh cụm đầu in tampon đang tiếp xúc với bản in thép cliché tại xưởng VNPIS.",
+    "alt": "Cận cảnh máy in tampon công nghiệp với đầu in silicone đỏ và bản in thép cliché tại nhà máy VNPIS",
+    "fileName": "vnpis_workshop_photo_173.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_173.jpg"
+  },
+  "vnpis_workshop_photo_182.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "bàn gá điều chỉnh",
+      "bảng điều khiển kỹ thuật số",
+      "công tắc bàn đạp"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Bảo trì thiết bị in ấn công nghiệp",
+      "Giải pháp in ấn trên bề mặt sản phẩm"
+    ],
+    "caption": "Máy in tampon (Pad Printing Machine) chuyên dụng tại xưởng VNPIS với thiết kế cơ khí chính xác, hỗ trợ in ấn chi tiết trên nhiều chất liệu.",
+    "alt": "Máy in tampon công nghiệp chuyên dụng tại xưởng VNPIS dùng để in logo và thông số kỹ thuật lên sản phẩm",
+    "fileName": "vnpis_workshop_photo_182.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_182.jpg"
+  },
+  "vnpis_workshop_photo_184.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "bản in thép cliché",
+      "mực in công nghiệp",
+      "cụm gá đầu in"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Bảo trì thiết bị in chuyển hướng",
+      "Kỹ thuật in trên bề mặt khó"
+    ],
+    "caption": "Cận cảnh đầu in silicone tiếp xúc với bản in thép cliché trong quy trình máy in tampon tại xưởng VNPIS.",
+    "alt": "Đầu in tampon silicone và bản in thép cliché trong quy trình in công nghiệp tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_184.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_184.jpg"
+  },
+  "vnpis_workshop_photo_186.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "Summit Racing Equipment",
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "bản in thép cliché",
+      "bàn gá in",
+      "máy in tampon"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon",
+      "Công nghệ in trên bề mặt phẳng",
+      "Thiết lập máy in tampon"
+    ],
+    "caption": "Máy in tampon (Pad Printing) đang vận hành với đầu in silicone màu hồng, thực hiện in lên bản in cliché có chứa logo Summit Racing Equipment.",
+    "alt": "Máy in tampon công nghiệp VNPIS với đầu in silicone và bản in cliché cho thương hiệu Summit Racing Equipment",
+    "fileName": "vnpis_workshop_photo_186.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_186.jpg"
+  },
+  "vnpis_workshop_photo_189.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "chai dung dịch vệ sinh CLS",
+      "chai mực in đen BK",
+      "thùng carton vật tư"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn",
+      "bảo trì máy in công nghiệp",
+      "quản lý hóa chất in ấn"
+    ],
+    "caption": "Các chai hóa chất bao gồm dung dịch làm sạch (CLS) và mực in (BK) được đóng gói trong thùng carton tại kho xưởng VNPIS.",
+    "alt": "Các loại mực in công nghiệp và dung dịch vệ sinh máy in được lưu trữ trong thùng carton tại kho VNPIS",
+    "fileName": "vnpis_workshop_photo_189.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_189.jpg"
+  },
+  "vnpis_workshop_photo_185.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "bình mực UV Ink",
+      "phiếu giao hàng VNPIS"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn công nghiệp",
+      "quản lý mực in UV",
+      "quy trình cung ứng vật tư VNPIS"
+    ],
+    "caption": "Bình mực in UV chuyên dụng mã UCDR15K của VNPIS kèm phiếu giao hàng đi kèm.",
+    "alt": "Bình mực in UV công nghiệp VNPIS UCDR15K chính hãng phục vụ cho máy in UV tại xưởng in ấn.",
+    "fileName": "vnpis_workshop_photo_185.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_185.jpg"
+  },
+  "vnpis_workshop_photo_192.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "EASY PRINT",
+    "confidence": 0.99,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bảng điều khiển điện tử",
+      "bàn gá in",
+      "bàn đạp điều khiển (foot pedal)"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Bảo trì thiết bị in ấn công nghiệp",
+      "Giải pháp in ấn trên bề mặt cong"
+    ],
+    "caption": "Máy in tampon (Pad Printing) thương hiệu Easy Print đang được thiết lập với đầu in silicone tại xưởng VNPIS.",
+    "alt": "Máy in tampon công nghiệp Easy Print với đầu in silicone dùng trong kỹ thuật in ấn sản phẩm nhựa tại VNPIS",
+    "fileName": "vnpis_workshop_photo_192.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_192.jpg"
+  },
+  "vnpis_workshop_photo_197.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "chén mực từ tính",
+      "cụm gá lắp",
+      "ống dẫn khí nén"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon",
+      "Bảo trì máy in tampon công nghiệp",
+      "Kỹ thuật in trên bề mặt không phẳng"
+    ],
+    "caption": "Kỹ thuật viên đang kiểm tra vị trí đầu in silicone trên máy in tampon công nghiệp tại xưởng VNPIS.",
+    "alt": "Cận cảnh máy in tampon công nghiệp với đầu in silicone và chén mực tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_197.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_197.jpg"
+  },
+  "vnpis_workshop_photo_198.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon 2 đầu",
+      "đầu in silicone",
+      "bàn gá sản phẩm",
+      "điều khiển PLC"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Kỹ thuật in ấn trên bề mặt cong",
+      "Hướng dẫn sử dụng máy in tampon công nghiệp"
+    ],
+    "caption": "Kỹ thuật viên VNPIS đang vận hành máy in tampon 2 đầu để in logo lên sản phẩm nhựa tại xưởng sản xuất.",
+    "alt": "Kỹ thuật viên đang vận hành máy in tampon 2 đầu tại xưởng VNPIS, chuyên in ấn công nghiệp trên bề mặt vật thể nhựa.",
+    "fileName": "vnpis_workshop_photo_198.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_198.jpg"
+  },
+  "vnpis_workshop_photo_196.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "COSOTA",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "bàn gá in",
+      "bảng điều khiển cảm ứng",
+      "bàn đạp chân",
+      "cơ cấu cấp liệu"
+    ],
+    "suitable_topics": [
+      "Giới thiệu máy in tampon công nghiệp",
+      "Công nghệ in nhãn mác sản phẩm",
+      "Tối ưu hóa quy trình in ấn tại xưởng"
+    ],
+    "caption": "Thiết bị máy in Tampon (Pad Printing) công nghiệp chuyên dụng, bao gồm bảng điều khiển PLC và bàn đạp thao tác cơ học.",
+    "alt": "Máy in tampon công nghiệp thương hiệu Cosota dùng cho in ấn sản phẩm nhựa và linh kiện, thiết kế chuyên dụng cho xưởng sản xuất.",
+    "fileName": "vnpis_workshop_photo_196.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_196.jpg"
+  },
+  "vnpis_workshop_photo_193.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "KENT",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bàn gá in",
+      "bản in thép cliché"
+    ],
+    "suitable_topics": [
+      "Giải pháp in tampon công nghiệp",
+      "Bảo trì máy in Kent",
+      "Công nghệ in lên sản phẩm bề mặt cong"
+    ],
+    "caption": "Máy in tampon (Pad Printing) thương hiệu KENT tại xưởng VNPIS, chuyên dụng để in logo hoặc chi tiết lên sản phẩm có bề mặt phức tạp.",
+    "alt": "Máy in tampon KENT công nghiệp tại xưởng in VNPIS với đầu in silicone và bàn gá chi tiết",
+    "fileName": "vnpis_workshop_photo_193.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_193.jpg"
+  },
+  "vnpis_workshop_photo_199.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.99,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "cụm gá in tampon",
+      "cơ cấu trượt máy in",
+      "bản in cliché"
+    ],
+    "suitable_topics": [
+      "Quy trình in tampon",
+      "Kỹ thuật vận hành máy in pad",
+      "Hướng dẫn setup đầu in silicone"
+    ],
+    "caption": "Kỹ thuật viên đang vận hành máy in tampon công nghiệp với đầu in silicone màu hồng thực hiện thao tác lấy mực từ bản in.",
+    "alt": "Máy in tampon công nghiệp VNPIS với đầu in silicone hồng đang thực hiện quy trình in ấn trên bề mặt sản phẩm.",
+    "fileName": "vnpis_workshop_photo_199.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_199.jpg"
+  },
+  "vnpis_workshop_photo_202.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "SANLANG (三郎)",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "bảng điều khiển kỹ thuật số",
+      "đầu giữ tampon",
+      "bàn gá in",
+      "cấu trúc khung máy kim loại"
+    ],
+    "suitable_topics": [
+      "hướng dẫn vận hành máy in tampon",
+      "bảo trì máy in tampon công nghiệp",
+      "giải pháp in ấn trên bề mặt cong",
+      "thiết bị in tampon thương hiệu Sanlang"
+    ],
+    "caption": "Máy in tampon công nghiệp thương hiệu Sanlang đang được sử dụng tại xưởng VNPIS với hệ thống điều khiển điện tử tích hợp.",
+    "alt": "Máy in tampon Sanlang chuyên dụng cho in ấn linh kiện công nghiệp tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_202.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_202.jpg"
+  },
+  "vnpis_workshop_photo_200.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone màu hồng",
+      "bàn gá in",
+      "kết cấu cơ khí máy in tampon"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Kỹ thuật in ấn công nghiệp",
+      "Bảo trì máy in tampon VNPIS"
+    ],
+    "caption": "Kỹ thuật viên đang kiểm tra vận hành đầu in silicone màu hồng trên thiết bị in tampon tại xưởng VNPIS.",
+    "alt": "Cận cảnh đầu in silicone màu hồng của máy in tampon công nghiệp tại xưởng in VNPIS",
+    "fileName": "vnpis_workshop_photo_200.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_200.jpg"
+  },
+  "vnpis_workshop_photo_203.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "chai dung môi PP",
+      "lọ mực in",
+      "nắp đỏ",
+      "vật tư hóa chất in ấn"
+    ],
+    "suitable_topics": [
+      "Hóa chất in ấn",
+      "Xử lý bề mặt nhựa PP",
+      "Vật tư tiêu hao công nghiệp",
+      "Quy trình pha chế mực in"
+    ],
+    "caption": "Hình ảnh ghi nhận chai dung môi chuyên dụng cho vật liệu nhựa PP và lọ mực in nghiệp vụ tại xưởng VNPIS.",
+    "alt": "Chai dung môi in nhựa PP và lọ mực in công nghiệp tại xưởng VNPIS, chuyên dùng xử lý bề mặt và pha chế mực in tampon/lụa.",
+    "fileName": "vnpis_workshop_photo_203.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_203.jpg"
+  },
+  "vnpis_workshop_photo_204.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in tampon (pad printing silicone)",
+      "đế gỗ gắn đầu in",
+      "mã số kỹ thuật 1127"
+    ],
+    "suitable_topics": [
+      "vật tư in tampon",
+      "hướng dẫn bảo trì đầu in silicone",
+      "cấu tạo thiết bị in tampon công nghiệp"
+    ],
+    "caption": "Đầu in silicone màu đỏ dùng cho máy in tampon tại xưởng VNPIS, dùng để chuyển mực từ bản in cliché lên bề mặt sản phẩm.",
+    "alt": "Đầu in silicone chuyên dụng cho máy in tampon công nghiệp tại xưởng in VNPIS, ký hiệu 1127 trên vật liệu silicone",
+    "fileName": "vnpis_workshop_photo_204.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_204.jpg"
+  },
+  "vnpis_workshop_photo_205.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in tampon (pad)",
+      "đế gỗ gắn đầu in",
+      "mã khuôn GE-92"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn lựa chọn đầu in tampon",
+      "Bảo quản vật tư in tampon",
+      "Kỹ thuật in tampon công nghiệp"
+    ],
+    "caption": "Cận cảnh đầu in tampon (silicone pad) màu đỏ có mã GE-92 đang được kỹ thuật viên kiểm tra tại xưởng VNPIS.",
+    "alt": "Đầu in tampon silicone màu đỏ mã GE-92 dùng cho máy in tampon công nghiệp tại VNPIS",
+    "fileName": "vnpis_workshop_photo_205.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_205.jpg"
+  },
+  "vnpis_workshop_photo_206.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "chén mực từ tính",
+      "bản in cliché",
+      "bàn gá in",
+      "bàn đạp điều khiển"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Thiết bị in ấn công nghiệp tại VNPIS",
+      "Kỹ thuật in trên bề mặt định hình"
+    ],
+    "caption": "Máy in tampon (Pad printing) công nghiệp đang được setup tại xưởng VNPIS, bao gồm hệ thống đầu in silicone, chén mực và bàn gá chi tiết.",
+    "alt": "Máy in tampon công nghiệp VNPIS với đầu in silicone và hệ thống cliché sắc nét cho in ấn sản phẩm nhựa",
+    "fileName": "vnpis_workshop_photo_206.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_206.jpg"
+  },
+  "vnpis_workshop_photo_207.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "KENT",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "bàn gá in",
+      "cụm đầu in",
+      "bảng điều khiển",
+      "nút dừng khẩn cấp"
+    ],
+    "suitable_topics": [
+      "bảo trì máy in tampon",
+      "cấu tạo máy in tampon Kent",
+      "quy trình vận hành máy in tampon công nghiệp"
+    ],
+    "caption": "Máy in tampon công nghiệp thương hiệu KENT đang được bảo trì tại xưởng VNPIS.",
+    "alt": "Máy in tampon công nghiệp KENT chuyên dụng để in ấn trên linh kiện nhựa và sản phẩm bề mặt cong tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_207.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_207.jpg"
+  },
+  "vnpis_workshop_photo_208.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "chén mực từ tính",
+      "bàn gá in",
+      "pedal điều khiển"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Bảo dưỡng thiết bị in ấn công nghiệp",
+      "Công nghệ in lên bề mặt sản phẩm tại VNPIS"
+    ],
+    "caption": "Máy in tampon công nghiệp tại xưởng VNPIS, trang bị đầu in silicone và hệ thống chén mực từ tính chuyên dụng.",
+    "alt": "Máy in tampon công nghiệp VNPIS với đầu in silicone và bàn gá chi tiết, thiết bị in ấn chính xác cho sản phẩm nhựa",
+    "fileName": "vnpis_workshop_photo_208.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_208.jpg"
+  },
+  "vnpis_workshop_photo_201.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "chén mực",
+      "bảng điều khiển",
+      "bàn gá in"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon",
+      "Cấu tạo máy in tampon công nghiệp",
+      "Bảo trì thiết bị in ấn VNPIS"
+    ],
+    "caption": "Máy in tampon (Pad Printing) công nghiệp tại xưởng VNPIS, trang bị đầu in silicone và hệ thống chén mực phục vụ in ấn linh kiện chính xác.",
+    "alt": "Máy in tampon công nghiệp chuyên dụng tại VNPIS với đầu in silicone và hệ thống chén mực cho in ấn sản phẩm nhựa",
+    "fileName": "vnpis_workshop_photo_201.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_201.jpg"
+  },
+  "vnpis_workshop_photo_209.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "EAST PRINT",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "cốc mực từ tính",
+      "bản in cliché",
+      "bàn gá điều chỉnh"
+    ],
+    "suitable_topics": [
+      "quy trình vận hành máy in tampon",
+      "bảo dưỡng thiết bị in ấn công nghiệp",
+      "giải pháp in ấn sản phẩm nhựa"
+    ],
+    "caption": "Máy in tampon (Pad Printing) thương hiệu East Print đang được thiết lập với cốc mực từ tính và bản in cliché tại xưởng VNPIS.",
+    "alt": "Máy in tampon công nghiệp thương hiệu East Print dùng trong in ấn nhựa tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_209.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_209.jpg"
+  },
+  "vnpis_workshop_photo_212.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bảng điều khiển Easy Print",
+      "bàn gá in",
+      "hệ thống khí nén"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Tối ưu hóa máy in tampon trong công nghiệp",
+      "Giải pháp in ấn linh kiện nhựa"
+    ],
+    "caption": "Máy in tampon công nghiệp với đầu in silicone đỏ và bảng điều khiển kỹ thuật số Easy Print tại xưởng VNPIS.",
+    "alt": "Máy in tampon công nghiệp (Pad Printing Machine) thương hiệu Easy Print đang vận hành tại xưởng sản xuất VNPIS",
+    "fileName": "vnpis_workshop_photo_212.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_212.jpg"
+  },
+  "vnpis_workshop_photo_117.jpg": {
+    "category": "FINISHED_PRODUCTS",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.95,
+    "specific_items": [
+      "mác vải",
+      "nhãn in thông tin sản phẩm",
+      "ký hiệu giặt ủi"
+    ],
+    "suitable_topics": [
+      "Công nghệ in nhãn mác vải",
+      "Giải pháp in tem nhãn công nghiệp",
+      "Quy trình in nhãn giặt là"
+    ],
+    "caption": "Mẫu nhãn vải in thông tin màu sắc và ký hiệu bảo quản sản phẩm hoàn thiện.",
+    "alt": "Nhãn mác vải in thông tin chi tiết với màu sắc và ký hiệu giặt ủi tiêu chuẩn tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_117.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_117.jpg"
+  },
+  "vnpis_workshop_photo_116.jpg": {
+    "fileName": "vnpis_workshop_photo_116.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_116.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_140.jpg": {
+    "fileName": "vnpis_workshop_photo_140.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_140.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_163.jpg": {
+    "fileName": "vnpis_workshop_photo_163.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_163.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_143.jpg": {
+    "fileName": "vnpis_workshop_photo_143.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_143.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_142.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "đầu in silicone",
+      "bàn gá in",
+      "bảng điều khiển cơ khí"
+    ],
+    "suitable_topics": [
+      "Giải pháp in ấn trên bề mặt cong",
+      "Quy trình vận hành máy in tampon công nghiệp",
+      "Thiết bị in ấn linh kiện nhựa"
+    ],
+    "caption": "Máy in tampon công nghiệp tự động đang được thiết lập tại xưởng VNPIS, trang bị đầu in silicone chuyên dụng cho các sản phẩm bề mặt không phẳng.",
+    "alt": "Máy in tampon công nghiệp VNPIS với đầu in silicone và bàn gá điều chỉnh chính xác dùng trong in ấn sản phẩm nhựa",
+    "fileName": "vnpis_workshop_photo_142.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_142.jpg"
+  },
+  "vnpis_workshop_photo_166.jpg": {
+    "fileName": "vnpis_workshop_photo_166.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_166.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_165.jpg": {
+    "fileName": "vnpis_workshop_photo_165.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_165.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_168.jpg": {
+    "category": "INK_SOLVENT",
+    "has_third_party_brand": true,
+    "brand_detected": "RUCO INX",
+    "confidence": 0.98,
+    "specific_items": [
+      "tuýp chất đóng rắn 100VR1433",
+      "lon mực RUCO T200"
+    ],
+    "suitable_topics": [
+      "vật tư in ấn",
+      "cách pha mực in tampon",
+      "hóa chất công nghiệp",
+      "an toàn hóa chất trong in ấn"
+    ],
+    "caption": "Hình ảnh chụp cận cảnh tuýp hóa chất đóng rắn 100VR1433 và lon mực RUCO T200 dùng trong công nghệ in tampon tại xưởng VNPIS.",
+    "alt": "Tuýp chất đóng rắn 100VR1433 và mực in RUCO sử dụng cho máy in tampon công nghiệp tại nhà máy VNPIS",
+    "fileName": "vnpis_workshop_photo_168.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_168.jpg"
+  },
+  "vnpis_workshop_photo_169.jpg": {
+    "fileName": "vnpis_workshop_photo_169.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_169.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_170.jpg": {
+    "fileName": "vnpis_workshop_photo_170.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_170.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_187.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon (pad printing machine)",
+      "đầu in tampon",
+      "khung thân máy in",
+      "bàn gá"
+    ],
+    "suitable_topics": [
+      "Quy trình vận hành máy in tampon",
+      "Bảo dưỡng thiết bị in ấn công nghiệp",
+      "Giải pháp in logo trên sản phẩm nhựa"
+    ],
+    "caption": "Dàn máy in tampon (pad printing) công nghiệp tại xưởng VNPIS, bao gồm các thiết bị đang trong quá trình lắp đặt và vận hành.",
+    "alt": "Dàn máy in tampon công nghiệp chuyên dụng tại nhà xưởng VNPIS dùng để in logo và ký tự lên sản phẩm",
+    "fileName": "vnpis_workshop_photo_187.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_187.jpg"
+  },
+  "vnpis_workshop_photo_188.jpg": {
+    "fileName": "vnpis_workshop_photo_188.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_188.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_190.jpg": {
+    "fileName": "vnpis_workshop_photo_190.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_190.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_191.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.98,
+    "specific_items": [
+      "đầu in silicone",
+      "xi lanh khí nén",
+      "bàn gá in",
+      "cụm điều khiển máy in tampon"
+    ],
+    "suitable_topics": [
+      "Hướng dẫn vận hành máy in tampon mini",
+      "Quy trình in tampon trên linh kiện nhỏ",
+      "Bảo trì thiết bị in ấn công nghiệp"
+    ],
+    "caption": "Máy in tampon (pad printing) để bàn vận hành bằng khí nén, trang bị đầu in silicone chuyên dụng cho các ứng dụng in chi tiết nhỏ chính xác tại VNPIS.",
+    "alt": "Máy in tampon công nghiệp mini JT1-1025 sử dụng đầu in silicone cho nhu cầu in ấn sản phẩm chính xác tại xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_191.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_191.jpg"
+  },
+  "vnpis_workshop_photo_194.jpg": {
+    "fileName": "vnpis_workshop_photo_194.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_194.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_195.jpg": {
+    "fileName": "vnpis_workshop_photo_195.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_195.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
+  },
+  "vnpis_workshop_photo_210.jpg": {
+    "category": "PAD_PRINTING",
+    "has_third_party_brand": true,
+    "brand_detected": "SANLANG (三郎)",
+    "confidence": 0.98,
+    "specific_items": [
+      "máy in tampon",
+      "bàn gá in",
+      "pedal điều khiển chân",
+      "bảng điều khiển kỹ thuật số"
+    ],
+    "suitable_topics": [
+      "Giải pháp in tampon công nghiệp",
+      "Thiết bị in ấn chuyên dụng tại VNPIS",
+      "Hướng dẫn vận hành máy in tampon"
+    ],
+    "caption": "Máy in tampon (Pad Printing) thương hiệu Sanlang đang được sử dụng tại xưởng VNPIS, được trang bị pedal điều khiển chân và bảng điều khiển kỹ thuật số để tinh chỉnh chu kỳ in.",
+    "alt": "Máy in tampon Sanlang chuyên dụng cho in ấn linh kiện nhựa và sản phẩm công nghiệp tại nhà xưởng VNPIS",
+    "fileName": "vnpis_workshop_photo_210.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_210.jpg"
+  },
+  "vnpis_workshop_photo_211.jpg": {
+    "fileName": "vnpis_workshop_photo_211.jpg",
+    "webPath": "/images/real_photos/vnpis_workshop_photo_211.jpg",
+    "category": "WORKSHOP_GENERAL",
+    "has_third_party_brand": false,
+    "brand_detected": null,
+    "confidence": 0.5,
+    "specific_items": [
+      "Thiết bị xưởng VNPIS"
+    ],
+    "suitable_topics": [
+      "xưởng kỹ thuật vnpis"
+    ],
+    "caption": "Kỹ thuật viên thao tác thiết bị tại xưởng VNPIS",
+    "alt": "Thiết bị kỹ thuật tại xưởng in công nghiệp VNPIS"
   }
 }

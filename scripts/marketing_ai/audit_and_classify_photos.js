@@ -17,9 +17,9 @@ function getApiKey() {
 
 const apiKey = getApiKey();
 const WORKER_MODELS = [
-  ['gemini-3.5-flash', 'gemini-3.1-flash-lite'],
-  ['gemini-3.5-flash-lite', 'gemini-3.1-flash-lite-preview'],
-  ['gemini-3.6-flash', 'gemini-3.1-flash-lite']
+  ['gemini-3.8-flash', 'gemini-3-flash-preview'],
+  ['gemini-3.8-flash', 'gemini-3.1-flash-lite'],
+  ['gemini-3.8-flash', 'gemini-3-flash-preview']
 ];
 
 function loadCatalog() {
@@ -42,6 +42,7 @@ DANH MỤC KỸ THUẬT (chọn đúng 1 category phù hợp nhất):
 - PAD_PRINTING: Máy in tampon, đầu in silicone (hồng, đỏ, trắng...), chén/cốc mực từ tính, bản in thép cliché, bàn gá in tampon.
 - SCREEN_PRINTING: Máy in lụa, khung in nhôm/gỗ, lưới in lụa, dao gạt mực PU (squeegee), máng tráng keo, máy căng khung lụa.
 - PRINTHEAD_INDUSTRIAL: Đầu in phun công nghiệp (Ricoh Gen5/Gen6, Epson i3200, Kyocera, Konica Minolta, Xaar), bồn rửa siêu âm, kính lúp soi tia, máy test tia mực, cụm caping/damper.
+- UV_SINGLE_PASS: Máy in UV Single Pass công nghiệp, băng tải in thùng carton/bao bì, đèn sấy UV LED.
 - INK_SOLVENT: Bình/can mực in công nghiệp, chai dung môi pha loãng/chậm khô, hóa chất xử lý bề mặt corona/flame, cốc đo độ nhớt mực.
 - CIJ_TIJ_CODING: Máy in date công nghiệp CIJ, máy in nhiệt TIJ cầm tay/online, băng tải date code, bình mực cartridge TIJ.
 - FINISHED_PRODUCTS: Các sản phẩm mẫu đã in xong hoàn thiện (in ly nhựa, in nắp chai, thân bút, linh kiện điện tử, hộp quà).
@@ -54,7 +55,7 @@ QUY TẮC BẢO MẬT THƯƠNG HIỆU & NDA KHÁCH HÀNG:
 
 Trả về DUY NHẤT JSON thuần không có markdown:
 {
-  "category": "PAD_PRINTING | SCREEN_PRINTING | PRINTHEAD_INDUSTRIAL | INK_SOLVENT | CIJ_TIJ_CODING | FINISHED_PRODUCTS | WORKSHOP_GENERAL | IRRELEVANT",
+  "category": "PAD_PRINTING | SCREEN_PRINTING | PRINTHEAD_INDUSTRIAL | UV_SINGLE_PASS | INK_SOLVENT | CIJ_TIJ_CODING | FINISHED_PRODUCTS | WORKSHOP_GENERAL | IRRELEVANT",
   "has_third_party_brand": false,
   "brand_detected": null,
   "confidence": 0.95,

@@ -1,8 +1,14 @@
 ---
-title: "Máy In Lụa (Screen Printing) Công Nghiệp: Kỹ thuật in truyền thống vươn tầm hiện đại"
-description: "In lụa (Screen Printing) công nghiệp là gì? Tìm hiểu nguyên lý, ứng dụng in mạch điện tử, bao bì mỹ phẩm, in thủy tinh và vì sao công nghệ này vẫn không thể bị thay thế."
-date: "2026-07-08T03:00:00.000Z"
-category: "Screen Printing"
+title: >-
+  Máy In Lụa (Screen Printing) Công Nghiệp: Kỹ thuật in truyền thống vươn tầm
+  hiện đại
+description: >-
+  In lụa (Screen Printing) công nghiệp là gì? Tìm hiểu nguyên lý, ứng dụng in
+  mạch điện tử, bao bì mỹ phẩm, in thủy tinh và vì sao công nghệ này vẫn không
+  thể bị thay thế.
+date: '2026-07-08T03:00:00.000Z'
+category: Screen Printing
+image: /images/screen-printers/sj/b13_mn800.webp
 ---
 
 # Kỹ Thuật In Lụa (Screen Printing) Là Gì?
@@ -20,7 +26,13 @@ Trong khi in Offset, Flexo hay In Phun Kỹ Thuật Số chỉ để lại lớp
 ### 1. Độ Bền Khắc Nghiệt Nhất
 Lớp mực dày giúp sản phẩm in lụa có khả năng chống chịu mài mòn cơ học, chống hóa chất, chịu nhiệt độ ngoài trời (UV) cực kỳ xuất sắc. Đó là lý do biển báo giao thông, decal dán xe máy, và bảng điều khiển máy móc bắt buộc phải dùng in lụa.
 
-### 2. Độ Che Phủ Tuyệt Đối (Opacity)
+#
+
+
+![Máy in lụa phẳng công nghiệp khổ lớn MN-800](/images/screen-printers/sj/b13_mn800.webp)
+*Máy in lụa phẳng bán tự động độ chính xác cao cho xưởng sản xuất*
+
+## 2. Độ Che Phủ Tuyệt Đối (Opacity)
 Khi in chữ màu trắng tinh lên một chai thủy tinh màu đen hoặc xanh sẫm (ngành mỹ phẩm, rượu bia), chỉ có in lụa mới che phủ được nền đen bên dưới mà không làm màu trắng bị nhờn hay nhạt đi.
 
 ### 3. In Mực Đặc Biệt (Functional Inks)

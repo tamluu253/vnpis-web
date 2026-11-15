@@ -1,8 +1,12 @@
 ---
-title: "Vật Tư In Công Nghiệp: Bí quyết tối ưu chi phí vận hành (OPEX)"
-description: "Tổng hợp các loại vật tư tiêu hao trong in phun và in ấn công nghiệp (Dung môi, Filter, Lưới in, Ribbon). Tối ưu chi phí sản xuất mà không đánh đổi chất lượng."
-date: "2026-07-08T06:00:00.000Z"
-category: "Consumables"
+title: 'Vật Tư In Công Nghiệp: Bí quyết tối ưu chi phí vận hành (OPEX)'
+description: >-
+  Tổng hợp các loại vật tư tiêu hao trong in phun và in ấn công nghiệp (Dung
+  môi, Filter, Lưới in, Ribbon). Tối ưu chi phí sản xuất mà không đánh đổi chất
+  lượng.
+date: '2026-07-08T06:00:00.000Z'
+category: Consumables
+image: /images/products/accessories/ink-cups.webp
 ---
 
 # Vật Tư In Công Nghiệp: Mạch Máu Của Dây Chuyền
@@ -20,7 +24,13 @@ VNPIS không chỉ là đại lý phân phối máy móc, chúng tôi là đối
 - **Giải pháp của VNPIS:** Cung cấp dung môi chuẩn xác 100% về thành phần hóa học (MEK, Acetone, hoặc Ethanol) tương thích hoàn toàn với các dòng máy Domino, Videojet, Hitachi, Linx, Markem-Imaje. Tiết kiệm từ 30% - 50% so với mua trực tiếp từ hãng mà không ảnh hưởng tới bơm.
 - **Nước rửa (Wash):** Dung dịch vệ sinh đầu in, tẩy rửa bản in lụa chuyên dụng không làm ăn mòn ron cao su.
 
-### 2. Bộ Lọc (Filters)
+#
+
+
+![Vật tư tiêu hao ngành in công nghiệp VNPIS](/images/products/accessories/ink-cups.webp)
+*Cung cấp trọn bộ vật tư tiêu hao ngành in tampon, in lụa và in phun*
+
+## 2. Bộ Lọc (Filters)
 Một bộ lọc bẩn là nguyên nhân số 1 gây tụt áp suất bơm và làm nghẹt đầu phun.
 - VNPIS cung cấp Main Filter (Lọc chính), In-line Filter (Lọc đường ống), Gutter Filter (Lọc thu hồi) với màng vi lọc đạt chuẩn 5 micron đến 10 micron, đảm bảo hệ thống thủy lực của máy CIJ luôn trơn tru.
 

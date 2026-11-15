@@ -1,8 +1,11 @@
 ---
-title: "Mực In TIJ (Thermal Inkjet): Sắc Nét, Thân Thiện Môi Trường & Đa Dụng"
-description: "Phân tích công nghệ mực in TIJ (Thermal Inkjet). Ưu nhược điểm, phân loại mực gốc nước/gốc dung môi và giải pháp mực TIJ chuẩn công nghiệp từ VNPIS."
-date: "2026-07-08T04:00:00.000Z"
-category: "TIJ Ink"
+title: 'Mực In TIJ (Thermal Inkjet): Sắc Nét, Thân Thiện Môi Trường & Đa Dụng'
+description: >-
+  Phân tích công nghệ mực in TIJ (Thermal Inkjet). Ưu nhược điểm, phân loại mực
+  gốc nước/gốc dung môi và giải pháp mực TIJ chuẩn công nghiệp từ VNPIS.
+date: '2026-07-08T04:00:00.000Z'
+category: TIJ Ink
+image: /images/bolijie/tests/bolijie_tij_cartridge_online_06.jpg
 ---
 
 # Công Nghệ Mực In TIJ (Thermal Inkjet) Là Gì?
@@ -28,7 +31,13 @@ Sự phát triển mạnh mẽ nhất của TIJ trong thập kỷ qua chính là
 - **Ứng dụng:** In trên các vật liệu có tính thấm hút (Porous materials) như thùng carton, giấy kraft, hộp gỗ, giấy y tế không dệt. 
 - **Lưu ý:** Nếu in lên màng nilon hay nhựa, mực sẽ bị nhòe và không bao giờ khô.
 
-### 2. Mực TIJ Gốc Dung Môi (Solvent-based Ink)
+#
+
+
+![Hộp mực in date nhiệt TIJ 12.7mm nhanh khô trên bao bì nhôm và nhựa](/images/bolijie/tests/bolijie_tij_cartridge_online_06.jpg)
+*Hộp mực in date nhiệt TIJ 12.7mm công nghệ HP45 nhanh khô 1 giây trên mọi chất liệu màng tráng bóng*
+
+## 2. Mực TIJ Gốc Dung Môi (Solvent-based Ink)
 - **Đặc tính:** Chứa dung môi gốc cồn (Ethanol/MEK), có khả năng bám dính và khô cực nhanh (dưới 1 giây) khi bay hơi ngoài không khí. VNPIS cung cấp các dòng mực solvent thế hệ mới giảm thiểu tối đa tình trạng "khô vòi phun" (decap time dài).
 - **Ứng dụng:** In trực tiếp lên vật liệu trơn láng, không thấm hút (Non-porous) như bao bì màng BOPP/PE, vỏ chai nhựa PET, ống kim loại, dây cáp điện.
 

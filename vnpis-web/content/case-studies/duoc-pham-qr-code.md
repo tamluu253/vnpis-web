@@ -1,11 +1,16 @@
 ---
-title: "Tích Hợp Dây Chuyền In QR Code Chống Giả Cho Tập Đoàn Dược Phẩm"
-description: "VNPIS thiết kế và lắp đặt hệ thống in UV Single Pass tích hợp Vision Camera, in 50.000 hộp thuốc/giờ với mã QR biến đổi 100% không trùng lặp."
-category: "Dược Phẩm"
-client: "Tập đoàn Dược phẩm Quốc tế"
-industry: "Sản xuất thuốc & Thực phẩm chức năng"
-solution: "Hệ thống In UV Single Pass + Camera Vision + Mực UV chuẩn y tế"
-result: "Tốc độ 50.000 hộp/giờ. Khả năng truy xuất nguồn gốc 100%. Loại bỏ hoàn toàn hàng giả."
+title: Tích Hợp Dây Chuyền In QR Code Chống Giả Cho Tập Đoàn Dược Phẩm
+description: >-
+  VNPIS thiết kế và lắp đặt hệ thống in UV Single Pass tích hợp Vision Camera,
+  in 50.000 hộp thuốc/giờ với mã QR biến đổi 100% không trùng lặp.
+category: Dược Phẩm
+client: Tập đoàn Dược phẩm Quốc tế
+industry: Sản xuất thuốc & Thực phẩm chức năng
+solution: Hệ thống In UV Single Pass + Camera Vision + Mực UV chuẩn y tế
+result: >-
+  Tốc độ 50.000 hộp/giờ. Khả năng truy xuất nguồn gốc 100%. Loại bỏ hoàn toàn
+  hàng giả.
+image: /images/bolijie/tests/bolijie_security_anti_counterfeit_black_01.jpg
 ---
 
 # Thách Thức Của Khách Hàng
@@ -23,6 +28,11 @@ Sau khi khảo sát thực tế nhà máy, đội ngũ kỹ sư VNPIS đã đề
 
 ## 1. Hệ Thống In UV Single Pass
 Chúng tôi sử dụng đầu in công nghiệp **Ricoh Gen5** gắn trực tiếp lên băng tải đóng gói hiện hữu của khách hàng. Công nghệ in phun một lần lướt (Single Pass) cho phép máy in theo kịp tốc độ 60m/phút một cách dễ dàng.
+
+
+
+![Thử nghiệm mực in date CIJ bảo mật chống làm giả trên bao bì cao cấp](/images/bolijie/tests/bolijie_security_anti_counterfeit_black_01.jpg)
+*Mực in date bảo mật chống hàng giả, tích hợp hoạt chất chống sao chép quang học*
 
 ## 2. Mực In UV Sấy Đèn LED Tức Thì
 Để giải quyết bài toán vỏ hộp phủ màng nilon trơn bóng, VNPIS sử dụng **Mực in UV công nghiệp**. Ngay sát đầu in, chúng tôi tích hợp một dàn đèn sấy LED UV công suất cao. Chỉ 0.1 giây sau khi giọt mực chạm vào vỏ hộp, đèn tia cực tím sẽ làm khô mực hoàn toàn, bám chặt vào màng nilon không thể cạo tróc.

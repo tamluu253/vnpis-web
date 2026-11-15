@@ -1,8 +1,11 @@
 ---
-title: "Mực In CIJ (Continuous Inkjet): Động Cơ Vĩnh Cửu Của Dây Chuyền Sản Xuất"
-description: "Toàn tập về mực in CIJ (in phun liên tục). Nguyên lý tĩnh điện, khả năng in trên bề mặt không bằng phẳng và giải pháp mực bám dính siêu cường từ VNPIS."
-date: "2026-07-08T05:00:00.000Z"
-category: "CIJ Ink"
+title: 'Mực In CIJ (Continuous Inkjet): Động Cơ Vĩnh Cửu Của Dây Chuyền Sản Xuất'
+description: >-
+  Toàn tập về mực in CIJ (in phun liên tục). Nguyên lý tĩnh điện, khả năng in
+  trên bề mặt không bằng phẳng và giải pháp mực bám dính siêu cường từ VNPIS.
+date: '2026-07-08T05:00:00.000Z'
+category: CIJ Ink
+image: /images/bolijie/tests/bolijie_date_coding_samples_02.jpg
 ---
 
 # Công Nghệ CIJ (Continuous Inkjet) Là Gì?
@@ -18,7 +21,13 @@ Tại sao hệ thống phức tạp, tốn dung môi (Makeup) để thu hồi n�
 ### 1. In Khí Động Học, Không Chạm Bề Mặt (Non-Contact Printing)
 Đầu in CIJ có thể đặt cách bề mặt sản phẩm từ 1cm đến 3cm. Tia mực bắn ra với tốc độ cực lớn cho phép nó in rõ nét trên những bề mặt **cong, lồi lõm, không bằng phẳng** (như cổ chai nước ngọt, bề mặt gồ ghề của ống cáp điện, lốc lốp xe) – điều mà TIJ (chỉ đặt cách 1-3mm) hoặc in Tampon chịu thua.
 
-### 2. Tốc Độ Dây Chuyền Chóng Mặt
+#
+
+
+![Mẫu in date hạn sử dụng và mã số lô trên bao bì thành phẩm công nghiệp](/images/bolijie/tests/bolijie_date_coding_samples_02.jpg)
+*Thành phẩm in date code và mã vạch QR code thực tế bằng công nghệ in phun công nghiệp*
+
+## 2. Tốc Độ Dây Chuyền Chóng Mặt
 CIJ là vua tốc độ. Nó có thể in date code lên các lon bia đang chạy trên băng chuyền với tốc độ lên tới 300 mét/phút, tương đương hàng chục lon mỗi giây.
 
 ### 3. Tương Thích Với Mực "Hạng Nặng" (Aggressive Inks)

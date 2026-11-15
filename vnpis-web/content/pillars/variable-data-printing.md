@@ -1,8 +1,13 @@
 ---
-title: "Variable Data Printing (In Dữ Liệu Biến Đổi): Kỷ Nguyên Mới Của Ngành In Công Nghiệp"
-description: "Khám phá Variable Data Printing (VDP) - Công nghệ cá nhân hóa hàng loạt, in mã QR động, Serial và Barcode ngay trên dây chuyền với tốc độ cao."
-date: "2026-07-08T01:00:00.000Z"
-category: "Variable Data Printing"
+title: >-
+  Variable Data Printing (In Dữ Liệu Biến Đổi): Kỷ Nguyên Mới Của Ngành In Công
+  Nghiệp
+description: >-
+  Khám phá Variable Data Printing (VDP) - Công nghệ cá nhân hóa hàng loạt, in mã
+  QR động, Serial và Barcode ngay trên dây chuyền với tốc độ cao.
+date: '2026-07-08T01:00:00.000Z'
+category: Variable Data Printing
+image: /images/real_photos/vnpis_workshop_photo_31.jpg
 ---
 
 # Variable Data Printing (VDP) Là Gì?
@@ -16,7 +21,13 @@ Trong khi in truyền thống (như Offset, Flexo) yêu cầu mỗi bản kẽm 
 ### 1. Truy Xuất Nguồn Gốc & Chống Hàng Giả (Traceability & Anti-Counterfeit)
 Mỗi sản phẩm xuất xưởng mang một mã QR động (Dynamic QR Code) độc nhất vô nhị. Người tiêu dùng chỉ cần dùng điện thoại quét mã là biết ngay sản phẩm được sản xuất ở đâu, ngày nào, lô nào. Đồng thời, hệ thống VDP của VNPIS tích hợp với phần mềm định danh giúp nhà sản xuất theo dõi đường đi của sản phẩm, chống bán phá giá và hàng nhái.
 
-### 2. Tiếp Thị Cá Nhân Hóa (Personalized Marketing)
+#
+
+
+![May in phun cong nghiep carton code high speed variable code printing VNPIS](/images/real_photos/vnpis_workshop_photo_31.jpg)
+*Hệ thống máy in phun công nghiệp in date và mã vạch tốc độ cao trên dây chuyền băng tải thùng carton tại xưởng VNPIS*
+
+## 2. Tiếp Thị Cá Nhân Hóa (Personalized Marketing)
 Khách hàng hiện đại không muốn những thông điệp chung chung. VDP cho phép in tên khách hàng, mã trúng thưởng, hay hình ảnh được thiết kế riêng trực tiếp lên bao bì. Các chiến dịch như "Share a Coke" của Coca-Cola chính là ví dụ điển hình cho sức mạnh của VDP.
 
 ### 3. Quản Lý Kho Bãi (Logistics & Warehousing)
