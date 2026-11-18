@@ -27,6 +27,7 @@ try {
 
 const { pingIndexNow } = require('./indexnow_ping');
 const { publishPost } = require('./social_publishers/facebook_auto_manager');
+const { publishShortVideoEverywhere } = require('./social_publishers/video_auto_publisher');
 
 // Baseline start date for Week 1 (Monday, August 10, 2026)
 const START_DATE = new Date('2026-08-10T00:00:00Z');
@@ -227,8 +228,10 @@ async function sendCloudPublishReport(details) {
         </div>
 
         <div style="background: #FFF1F2; border-left: 4px solid #E11D48; padding: 14px 18px; border-radius: 6px; margin: 18px 0;">
-          <h3 style="margin: 0 0 10px 0; color: #BE123C; font-size: 16px;">🎬 4. NỘI DUNG ĐĂNG TIKTOK & YOUTUBE SHORTS (COPY ĐĂNG NGAY):</h3>
-          <p style="margin: 4px 0;"><strong>File Video gợi ý:</strong> <code>${details.shortVideoFile || 'vnpis-web/public/media/machines/hj-screen-printer.mp4'}</code> (<a href="https://vnpis.com${details.shortVideoWebPath || '/media/machines/hj-screen-printer.mp4'}" target="_blank" style="color: #BE123C; font-weight: bold;">Tải Video .MP4</a>)</p>
+          <h3 style="margin: 0 0 10px 0; color: #BE123C; font-size: 16px;">🎬 4. TRUYỀN THÔNG VIDEO NGẮN (TIKTOK & YOUTUBE SHORTS):</h3>
+          <p style="margin: 4px 0;"><strong>Trạng thái YouTube Shorts:</strong> ${details.ytStatus || 'Đang chờ đồng bộ'}</p>
+          <p style="margin: 4px 0;"><strong>Trạng thái TikTok:</strong> ${details.ttStatus || 'Đang chờ đồng bộ'}</p>
+          <p style="margin: 4px 0;"><strong>File Video:</strong> <code>${details.shortVideoFile || 'vnpis-web/public/media/machines/hj-screen-printer.mp4'}</code> (<a href="https://vnpis.com${details.shortVideoWebPath || '/media/machines/hj-screen-printer.mp4'}" target="_blank" style="color: #BE123C; font-weight: bold;">Tải Video .MP4</a>)</p>
           <p style="margin: 4px 0;"><strong>Tiêu đề YouTube Shorts:</strong> ${details.ytShortsTitle || details.articleTitle} #Shorts #VNPIS</p>
           <p style="margin: 6px 0 2px 0;"><strong>Caption TikTok / Mô tả YouTube Shorts:</strong></p>
           <div style="background: #FFFFFF; border: 1px solid #FECDD3; padding: 10px; border-radius: 6px; font-size: 13px; white-space: pre-wrap;">${details.tiktokCaption || ''}</div>
@@ -350,7 +353,7 @@ async function runMasterCloudPublishing(options = {}) {
     fbStatus = `Lỗi xử lý Facebook: ${err.message}`;
   }
 
-  // 5. Generate Ready-to-Post TikTok & YouTube Shorts Pack
+  // 5. Generate & Auto-Publish Ready-to-Post TikTok & YouTube Shorts Pack
   const textLower = `${fbTopic} ${articleTitle}`.toLowerCase();
   let shortVideoWebPath = '/media/machines/hj-4color.mp4';
   if (textLower.includes('lụa') || textLower.includes('lưới')) {
@@ -371,6 +374,26 @@ async function runMasterCloudPublishing(options = {}) {
     `🌐 Xem chi tiết thông số: ${articleUrl}\n\n` +
     `#VNPIS #InTampon #InLua #MayInCongNghiep #PhaMucPantone #MayInDate #GiaCongInAn #Shorts`;
 
+  let ytStatus = '⏳ Đã lưu hàng đợi tự động đăng (Chờ cấp YouTube Refresh Token)';
+  let ttStatus = '⏳ Đã lưu hàng đợi tự động đăng (Chờ cấp TikTok Access Token)';
+  try {
+    const videoRes = await publishShortVideoEverywhere({
+      slotKey: `week_${paddedWeek}_${dayCode}`,
+      videoFile: shortVideoFile,
+      ytTitle: `${ytShortsTitle} #Shorts #VNPIS`,
+      caption: tiktokCaption,
+      articleUrl
+    });
+    if (videoRes.youtube?.status === 'published') {
+      ytStatus = `✅ Đã đăng tự động lên YouTube Shorts (<a href="${videoRes.youtube.url}">${videoRes.youtube.url}</a>)`;
+    }
+    if (videoRes.tiktok?.status === 'published') {
+      ttStatus = `✅ Đã đẩy tự động lên TikTok (${videoRes.tiktok.mode} - ID: ${videoRes.tiktok.publishId})`;
+    }
+  } catch (err) {
+    console.warn('[VIDEO AUTO PUBLISH NOTICE]', err.message);
+  }
+
   // 6. Send Email Report (unless skipEmail is passed)
   if (!options.skipEmail) {
     console.log('\n📧 Sending Executive Summary Email...');
@@ -388,7 +411,9 @@ async function runMasterCloudPublishing(options = {}) {
       shortVideoFile,
       shortVideoWebPath,
       ytShortsTitle,
-      tiktokCaption
+      tiktokCaption,
+      ytStatus,
+      ttStatus
     });
   }
 
