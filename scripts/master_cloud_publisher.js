@@ -225,6 +225,14 @@ async function sendCloudPublishReport(details) {
           <p style="margin: 4px 0;"><strong>Chủ đề:</strong> ${details.fbTopic || 'N/A'}</p>
           <p style="margin: 4px 0;"><strong>Trạng thái:</strong> ${details.fbStatus || 'Đã đồng bộ nội dung'}</p>
         </div>
+
+        <div style="background: #FFF1F2; border-left: 4px solid #E11D48; padding: 14px 18px; border-radius: 6px; margin: 18px 0;">
+          <h3 style="margin: 0 0 10px 0; color: #BE123C; font-size: 16px;">🎬 4. NỘI DUNG ĐĂNG TIKTOK & YOUTUBE SHORTS (COPY ĐĂNG NGAY):</h3>
+          <p style="margin: 4px 0;"><strong>File Video gợi ý:</strong> <code>${details.shortVideoFile || 'vnpis-web/public/media/machines/hj-screen-printer.mp4'}</code> (<a href="https://vnpis.com${details.shortVideoWebPath || '/media/machines/hj-screen-printer.mp4'}" target="_blank" style="color: #BE123C; font-weight: bold;">Tải Video .MP4</a>)</p>
+          <p style="margin: 4px 0;"><strong>Tiêu đề YouTube Shorts:</strong> ${details.ytShortsTitle || details.articleTitle} #Shorts #VNPIS</p>
+          <p style="margin: 6px 0 2px 0;"><strong>Caption TikTok / Mô tả YouTube Shorts:</strong></p>
+          <div style="background: #FFFFFF; border: 1px solid #FECDD3; padding: 10px; border-radius: 6px; font-size: 13px; white-space: pre-wrap;">${details.tiktokCaption || ''}</div>
+        </div>
       </div>
 
       <div style="background: #F1F5F9; border-top: 1px solid #E2E8F0; padding: 16px; text-align: center; font-size: 12px; color: #64748B;">
@@ -342,7 +350,28 @@ async function runMasterCloudPublishing(options = {}) {
     fbStatus = `Lỗi xử lý Facebook: ${err.message}`;
   }
 
-  // 5. Send Email Report (unless skipEmail is passed)
+  // 5. Generate Ready-to-Post TikTok & YouTube Shorts Pack
+  const textLower = `${fbTopic} ${articleTitle}`.toLowerCase();
+  let shortVideoWebPath = '/media/machines/hj-4color.mp4';
+  if (textLower.includes('lụa') || textLower.includes('lưới')) {
+    shortVideoWebPath = '/media/machines/hj-screen-printer.mp4';
+  } else if (textLower.includes('date') || textLower.includes('cij') || textLower.includes('tij')) {
+    shortVideoWebPath = '/media/blog/muc-bam-dinh-sieu-cuong-k15-khong-can-kho-lua.mp4';
+  } else if (textLower.includes('mỹ phẩm') || textLower.includes('cồn') || textLower.includes('pantone')) {
+    shortVideoWebPath = '/media/blog/muc-khang-con-alcohol-resistant-in-my-pham.mp4';
+  }
+  const shortVideoFile = `vnpis-web/public${shortVideoWebPath}`;
+  const ytShortsTitle = `${fbTopic.slice(0, 68)}`;
+  const tiktokCaption =
+    `🔥 ${fbTopic.toUpperCase()}!\n\n` +
+    `✅ Giải pháp thực tế tại xưởng VNPIS: ${articleTitle}\n` +
+    `👉 Độ bám dính đạt chuẩn test băng keo 3M & kháng cồn 90°\n` +
+    `👉 Hỗ trợ in mẫu (test proofing) miễn phí & chuyển giao tận xưởng!\n\n` +
+    `📞 Hotline / Zalo Kỹ Sư Trưởng: 0987.453.866 (Mr. Tâm)\n` +
+    `🌐 Xem chi tiết thông số: ${articleUrl}\n\n` +
+    `#VNPIS #InTampon #InLua #MayInCongNghiep #PhaMucPantone #MayInDate #GiaCongInAn #Shorts`;
+
+  // 6. Send Email Report (unless skipEmail is passed)
   if (!options.skipEmail) {
     console.log('\n📧 Sending Executive Summary Email...');
     await sendCloudPublishReport({
@@ -355,7 +384,11 @@ async function runMasterCloudPublishing(options = {}) {
       articleUrl,
       fbPageName,
       fbTopic,
-      fbStatus
+      fbStatus,
+      shortVideoFile,
+      shortVideoWebPath,
+      ytShortsTitle,
+      tiktokCaption
     });
   }
 
