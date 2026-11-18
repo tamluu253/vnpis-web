@@ -2,8 +2,9 @@
 canonical: 'https://vnpis.com/blog/dau-in-ricoh-gen-5'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
-title: Ricoh Gen5 Printhead
-description: "Liên hệ Liên hệ Liên hệ Liên hệ \U0001F3E2 Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP Hồ Chí Minh \U0001F4DE Hotline tư vấn thiết bị & báo giá vật tư..."
+title: Đầu In Ricoh Gen5 Chính Hãng - Thông Số Điện Áp, Waveform & Phục Hồi Béc Phun
+category: Đầu In Phun Công Nghiệp
+description: "Bảng thông số kỹ thuật đầu in phun công nghiệp Ricoh Gen5 (MH5420/MH5440): hiệu chuẩn điện áp Waveform, giọt mực 7-35pL và quy trình súc rửa phục hồi béc phun."
 slug: dau-in-ricoh-gen-5
 author: VNPIS Engineering Team
 ---

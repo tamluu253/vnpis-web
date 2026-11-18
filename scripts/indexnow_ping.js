@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-const INDEXNOW_KEY = "vnpis_indexnow_2026_top1_key";
+const INDEXNOW_KEY = "7b8e9a4c2f1d6e3a5b0c8d7f4e2a1b9c";
 
 function pingIndexNow(domain, urlList) {
     const postData = JSON.stringify({

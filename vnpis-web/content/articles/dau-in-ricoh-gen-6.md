@@ -2,8 +2,9 @@
 canonical: 'https://vnpis.com/blog/dau-in-ricoh-gen-6'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
-title: Ricoh Gen6 Printhead
-description: "Liên hệ Liên hệ Liên hệ Liên hệ Liên hệ Liên hệ \U0001F3E2 Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP Hồ Chí Minh \U0001F4DE Hotline tư vấn thiết bị &..."
+title: Đầu In Ricoh Gen6 (MH5320) Chính Hãng - Thông Số Kỹ Thuật & Hướng Dẫn Bảo Dưỡng
+category: Đầu In Phun Công Nghiệp
+description: "Thông số kỹ thuật đầu in phun công nghiệp Ricoh Gen6 (MH5320): hạt mực 5pL, tần số 50kHz cho máy in UV Single Pass và quy trình bảo dưỡng thông tắc béc phun."
 slug: dau-in-ricoh-gen-6
 author: VNPIS Engineering Team
 ---

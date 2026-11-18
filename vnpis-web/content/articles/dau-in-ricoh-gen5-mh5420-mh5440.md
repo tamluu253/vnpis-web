@@ -2,8 +2,9 @@
 canonical: 'https://vnpis.com/blog/dau-in-ricoh-gen5-mh5420-mh5440'
 schema_type: TechnicalArticle
 publisher_mst: 0318266611
-title: Đầu in Ricoh GEN5 (MH5420 / MH5440)
-description: "Liên hệ Liên hệ \U0001F3E2 Trụ sở chính: Tầng 1, 202 Lê Lai, Phường Bến Thành, TP Hồ Chí Minh \U0001F4DE Hotline tư vấn thiết bị & báo giá vật tư 24/7: Mr Tâm: 0987..."
+title: Đầu In Ricoh GEN5 (MH5420 / MH5440) Chính Hãng - Báo Giá & Thông Số Kỹ Thuật
+category: Đầu In Phun Công Nghiệp
+description: "Cung cấp đầu in Ricoh GEN5 (MH5420 / MH5440) chính hãng cho máy in UV phẳng, in cuộn và Single Pass. Hỗ trợ lắp đặt, cân chỉnh Waveform và cứu hộ đầu in 24/7."
 slug: dau-in-ricoh-gen5-mh5420-mh5440
 author: VNPIS Engineering Team
 ---
