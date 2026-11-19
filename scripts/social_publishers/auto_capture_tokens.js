@@ -107,10 +107,45 @@ async function exchangeTikTokCode(codeOrToken, redirectUri = 'https://vnpis.com/
   return false;
 }
 
+async function deleteWrongChannelVideos(authCode, redirectUri = 'https://developers.google.com/oauthplayground') {
+  console.log('[YOUTUBE] Exchanging code for delete permission token...');
+  const params = new URLSearchParams({
+    code: authCode.trim(),
+    client_id: YT_CLIENT_ID,
+    client_secret: YT_CLIENT_SECRET,
+    redirect_uri: redirectUri,
+    grant_type: 'authorization_code'
+  });
+  const res = await fetch('https://oauth2.googleapis.com/token', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: params
+  });
+  const data = await res.json();
+  if (!data || !data.access_token) {
+    console.error('❌ Could not get access_token:', data);
+    return;
+  }
+  const ids = ['CZM4pPkOlT4', 'kAd1dpjWitY', 'LhnLB35vn-0', 'zO3KwH5Mpjw', 'oyzbw2I6QZc'];
+  for (const id of ids) {
+    const del = await fetch(`https://www.googleapis.com/youtube/v3/videos?id=${id}`, {
+      method: 'DELETE',
+      headers: { Authorization: `Bearer ${data.access_token}` }
+    });
+    console.log(`🗑️ DELETE ${id} -> Status: ${del.status} (${del.status === 204 ? 'DELETED SUCCESSFULLY' : await del.text()})`);
+  }
+}
+
 async function main() {
   const args = process.argv.slice(2);
   const ytArg = args.find((a) => a.startsWith('--yt='))?.slice(5);
   const ttArg = args.find((a) => a.startsWith('--tt='))?.slice(5);
+  const delYtArg = args.find((a) => a.startsWith('--delete-wrong-yt='))?.slice(18);
+
+  if (delYtArg) {
+    await deleteWrongChannelVideos(delYtArg);
+    return;
+  }
 
   if (ytArg) {
     await exchangeYouTubeCode(ytArg);
