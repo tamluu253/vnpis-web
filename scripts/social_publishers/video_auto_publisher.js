@@ -32,7 +32,7 @@ function updateEnvVar(key, value) {
   fs.writeFileSync(ENV_PATH, content, 'utf8');
 }
 
-// Defaults (can be overridden by process.env or .env)
+// Defaults (loaded from process.env or local .env)
 const VIDEO_CREDENTIALS = {
   youtube: {
     clientId: process.env.YOUTUBE_CLIENT_ID || '',
@@ -133,12 +133,15 @@ async function uploadToYouTubeShorts(videoFilePath, title, description) {
 
   console.log(`[YOUTUBE SHORTS] Uploading ${path.basename(absPath)}...`);
   const videoBuffer = fs.readFileSync(absPath);
-  const cleanTitle = (title.includes('#Shorts') ? title : `${title} #Shorts #VNPIS`).slice(0, 100);
+  const cleanTitle = (title.includes('#Shorts') ? title : `${title} #Shorts #VNPIS`)
+    .replace(/[<>]/g, '')
+    .slice(0, 100);
+  const cleanDescription = (description || '').replace(/</g, '≤').replace(/>/g, '≥');
 
   const metadata = {
     snippet: {
       title: cleanTitle,
-      description,
+      description: cleanDescription,
       tags: ['VNPIS', 'InTampon', 'InLua', 'MayInCongNghiep', 'PhaMucPantone', 'MayInDate', 'Shorts'],
       categoryId: '28'
     },
@@ -390,7 +393,7 @@ function seedWeek14And15VideoQueue() {
   const packs = [
     {
       slotKey: 'week_14_01',
-      videoFile: 'vnpis-web/public/media/blog/muc-bam-dinh-sieu-cuong-k15-khong-can-kho-lua.mp4',
+      videoFile: 'vnpis-web/public/media/blog/muc-bam-dinh-sieu-cuong-k15-khong-halogen.mp4',
       ytTitle: 'Test Độ Bám Dính Siêu Cường Khi In Lên Nhựa Kỹ Thuật ABS, PP, PE Tại Xưởng VNPIS! #Shorts #VNPIS',
       articleUrl: 'https://vnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs',
       caption: `💪 TEST THỰC TẾ ĐỘ BÁM DÍNH MỰC IN CÔNG NGHIỆP VNPIS TRÊN LINH KIỆN NHỰA KỸ THUẬT!\n\n✅ Vượt qua 100% bài test băng keo 3M Cross-hatch (ASTM D3359), test cào vật lý và ngâm cồn 90°.\n✅ Gia công đồ gá (Jig) CNC chuẩn xác từng milimet, nhận in gia công số lượng lớn.\n\n📞 Hotline / Zalo gửi mẫu test miễn phí: 0987.453.866 (Mr. Tâm)\n🌐 Xem quy trình kỹ thuật: https://vnpis.com/blog/gia-cong-in-tampon-linh-kien-nhua-abs\n\n#VNPIS #GiaCongInTampon #InTrenNhuaABS #InTrenNhuaPP #MucInBamDinhCao #Shorts`
@@ -411,7 +414,7 @@ function seedWeek14And15VideoQueue() {
     },
     {
       slotKey: 'week_15_01',
-      videoFile: 'vnpis-web/public/media/blog/muc-khang-con-alcohol-resistant-in-my-pham.mp4',
+      videoFile: 'vnpis-web/public/media/blog/muc-khang-con-alcohol-resistant-ink.mp4',
       ytTitle: 'Pha Màu Mực In Lụa & Tampon Chuẩn Pantone Chỉ Từ 100g Bằng Máy Quang Phổ! #Shorts #VNPIS',
       articleUrl: 'https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g',
       caption: `🛑 ĐƠN HÀNG ÍT MÀ PHẢI MUA CẢ HỘP 1KG MỰC? VNPIS NHẬN PHA MÀU MỰC IN CHUẨN PANTONE CHỈ TỪ 100G!\n\n✅ Đo màu bằng máy quang phổ 3NH ST-700D Plus, độ lệch màu ΔE < 0.5.\n✅ Đầy đủ hệ mực: Mực in Tampon (1K, 2K) & Mực in Lụa.\n✅ Lưu công thức số hóa vĩnh viễn!\n\n📞 Hotline / Zalo đặt pha màu lấy liền: 0987.453.866 (Mr. Tâm)\n🌐 Chi tiết dịch vụ: https://vnpis.com/blog/dich-vu-pha-mau-muc-in-theo-yeu-cau-chuan-pantone-tu-100g\n\n#VNPIS #PhaMauMucIn #MucInPantone #3NHST700DPlus #MucInTampon #Shorts`

@@ -359,9 +359,9 @@ async function runMasterCloudPublishing(options = {}) {
   if (textLower.includes('lụa') || textLower.includes('lưới')) {
     shortVideoWebPath = '/media/machines/hj-screen-printer.mp4';
   } else if (textLower.includes('date') || textLower.includes('cij') || textLower.includes('tij')) {
-    shortVideoWebPath = '/media/blog/muc-bam-dinh-sieu-cuong-k15-khong-can-kho-lua.mp4';
+    shortVideoWebPath = '/media/blog/muc-bam-dinh-sieu-cuong-k15-khong-halogen.mp4';
   } else if (textLower.includes('mỹ phẩm') || textLower.includes('cồn') || textLower.includes('pantone')) {
-    shortVideoWebPath = '/media/blog/muc-khang-con-alcohol-resistant-in-my-pham.mp4';
+    shortVideoWebPath = '/media/blog/muc-khang-con-alcohol-resistant-ink.mp4';
   }
   const shortVideoFile = `vnpis-web/public${shortVideoWebPath}`;
   const ytShortsTitle = `${fbTopic.slice(0, 68)}`;
